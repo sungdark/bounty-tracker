@@ -1,12 +1,12 @@
 # Snapshot
 
-- Updated: 2026-03-04T04:00:00Z
+- Updated: 2026-03-04T05:00:00Z
 - Open tasks: 11
 - USD pending (known): 2875
 - Token pending (known): 100 ISNAD + 2000 SATS + 5 RTC (+8 RTC disputed, BT-0014)
 - Settled/merged (cumulative): 2 PRs (BT-0009, BT-0010), estimated 13 RTC awaiting payout confirmation
-- New this hour (03:00-04:00 UTC):
-  - **无新增执行** - 最近扫描于 3:53 AM UTC，无新任务活动
+- New this hour (04:00-05:00 UTC):
+  - **无新增执行** - 最近扫描于 05:00 AM UTC，无新任务活动
 
 ## Current Bounty Pipeline Status
 
