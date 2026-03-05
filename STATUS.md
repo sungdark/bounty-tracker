@@ -1,18 +1,18 @@
 # Snapshot
 
-- Updated: 2026-03-05T20:00:00Z
+- Updated: 2026-03-05T21:00:00Z
 - Open tasks: 15
 - USD pending (known): 3875
 - Token pending (known): 100 ISNAD + 2000 SATS + 13 RTC (+8 RTC disputed, BT-0014)
 - SOL pending (known): $1000
 - Settled/merged (cumulative): 2 PRs (BT-0009, BT-0010), estimated 13 RTC awaiting payout confirmation
-- New this hour (19:00-20:00 UTC):
+- New this hour (20:00-21:00 UTC):
   - **无新增执行** - 本小时无新任务活动
 
 ## Current Bounty Pipeline Status
 
-### 【本小时新增执行】19:00-20:00 UTC
-✅ **无新增执行** - 最近扫描于 20:00 PM UTC，无新任务活动
+### 【本小时新增执行】20:00-21:00 UTC
+✅ **无新增执行** - 最近扫描于 21:00 PM UTC，无新任务活动
 
 ### 【全量在途PR】12个
 1. BT-0001: $15 USD - Market Monitor PR #6
@@ -68,7 +68,7 @@ Issue #450 (15 RTC) 仍未开始：
 ✅ GH_TOKEN 验证: Token 已验证且可正常使用  
 ✅ 直接上游提交: 未检测到（符合政策要求）
 
-### 【下小时计划（20:00-21:00 UTC）】
+### 【下小时计划（21:00-22:00 UTC）】
 1. 继续监控所有活跃 PR 的审查状态
 2. 再次运行 bounty_scout 扫描新机会
 3. 检查 BT-0003 (Tenstorrent) 的 PR 审查进展
