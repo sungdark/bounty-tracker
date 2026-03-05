@@ -1,18 +1,22 @@
 # Snapshot
 
-- Updated: 2026-03-05T10:00:00Z
-- Open tasks: 13
+- Updated: 2026-03-05T11:00:00Z
+- Open tasks: 14
 - USD pending (known): 2875
 - Token pending (known): 100 ISNAD + 2000 SATS + 13 RTC (+8 RTC disputed, BT-0014)
 - SOL pending (known): $1000
 - Settled/merged (cumulative): 2 PRs (BT-0009, BT-0010), estimated 13 RTC awaiting payout confirmation
-- New this hour (09:00-10:00 UTC):
-  - **无新增执行** - 仓库状态稳定
+- New this hour (10:00-11:00 UTC):
+  - **新增评论提交**: BT-0015 (desloppify #204 - $1000 SOL)
 
 ## Current Bounty Pipeline Status
 
-### 【本小时新增执行】09:00-10:00 UTC
-**无新增执行** - 最近扫描于 10:00 AM UTC，无新任务活动
+### 【本小时新增执行】10:00-11:00 UTC
+- **BT-0015**: desloppify #204 ($1000 SOL)
+  - 类型: Comment Submitted
+  - 内容: 英文详细分析评论，包含3个严重问题
+  - 链接: https://github.com/peteromallet/desloppify/issues/204#issuecomment-4003977205
+  - 状态: 已提交，待审核
 
 ### 【全量在途PR】11个
 1. BT-0001: $15 USD - Market Monitor PR #6
@@ -34,22 +38,33 @@
 - **Settled This Period**: 2 PRs merged (BT-0009, BT-0010)
 
 ### 【新命中机会与是否开工】
-**无新机会** - 扫描未发现新的赏金任务
+#### 新发现的赏金机会 (共4个)
+1. **fengking-li/group-buying-data-monitor #1**: 🔥 悬赏¥3000：开发团购+外卖实时自动数据监测系统
+   - 状态: 未开工
+   - 链接: https://github.com/fengking-li/group-buying-data-monitor/issues/1
 
-Issue #450 (15 RTC) 仍为开放状态但未开工:
-- URL: https://github.com/Scottcjn/rustchain-bounties/issues/450
-- Status: Available for claim
-- Reward: 15 RTC
-- 开工状态: 未开工
+2. **Chevalier12/InkkSlinger #5**: 终身商业许可证
+   - 任务: 实现 MediaElement 控件
+   - 状态: 未开工
+   - 链接: https://github.com/Chevalier12/InkkSlinger/issues/5
 
-### 其他待执行机会:
-1. fengking-li/group-buying-data-monitor #1 - Undisclosed
-2. peteromallet/desloppify #204 - $1
-3. Chevalier12/InkkSlinger #5 - Lifetime Commercial License
-4. Chevalier12/InkkSlinger #3 - Lifetime Commercial License  
-5. INDIGOAZUL/la-tanda-web #70 - Undisclosed
-6. Scottcjn/rustchain-bounties #562 - 000 RTC
-7. Scottcjn/rustchain-bounties #561 - $2
+3. **Chevalier12/InkkSlinger #3**: 终身商业许可证
+   - 任务: 实现 InkCanvas 和 InkPresenter 控件
+   - 状态: 未开工
+   - 链接: https://github.com/Chevalier12/InkkSlinger/issues/3
+
+4. **INDIGOAZUL/la-tanda-web #70**: 未公开金额
+   - 任务: 修复关键的认证循环错误
+   - 状态: 未开工
+   - 链接: https://github.com/INDIGOAZUL/la-tanda-web/issues/70
+
+#### 待开工任务
+- **Scottcjn/rustchain-bounties #450**: 15 RTC
+  - 状态: 待开工
+  - 链接: https://github.com/Scottcjn/rustchain-bounties/issues/450
+
+#### 已开工任务
+- **peteromallet/desloppify #204**: $1000 SOL (BT-0015) - 已提交详细分析评论
 
 ### 【阻塞与修复动作】
 ✅ 无阻塞问题  
@@ -60,12 +75,12 @@ Issue #450 (15 RTC) 仍为开放状态但未开工:
 
 ### 【下小时计划】
 1. 继续监控现有11个在途PR
-2. 关注Issue #450 (15 RTC) - 待开工任务
-3. 下轮扫描：11:00 AM UTC
+2. 分析 BT-0015 的评论响应和潜在奖励
+3. 下轮扫描：12:00 PM UTC
 4. 继续监控高价值任务（如 BT-0003: $2500 USD）的 PR 审核进展
 5. 检查已合并任务的结算状态
-6. 考虑启动 Issue #450 的执行
-7. 评估新发现的赏金机会的可行性
+6. 考虑启动 Scottcjn/rustchain-bounties #450 (15 RTC) 的执行
+7. 评估新发现的4个赏金机会的可行性
 8. 定期检查 GitHub API 状态以确保扫描工具正常运行
 
 > 注：金额按已知明确信息统计；同一赏金的备选/重复提交存在争议时单独标注；未知金额不计入。
