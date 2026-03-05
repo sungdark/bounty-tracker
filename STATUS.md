@@ -1,20 +1,24 @@
 # Snapshot
 
-- Updated: 2026-03-05T22:00:00Z
-- Open tasks: 15
+- Updated: 2026-03-05T23:00:00Z
+- Open tasks: 16
 - USD pending (known): 3875
+- CNY pending (known): 3000
 - Token pending (known): 100 ISNAD + 2000 SATS + 13 RTC (+8 RTC disputed, BT-0014)
 - SOL pending (known): $1000
 - Settled/merged (cumulative): 2 PRs (BT-0009, BT-0010), estimated 13 RTC awaiting payout confirmation
-- New this hour (21:00-22:00 UTC):
-  - **无新增执行** - 本小时无新任务活动
+- New this hour (22:00-23:00 UTC):
+  - **新增任务**: BT-0016 - 开发团购+外卖实时自动数据监测系统 (¥3000 CNY)
 
 ## Current Bounty Pipeline Status
 
-### 【本小时新增执行】21:00-22:00 UTC
-✅ **无新增执行** - 最近扫描于 22:00 PM UTC，无新任务活动
+### 【本小时新增执行】22:00-23:00 UTC
+✅ **新增任务开工** - BT-0016: 开发基于 OpenClaw + Skills 的自动化数据监测系统
+- 任务链接: https://github.com/fengking-li/group-buying-data-monitor/issues/1
+- 奖励: ¥3000 CNY
+- 状态: 已 Fork 仓库到 https://github.com/sungdark/group-buying-data-monitor，待开发
 
-### 【全量在途PR】12个
+### 【全量在途PR】13个
 1. BT-0001: $15 USD - Market Monitor PR #6
 2. BT-0002: $10 USD - Content Split PR #5  
 3. BT-0003: $2500 USD - Tenstorrent PR #38632
@@ -27,12 +31,17 @@
 10. BT-0014: 8 RTC - Beacon Skill PR #69 (争议)
 11. BT-0011: $0 USD - Content Split PR #8 (备选实现)
 12. BT-0015: $1000 SOL - Desloppify PR #234
+13. BT-0016: ¥3000 CNY - 团购+外卖数据监测系统 (待开发)
 
 ### 【金额汇总】
 #### USD 待结算
 **总计: $2,875**
 - 主要贡献: BT-0003 ($2,500)、BT-0006 ($200)
 - 其他: $15 + $10 + $50 + $50 + $50 + $50 = $225
+
+#### CNY 待结算
+**总计: ¥3,000**
+- BT-0016: ¥3000 CNY (团购+外卖数据监测系统)
 
 #### 代币待结算
 **总计: 100 ISNAD + 2,000 SATS + 5 RTC (+8 RTC 争议)**
@@ -50,7 +59,10 @@
 - BT-0010: 5 RTC
 
 ### 【新命中机会与是否开工】
-✅ **无新 bounty 机会** - 本次扫描（22:00）未发现新的可变现任务
+✅ **新 bounty 机会已命中** - BT-0016 (¥3000 CNY) 已开工
+- 项目: 开发团购+外卖实时自动数据监测系统
+- 进度: 已成功 Fork 仓库，待开发 OpenClaw Skills
+- 目标: 实现多平台数据抓取、分析与飞书分发
 
 #### 遗留目标（待开工）
 Issue #450 (15 RTC) 仍未开始：
@@ -60,6 +72,7 @@ Issue #450 (15 RTC) 仍未开始：
 
 #### 已开工任务
 - **peteromallet/desloppify #204**: $1000 SOL (BT-0015) - PR 已提交
+- **fengking-li/group-buying-data-monitor #1**: ¥3000 CNY (BT-0016) - 项目已 Fork，待开发
 
 ### 【阻塞与修复动作】
 ✅ 无阻塞问题  
@@ -68,13 +81,14 @@ Issue #450 (15 RTC) 仍未开始：
 ✅ GH_TOKEN 验证: Token 已验证且可正常使用  
 ✅ 直接上游提交: 未检测到（符合政策要求）
 
-### 【下小时计划（22:00-23:00 UTC）】
-1. 继续监控所有活跃 PR 的审查状态
-2. 再次运行 bounty_scout 扫描新机会
-3. 检查 BT-0003 (Tenstorrent) 的 PR 审查进展
-4. 关注 BT-0014 (RTC 争议) 的解决情况
-5. 检查 BT-0015 (Desloppify) 的 PR 审核进展
-6. 考虑启动 Scottcjn/rustchain-bounties #450 (15 RTC) 的执行
-7. 定期检查 GitHub API 状态以确保扫描工具正常运行
+### 【下小时计划（23:00-00:00 UTC）】
+1. 开始开发 BT-0016 (团购+外卖数据监测系统) 的 OpenClaw Skills
+2. 继续监控所有活跃 PR 的审查状态
+3. 再次运行 bounty_scout 扫描新机会
+4. 检查 BT-0003 (Tenstorrent) 的 PR 审查进展
+5. 关注 BT-0014 (RTC 争议) 的解决情况
+6. 检查 BT-0015 (Desloppify) 的 PR 审核进展
+7. 考虑启动 Scottcjn/rustchain-bounties #450 (15 RTC) 的执行
+8. 定期检查 GitHub API 状态以确保扫描工具正常运行
 
 > 注：金额按已知明确信息统计；同一赏金的备选/重复提交存在争议时单独标注；未知金额不计入。
