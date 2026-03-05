@@ -1,20 +1,20 @@
 # Snapshot
 
-- Updated: 2026-03-05T06:00:00Z
+- Updated: 2026-03-05T07:00:00Z
 - Open tasks: 13
 - USD pending (known): 2875
 - Token pending (known): 100 ISNAD + 2000 SATS + 13 RTC (+8 RTC disputed, BT-0014)
 - SOL pending (known): $1000
 - Settled/merged (cumulative): 2 PRs (BT-0009, BT-0010), estimated 13 RTC awaiting payout confirmation
-- New this hour (05:00-06:00 UTC):
-  - **新增执行**: BT-0013 补充了评论 (05:12) - Scottcjn/rustchain-bounties #433
+- New this hour (06:00-07:00 UTC):
+  - **无新增执行** - 仓库状态稳定
 
 ## Current Bounty Pipeline Status
 
-### 【本小时新增执行】05:00-06:00 UTC
-- **BT-0013**: 5 RTC - Scottcjn/rustchain-bounties #433 - 05:12 补充评论 https://github.com/Scottcjn/rustchain-bounties/issues/433#issuecomment-3970835654
+### 【本小时新增执行】06:00-07:00 UTC
+**无新增执行** - 最近扫描于 06:02 AM UTC，无新任务活动
 
-### 【全量在途PR】12个
+### 【全量在途PR】11个
 1. BT-0001: $15 USD - Market Monitor PR #6
 2. BT-0002: $10 USD - Content Split PR #5  
 3. BT-0003: $2500 USD - Tenstorrent PR #38632
@@ -26,15 +26,16 @@
 9. BT-0012: $50 USD - Marketplace Template PR #142
 10. BT-0014: 8 RTC - Beacon Skill PR #69 (disputed)
 11. BT-0011: $0 USD - Content Split PR #8 (alternative, not counted)
-12. BT-0015: $1000 SOL - desloppify PR (待提交)
 
 ### 【金额汇总】
 - **USD Pending**: $2,875
-- **Token Pending**: 100 ISNAD + 2,000 SATS + 13 RTC (+8 RTC disputed)
+- **Token Pending**: 100 ISNAD + 2,000 SATS + 5 RTC (+8 RTC disputed)
 - **SOL Pending**: $1,000
 - **Settled This Period**: 2 PRs merged (BT-0009, BT-0010)
 
 ### 【新命中机会与是否开工】
+**无新机会** - 扫描未发现新的赏金任务
+
 Issue #450 (15 RTC) 仍为开放状态但未开工:
 - URL: https://github.com/Scottcjn/rustchain-bounties/issues/450
 - Status: Available for claim
@@ -42,11 +43,13 @@ Issue #450 (15 RTC) 仍为开放状态但未开工:
 - 开工状态: 未开工
 
 ### 其他待执行机会:
-1. Chevalier12/InkkSlinger #5 - Lifetime Commercial License
-2. Chevalier12/InkkSlinger #3 - Lifetime Commercial License  
-3. INDIGOAZUL/la-tanda-web #70 - Undisclosed
-4. Scottcjn/rustchain-bounties #562 - 000 RTC
-5. Scottcjn/rustchain-bounties #561 - $2
+1. fengking-li/group-buying-data-monitor #1 - Undisclosed
+2. peteromallet/desloppify #204 - $1
+3. Chevalier12/InkkSlinger #5 - Lifetime Commercial License
+4. Chevalier12/InkkSlinger #3 - Lifetime Commercial License  
+5. INDIGOAZUL/la-tanda-web #70 - Undisclosed
+6. Scottcjn/rustchain-bounties #562 - 000 RTC
+7. Scottcjn/rustchain-bounties #561 - $2
 
 ### 【阻塞与修复动作】
 ✅ 无阻塞问题  
@@ -56,12 +59,13 @@ Issue #450 (15 RTC) 仍为开放状态但未开工:
 ✅ 直接上游提交: 未检测到（符合政策要求）
 
 ### 【下小时计划】
-1. 继续监控现有在途任务状态变更
-2. 重点关注 BT-0015: $1,000 (SOL) - desloppify #204 的审核结果
-3. 关注高价值任务（如 BT-0003: $2500 USD）的 PR 审核进展
-4. 检查已合并任务的结算状态
-5. 考虑启动 Issue #450 的执行
-6. 评估新发现的赏金机会的可行性
-7. 定期检查 GitHub API 状态以确保扫描工具正常运行
+1. 继续监控现有11个在途PR
+2. 关注Issue #450 (15 RTC) - 待开工任务
+3. 下轮扫描：08:00 AM UTC
+4. 继续监控高价值任务（如 BT-0003: $2500 USD）的 PR 审核进展
+5. 检查已合并任务的结算状态
+6. 考虑启动 Issue #450 的执行
+7. 评估新发现的赏金机会的可行性
+8. 定期检查 GitHub API 状态以确保扫描工具正常运行
 
 > 注：金额按已知明确信息统计；同一赏金的备选/重复提交存在争议时单独标注；未知金额不计入。
