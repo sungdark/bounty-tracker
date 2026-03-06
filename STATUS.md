@@ -1,6 +1,6 @@
 # Snapshot
 
-- Updated: 2026-03-06T07:00:00Z
+- Updated: 2026-03-06T08:00:00Z
 - Open tasks: 16
 - USD pending (known): 2875
 - CNY pending (known): 3000
@@ -10,12 +10,12 @@
 
 ## Current Bounty Pipeline Status
 
-### 【本小时新增执行】06:00-07:00 UTC
+### 【本小时新增执行】07:00-08:00 UTC
 ✅ **无新增执行** - 本小时无新的claim/comment/commit/PR
 ✅ **任务状态稳定** - 所有在途任务保持现有状态
-✅ **PR状态检查完成** - 主要项目的PR状态均稳定
+✅ **PR状态检查完成** - 所有主要PR均稳定
 
-### 【全量在途PR】13个
+### 【全量在途PR】11个
 1. BT-0001: $15 USD - Market Monitor PR #6
 2. BT-0002: $10 USD - Content Split PR #5  
 3. BT-0003: $2500 USD - Tenstorrent PR #38632
@@ -27,8 +27,6 @@
 9. BT-0012: $50 USD - Marketplace Template PR #142
 10. BT-0014: 8 RTC - Beacon Skill PR #69 (争议)
 11. BT-0011: $0 USD - Content Split PR #8 (备选实现)
-12. BT-0015: $1000 SOL - Desloppify PR #234
-13. BT-0016: ¥3000 CNY - 团购+外卖数据监测系统 (待开发)
 
 ### 【金额汇总】
 #### USD 待结算
@@ -56,39 +54,43 @@
 - BT-0010: 5 RTC
 
 ### 【新命中机会与是否开工】
-✅ **新命中机会** - 本小时扫描到 3 个新 bounty 机会：
-- Issue #686: "Block Explorer GUI Upgrade — Real-Time Dashboard" (50-150 RTC) - 未开工
-- Issue #685: "RIP-302 Agent Economy: Live Demo + Build Bounties" (25-150 RTC) - 未开工  
-- Issue #684: "🧪 Agent-to-Agent Transaction Test Challenge" ($0.10) - 未开工
+✅ **新命中机会** - 本小时扫描到 10 个新 bounty 机会：
+- INDIGOAZUL/la-tanda-web #90: 100 LTD Bounty - 未开工
+- INDIGOAZUL/la-tanda-web #89: 200 LTD Bounty - 未开工  
+- INDIGOAZUL/la-tanda-web #88: 300 LTD Bounty - 未开工
+- INDIGOAZUL/la-tanda-web #87: 250 LTD Bounty - 未开工
+- INDIGOAZUL/la-tanda-web #86: 150 LTD Bounty - 未开工
+- INDIGOAZUL/la-tanda-web #85: 200 LTD Bounty - 未开工
+- INDIGOAZUL/la-tanda-web #84: 200 LTD Bounty - 未开工
+- Scottcjn/rustchain-bounties #686: 50-150 RTC - 未开工
+- Scottcjn/rustchain-bounties #685: 75 RTC - 未开工
+- Scottcjn/rustchain-bounties #684: $0.10 - 未开工
 
-✅ **已开工任务保持** - BT-0016 (¥3000 CNY) 项目已 Fork，待开发
+### 已开工任务保持
+- **peteromallet/desloppify #204**: $1000 SOL (BT-0015) - PR 已提交
+- **fengking-li/group-buying-data-monitor #1**: ¥3000 CNY (BT-0016) - 项目已 Fork，待开发
 
-#### 遗留目标（待开工）
+### 遗留目标（待开工）
 Issue #450 (15 RTC) 仍未开始：
 - URL: https://github.com/Scottcjn/rustchain-bounties/issues/450
 - 状态: 可立即认领
 - 奖励: 15 RTC
 
-#### 已开工任务
-- **peteromallet/desloppify #204**: $1000 SOL (BT-0015) - PR 已提交
-- **fengking-li/group-buying-data-monitor #1**: ¥3000 CNY (BT-0016) - 项目已 Fork，待开发
-
-### 【阻塞与修复动作】
-⚠️ **GitHub认证问题** - 标准bounty_scout脚本因认证失败无法搜索新任务
+### 阻塞与修复动作
+✅ **无阻塞问题** - 所有PR状态正常，权限检查通过
 ✅ **PR状态检查完成: 所有主要PR均稳定**
 - Desloppify PR #234: 状态稳定，等待审核
 - Tenstorrent PR #38632: 状态稳定，等待审核  
 - Beacon Skill PR #69: 状态稳定，等待审核
 
-### 【下小时计划（07:00-08:00 UTC）】
-1. 修复 GitHub 认证问题，恢复标准扫描脚本的执行
-2. 继续开发 BT-0016 (团购+外卖数据监测系统) 的 OpenClaw Skills
-3. 监控所有活跃 PR 的审查状态
-4. 评估是否启动新发现的 3 个 Rustchain 赏金任务
-5. 检查 BT-0003 (Tenstorrent) 的 PR 审查进展
-6. 关注 BT-0014 (RTC 争议) 的解决情况
-7. 检查 BT-0015 (Desloppify) 的 PR 审核进展
-8. 考虑启动 Scottcjn/rustchain-bounties #450 (15 RTC) 的执行
-9. 优化任务扫描脚本的稳定性
+### 【下小时计划（08:00-09:00 UTC）】
+1. 继续监控现有11个在途PR
+2. 关注Issue #450 (15 RTC) - 待开工任务
+3. 下轮扫描：09:00 AM UTC
+4. 继续监控高价值任务（如 BT-0003: $2500 USD）的 PR 审核进展
+5. 检查已合并任务的结算状态
+6. 考虑启动 Issue #450 的执行
+7. 评估新发现的 10 个赏金机会的可行性
+8. 优化任务扫描脚本的稳定性
 
 > 注：金额按已知明确信息统计；同一赏金的备选/重复提交存在争议时单独标注；未知金额不计入。
