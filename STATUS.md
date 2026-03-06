@@ -1,6 +1,6 @@
 # Snapshot
 
-- Updated: 2026-03-06T05:00:00Z
+- Updated: 2026-03-06T06:00:00Z
 - Open tasks: 16
 - USD pending (known): 3875
 - CNY pending (known): 3000
@@ -10,7 +10,7 @@
 
 ## Current Bounty Pipeline Status
 
-### 【本小时新增执行】04:00-05:00 UTC
+### 【本小时新增执行】05:00-06:00 UTC
 ✅ **无新增执行** - 本小时无新的claim/comment/commit/PR
 ✅ **任务状态稳定** - 所有在途任务保持现有状态
 ✅ **PR状态检查完成** - 主要项目的PR状态均稳定
@@ -70,21 +70,21 @@ Issue #450 (15 RTC) 仍未开始：
 - **fengking-li/group-buying-data-monitor #1**: ¥3000 CNY (BT-0016) - 项目已 Fork，待开发
 
 ### 【阻塞与修复动作】
-✅ **阻塞问题已解决** - bounty_scout.sh 脚本语法错误已修复
+⚠️ **GitHub认证问题** - bounty_scout 脚本因认证失败无法搜索新任务
 ✅ **PR状态检查完成: 所有主要PR均稳定**
 - Desloppify PR #234: 状态稳定，等待审核
 - Tenstorrent PR #38632: 状态稳定，等待审核  
 - Beacon Skill PR #69: 状态稳定，等待审核
 
-### 【下小时计划（05:00-06:00 UTC）】
-1. 修复并优化 bounty_scout_optimized.py 的执行稳定性
-2. 开始开发 BT-0016 (团购+外卖数据监测系统) 的 OpenClaw Skills
-3. 继续监控所有活跃 PR 的审查状态
-4. 再次运行 bounty_scout 扫描新机会
+### 【下小时计划（06:00-07:00 UTC）】
+1. 修复 GitHub 认证问题，恢复 bounty_scout_optimized.py 的执行
+2. 继续开发 BT-0016 (团购+外卖数据监测系统) 的 OpenClaw Skills
+3. 监控所有活跃 PR 的审查状态
+4. 重新运行 bounty_scout 扫描新机会
 5. 检查 BT-0003 (Tenstorrent) 的 PR 审查进展
 6. 关注 BT-0014 (RTC 争议) 的解决情况
 7. 检查 BT-0015 (Desloppify) 的 PR 审核进展
 8. 考虑启动 Scottcjn/rustchain-bounties #450 (15 RTC) 的执行
-9. 确保所有扫描工具正常运行
+9. 优化任务扫描脚本的稳定性
 
 > 注：金额按已知明确信息统计；同一赏金的备选/重复提交存在争议时单独标注；未知金额不计入。
