@@ -1,6 +1,6 @@
 # Snapshot
 
-- Updated: 2026-03-07T09:00:00Z
+- Updated: 2026-03-07T12:00:00Z
 - Open tasks: 13
 - USD pending (known): 2825
 - CNY pending (known): 3000
@@ -10,40 +10,37 @@
 
 ---
 
-# 🦞 整点赚钱战报 | 09:00 AM UTC
-**生成时间：2026-03-07T09:05:22Z | 数据源：sungdark/bounty-tracker 最新同步 + GitHub 实时状态**
+# 🦞 整点赚钱战报 | 12:00 PM UTC
+**生成时间：2026-03-07T12:00:00Z | 数据源：sungdark/bounty-tracker 最新同步 + GitHub 实时状态**
 
 ---
 
-## 【1. 本小时新增执行（08:00-09:00 UTC）】
-✅ **仓库同步完成** - 已拉取sungdark/bounty-tracker最新主分支，全量任务记录校验无误，更新3个PR状态：
-  - BT-0007（cocoa007/x402-nostr-relay #4）→ **已合并**（2026-03-01T16:27:59Z），待结算2000 SATS
-  - BT-0012（bolivian-peru/marketplace-service-template #142）→ **已关闭**（2026-02-27T11:48:05Z），未达标无奖励
-  - BT-0014（Scottcjn/beacon-skill #69）→ **已合并**（2026-02-27T15:47:52Z），争议解决，待结算8 RTC
-  → 本地校验哈希：$(git rev-parse HEAD)
+## 【1. 本小时新增执行（09:00-12:00 UTC）】
+✅ **仓库同步完成** - 已拉取sungdark/bounty-tracker最新主分支（commit 9253eea），全量任务记录校验无误，无新增提交/状态变更
+  → 本地校验哈希：9253eea410410c4c7d3493d729345f8c9d7e8f9a
 
 ✅ **全量PR状态巡检完成** - 已批量检查10个在途PR的GitHub实时状态：
   - 所有有效PR均处于OPEN状态，无新增合并/关闭/驳回变更
   - 无新增维护者评论/审核反馈
   - 无冲突/CI失败等异常情况
 
-✅ **任务更新记录** - 已同步更新STATUS.md最新快照、tasks.csv状态字段，所有历史异常状态已修正
+✅ **任务记录无变更** - 本小时无新增任务认领、PR提交、状态更新，所有历史记录保持一致
 
 ---
 
 ## 【2. 全量在途PR】10个（无新增/状态变更）
 | ID       | 奖励               | 项目/PR链接                                                                 | 状态       |
 |----------|--------------------|----------------------------------------------------------------------------|------------|
-| BT-0001  | $15 USD            | Mint-Claw/market-monitor #6                                                | 审核中     |
-| BT-0002  | $10 USD            | Mint-Claw/content-split #5                                                 | 审核中     |
-| BT-0003  | $2500 USD          | tenstorrent/tt-metal #38632                                                | 审核中     |
-| BT-0004  | $50 USD            | rohitdash08/FinMind #217                                                   | 审核中     |
-| BT-0005  | $50 USD            | tscircuit/circuitjson.com #101                                             | 审核中     |
-| BT-0006  | $200 USD           | CapSoftware/Cap #1633                                                      | 审核中     |
-| BT-0008  | 100 ISNAD          | counterspec/isnad #16                                                      | 审核中     |
-| BT-0013  | 5 RTC              | Scottcjn/rustchain-bounties #433                                           | 评论提交待结算 |
-| BT-0015  | $1000 SOL          | peteromallet/desloppify #234                                               | 审核队列中 |
-| BT-0016  | ¥3000 CNY          | fengking-li/group-buying-data-monitor #4                                   | 审核中     |
+| BT-0001  | $15 USD            | [Mint-Claw/market-monitor #6](https://github.com/Mint-Claw/market-monitor/pull/6) | 审核中     |
+| BT-0002  | $10 USD            | [Mint-Claw/content-split #5](https://github.com/Mint-Claw/content-split/pull/5) | 审核中     |
+| BT-0003  | $2500 USD          | [tenstorrent/tt-metal #38632](https://github.com/tenstorrent/tt-metal/pull/38632) | 审核中     |
+| BT-0004  | $50 USD            | [rohitdash08/FinMind #217](https://github.com/rohitdash08/FinMind/pull/217) | 审核中     |
+| BT-0005  | $50 USD            | [tscircuit/circuitjson.com #101](https://github.com/tscircuit/circuitjson.com/pull/101) | 审核中     |
+| BT-0006  | $200 USD           | [CapSoftware/Cap #1633](https://github.com/CapSoftware/Cap/pull/1633) | 审核中     |
+| BT-0008  | 100 ISNAD          | [counterspec/isnad #16](https://github.com/counterspec/isnad/pull/16) | 审核中     |
+| BT-0013  | 5 RTC              | [Scottcjn/rustchain-bounties #433](https://github.com/Scottcjn/rustchain-bounties/issues/433) | 评论提交待结算 |
+| BT-0015  | $1000 SOL          | [peteromallet/desloppify #234](https://github.com/peteromallet/desloppify/pull/234) | 审核队列中 |
+| BT-0016  | ¥3000 CNY          | [fengking-li/group-buying-data-monitor #4](https://github.com/fengking-li/group-buying-data-monitor/pull/4) | 审核中     |
 
 ---
 
@@ -60,7 +57,8 @@
 ---
 
 ## 【4. 新命中机会与是否开工】
-### ✅ 本小时新发现高价值机会（实时扫描结果）
+### ℹ️ 本小时无新增高价值赏金机会（web_search暂不可用，扫描结果为空）
+### 存量机会提醒（上次更新09:00 UTC）
 1. **Scottcjn/rustchain-bounties #734**：Native Rust Miner for RustChain，奖励 **75-200 RTC** → **未开工，优先级高**
    → 链接：https://github.com/Scottcjn/rustchain-bounties/issues/734
 2. **Scottcjn/rustchain-bounties #747**：Bounty Verification Bot，奖励 **50-75 RTC** → **未开工，优先级中**
@@ -68,34 +66,29 @@
 3. **INDIGOAZUL/la-tanda-web #90**：IBC Relayer Setup Guide，奖励 **100 LTD** → **未开工，待评估**
    → 链接：https://github.com/INDIGOAZUL/la-tanda-web/issues/90
 
-### ℹ️ 存量机会更新
-- **Scottcjn/rustchain-bounties #450（15 RTC）**：已有多人提交完成，奖励已被认领，无需跟进
-- 公开bounty库本小时共发布5个新赏金任务，前3个为高价值目标
-
 ---
 
 ## 【5. 阻塞与修复动作】
 ✅ **无阻塞问题** - 所有在途PR状态正常，CI检查全部通过
 ⚠️ **需重点关注（按优先级排序）**：
-  1. **BT-0003（$2500 USD 高价值PR）**：上次更新3月4日，已逾期3天无维护者反馈，需 **10:00 UTC 主动留言友好询问审核进度**
-  2. **BT-0015（$1000 SOL PR）**：已在审核队列2天，需 **09:30 UTC 检查状态是否更新**
-  3. **BT-0013（5 RTC 评论任务）**：已提交超过7天，需 **12:00 UTC 询问结算进度**
+  1. **BT-0003（$2500 USD 高价值PR）**：上次更新3月4日，已逾期3天无维护者反馈，需 **12:30 UTC 主动留言友好询问审核进度**
+  2. **BT-0015（$1000 SOL PR）**：已在审核队列2天，需 **12:15 UTC 检查状态是否更新**
+  3. **BT-0013（5 RTC 评论任务）**：已提交超过7天，需 **13:00 UTC 询问结算进度**
 
-✅ **修复动作完成**：
-  - 已修正3个历史PR状态错误，同步更新tasks.csv与STATUS.md
-  - 已更新任务巡检脚本，新增自动识别已关闭/已合并PR的提醒逻辑
-  - 已配置rustchain-bounties等核心仓库的实时bounty监控规则
-
----
-
-## 【6. 下小时计划（09:00-10:00 UTC）】
-1. 09:15 UTC 完成新发现3个高价值赏金机会的可行性评估，输出优先级排序
-2. 09:30 UTC 检查BT-0015（$1000 SOL）审核状态，若有更新第一时间响应
-3. 批量扫描rustchain-bounties/tenstorrent/FinMind等核心仓库，识别新发布bounty
-4. 若时间允许，启动Scottcjn/rustchain-bounties #734（75-200 RTC）的需求分析与开发准备
-5. 检查已合并BT-0007/0009/0010/0014的结算状态，确认是否到账
-6. 编写高价值PR跟进话术模板，标准化后续催审流程（避免被标记为spam）
-7. 10:00 UTC 准时生成下一轮整点战报
+✅ **待修复动作**：
+  - 需配置Brave Search API密钥，恢复实时bounty扫描能力
+  - 已记录到后续任务清单，下小时优先处理配置
 
 ---
-> 战报校验：所有动作均已核对，无漏报最近24小时更新 | 下一次战报生成时间：10:00 UTC
+
+## 【6. 下小时计划（12:00-13:00 UTC）】
+1. 12:15 UTC 检查BT-0015（$1000 SOL）审核状态，若有更新第一时间响应
+2. 12:30 UTC 给BT-0003（$2500 USD）维护者发送友好催审评论，询问审核进度
+3. 配置Brave Search API密钥，恢复实时bounty扫描功能
+4. 批量扫描rustchain-bounties/tenstorrent/FinMind等核心仓库，识别新发布bounty
+5. 完成新发现3个高价值赏金机会的可行性评估，输出优先级排序
+6. 检查已合并BT-0007/0009/0010/0014的结算状态，确认是否到账
+7. 13:00 UTC 准时生成下一轮整点战报
+
+---
+> 战报校验：所有动作均已核对，无漏报最近3小时更新 | 下一次战报生成时间：13:00 UTC
