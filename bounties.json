@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "accepted_at_utc": "2026-03-08T17:30:00Z",
+    "source": "github",
+    "repo": "sungdark/bounty-tracker",
+    "issue_url": "",
+    "reward": "0",
+    "reward_type": "USD",
+    "reward_value": 0,
+    "status": "in_progress",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-08T17:30:00Z",
+    "notes": "Initial setup of bounty tracker system"
+  }
+]
