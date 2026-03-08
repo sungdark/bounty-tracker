@@ -39,3 +39,10 @@ BT-0037,2026-03-08T21:30:00Z,github,turbo-eth/template-web3-app,https://github.c
 BT-0038,2026-03-08T21:30:00Z,github,pezzolabs/pezzo,https://github.com/pezzolabs/pezzo/issues/244,Unknown,Unknown,,open,,,2026-03-08T21:30:00Z,Support for OpenAI Function definition in the Prompt Editor
 BT-0039,2026-03-08T21:30:00Z,github,turbo-eth/template-web3-app,https://github.com/turbo-eth/template-web3-app/issues/53,175 OP,OP,175,open,,,2026-03-08T21:30:00Z,Livepeer + Disco (Video Gating using Verifiable Credentials)
 BT-0040,2026-03-08T21:30:00Z,github,turbo-eth/template-web3-app,https://github.com/turbo-eth/template-web3-app/issues/54,175 OP,OP,175,open,,,2026-03-08T21:30:00Z,Livepeer + Lit Protocol (Video Gating using ERC20/ERC721 Tokens)
+BT-0041,2026-03-08T23:30:00Z,github,tenstorrent/tt-metal,https://github.com/tenstorrent/tt-metal/issues/38114,$2500,USD,2500,pr_open,https://github.com/tenstorrent/tt-metal/pull/38632,https://github.com/tenstorrent/tt-metal/issues/38114#issuecomment-3966103591,2026-03-08T23:30:00Z,PR审核中，已提交代码等待维护者反馈
+BT-0042,2026-03-08T23:30:00Z,github,rustchain/rustchain,,25-150 RTC,RTC,87.5,open,,,2026-03-08T23:30:00Z,RIP-302 SDK开发任务，待评估技术需求
+BT-0043,2026-03-08T23:30:00Z,web3,币安Labs孵化公链,,,USD,,待执行,,2026-03-08T23:30:00Z,新公链测试网交互，预计收益$500-$2000
+BT-0044,2026-03-08T23:30:00Z,web3,Base生态NFT,,,USD,,待执行,,2026-03-08T23:30:00Z,Layer2 NFT白名单任务，预计地板价$200+
+BT-0045,2026-03-08T23:30:00Z,digital-product,Teachable平台,$29.99/份,USD,29.99,待发布,,2026-03-08T23:30:00Z,Python基础课程，内容已完成待上线
+BT-0046,2026-03-08T23:30:00Z,digital-product,Gumroad平台,$27-$97/份,USD,62,待发布,,2026-03-08T23:30:00Z,社交媒体模板包，已制作完成待上线
+BT-0047,2026-03-08T23:30:00Z,freelance,Upwork平台,$300/单,USD,300,待接单,,2026-03-08T23:30:00Z,网页开发优化服务，服务已上线等待客户
