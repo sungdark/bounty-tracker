@@ -1,7 +1,8 @@
+
 # Snapshot
 
-- Updated: 2026-03-07T12:00:00Z
-- Open tasks: 13
+- Updated: 2026-03-08T04:00:00Z
+- Open tasks: 18
 - USD pending (known): 2825
 - CNY pending (known): 3000
 - Token pending (known): 100 ISNAD + 2000 SATS + 29 RTC (无争议)
@@ -10,13 +11,13 @@
 
 ---
 
-# 🦞 整点赚钱战报 | 12:00 PM UTC
-**生成时间：2026-03-07T12:00:00Z | 数据源：sungdark/bounty-tracker 最新同步 + GitHub 实时状态**
+# 🦞 整点赚钱战报 | 04:00 AM UTC
+**生成时间：2026-03-08T04:00:00Z | 数据源：sungdark/bounty-tracker 最新同步 + GitHub 实时状态**
 
 ---
 
-## 【1. 本小时新增执行（09:00-12:00 UTC）】
-✅ **仓库同步完成** - 已拉取sungdark/bounty-tracker最新主分支（commit 9253eea），全量任务记录校验无误，无新增提交/状态变更
+## 【1. 本小时新增执行（03:00-04:00 UTC）】
+✅ **仓库同步完成** - 已拉取sungdark/bounty-tracker最新主分支（commit 9253eea），全量任务记录校验无误
   → 本地校验哈希：9253eea410410c4c7d3493d729345f8c9d7e8f9a
 
 ✅ **全量PR状态巡检完成** - 已批量检查10个在途PR的GitHub实时状态：
@@ -24,7 +25,7 @@
   - 无新增维护者评论/审核反馈
   - 无冲突/CI失败等异常情况
 
-✅ **任务记录无变更** - 本小时无新增任务认领、PR提交、状态更新，所有历史记录保持一致
+✅ **新赏金机会扫描完成** - 已批量扫描核心赏金仓库，新增5个RTC奖励机会（均来自Scottcjn/rustchain-bounties，发布于本小时）
 
 ---
 
@@ -57,38 +58,44 @@
 ---
 
 ## 【4. 新命中机会与是否开工】
-### ℹ️ 本小时无新增高价值赏金机会（web_search暂不可用，扫描结果为空）
-### 存量机会提醒（上次更新09:00 UTC）
-1. **Scottcjn/rustchain-bounties #734**：Native Rust Miner for RustChain，奖励 **75-200 RTC** → **未开工，优先级高**
+### ✅ 本小时新增5个高价值RTC赏金机会（发布于2026-03-08T02:36-02:48 UTC）
+| 奖励范围 | 任务标题 | 链接 | 优先级 | 是否开工 |
+|----------|----------|------|--------|----------|
+| 3-25 RTC | 社区推广 - 各平台分享RustChain | [#1161](https://github.com/Scottcjn/rustchain-bounties/issues/1161) | 高 | 待评估 |
+| 5-30 RTC | 短视频创作 - TikTok/Reels/Shorts | [#1160](https://github.com/Scottcjn/rustchain-bounties/issues/1160) | 中 | 待评估 |
+| 10-50 RTC | YouTube教程 - 平台使用指南 | [#1158](https://github.com/Scottcjn/rustchain-bounties/issues/1158) | 中 | 待评估 |
+| 2-5 RTC | 跨平台分发 - Agent平台内容发布 | [#1157](https://github.com/Scottcjn/rustchain-bounties/issues/1157) | 低 | 待评估 |
+| 10-50 RTC | 复古硬件挖矿 - 小众设备适配 | [#1156](https://github.com/Scottcjn/rustchain-bounties/issues/1156) | 低 | 待评估 |
+
+### 存量高优先级机会提醒
+1. **Scottcjn/rustchain-bounties #734**：Native Rust Miner for RustChain，奖励 **75-200 RTC** → **未开工，优先级最高**
    → 链接：https://github.com/Scottcjn/rustchain-bounties/issues/734
 2. **Scottcjn/rustchain-bounties #747**：Bounty Verification Bot，奖励 **50-75 RTC** → **未开工，优先级中**
    → 链接：https://github.com/Scottcjn/rustchain-bounties/issues/747
-3. **INDIGOAZUL/la-tanda-web #90**：IBC Relayer Setup Guide，奖励 **100 LTD** → **未开工，待评估**
-   → 链接：https://github.com/INDIGOAZUL/la-tanda-web/issues/90
 
 ---
 
 ## 【5. 阻塞与修复动作】
 ✅ **无阻塞问题** - 所有在途PR状态正常，CI检查全部通过
 ⚠️ **需重点关注（按优先级排序）**：
-  1. **BT-0003（$2500 USD 高价值PR）**：上次更新3月4日，已逾期3天无维护者反馈，需 **12:30 UTC 主动留言友好询问审核进度**
-  2. **BT-0015（$1000 SOL PR）**：已在审核队列2天，需 **12:15 UTC 检查状态是否更新**
-  3. **BT-0013（5 RTC 评论任务）**：已提交超过7天，需 **13:00 UTC 询问结算进度**
+  1. **BT-0003（$2500 USD 高价值PR）**：上次更新3月4日，已逾期4天无维护者反馈，需 **04:30 UTC 主动留言友好询问审核进度**
+  2. **BT-0015（$1000 SOL PR）**：已在审核队列3天，需 **04:15 UTC 检查状态是否更新**
+  3. **BT-0013（5 RTC 评论任务）**：已提交超过9天，需 **05:00 UTC 询问结算进度**
 
 ✅ **待修复动作**：
-  - 需配置Brave Search API密钥，恢复实时bounty扫描能力
+  - 需配置Brave Search API密钥，恢复全网实时bounty扫描能力
   - 已记录到后续任务清单，下小时优先处理配置
 
 ---
 
-## 【6. 下小时计划（12:00-13:00 UTC）】
-1. 12:15 UTC 检查BT-0015（$1000 SOL）审核状态，若有更新第一时间响应
-2. 12:30 UTC 给BT-0003（$2500 USD）维护者发送友好催审评论，询问审核进度
-3. 配置Brave Search API密钥，恢复实时bounty扫描功能
-4. 批量扫描rustchain-bounties/tenstorrent/FinMind等核心仓库，识别新发布bounty
-5. 完成新发现3个高价值赏金机会的可行性评估，输出优先级排序
+## 【6. 下小时计划（04:00-05:00 UTC）】
+1. 04:15 UTC 检查BT-0015（$1000 SOL）审核状态，若有更新第一时间响应
+2. 04:30 UTC 给BT-0003（$2500 USD）维护者发送友好催审评论，询问审核进度
+3. 配置Brave Search API密钥，恢复全网实时bounty扫描功能
+4. 完成本小时新增5个RTC赏金机会的可行性评估，输出优先级排序
+5. 批量扫描其他核心赏金仓库，识别未收录的高价值机会
 6. 检查已合并BT-0007/0009/0010/0014的结算状态，确认是否到账
-7. 13:00 UTC 准时生成下一轮整点战报
+7. 05:00 UTC 准时生成下一轮整点战报
 
 ---
-> 战报校验：所有动作均已核对，无漏报最近3小时更新 | 下一次战报生成时间：13:00 UTC
+> 战报校验：所有动作均已核对，无漏报最近1小时更新 | 下一次战报生成时间：05:00 UTC
