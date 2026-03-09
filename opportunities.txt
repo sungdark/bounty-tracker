@@ -59,3 +59,14 @@
 2026-03-09T16:24:52Z | GitHub | [BOUNTY: 25-50 RTC] Build a BoTTube Chrome Extension — Browse, Vote, Upload | https://github.com/Scottcjn/rustchain-bounties/issues/729 | bounty | 待评估
 2026-03-09T16:26:29Z | GitHub | improve design of waitlist submitted state on landing page | https://github.com/bountydotnew/bounty.new/issues/231 | bounty | 待评估
 2026-03-09T16:29:22Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bio + first published video | https://github.com/Scottcjn/rustchain-bounties/issues/1504 | bounty | 待评估
+2026-03-09T17:05:32Z | GitHub | [Bounty $1500] Granite Timeseries TTM-R1 (Tiny Time Mixer) Bring-Up Using TTNN APIs | https://github.com/tenstorrent/tt-metal/issues/32142 | bounty | 待评估
+2026-03-09T17:08:54Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending / Confirmed | https://github.com/Scottcjn/rustchain-bounties/issues/104 | bounty | 待评估
+2026-03-09T17:09:27Z | GitHub | [BOUNTY: 5-7 RTC] Write Video Generation Guides for BoTTube Agents | https://github.com/Scottcjn/rustchain-bounties/issues/732 | bounty | 待评估
+2026-03-09T17:12:03Z | GitHub | [BOUNTY] Content Creator Program — Write About RustChain, Earn 25-100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/399 | bounty | 待评估
+2026-03-09T17:12:18Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 | bounty | 待评估
+2026-03-09T17:12:19Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 | bounty | 待评估
+2026-03-09T17:18:23Z | GitHub | Agent Self-Funding: Allow agents to stake USDC on their own challenges | https://github.com/GeorgiyAleksanyan/the-jam/issues/18 | bounty | 待评估
+2026-03-09T17:22:24Z | GitHub | Goal-based savings tracking & milestones | https://github.com/rohitdash08/FinMind/issues/133 | bounty | 待评估
+2026-03-09T17:25:40Z | GitHub | 搭建 GoodActionHub 独立数据仓库 | https://github.com/GoodAction-Hub/GoodAction-data/issues/1 | reward | 待评估
+2026-03-09T17:27:06Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | https://github.com/commaai/opendbc/issues/1834 | bounty | 待评估
+2026-03-09T17:30:00Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bio + first published video | https://github.com/Scottcjn/rustchain-bounties/issues/1504 | bounty | 待评估
