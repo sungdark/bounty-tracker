@@ -118,3 +118,23 @@
 2026-03-05T18:37:49Z | GitHub | Game: Blackjack | https://github.com/DocJade/doint/issues/68 | reward | 待评估
 2026-03-05T17:08:42Z | GitHub | Reward: I used to be rich... | https://github.com/DocJade/doint/issues/66 | reward | 待评估
 2026-03-05T17:08:38Z | GitHub | 现代化 HOP（黑客松开放平台）个人主页 UI 样式 | https://github.com/FreeCodeCamp-Chengdu/HOP/issues/32 | reward | 待评估
+2026-03-09T18:29:01Z | GitHub | [CAMPAIGN] 5,000 Stars Drive — Earn Up to 430 RTC (5,000 RTC Pool) | https://github.com/Scottcjn/Rustchain/issues/425 | bounty | 待评估
+2026-03-09T18:25:08Z | GitHub | Bounty Board - Claim Your Karma | https://github.com/fabriziosalmi/enjoy/issues/8 | bounty | 待评估
+2026-03-09T18:15:04Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending / Confirmed | https://github.com/Scottcjn/rustchain-bounties/issues/104 | bounty | 待评估
+2026-03-09T18:14:46Z | GitHub | XEP-0444: Message reactions | https://github.com/conversejs/converse.js/issues/2398 | bounty | 待评估
+2026-03-09T18:12:12Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 | bounty | 待评估
+2026-03-09T18:12:11Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 | bounty | 待评估
+2026-03-09T18:12:10Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | https://github.com/commaai/opendbc/issues/1834 | bounty | 待评估
+2026-03-09T18:02:07Z | GitHub | [BOUNTY: 10-50 RTC] Vintage Hardware Speed Run — Mine RTC on the Weirdest Machine You Own | https://github.com/Scottcjn/rustchain-bounties/issues/1156 | bounty | 待评估
+2026-03-09T18:02:07Z | GitHub | [EASY BOUNTY: 2-5 RTC] Cross-Platform Syndication — Post About RustChain on 3+ Agent Platforms | https://github.com/Scottcjn/rustchain-bounties/issues/1157 | bounty | 待评估
+2026-03-09T18:02:06Z | GitHub | [BOUNTY: 10-50 RTC] YouTube Tutorial Videos — BoTTube, RustChain, Beacon Atlas, Grazer | https://github.com/Scottcjn/rustchain-bounties/issues/1158 | bounty | 待评估
+2026-03-09T17:25:40Z | GitHub | 搭建 GoodActionHub 独立数据仓库 | https://github.com/GoodAction-Hub/GoodAction-data/issues/1 | reward | 待评估
+2026-03-07T20:20:45Z | GitHub | 开发开源悬赏平台“代币交易所” 功能 | https://github.com/Digital-Nomad-Home/MiniApp/issues/2 | reward | 待评估
+2026-03-07T20:20:42Z | GitHub | 开发开源悬赏平台的“权益商城”功能 | https://github.com/Digital-Nomad-Home/MiniApp/issues/3 | reward | 待评估
+2026-03-07T20:20:39Z | GitHub | 基于 OCToken NFT 机制实现【开放协作人奖】颁发程序 | https://github.com/Open-Source-Bazaar/Open-Source-Bazaar.github.io/issues/53 | reward | 待评估
+2026-03-07T10:24:57Z | GitHub | HTTPClient 支持模拟 HEAD 请求 | https://github.com/EasyWebApp/KoAJAX/issues/18 | reward | 待评估
+2026-03-06T09:47:33Z | GitHub | 需求评估页面支持文件上传、解析 | https://github.com/idea2app/idea2app.github.io/issues/95 | reward | 待评估
+2026-03-05T18:40:13Z | GitHub | Doccord stock | https://github.com/DocJade/doint/issues/72 | reward | 待评估
+2026-03-05T18:37:49Z | GitHub | Game: Blackjack | https://github.com/DocJade/doint/issues/68 | reward | 待评估
+2026-03-05T17:08:42Z | GitHub | Reward: I used to be rich... | https://github.com/DocJade/doint/issues/66 | reward | 待评估
+2026-03-05T17:08:38Z | GitHub | 现代化 HOP（黑客松开放平台）个人主页 UI 样式 | https://github.com/FreeCodeCamp-Chengdu/HOP/issues/32 | reward | 待评估

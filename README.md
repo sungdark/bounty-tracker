@@ -13,13 +13,13 @@
 ## 最近机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-09T17:08:54Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
-| 2026-03-09T17:09:27Z | GitHub | [BOUNTY: 5-7 RTC] Write Video Generation Guides fo | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/732 |
-| 2026-03-09T17:12:03Z | GitHub | [BOUNTY] Content Creator Program — Write About R | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/399 |
-| 2026-03-09T17:12:18Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bount | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 |
-| 2026-03-09T17:12:19Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 |
-| 2026-03-09T17:18:23Z | GitHub | Agent Self-Funding: Allow agents to stake USDC on  | bounty | 待评估 | https://github.com/GeorgiyAleksanyan/the-jam/issues/18 |
-| 2026-03-09T17:22:24Z | GitHub | Goal-based savings tracking & milestones | bounty | 待评估 | https://github.com/rohitdash08/FinMind/issues/133 |
-| 2026-03-09T17:25:40Z | GitHub | 搭建 GoodActionHub 独立数据仓库 | reward | 待评估 | https://github.com/GoodAction-Hub/GoodAction-data/issues/1 |
-| 2026-03-09T17:27:06Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | bounty | 待评估 | https://github.com/commaai/opendbc/issues/1834 |
-| 2026-03-09T17:30:00Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bi | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1504 |
+| 2026-03-09T18:02:06Z | GitHub | [BOUNTY: 10-50 RTC] YouTube Tutorial Videos — Bo | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1158 |
+| 2026-03-09T18:02:07Z | GitHub | [BOUNTY: 10-50 RTC] Vintage Hardware Speed Run — | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1156 |
+| 2026-03-09T18:02:07Z | GitHub | [EASY BOUNTY: 2-5 RTC] Cross-Platform Syndication  | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1157 |
+| 2026-03-09T18:12:10Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | bounty | 待评估 | https://github.com/commaai/opendbc/issues/1834 |
+| 2026-03-09T18:12:11Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bount | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 |
+| 2026-03-09T18:12:12Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 |
+| 2026-03-09T18:14:46Z | GitHub | XEP-0444: Message reactions | bounty | 待评估 | https://github.com/conversejs/converse.js/issues/2398 |
+| 2026-03-09T18:15:04Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
+| 2026-03-09T18:25:08Z | GitHub | Bounty Board - Claim Your Karma | bounty | 待评估 | https://github.com/fabriziosalmi/enjoy/issues/8 |
+| 2026-03-09T18:29:01Z | GitHub | [CAMPAIGN] 5,000 Stars Drive — Earn Up to 430 RT | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/425 |
