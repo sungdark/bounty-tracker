@@ -58,3 +58,23 @@
 2026-03-05T17:08:42Z | GitHub | Reward: I used to be rich... | https://github.com/DocJade/doint/issues/66 | reward | 待评估
 2026-03-05T17:08:38Z | GitHub | 现代化 HOP（黑客松开放平台）个人主页 UI 样式 | https://github.com/FreeCodeCamp-Chengdu/HOP/issues/32 | reward | 待评估
 2026-03-05T17:08:36Z | GitHub | DLIP-135 2025 Annual Contributors Reward Proposal [3500 USDC] | https://github.com/Dapp-Learning-DAO/DLIP/issues/137 | reward | 待评估
+2026-03-09T15:12:39Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 | bounty | 待评估
+2026-03-09T15:12:38Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 | bounty | 待评估
+2026-03-09T15:12:37Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | https://github.com/commaai/opendbc/issues/1834 | bounty | 待评估
+2026-03-09T15:11:18Z | GitHub | Subtask: Track A Solana SPL token deployment for RIP-305 wRTC airdrop | https://github.com/Scottcjn/rustchain-bounties/issues/1509 | bounty | 待评估
+2026-03-09T15:11:12Z | GitHub | Subtask: Track B Base ERC-20 deployment for RIP-305 wRTC airdrop | https://github.com/Scottcjn/rustchain-bounties/issues/1510 | bounty | 待评估
+2026-03-09T15:11:08Z | GitHub | Subtask: Track C bridge API and lock ledger for RIP-305 wRTC airdrop | https://github.com/Scottcjn/rustchain-bounties/issues/1511 | bounty | 待评估
+2026-03-09T15:11:04Z | GitHub | Subtask: Track D claim page and eligibility flow for RIP-305 wRTC airdrop | https://github.com/Scottcjn/rustchain-bounties/issues/1512 | bounty | 待评估
+2026-03-09T15:10:31Z | GitHub | [BOUNTY: 5-10 RTC] BoTTube OEmbed Protocol — Rich Link Previews Everywhere | https://github.com/Scottcjn/rustchain-bounties/issues/753 | bounty | 待评估
+2026-03-09T15:10:15Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending / Confirmed | https://github.com/Scottcjn/rustchain-bounties/issues/104 | bounty | 待评估
+2026-03-09T15:08:05Z | GitHub | 🤖 RIP-302: Agent Economy is LIVE — Build on it! (25-100 RTC) | https://github.com/Scottcjn/rustchain-bounties/issues/683 | bounty | 待评估
+2026-03-07T20:20:45Z | GitHub | 开发开源悬赏平台“代币交易所” 功能 | https://github.com/Digital-Nomad-Home/MiniApp/issues/2 | reward | 待评估
+2026-03-07T20:20:42Z | GitHub | 开发开源悬赏平台的“权益商城”功能 | https://github.com/Digital-Nomad-Home/MiniApp/issues/3 | reward | 待评估
+2026-03-07T20:20:39Z | GitHub | 基于 OCToken NFT 机制实现【开放协作人奖】颁发程序 | https://github.com/Open-Source-Bazaar/Open-Source-Bazaar.github.io/issues/53 | reward | 待评估
+2026-03-07T10:24:57Z | GitHub | HTTPClient 支持模拟 HEAD 请求 | https://github.com/EasyWebApp/KoAJAX/issues/18 | reward | 待评估
+2026-03-06T09:47:33Z | GitHub | 需求评估页面支持文件上传、解析 | https://github.com/idea2app/idea2app.github.io/issues/95 | reward | 待评估
+2026-03-05T18:40:13Z | GitHub | Doccord stock | https://github.com/DocJade/doint/issues/72 | reward | 待评估
+2026-03-05T18:37:49Z | GitHub | Game: Blackjack | https://github.com/DocJade/doint/issues/68 | reward | 待评估
+2026-03-05T17:08:42Z | GitHub | Reward: I used to be rich... | https://github.com/DocJade/doint/issues/66 | reward | 待评估
+2026-03-05T17:08:38Z | GitHub | 现代化 HOP（黑客松开放平台）个人主页 UI 样式 | https://github.com/FreeCodeCamp-Chengdu/HOP/issues/32 | reward | 待评估
+2026-03-05T17:08:36Z | GitHub | DLIP-135 2025 Annual Contributors Reward Proposal [3500 USDC] | https://github.com/Dapp-Learning-DAO/DLIP/issues/137 | reward | 待评估

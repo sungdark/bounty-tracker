@@ -13,13 +13,13 @@
 ## 最近机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-09T14:02:29Z | GitHub | [BOUNTY: 75-100 RTC] RustChain MCP Server — Quer | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1152 |
-| 2026-03-09T14:02:55Z | GitHub | [BOUNTY: 10 RTC each] RustChain Windows miner bund | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1501 |
-| 2026-03-09T14:03:23Z | GitHub | [BOUNTY: 25-40 RTC] GitHub Tip Bot — /tip @user  | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1153 |
-| 2026-03-09T14:03:40Z | GitHub | [BOUNTY: 2 RTC] BoTTube API upload test + copy-pas | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1502 |
-| 2026-03-09T14:04:23Z | GitHub | [BOUNTY: 10-50 RTC] Vintage Hardware Speed Run — | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1156 |
-| 2026-03-09T14:04:36Z | GitHub | [BOUNTY: 200 RTC] RIP-305 Cross-Chain Airdrop —  | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1149 |
-| 2026-03-09T14:12:29Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | bounty | 待评估 | https://github.com/commaai/opendbc/issues/1834 |
-| 2026-03-09T14:12:33Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bount | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 |
-| 2026-03-09T14:12:36Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 |
-| 2026-03-09T14:17:51Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/73 |
+| 2026-03-09T15:08:05Z | GitHub | 🤖 RIP-302: Agent Economy is LIVE — Build on i | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/683 |
+| 2026-03-09T15:10:15Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
+| 2026-03-09T15:10:31Z | GitHub | [BOUNTY: 5-10 RTC] BoTTube OEmbed Protocol — Ric | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/753 |
+| 2026-03-09T15:11:04Z | GitHub | Subtask: Track D claim page and eligibility flow f | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1512 |
+| 2026-03-09T15:11:08Z | GitHub | Subtask: Track C bridge API and lock ledger for RI | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1511 |
+| 2026-03-09T15:11:12Z | GitHub | Subtask: Track B Base ERC-20 deployment for RIP-30 | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1510 |
+| 2026-03-09T15:11:18Z | GitHub | Subtask: Track A Solana SPL token deployment for R | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1509 |
+| 2026-03-09T15:12:37Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | bounty | 待评估 | https://github.com/commaai/opendbc/issues/1834 |
+| 2026-03-09T15:12:38Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bount | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 |
+| 2026-03-09T15:12:39Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 |
