@@ -328,5 +328,20 @@
     "claim_url": "",
     "last_update_utc": "2026-03-09T03:30:00Z",
     "notes": "[BUG] [alpha] Port Forwarding add dialog same-port option text does not toggle switch"
+  },
+  {
+    "id": 71,
+    "accepted_at_utc": "2026-03-09T05:30:00Z",
+    "source": "github",
+    "repo": "rin259/bottube-mcp-server",
+    "issue_url": "https://github.com/Scottcjn/rustchain-bounties/issues/758",
+    "reward": "40-75 RTC",
+    "reward_type": "RTC",
+    "reward_value": 3.55,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T05:30:00Z",
+    "notes": "MCP Server for BoTTube AI Video Platform"
   }
 ]
