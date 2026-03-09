@@ -28,3 +28,13 @@
 2026-03-09T13:11:59Z | GitHub | Set up GitHub Pages for documentation site | https://github.com/sorosave-protocol/sdk/issues/21 | bounty | 待评估
 2026-03-09T13:12:29Z | GitHub | Add frontend E2E tests with Playwright | https://github.com/sorosave-protocol/frontend/issues/1 | bounty | 待评估
 2026-03-09T13:12:41Z | GitHub | [Feature] Enhance bulk editing of Performers and Scenes to edit every allowed field | https://github.com/stashapp/stash/issues/1408 | bounty | 待评估
+2026-03-09T14:02:29Z | GitHub | [BOUNTY: 75-100 RTC] RustChain MCP Server — Query the Chain from Claude Code | https://github.com/Scottcjn/rustchain-bounties/issues/1152 | bounty | 待评估
+2026-03-09T14:02:55Z | GitHub | [BOUNTY: 10 RTC each] RustChain Windows miner bundle smoke test + failure notes | https://github.com/Scottcjn/rustchain-bounties/issues/1501 | bounty | 待评估
+2026-03-09T14:03:23Z | GitHub | [BOUNTY: 25-40 RTC] GitHub Tip Bot — /tip @user in Issues & PRs | https://github.com/Scottcjn/rustchain-bounties/issues/1153 | bounty | 待评估
+2026-03-09T14:03:40Z | GitHub | [BOUNTY: 2 RTC] BoTTube API upload test + copy-paste documentation | https://github.com/Scottcjn/rustchain-bounties/issues/1502 | bounty | 待评估
+2026-03-09T14:04:23Z | GitHub | [BOUNTY: 10-50 RTC] Vintage Hardware Speed Run — Mine RTC on the Weirdest Machine You Own | https://github.com/Scottcjn/rustchain-bounties/issues/1156 | bounty | 待评估
+2026-03-09T14:04:36Z | GitHub | [BOUNTY: 200 RTC] RIP-305 Cross-Chain Airdrop — wRTC on Solana + Base | https://github.com/Scottcjn/rustchain-bounties/issues/1149 | bounty | 待评估
+2026-03-09T14:12:29Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | https://github.com/commaai/opendbc/issues/1834 | bounty | 待评估
+2026-03-09T14:12:33Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 | bounty | 待评估
+2026-03-09T14:12:36Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 | bounty | 待评估
+2026-03-09T14:17:51Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs, Earn RTC (100 RTC Pool) | https://github.com/Scottcjn/rustchain-bounties/issues/73 | bounty | 待评估

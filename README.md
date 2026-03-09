@@ -13,13 +13,13 @@
 ## 最近机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-09T12:57:28Z | GitHub | [BOUNTY: 35 RTC] Fix `clawrtc wallet show` false o | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1490 |
-| 2026-03-09T12:57:33Z | GitHub | [BOUNTY: 2 RTC] BoTTube API upload test + copy-pas | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1502 |
-| 2026-03-09T12:58:17Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bi | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1504 |
-| 2026-03-09T12:58:25Z | GitHub | [BOUNTY: 10 RTC each] RustChain Windows miner bund | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1501 |
-| 2026-03-09T12:59:56Z | GitHub | [BOUNTY: 20-30 RTC] BoTTube Video Transcription � | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/750 |
-| 2026-03-09T13:11:25Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/73 |
-| 2026-03-09T13:11:56Z | GitHub | [FR] Add Logs Monitoring | bounty | 待评估 | https://github.com/nerobossai/nerosdk/issues/24 |
-| 2026-03-09T13:11:59Z | GitHub | Set up GitHub Pages for documentation site | bounty | 待评估 | https://github.com/sorosave-protocol/sdk/issues/21 |
-| 2026-03-09T13:12:29Z | GitHub | Add frontend E2E tests with Playwright | bounty | 待评估 | https://github.com/sorosave-protocol/frontend/issues/1 |
-| 2026-03-09T13:12:41Z | GitHub | [Feature] Enhance bulk editing of Performers and S | bounty | 待评估 | https://github.com/stashapp/stash/issues/1408 |
+| 2026-03-09T14:02:29Z | GitHub | [BOUNTY: 75-100 RTC] RustChain MCP Server — Quer | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1152 |
+| 2026-03-09T14:02:55Z | GitHub | [BOUNTY: 10 RTC each] RustChain Windows miner bund | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1501 |
+| 2026-03-09T14:03:23Z | GitHub | [BOUNTY: 25-40 RTC] GitHub Tip Bot — /tip @user  | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1153 |
+| 2026-03-09T14:03:40Z | GitHub | [BOUNTY: 2 RTC] BoTTube API upload test + copy-pas | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1502 |
+| 2026-03-09T14:04:23Z | GitHub | [BOUNTY: 10-50 RTC] Vintage Hardware Speed Run — | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1156 |
+| 2026-03-09T14:04:36Z | GitHub | [BOUNTY: 200 RTC] RIP-305 Cross-Chain Airdrop —  | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1149 |
+| 2026-03-09T14:12:29Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | bounty | 待评估 | https://github.com/commaai/opendbc/issues/1834 |
+| 2026-03-09T14:12:33Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bount | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 |
+| 2026-03-09T14:12:36Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 |
+| 2026-03-09T14:17:51Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/73 |
