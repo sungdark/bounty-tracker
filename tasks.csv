@@ -46,3 +46,23 @@ BT-0044,2026-03-08T23:30:00Z,web3,Base生态NFT,,,USD,,待执行,,2026-03-08T23:
 BT-0045,2026-03-08T23:30:00Z,digital-product,Teachable平台,$29.99/份,USD,29.99,待发布,,2026-03-08T23:30:00Z,Python基础课程，内容已完成待上线
 BT-0046,2026-03-08T23:30:00Z,digital-product,Gumroad平台,$27-$97/份,USD,62,待发布,,2026-03-08T23:30:00Z,社交媒体模板包，已制作完成待上线
 BT-0047,2026-03-08T23:30:00Z,freelance,Upwork平台,$300/单,USD,300,待接单,,2026-03-08T23:30:00Z,网页开发优化服务，服务已上线等待客户
+BT-0048,2026-03-09T01:30:00Z,github,Scottcjn/bottube,https://github.com/Scottcjn/bottube/issues/63,75 RTC,RTC,75,open,,,2026-03-09T01:30:00Z,Collab Bot Duo — Create Two Bots That Interact With Each Other (highest reward this scan)
+BT-0049,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1490,35 RTC,RTC,35,open,,,2026-03-09T01:30:00Z,Fix `clawrtc wallet show` false offline state + add regression test
+BT-0050,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1494,28 RTC,RTC,28,open,,,2026-03-09T01:30:00Z,RustChain first API call walkthrough + signed transfer example
+BT-0051,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1493,25 RTC,RTC,25,open,,,2026-03-09T01:30:00Z,RustChain Start Here quickstart for wallet, miner, and developer paths
+BT-0052,2026-03-09T01:30:00Z,github,Scottcjn/bottube,https://github.com/Scottcjn/bottube/issues/62,20 RTC each,RTC,20,open,,,2026-03-09T01:30:00Z,Multilingual Bot Pack — Create Bots in Non-English Languages (100 RTC pool)
+BT-0053,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1501,10 RTC each,RTC,10,open,,,2026-03-09T01:30:00Z,RustChain Windows miner bundle smoke test + failure notes
+BT-0054,2026-03-09T01:30:00Z,github,Scottcjn/Rustchain,https://github.com/Scottcjn/Rustchain/issues/179,10 RTC each,RTC,10,open,,,2026-03-09T01:30:00Z,Test Windows Miner Bundle win-miner-2026-02 (200 RTC pool)
+BT-0055,2026-03-09T01:30:00Z,github,Scottcjn/bottube,https://github.com/Scottcjn/bottube/issues/75,10 RTC,RTC,10,open,,,2026-03-09T01:30:00Z,Create a Bot Agent on BoTTube (500 RTC pool)
+BT-0056,2026-03-09T01:30:00Z,github,Scottcjn/bottube,https://github.com/Scottcjn/bottube/issues/123,5 RTC each,RTC,5,open,,,2026-03-09T01:30:00Z,Show Off Your Setup — Post Your Mining Rig or Vintage Hardware (150 RTC pool)
+BT-0057,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/422,5 RTC,RTC,5,open,,,2026-03-09T01:30:00Z,Register Your Agent on Beacon Atlas
+BT-0058,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1502,2 RTC,RTC,2,open,,,2026-03-09T01:30:00Z,BoTTube API upload test + copy-paste documentation
+BT-0059,2026-03-09T01:30:00Z,github,Scottcjn/bottube,https://github.com/Scottcjn/bottube/issues/205,3 RTC,RTC,3,open,,,2026-03-09T01:30:00Z,Add tests for /api/social/graph endpoint
+BT-0060,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1504,1 RTC,RTC,1,open,,,2026-03-09T01:30:00Z,BoTTube profile setup: avatar + bio + first published video
+BT-0061,2026-03-09T01:30:00Z,github,Scottcjn/bottube,https://github.com/Scottcjn/bottube/issues/74,2 RTC,RTC,2,open,,,2026-03-09T01:30:00Z,Star & Follow BoTTube — Earn 2 RTC Instantly (200 RTC pool)
+BT-0062,2026-03-09T01:30:00Z,github,Scottcjn/Rustchain,https://github.com/Scottcjn/Rustchain/issues/425,Up to 430 RTC,RTC,430,open,,,2026-03-09T01:30:00Z,5,000 Stars Drive — Earn Up to 430 RTC (5,000 RTC Pool)
+BT-0063,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/477,300 RTC pool,RTC,300,open,,,2026-03-09T01:30:00Z,Cross-Repo Star & Engage Multiplier (300 RTC Pool)
+BT-0064,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/731,0.5 RTC/repo,RTC,0.5,open,,,2026-03-09T01:30:00Z,Watch Our Repos — Stay Notified, Earn RTC (Up to 10 RTC)
+BT-0065,2026-03-09T01:30:00Z,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/697,Fork reward,RTC,null,open,,,2026-03-09T01:30:00Z,Chicken in Every Pot: Fork the Big 5 and Earn RTC
+BT-0066,2026-03-09T01:30:00Z,github,INDIGOAZUL/la-tanda-web,https://github.com/INDIGOAZUL/la-tanda-web/issues/84,200 LTD,LTD,200,open,,,2026-03-09T01:30:00Z,🌓 Dark/Light Theme Toggle — frontend development bounty
+BT-0067,2026-03-09T01:30:00Z,github,INDIGOAZUL/la-tanda-web,https://github.com/INDIGOAZUL/la-tanda-web/issues/50,150 LTD,LTD,150,open,,,2026-03-09T01:30:00Z,📖 Developer Documentation Page
