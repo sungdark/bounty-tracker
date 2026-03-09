@@ -328,5 +328,20 @@
     "claim_url": "",
     "last_update_utc": "2026-03-09T03:30:00Z",
     "notes": "[BUG] [alpha] Port Forwarding add dialog same-port option text does not toggle switch"
+  },
+  {
+    "id": 71,
+    "accepted_at_utc": "2026-03-09T07:30:00Z",
+    "source": "github",
+    "repo": "Scottcjn/rustchain-bounties",
+    "issue_url": "https://github.com/Scottcjn/rustchain-bounties/issues/1519",
+    "reward": "150 RTC + 50 RTC bonus",
+    "reward_type": "RTC",
+    "reward_value": 9.27,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T07:30:00Z",
+    "notes": "Integrate Beacon into CrewAI/LangGraph template + optional Beacon integration bonus"
   }
 ]
