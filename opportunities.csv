@@ -1,0 +1,5 @@
+id,accepted_at_utc,source,repo,issue_url,reward,reward_type,reward_value,status,pr_url,claim_url,last_update_utc,notes
+1,2026-03-09 11:30,github,zama-ai/bounty-program,https://github.com/zama-ai/bounty-program,"Contribute to the FHE space and Zama's open source libraries and get rewarded 💰",USD,,accepted,,,2026-03-09 11:30,Zama Bounty Program - 15.5k stars, active opportunities
+2,2026-03-09 11:30,github,ETLOnline/spark,https://github.com/ETLOnline/spark,"Rewards system for open source contributions",USD,,accepted,,,2026-03-09 11:30,Spark open source platform with bounty program, updated Mar 9 2026
+3,2026-03-09 11:30,github,akhilk07/zama-fhe,https://github.com/akhilk07/zama-fhe,"Technical guides for Zama FHE protocol with bounty opportunities",USD,,accepted,,,2026-03-09 11:30,Zama FHE guides, updated Mar 9 2026
+4,2026-03-09 11:30,github,ChinchillaEnterprises/openclaw-crm,https://github.com/ChinchillaEnterprises/openclaw-crm,"Agent bounty system for CRM",USD,,accepted,,,2026-03-09 11:30,OpenClaw CRM with spider-network referral tracking and agent bounty system
