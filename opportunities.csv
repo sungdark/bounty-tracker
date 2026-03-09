@@ -8,3 +8,5 @@ id,accepted_at_utc,source,repo,issue_url,reward,reward_type,reward_value,status,
 7,2026-03-09 15:30,bugcrowd,24sessions,https://www.24sessions.com/responsible-disclosure,"Bug bounty program",USD,,pending,,,2026-03-09 15:30,Video conferencing platform bounty
 8,2026-03-09 15:30,bugcrowd,84codes,https://www.84codes.com/security/,"Security bug bounty",USD,,pending,,,2026-03-09 15:30,Cloud services company bounty
 9,2026-03-09 15:30,bugcrowd,Abn Amro,https://www.abnamro.nl/en/personal/overabnamro/secure-banking/responsible-disclosure.html,"Responsible disclosure bounty program",USD,,pending,,,2026-03-09 15:30,Bank bounty program
+9,2026-03-09 16:30,github,bountydotnew/bounty.new,https://github.com/bountydotnew/bounty.new/issues/231,improve design of waitlist submitted state,USD,,pending,,,2026-03-09 16:30,设计类任务，金额待确认
+10,2026-03-09 16:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1519,[BOUNTY] 150 RTC — Integrate Beacon into CrewAI/LangGraph template,RTC,150,pending,,,2026-03-09 16:30,AI集成任务，+50 RTC bonus for Beacon集成

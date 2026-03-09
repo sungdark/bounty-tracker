@@ -568,5 +568,35 @@
     "claim_url": "",
     "last_update_utc": "2026-03-09T10:30:00Z",
     "notes": "Livepeer + Lit Protocol Video Gating using ERC20/ERC721 Tokens - 175 OP + DevPass"
+  },
+  {
+    "id": 87,
+    "accepted_at_utc": "2026-03-09T16:30:00Z",
+    "source": "github",
+    "repo": "bountydotnew/bounty.new",
+    "issue_url": "https://github.com/bountydotnew/bounty.new/issues/231",
+    "reward": "Unknown",
+    "reward_type": "USD",
+    "reward_value": 0,
+    "status": "pending",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T16:30:00Z",
+    "notes": "设计类任务，金额待确认"
+  },
+  {
+    "id": 88,
+    "accepted_at_utc": "2026-03-09T16:30:00Z",
+    "source": "github",
+    "repo": "Scottcjn/rustchain-bounties",
+    "issue_url": "https://github.com/Scottcjn/rustchain-bounties/issues/1519",
+    "reward": "150 RTC",
+    "reward_type": "RTC",
+    "reward_value": 150,
+    "status": "pending",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T16:30:00Z",
+    "notes": "AI集成任务，+50 RTC bonus for Beacon集成"
   }
 ]
