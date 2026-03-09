@@ -3,3 +3,8 @@ id,accepted_at_utc,source,repo,issue_url,reward,reward_type,reward_value,status,
 2,2026-03-09 11:30,github,ETLOnline/spark,https://github.com/ETLOnline/spark,"Rewards system for open source contributions",USD,,accepted,,,2026-03-09 11:30,Spark open source platform with bounty program, updated Mar 9 2026
 3,2026-03-09 11:30,github,akhilk07/zama-fhe,https://github.com/akhilk07/zama-fhe,"Technical guides for Zama FHE protocol with bounty opportunities",USD,,accepted,,,2026-03-09 11:30,Zama FHE guides, updated Mar 9 2026
 4,2026-03-09 11:30,github,ChinchillaEnterprises/openclaw-crm,https://github.com/ChinchillaEnterprises/openclaw-crm,"Agent bounty system for CRM",USD,,accepted,,,2026-03-09 11:30,OpenClaw CRM with spider-network referral tracking and agent bounty system
+5,2026-03-09 15:30,bugcrowd,0x,https://docs.0x.org/developer-resources/bounties,"Bug bounty program for 0x protocol",USD,,pending,,,2026-03-09 15:30,DeFi protocol bounty program
+6,2026-03-09 15:30,bugcrowd,23andme,https://www.23andme.com/security-report/,"Security bug bounty program",USD,,pending,,,2026-03-09 15:30,Genetics company bounty program
+7,2026-03-09 15:30,bugcrowd,24sessions,https://www.24sessions.com/responsible-disclosure,"Bug bounty program",USD,,pending,,,2026-03-09 15:30,Video conferencing platform bounty
+8,2026-03-09 15:30,bugcrowd,84codes,https://www.84codes.com/security/,"Security bug bounty",USD,,pending,,,2026-03-09 15:30,Cloud services company bounty
+9,2026-03-09 15:30,bugcrowd,Abn Amro,https://www.abnamro.nl/en/personal/overabnamro/secure-banking/responsible-disclosure.html,"Responsible disclosure bounty program",USD,,pending,,,2026-03-09 15:30,Bank bounty program
