@@ -90,3 +90,14 @@
 2026-03-09T19:14:17Z | GitHub | [BOUNTY] Add a code comment explaining a function (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/772 | bounty | 待评估
 2026-03-09T19:17:36Z | GitHub | [BOUNTY] Fix a typo in docs or comments (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/771 | bounty | 待评估
 2026-03-09T19:29:37Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a BoTTube Agent | https://github.com/Scottcjn/rustchain-bounties/issues/1106 | bounty | 待评估
+2026-03-09T19:58:51Z | GitHub | 迁移 GoodActionHub 网站到独立数据仓库 API | https://github.com/GoodAction-Hub/GoodAction-Hub.github.io/issues/3 | reward | 待评估
+2026-03-09T20:01:01Z | GitHub | [BOUNTY] Add a code comment explaining a function (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/772 | bounty | 待评估
+2026-03-09T20:01:02Z | GitHub | [BOUNTY] Translate a README section to your language (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/774 | bounty | 待评估
+2026-03-09T20:01:03Z | GitHub | [$5] Add gspread SheetsBackend implementation | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/1 | bounty | 待评估
+2026-03-09T20:02:22Z | GitHub | [EASY BOUNTY: 3 RTC] Write a Mini-Review of a BoTTube Video | https://github.com/Scottcjn/rustchain-bounties/issues/1099 | bounty | 待评估
+2026-03-09T20:03:58Z | GitHub | Properly fix CI | https://github.com/cooljeanius/apple-gdb-1824/issues/14 | bounty | 待评估
+2026-03-09T20:07:34Z | GitHub | [BOUNTY: 30 RTC] BoTTube creator onboarding empty-state + first upload checklist | https://github.com/Scottcjn/rustchain-bounties/issues/1492 | bounty | 待评估
+2026-03-09T20:10:39Z | GitHub | [BOUNTY] LinkedIn People & Company Enrichment API — $100 paid in $SX token | https://github.com/bolivian-peru/marketplace-service-template/issues/77 | bounty | 待评估
+2026-03-09T20:10:59Z | GitHub | [BOUNTY] Food Delivery Price Intelligence API — $50 paid in $SX token | https://github.com/bolivian-peru/marketplace-service-template/issues/76 | bounty | 待评估
+2026-03-09T20:11:13Z | GitHub | [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (200 RTC Pool) | https://github.com/Scottcjn/rustchain-bounties/issues/71 | bounty | 待评估
+2026-03-09T20:22:01Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a BoTTube Agent | https://github.com/Scottcjn/rustchain-bounties/issues/1106 | bounty | 待评估

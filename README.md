@@ -13,13 +13,13 @@
 ## 最近机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-09T19:07:43Z | GitHub | [BOUNTY: 30 RTC] BoTTube creator onboarding empty- | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1492 |
-| 2026-03-09T19:09:49Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
-| 2026-03-09T19:10:11Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bi | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1504 |
-| 2026-03-09T19:11:07Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
-| 2026-03-09T19:11:09Z | GitHub | [BOUNTY] Translate a README section to your langua | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/774 |
-| 2026-03-09T19:13:34Z | GitHub | ⚡ Performance Audit + Lighthouse Optimization � | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/86 |
-| 2026-03-09T19:14:15Z | GitHub | [BOUNTY] Star the repo and share why (0.5 RTC) | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/773 |
-| 2026-03-09T19:14:17Z | GitHub | [BOUNTY] Add a code comment explaining a function  | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/772 |
-| 2026-03-09T19:17:36Z | GitHub | [BOUNTY] Fix a typo in docs or comments (0.5 RTC) | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/771 |
-| 2026-03-09T19:29:37Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a B | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1106 |
+| 2026-03-09T20:01:01Z | GitHub | [BOUNTY] Add a code comment explaining a function  | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/772 |
+| 2026-03-09T20:01:02Z | GitHub | [BOUNTY] Translate a README section to your langua | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/774 |
+| 2026-03-09T20:01:03Z | GitHub | [$5] Add gspread SheetsBackend implementation | bounty | 待评估 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/1 |
+| 2026-03-09T20:02:22Z | GitHub | [EASY BOUNTY: 3 RTC] Write a Mini-Review of a BoTT | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1099 |
+| 2026-03-09T20:03:58Z | GitHub | Properly fix CI | bounty | 待评估 | https://github.com/cooljeanius/apple-gdb-1824/issues/14 |
+| 2026-03-09T20:07:34Z | GitHub | [BOUNTY: 30 RTC] BoTTube creator onboarding empty- | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1492 |
+| 2026-03-09T20:10:39Z | GitHub | [BOUNTY] LinkedIn People & Company Enrichment API  | bounty | 待评估 | https://github.com/bolivian-peru/marketplace-service-template/issues/77 |
+| 2026-03-09T20:10:59Z | GitHub | [BOUNTY] Food Delivery Price Intelligence API —  | bounty | 待评估 | https://github.com/bolivian-peru/marketplace-service-template/issues/76 |
+| 2026-03-09T20:11:13Z | GitHub | [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/71 |
+| 2026-03-09T20:22:01Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a B | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1106 |
