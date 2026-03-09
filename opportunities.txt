@@ -48,3 +48,14 @@
 2026-03-09T15:12:37Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | https://github.com/commaai/opendbc/issues/1834 | bounty | 待评估
 2026-03-09T15:12:38Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 | bounty | 待评估
 2026-03-09T15:12:39Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 | bounty | 待评估
+2026-03-09T15:55:20Z | GitHub | Bounty: Implement MediaElement control (lifetime commercial license reward) | https://github.com/Chevalier12/InkkSlinger/issues/5 | bounty | 待评估
+2026-03-09T15:58:38Z | GitHub | [BOUNTY: 5-10 RTC] BoTTube OEmbed Protocol — Rich Link Previews Everywhere | https://github.com/Scottcjn/rustchain-bounties/issues/753 | bounty | 待评估
+2026-03-09T16:00:10Z | GitHub | [BOUNTY: 50-100 RTC] Native Rust Wallet for RustChain — CLI + crates.io | https://github.com/Scottcjn/rustchain-bounties/issues/733 | bounty | 待评估
+2026-03-09T16:05:11Z | GitHub | [Bounty $1500] OpenVoice V2 bring up using TTNN APIs | https://github.com/tenstorrent/tt-metal/issues/32182 | bounty | 待评估
+2026-03-09T16:12:47Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending / Confirmed | https://github.com/Scottcjn/rustchain-bounties/issues/104 | bounty | 待评估
+2026-03-09T16:15:13Z | GitHub | Build a Beacon Atlas City visualization (75 RTC Bounty) | https://github.com/Scottcjn/rustchain-bounties/issues/159 | bounty | 待评估
+2026-03-09T16:16:20Z | GitHub | [Bounty $1500] MoLE (Mixture-of-Linear-Experts) Bring-Up Using TTNN APIs | https://github.com/tenstorrent/tt-metal/issues/32143 | bounty | 待评估
+2026-03-09T16:24:09Z | GitHub | 升级 GoodActionHub 的 Next.js 和 Vercel 基础设施 | https://github.com/GoodAction-Hub/GoodAction-Hub.github.io/issues/1 | reward | 待评估
+2026-03-09T16:24:52Z | GitHub | [BOUNTY: 25-50 RTC] Build a BoTTube Chrome Extension — Browse, Vote, Upload | https://github.com/Scottcjn/rustchain-bounties/issues/729 | bounty | 待评估
+2026-03-09T16:26:29Z | GitHub | improve design of waitlist submitted state on landing page | https://github.com/bountydotnew/bounty.new/issues/231 | bounty | 待评估
+2026-03-09T16:29:22Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bio + first published video | https://github.com/Scottcjn/rustchain-bounties/issues/1504 | bounty | 待评估

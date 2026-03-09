@@ -13,13 +13,13 @@
 ## 最近机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-09T15:08:05Z | GitHub | 🤖 RIP-302: Agent Economy is LIVE — Build on i | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/683 |
-| 2026-03-09T15:10:15Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
-| 2026-03-09T15:10:31Z | GitHub | [BOUNTY: 5-10 RTC] BoTTube OEmbed Protocol — Ric | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/753 |
-| 2026-03-09T15:11:04Z | GitHub | Subtask: Track D claim page and eligibility flow f | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1512 |
-| 2026-03-09T15:11:08Z | GitHub | Subtask: Track C bridge API and lock ledger for RI | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1511 |
-| 2026-03-09T15:11:12Z | GitHub | Subtask: Track B Base ERC-20 deployment for RIP-30 | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1510 |
-| 2026-03-09T15:11:18Z | GitHub | Subtask: Track A Solana SPL token deployment for R | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1509 |
-| 2026-03-09T15:12:37Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | bounty | 待评估 | https://github.com/commaai/opendbc/issues/1834 |
-| 2026-03-09T15:12:38Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bount | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 |
-| 2026-03-09T15:12:39Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 |
+| 2026-03-09T15:58:38Z | GitHub | [BOUNTY: 5-10 RTC] BoTTube OEmbed Protocol — Ric | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/753 |
+| 2026-03-09T16:00:10Z | GitHub | [BOUNTY: 50-100 RTC] Native Rust Wallet for RustCh | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/733 |
+| 2026-03-09T16:05:11Z | GitHub | [Bounty $1500] OpenVoice V2 bring up using TTNN AP | bounty | 待评估 | https://github.com/tenstorrent/tt-metal/issues/32182 |
+| 2026-03-09T16:12:47Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
+| 2026-03-09T16:15:13Z | GitHub | Build a Beacon Atlas City visualization (75 RTC Bo | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/159 |
+| 2026-03-09T16:16:20Z | GitHub | [Bounty $1500] MoLE (Mixture-of-Linear-Experts) Br | bounty | 待评估 | https://github.com/tenstorrent/tt-metal/issues/32143 |
+| 2026-03-09T16:24:09Z | GitHub | 升级 GoodActionHub 的 Next.js 和 Vercel 基础 | reward | 待评估 | https://github.com/GoodAction-Hub/GoodAction-Hub.github.io/issues/1 |
+| 2026-03-09T16:24:52Z | GitHub | [BOUNTY: 25-50 RTC] Build a BoTTube Chrome Extensi | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/729 |
+| 2026-03-09T16:26:29Z | GitHub | improve design of waitlist submitted state on land | bounty | 待评估 | https://github.com/bountydotnew/bounty.new/issues/231 |
+| 2026-03-09T16:29:22Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bi | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1504 |
