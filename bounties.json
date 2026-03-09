@@ -298,5 +298,35 @@
     "claim_url": "",
     "last_update_utc": "2026-03-09T02:30:00Z",
     "notes": "[BOUNTY] Hall of Fame Machine Detail Pages — Clickable Profiles (50 RTC)"
+  },
+  {
+    "id": 69,
+    "accepted_at_utc": "2026-03-09T03:30:00Z",
+    "source": "github",
+    "repo": "PlatformNetwork/bounty-challenge",
+    "issue_url": "https://github.com/PlatformNetwork/bounty-challenge/issues/24460",
+    "reward": "1 point (convertible to RTC)",
+    "reward_type": "POINTS",
+    "reward_value": null,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T03:30:00Z",
+    "notes": "[BUG] [alpha] Toolchain Selector truncates installation path with no way to view the full value"
+  },
+  {
+    "id": 70,
+    "accepted_at_utc": "2026-03-09T03:30:00Z",
+    "source": "github",
+    "repo": "PlatformNetwork/bounty-challenge",
+    "issue_url": "https://github.com/PlatformNetwork/bounty-challenge/issues/24463",
+    "reward": "1 point (convertible to RTC)",
+    "reward_type": "POINTS",
+    "reward_value": null,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T03:30:00Z",
+    "notes": "[BUG] [alpha] Port Forwarding add dialog same-port option text does not toggle switch"
   }
 ]
