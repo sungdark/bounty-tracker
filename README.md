@@ -1,18 +1,16 @@
-# Bounty Tracker (sungdark)
-
-用于记录已接/在途/已完成 bounty，作为整点战报的数据基线。
-
+# Bounty Opportunity Tracker
+自动扫描并记录所有赚钱机会，包括GitHub赏金、数字产品售卖、自由职业任务等。
 ## 字段说明
-- id: 本地唯一任务编号
-- accepted_at_utc: 接单时间（UTC）
-- source: github
-- repo: 目标仓库
-- issue_url: 任务链接
-- reward: 奖励原文
-- reward_type: USD/RTC/ISNAD/SATS/POINTS/UNKNOWN
-- reward_value: 数值（可空）
-- status: accepted|in_progress|pr_open|merged|paid|blocked|dropped
-- pr_url: PR 链接（可空）
-- claim_url: claim/回帖链接（可空）
-- last_update_utc: 最近更新时间（UTC）
-- notes: 备注
+| 字段 | 类型 | 说明 |
+|------|------|------|
+| time | string | 发现时间 (UTC) |
+| source | string | 来源平台 |
+| title | string | 机会标题 |
+| url | string | 详情链接 |
+| amount | string | 金额/报酬 |
+| status | string | 状态 (待评估/进行中/已完成/已过期) |
+| notes | string | 备注 |
+## 最近机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-09 12:30 | 系统初始化 | 赏金扫描任务启动 | - | 进行中 | - |
