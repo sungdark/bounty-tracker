@@ -13,13 +13,13 @@
 ## 最近机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-09T18:02:06Z | GitHub | [BOUNTY: 10-50 RTC] YouTube Tutorial Videos — Bo | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1158 |
-| 2026-03-09T18:02:07Z | GitHub | [BOUNTY: 10-50 RTC] Vintage Hardware Speed Run — | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1156 |
-| 2026-03-09T18:02:07Z | GitHub | [EASY BOUNTY: 2-5 RTC] Cross-Platform Syndication  | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1157 |
-| 2026-03-09T18:12:10Z | GitHub | [$250 bounty] Move CAN ignition hooks and add test | bounty | 待评估 | https://github.com/commaai/opendbc/issues/1834 |
-| 2026-03-09T18:12:11Z | GitHub | 📲 Mobile Push Notification UX — 250 LTD Bount | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/87 |
-| 2026-03-09T18:12:12Z | GitHub | 🚩 Content Report/Flag System — 250 LTD Bounty | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/51 |
-| 2026-03-09T18:14:46Z | GitHub | XEP-0444: Message reactions | bounty | 待评估 | https://github.com/conversejs/converse.js/issues/2398 |
-| 2026-03-09T18:15:04Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
-| 2026-03-09T18:25:08Z | GitHub | Bounty Board - Claim Your Karma | bounty | 待评估 | https://github.com/fabriziosalmi/enjoy/issues/8 |
-| 2026-03-09T18:29:01Z | GitHub | [CAMPAIGN] 5,000 Stars Drive — Earn Up to 430 RT | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/425 |
+| 2026-03-09T19:07:43Z | GitHub | [BOUNTY: 30 RTC] BoTTube creator onboarding empty- | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1492 |
+| 2026-03-09T19:09:49Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
+| 2026-03-09T19:10:11Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bi | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1504 |
+| 2026-03-09T19:11:07Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
+| 2026-03-09T19:11:09Z | GitHub | [BOUNTY] Translate a README section to your langua | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/774 |
+| 2026-03-09T19:13:34Z | GitHub | ⚡ Performance Audit + Lighthouse Optimization � | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/86 |
+| 2026-03-09T19:14:15Z | GitHub | [BOUNTY] Star the repo and share why (0.5 RTC) | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/773 |
+| 2026-03-09T19:14:17Z | GitHub | [BOUNTY] Add a code comment explaining a function  | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/772 |
+| 2026-03-09T19:17:36Z | GitHub | [BOUNTY] Fix a typo in docs or comments (0.5 RTC) | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/771 |
+| 2026-03-09T19:29:37Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a B | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1106 |

@@ -138,3 +138,23 @@
 2026-03-05T18:37:49Z | GitHub | Game: Blackjack | https://github.com/DocJade/doint/issues/68 | reward | 待评估
 2026-03-05T17:08:42Z | GitHub | Reward: I used to be rich... | https://github.com/DocJade/doint/issues/66 | reward | 待评估
 2026-03-05T17:08:38Z | GitHub | 现代化 HOP（黑客松开放平台）个人主页 UI 样式 | https://github.com/FreeCodeCamp-Chengdu/HOP/issues/32 | reward | 待评估
+2026-03-09T19:29:37Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a BoTTube Agent | https://github.com/Scottcjn/rustchain-bounties/issues/1106 | bounty | 待评估
+2026-03-09T19:17:36Z | GitHub | [BOUNTY] Fix a typo in docs or comments (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/771 | bounty | 待评估
+2026-03-09T19:14:17Z | GitHub | [BOUNTY] Add a code comment explaining a function (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/772 | bounty | 待评估
+2026-03-09T19:14:15Z | GitHub | [BOUNTY] Star the repo and share why (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/773 | bounty | 待评估
+2026-03-09T19:13:34Z | GitHub | ⚡ Performance Audit + Lighthouse Optimization — 150 LTD Bounty | https://github.com/INDIGOAZUL/la-tanda-web/issues/86 | bounty | 待评估
+2026-03-09T19:11:09Z | GitHub | [BOUNTY] Translate a README section to your language (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/774 | bounty | 待评估
+2026-03-09T19:11:07Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/775 | bounty | 待评估
+2026-03-09T19:10:11Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bio + first published video | https://github.com/Scottcjn/rustchain-bounties/issues/1504 | bounty | 待评估
+2026-03-09T19:09:49Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending / Confirmed | https://github.com/Scottcjn/rustchain-bounties/issues/104 | bounty | 待评估
+2026-03-09T19:07:43Z | GitHub | [BOUNTY: 30 RTC] BoTTube creator onboarding empty-state + first upload checklist | https://github.com/Scottcjn/rustchain-bounties/issues/1492 | bounty | 待评估
+2026-03-09T17:25:40Z | GitHub | 搭建 GoodActionHub 独立数据仓库 | https://github.com/GoodAction-Hub/GoodAction-data/issues/1 | reward | 待评估
+2026-03-07T20:20:45Z | GitHub | 开发开源悬赏平台“代币交易所” 功能 | https://github.com/Digital-Nomad-Home/MiniApp/issues/2 | reward | 待评估
+2026-03-07T20:20:42Z | GitHub | 开发开源悬赏平台的“权益商城”功能 | https://github.com/Digital-Nomad-Home/MiniApp/issues/3 | reward | 待评估
+2026-03-07T20:20:39Z | GitHub | 基于 OCToken NFT 机制实现【开放协作人奖】颁发程序 | https://github.com/Open-Source-Bazaar/Open-Source-Bazaar.github.io/issues/53 | reward | 待评估
+2026-03-07T10:24:57Z | GitHub | HTTPClient 支持模拟 HEAD 请求 | https://github.com/EasyWebApp/KoAJAX/issues/18 | reward | 待评估
+2026-03-06T09:47:33Z | GitHub | 需求评估页面支持文件上传、解析 | https://github.com/idea2app/idea2app.github.io/issues/95 | reward | 待评估
+2026-03-05T18:40:13Z | GitHub | Doccord stock | https://github.com/DocJade/doint/issues/72 | reward | 待评估
+2026-03-05T18:37:49Z | GitHub | Game: Blackjack | https://github.com/DocJade/doint/issues/68 | reward | 待评估
+2026-03-05T17:08:42Z | GitHub | Reward: I used to be rich... | https://github.com/DocJade/doint/issues/66 | reward | 待评估
+2026-03-05T17:08:38Z | GitHub | 现代化 HOP（黑客松开放平台）个人主页 UI 样式 | https://github.com/FreeCodeCamp-Chengdu/HOP/issues/32 | reward | 待评估
