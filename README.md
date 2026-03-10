@@ -59,3 +59,33 @@
 | 2026-03-10T11:33:00Z | GitHub | [BUG] Submissions List - Ask: 0 price displays for Fixed Reward listings before approval | Undisclosed | 待评估 | https://github.com/NEAR-DevHub/nearn/issues/496 |
 | 2026-03-10T11:33:00Z | GitHub | Configuration error while installing Google Workspace MCP | Undisclosed | 待评估 | https://github.com/archestra-ai/archestra/issues/2717 |
 | 2026-03-10T11:33:00Z | GitHub | Bounties not displaying on homepage | $50 USD | 待评估 | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 |
+| 2026-03-10T12:30:00Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 RTC) | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] workspace_aggregate_git_status frontend payload uses 'roots' but backend requires 'workspaceRoots' (IPC arg mismatch) | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24632 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Snippets panel, the Close button has no tooltip. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24952 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] Git Diff edit flow invokes unregistered IPC command git_show_file (command not found) | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25056 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Snippets panel, the Search box works when space key: " ". | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24958 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Snippets panel, the All Languages button has no hover style action. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24992 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Snippets panel, the Close button doesn't work sometimes. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24959 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Edit Snippet panel, the Close and Save buttons have no hover style action. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24949 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] The Quick Chat panel is not closed when try to close. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24941 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Keyboard Shortcuts modal, the Reset All button's clicked border style is cut. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24996 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Bookmarks panel, the Delete button doesn't work correctly while editing state. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24911 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Change Language Mode panel, the Search box work with space string " ". | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24895 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Keyboard Shortcuts modal, the search category select button(All Commands) has no hover style. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25015 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] Keyboard Shortcuts->Record New Shortcut: it doesn't work. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25004 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Snippets panel, the language category item's clicked style is cut. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24960 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] The Go to Line panel has no padding, so looks dirty. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24923 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Edit Profile modal, some icons are not shown in the icon list. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25018 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Edit Snippets panel, the language is not changed after Saving. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24956 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Quick Chat panel, the chat log item's content is invalid. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24942 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Quick Chat panel, no margin between chat log items. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24944 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Open Tab Switcher panel, no space between short key string and its' explanation string. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24929 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Bookmarks panel, the arrow keys don't work. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24914 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Reopen with Encoding panel, the Search box work incorrectly. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24900 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Keyboard Shortcuts modal, the Collapse All button is clicked when click the outside area of the button. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24998 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] The Bookmarks panel is not opened again after one item clicked. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24906 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Bookmarks panel, the Edit button visible while editing state. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24904 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Manage Profiles modal, the New Profile modal's Close button also close the Manage Profiles modal. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25006 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Keyboard Shortcuts modal-> Record New Shortcut modal: it is says that press ESC to close but it doesn't work. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25000 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Tab Switcher panel, range error caused, so unexpected file opened. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24937 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] In the Bookmarks panel, the Clear All button's icon and name string are mismatch the location style. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24909 |
