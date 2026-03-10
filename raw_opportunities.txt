@@ -251,3 +251,23 @@
 2026-03-05T18:37:49Z | GitHub | Game: Blackjack | https://github.com/DocJade/doint/issues/68 | reward | 待评估
 2026-03-05T17:08:42Z | GitHub | Reward: I used to be rich... | https://github.com/DocJade/doint/issues/66 | reward | 待评估
 2026-03-05T17:08:38Z | GitHub | 现代化 HOP（黑客松开放平台）个人主页 UI 样式 | https://github.com/FreeCodeCamp-Chengdu/HOP/issues/32 | reward | 待评估
+2026-03-10T05:26:55Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs, Earn RTC (100 RTC Pool) | https://github.com/Scottcjn/rustchain-bounties/issues/73 | bounty | 待评估
+2026-03-10T05:26:55Z | GitHub | [BOUNTY: 10 RTC each] RustChain Windows miner bundle smoke test + failure notes | https://github.com/Scottcjn/rustchain-bounties/issues/1501 | bounty | 待评估
+2026-03-10T05:26:50Z | GitHub | [BOUNTY: 200 RTC] RIP-305 Cross-Chain Airdrop — wRTC on Solana + Base | https://github.com/Scottcjn/rustchain-bounties/issues/1149 | bounty | 待评估
+2026-03-10T05:21:54Z | GitHub | [EASY BOUNTY: 2-5 RTC] Cross-Platform Syndication — Post About RustChain on 3+ Agent Platforms | https://github.com/Scottcjn/rustchain-bounties/issues/1157 | bounty | 待评估
+2026-03-10T05:10:48Z | GitHub | [BOUNTY] Fork a Scottcjn Repo + Add to Your Profile — 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/256 | bounty | 待评估
+2026-03-10T05:08:09Z | GitHub | [BOUNTY] Open an Issue or Comment on Any Scottcjn Repo — 1 RTC Each | https://github.com/Scottcjn/rustchain-bounties/issues/254 | bounty | 待评估
+2026-03-10T05:08:01Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/775 | bounty | 待评估
+2026-03-10T05:07:52Z | GitHub | Mobile Wallet: Security hardening for v2 | https://github.com/Scottcjn/Rustchain/issues/785 | bounty | 待评估
+2026-03-10T04:52:02Z | GitHub | [BOUNTY: 0.5 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 10 RTC) | https://github.com/Scottcjn/rustchain-bounties/issues/731 | bounty | 待评估
+2026-03-10T04:51:16Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending / Confirmed | https://github.com/Scottcjn/rustchain-bounties/issues/104 | bounty | 待评估
+2026-03-09T19:58:51Z | GitHub | 迁移 GoodActionHub 网站到独立数据仓库 API | https://github.com/GoodAction-Hub/GoodAction-Hub.github.io/issues/3 | reward | 待评估
+2026-03-07T20:20:45Z | GitHub | 开发开源悬赏平台“代币交易所” 功能 | https://github.com/Digital-Nomad-Home/MiniApp/issues/2 | reward | 待评估
+2026-03-07T20:20:42Z | GitHub | 开发开源悬赏平台的“权益商城”功能 | https://github.com/Digital-Nomad-Home/MiniApp/issues/3 | reward | 待评估
+2026-03-07T20:20:39Z | GitHub | 基于 OCToken NFT 机制实现【开放协作人奖】颁发程序 | https://github.com/Open-Source-Bazaar/Open-Source-Bazaar.github.io/issues/53 | reward | 待评估
+2026-03-07T10:24:57Z | GitHub | HTTPClient 支持模拟 HEAD 请求 | https://github.com/EasyWebApp/KoAJAX/issues/18 | reward | 待评估
+2026-03-06T09:47:33Z | GitHub | 需求评估页面支持文件上传、解析 | https://github.com/idea2app/idea2app.github.io/issues/95 | reward | 待评估
+2026-03-05T18:40:13Z | GitHub | Doccord stock | https://github.com/DocJade/doint/issues/72 | reward | 待评估
+2026-03-05T18:37:49Z | GitHub | Game: Blackjack | https://github.com/DocJade/doint/issues/68 | reward | 待评估
+2026-03-05T17:08:42Z | GitHub | Reward: I used to be rich... | https://github.com/DocJade/doint/issues/66 | reward | 待评估
+2026-03-05T17:08:38Z | GitHub | 现代化 HOP（黑客松开放平台）个人主页 UI 样式 | https://github.com/FreeCodeCamp-Chengdu/HOP/issues/32 | reward | 待评估
