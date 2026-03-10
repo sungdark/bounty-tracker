@@ -176,3 +176,12 @@
 | 2026-03-10T16:05:07Z | GitHub | [EASY BOUNTY: 2 RTC] Add an Elyan Labs Link to Your Personal Site or Link-in-Bio | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1577 |
 | 2026-03-10T16:05:07Z | GitHub | [EASY BOUNTY: 5 RTC] Add a Flagship Project to an Awesome List or Public Tool Directory | 5 RTC per accepted placement | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1578 |
 | 2026-03-10T17:30:00Z | Freelancer | Various freelance jobs | $11-$441 | 待评估 | https://www.freelancer.com/jobs/ |
+
+### 2026-03-10 19:39 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T19:39:00Z | Hacker News | HitCommit – Pay Devs to Solve Your GitHub Issues | Variable | 待评估 | https://hitcommit.com |
+| 2026-03-10T19:39:00Z | Hacker News | $1M Bounty to Integrate National EIDs Using Open Standards | $2,000 - $8,000 per eID | 待评估 | https://www.hopae.com/bountychallenge2025 |
+| 2026-03-10T19:39:00Z | Hacker News | Algora – Open source coding bounties | $46,899 total available | 待评估 | https://console.algora.io/hacktoberfest |
+| 2026-03-10T19:39:00Z | Hacker News | Google paid $10M in bug bounty rewards last year | Up to $30,000+ | 待评估 | https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/ |
+| 2026-03-10T19:39:00Z | comma.ai | comma.ai Bounty Program | Variable | 待评估 | https://comma.ai/bounties |
