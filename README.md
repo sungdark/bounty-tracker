@@ -153,3 +153,26 @@
 | 2026-03-10T16:35:00Z | HackerOne | Acronis Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/acronis |
 | 2026-03-10T16:35:00Z | HackerOne | Affirm Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/affirm |
 | 2026-03-10T16:35:00Z | HackerOne | Airbnb Bug Bounty Program | Variable | 待评估 | https://hackerone.com/airbnb |
+
+### 2026-03-10 17:35 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T17:32:43Z | GitHub | [BOUNTY] RCS Support | $14,999 USD | 待评估 | https://github.com/microg/GmsCore/issues/2994 |
+| 2026-03-10T17:30:31Z | GitHub | PII Export & Delete Workflow (GDPR-ready) | Undisclosed | 待评估 | https://github.com/rohitdash08/FinMind/issues/76 |
+| 2026-03-10T17:00:26Z | GitHub | Bounty: Bounty Card Component | Undisclosed | 待评估 | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/1 |
+| 2026-03-10T16:56:14Z | GitHub | [Bounty $1500] MoLE (Mixture-of-Linear-Experts) Bring-Up Using TTNN APIs | $1,500 USD | 待评估 | https://github.com/tenstorrent/tt-metal/issues/32143 |
+| 2026-03-10T16:49:46Z | GitHub | [BOUNTY: 25-40 RTC] GitHub Tip Bot — /tip @user in Issues & PRs | 25-40 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1153 |
+| 2026-03-10T16:44:45Z | GitHub | [$10] Add GitHub Actions CI pipeline | $10 USD | 待评估 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/5 |
+| 2026-03-10T16:40:54Z | GitHub | Chicken in Every Pot: Fork the Big 5 and Earn RTC | Up to 25 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/697 |
+| 2026-03-10T16:37:25Z | GitHub | 🔭 Chain Explorer Enhancements — 200 LTD Bounty | 200 LTD | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/89 |
+| 2026-03-10T16:36:51Z | GitHub | [BOUNTY] Star the repo and share why | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/773 |
+| 2026-03-10T16:35:41Z | GitHub | [BOUNTY: 8 RTC] RTC Token Distribution Analysis | 8 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1113 |
+| 2026-03-10T16:35:39Z | GitHub | [BOUNTY] Show Off Your Setup — Post Your Mining Rig or Vintage Hardware | 5 RTC each | 待评估 | https://github.com/Scottcjn/bottube/issues/123 |
+| 2026-03-10T16:35:36Z | GitHub | [EASY BOUNTY: 2 RTC] Share a BoTTube Video on Social Media | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1098 |
+| 2026-03-10T16:31:23Z | GitHub | [EASY BOUNTY: 3 RTC] Mention an Elyan Labs Project in an Existing Repo README or Docs Site | 3 RTC per accepted claim | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1579 |
+| 2026-03-10T16:31:07Z | GitHub | [FUNNEL BOUNTY: up to 10 RTC per pair] Founding Agent Onboarding Loop | Up to 10 RTC per pair | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1585 |
+| 2026-03-10T16:31:07Z | GitHub | [FUNNEL BOUNTY: up to 10 RTC per pair] Founding Human Referral Loop | Up to 10 RTC per pair | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1584 |
+| 2026-03-10T16:23:30Z | GitHub | Mobile Wallet: Security hardening for v2 | 100 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/785 |
+| 2026-03-10T16:05:07Z | GitHub | [EASY BOUNTY: 2 RTC] Add an Elyan Labs Link to Your Personal Site or Link-in-Bio | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1577 |
+| 2026-03-10T16:05:07Z | GitHub | [EASY BOUNTY: 5 RTC] Add a Flagship Project to an Awesome List or Public Tool Directory | 5 RTC per accepted placement | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1578 |
+| 2026-03-10T17:30:00Z | Freelancer | Various freelance jobs | $11-$441 | 待评估 | https://www.freelancer.com/jobs/ |
