@@ -331,6 +331,7 @@
   },
   {
     "id": 71,
+<<<<<<< HEAD
     "accepted_at_utc": "2026-03-09T05:30:00Z",
     "source": "github",
     "repo": "rin259/bottube-mcp-server",
@@ -412,10 +413,94 @@
     "issue_url": "https://github.com/PlatformNetwork/bounty-challenge/issues/24632",
     "reward": "1 point (convertible to RTC)",
     "reward_type": "POINTS",
+=======
+    "accepted_at_utc": "2026-03-09T07:30:00Z",
+    "source": "github",
+    "repo": "Scottcjn/rustchain-bounties",
+    "issue_url": "https://github.com/Scottcjn/rustchain-bounties/issues/1519",
+    "reward": "150 RTC + 50 RTC bonus",
+    "reward_type": "RTC",
+    "reward_value": 9.27,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T07:30:00Z",
+    "notes": "Integrate Beacon into CrewAI/LangGraph template + optional Beacon integration bonus"
+  },
+  {
+    "id": 72,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "bolivian-peru/marketplace-service-template",
+    "issue_url": "https://github.com/bolivian-peru/marketplace-service-template/issues/52",
+    "reward": "$75 in SX token",
+    "reward_type": "USD",
+    "reward_value": 75,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Google Discover Feed Intelligence API - build API that captures mobile Google Discover feed content across countries"
+  },
+  {
+    "id": 73,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "bountydotnew/bounty.new",
+    "issue_url": "https://github.com/bountydotnew/bounty.new/issues/188",
+    "reward": "$100 USD",
+    "reward_type": "USD",
+    "reward_value": 100,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Test bounty - $100 funded"
+  },
+  {
+    "id": 74,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "Scottcjn/rustchain-bounties",
+    "issue_url": "https://github.com/Scottcjn/rustchain-bounties/issues/674",
+    "reward": "25-150 RTC",
+    "reward_type": "RTC",
+    "reward_value": 1.5,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Build RustChain Tools & Features in Rust (tiers 1-3, 25-150 RTC)"
+  },
+  {
+    "id": 75,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "Scottcjn/rustchain-bounties",
+    "issue_url": "https://github.com/Scottcjn/rustchain-bounties/issues/675",
+    "reward": "25-100 RTC",
+    "reward_type": "RTC",
+    "reward_value": 1.5,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Build RustChain Tools & Features in Java (tiers 1-3, 25-100 RTC)"
+  },
+  {
+    "id": 76,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "PayPol-Foundation/paypol-protocol",
+    "issue_url": "https://github.com/PayPol-Foundation/paypol-protocol/issues/2",
+    "reward": "Bounty reward (see CONTRIBUTING.md)",
+    "reward_type": "UNKNOWN",
+>>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec
     "reward_value": null,
     "status": "open",
     "pr_url": "",
     "claim_url": "",
+<<<<<<< HEAD
     "last_update_utc": "2026-03-09T23:30:00Z",
     "notes": "[BUG] [alpha] workspace_aggregate_git_status frontend payload uses 'roots' but backend requires 'workspaceRoots' (IPC arg mismatch)"
   },
@@ -426,11 +511,24 @@
     "repo": "TheSuperHackers/GeneralsGameCode",
     "issue_url": "https://github.com/TheSuperHackers/GeneralsGameCode/issues/2434",
     "reward": "Unknown",
+=======
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Build a Token Vesting Agent for PayPol protocol"
+  },
+  {
+    "id": 77,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "PayPol-Foundation/paypol-protocol",
+    "issue_url": "https://github.com/PayPol-Foundation/paypol-protocol/issues/4",
+    "reward": "Bounty reward (see BOUNTY.md)",
+>>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec
     "reward_type": "UNKNOWN",
     "reward_value": null,
     "status": "open",
     "pr_url": "",
     "claim_url": "",
+<<<<<<< HEAD
     "last_update_utc": "2026-03-09T23:30:00Z",
     "notes": "GLA Cash Bounty incorrect value for China Red Guard"
   },
@@ -441,11 +539,24 @@
     "repo": "picsoritdidnthappen/poidh-app",
     "issue_url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1216",
     "reward": "Unknown",
+=======
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Build an Airdrop Distribution Agent for PayPol protocol"
+  },
+  {
+    "id": 78,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "PayPol-Foundation/paypol-protocol",
+    "issue_url": "https://github.com/PayPol-Foundation/paypol-protocol/issues/7",
+    "reward": "Bounty reward (see BOUNTY.md)",
+>>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec
     "reward_type": "UNKNOWN",
     "reward_value": null,
     "status": "open",
     "pr_url": "",
     "claim_url": "",
+<<<<<<< HEAD
     "last_update_utc": "2026-03-09T23:30:00Z",
     "notes": "Bounties not displaying on homepage"
   },
@@ -456,11 +567,24 @@
     "repo": "picsoritdidnthappen/poidh-app",
     "issue_url": "https://github.com/picsoritdidnthappen/poidh-app/issues/1219",
     "reward": "Unknown",
+=======
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Build a Gas Estimation Agent for Multi-chain (Tempo/Ethereum/Arbitrum/Base)"
+  },
+  {
+    "id": 79,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "sorosave-protocol/sdk",
+    "issue_url": "https://github.com/sorosave-protocol/sdk/issues/10",
+    "reward": "Unspecified bounty",
+>>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec
     "reward_type": "UNKNOWN",
     "reward_value": null,
     "status": "open",
     "pr_url": "",
     "claim_url": "",
+<<<<<<< HEAD
     "last_update_utc": "2026-03-09T23:30:00Z",
     "notes": "\"Thank you for your vote\" message not displaying for bounty creator"
   },
@@ -472,10 +596,24 @@
     "issue_url": "https://github.com/PlatformNetwork/bounty-challenge/issues/22159",
     "reward": "1 point (convertible to RTC)",
     "reward_type": "POINTS",
+=======
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Add SDK wallet adapter abstraction (Freighter/Albedo/xBull support)"
+  },
+  {
+    "id": 80,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "gbabaisaac/mergefund-hackathon-kit",
+    "issue_url": "https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3",
+    "reward": "Unspecified bounty",
+    "reward_type": "UNKNOWN",
+>>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec
     "reward_value": null,
     "status": "open",
     "pr_url": "",
     "claim_url": "",
+<<<<<<< HEAD
     "last_update_utc": "2026-03-09T23:30:00Z",
     "notes": "[BUG] [alpha] The Window's maximize button doesn't change when it become maximized."
   },
@@ -486,11 +624,24 @@
     "repo": "PlatformNetwork/bounty-challenge",
     "issue_url": "https://github.com/PlatformNetwork/bounty-challenge/issues/22309",
     "reward": "1 point (convertible to RTC)",
+=======
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Implement a ranking algorithm for marketplace bounties"
+  },
+  {
+    "id": 81,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "fabriziosalmi/enjoy",
+    "issue_url": "https://github.com/fabriziosalmi/enjoy/issues/8",
+    "reward": "10-100 karma points",
+>>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec
     "reward_type": "POINTS",
     "reward_value": null,
     "status": "open",
     "pr_url": "",
     "claim_url": "",
+<<<<<<< HEAD
     "last_update_utc": "2026-03-09T23:30:00Z",
     "notes": "[BUG] [alpha] SVGPreview `Fit to view` sets 500% zoom for valid SVGs with percentage width/height and no viewBox"
   },
@@ -973,5 +1124,114 @@
     "claim_url": "https://www.hackerone.com/bug-bounty-programs",
     "last_update_utc": "2026-03-10T01:30:00Z",
     "notes": "HackerOne Plaid bug bounty program - find security vulnerabilities in Plaid systems"
+=======
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Bounty Board - Claim Your Karma (easy/medium/hard/epic bounties)"
+  },
+  {
+    "id": 82,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "Scottcjn/rustchain-bounties",
+    "issue_url": "https://github.com/Scottcjn/rustchain-bounties/issues/401",
+    "reward": "Monthly pool 100 RTC",
+    "reward_type": "RTC",
+    "reward_value": 6,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Retroactive Impact Rewards - monthly bonus pool for high-impact contributions"
+  },
+  {
+    "id": 83,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "turbo-eth/template-web3-app",
+    "issue_url": "https://github.com/turbo-eth/template-web3-app/issues/56",
+    "reward": "325 OP",
+    "reward_type": "OP",
+    "reward_value": 38.29,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Delegatable Integration & Subscription Enforcer - 325 OP + DevPass"
+  },
+  {
+    "id": 84,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "turbo-eth/template-web3-app",
+    "issue_url": "https://github.com/turbo-eth/template-web3-app/issues/29",
+    "reward": "500 OP",
+    "reward_type": "OP",
+    "reward_value": 58.91,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "TurboETH Template - 500 OP + DevPass, web3 app template integration"
+  },
+  {
+    "id": 85,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "turbo-eth/template-web3-app",
+    "issue_url": "https://github.com/turbo-eth/template-web3-app/issues/53",
+    "reward": "175 OP",
+    "reward_type": "OP",
+    "reward_value": 20.62,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Livepeer + Disco Video Gating using Verifiable Credentials - 175 OP + DevPass"
+  },
+  {
+    "id": 86,
+    "accepted_at_utc": "2026-03-09T10:30:00Z",
+    "source": "github",
+    "repo": "turbo-eth/template-web3-app",
+    "issue_url": "https://github.com/turbo-eth/template-web3-app/issues/54",
+    "reward": "175 OP",
+    "reward_type": "OP",
+    "reward_value": 20.62,
+    "status": "open",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T10:30:00Z",
+    "notes": "Livepeer + Lit Protocol Video Gating using ERC20/ERC721 Tokens - 175 OP + DevPass"
+  },
+  {
+    "id": 87,
+    "accepted_at_utc": "2026-03-09T16:30:00Z",
+    "source": "github",
+    "repo": "bountydotnew/bounty.new",
+    "issue_url": "https://github.com/bountydotnew/bounty.new/issues/231",
+    "reward": "Unknown",
+    "reward_type": "USD",
+    "reward_value": 0,
+    "status": "pending",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T16:30:00Z",
+    "notes": "设计类任务，金额待确认"
+  },
+  {
+    "id": 88,
+    "accepted_at_utc": "2026-03-09T16:30:00Z",
+    "source": "github",
+    "repo": "Scottcjn/rustchain-bounties",
+    "issue_url": "https://github.com/Scottcjn/rustchain-bounties/issues/1519",
+    "reward": "150 RTC",
+    "reward_type": "RTC",
+    "reward_value": 150,
+    "status": "pending",
+    "pr_url": "",
+    "claim_url": "",
+    "last_update_utc": "2026-03-09T16:30:00Z",
+    "notes": "AI集成任务，+50 RTC bonus for Beacon集成"
+>>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec
   }
 ]

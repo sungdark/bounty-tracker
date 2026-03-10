@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 === 2026-03-09 23:30 开始扫描赚钱机会 ===
 [2026-03-09 23:30] 扫描GitHub赏金issues...
 [2026-03-09 23:30] 整理扫描结果...
@@ -27,3 +28,82 @@ error: failed to push some refs to 'https://github.com/sungdark/bounty-tracker.g
 error: src refspec main does not match any
 error: failed to push some refs to 'https://github.com/sungdark/bounty-tracker.git'
 === 2026-03-10 03:30 扫描完成 ===
+=======
+=== 2026-03-09 12:33 开始扫描赚钱机会 ===
+[2026-03-09 12:33] 扫描GitHub赏金issues...
+[2026-03-09 12:33] 整理扫描结果...
+[main be374cd] scan: 2026-03-09 12:33 扫描更新
+ 4 files changed, 53 insertions(+), 1 deletion(-)
+ create mode 100644 opportunities.txt
+ create mode 100644 raw_opportunities.txt
+ create mode 100644 scan.log
+To https://github.com/sungdark/bounty-tracker.git
+   dcb2faf..be374cd  main -> main
+=== 2026-03-09 12:33 扫描完成 ===
+=== 2026-03-09 13:30 开始扫描赚钱机会 ===
+[2026-03-09 13:30] 扫描GitHub赏金issues...
+[2026-03-09 13:30] 整理扫描结果...
+[main 91cbe16] scan: 2026-03-09 13:30 扫描更新
+ 4 files changed, 51 insertions(+), 10 deletions(-)
+To https://github.com/sungdark/bounty-tracker.git
+   be374cd..91cbe16  main -> main
+=== 2026-03-09 13:30 扫描完成 ===
+=== 2026-03-09 14:30 开始扫描赚钱机会 ===
+[2026-03-09 14:30] 扫描GitHub赏金issues...
+[2026-03-09 14:30] 整理扫描结果...
+[main fa3a711] scan: 2026-03-09 14:30 扫描更新
+ 4 files changed, 48 insertions(+), 10 deletions(-)
+To https://github.com/sungdark/bounty-tracker.git
+   39aa9f5..fa3a711  main -> main
+=== 2026-03-09 14:30 扫描完成 ===
+=== 2026-03-09 15:30 开始扫描赚钱机会 ===
+[2026-03-09 15:30] 扫描GitHub赏金issues...
+[2026-03-09 15:30] 整理扫描结果...
+[main 72e9095] scan: 2026-03-09 15:30 扫描更新
+ 4 files changed, 63 insertions(+), 25 deletions(-)
+ rewrite README.md (60%)
+To https://github.com/sungdark/bounty-tracker.git
+   fa3a711..72e9095  main -> main
+=== 2026-03-09 15:30 扫描完成 ===
+=== 2026-03-09 16:30 开始扫描赚钱机会 ===
+[2026-03-09 16:30] 扫描GitHub赏金issues...
+[2026-03-09 16:30] 整理扫描结果...
+[main abfd77c] scan: 2026-03-09 16:30 扫描更新
+ 4 files changed, 59 insertions(+), 25 deletions(-)
+ rewrite README.md (64%)
+To https://github.com/sungdark/bounty-tracker.git
+   7ee750e..abfd77c  main -> main
+=== 2026-03-09 16:30 扫描完成 ===
+=== 2026-03-09 17:30 开始扫描赚钱机会 ===
+[2026-03-09 17:30] 扫描GitHub赏金issues...
+[2026-03-09 17:30] 整理扫描结果...
+[main 9dcc907] scan: 2026-03-09 17:30 扫描更新
+ 4 files changed, 59 insertions(+), 25 deletions(-)
+ rewrite README.md (64%)
+To https://github.com/sungdark/bounty-tracker.git
+   4b65af6..9dcc907  main -> main
+=== 2026-03-09 17:30 扫描完成 ===
+=== 2026-03-09 18:30 开始扫描赚钱机会 ===
+[2026-03-09 18:30] 扫描GitHub赏金issues...
+[2026-03-09 18:30] 整理扫描结果...
+[main 821ac3c] scan: 2026-03-09 18:30 扫描更新
+ 4 files changed, 49 insertions(+), 10 deletions(-)
+To https://github.com/sungdark/bounty-tracker.git
+   ce7677f..821ac3c  main -> main
+=== 2026-03-09 18:30 扫描完成 ===
+=== 2026-03-09 19:30 开始扫描赚钱机会 ===
+[2026-03-09 19:30] 扫描GitHub赏金issues...
+[2026-03-09 19:30] 整理扫描结果...
+[main beaf3fe] scan: 2026-03-09 19:30 扫描更新
+ 4 files changed, 63 insertions(+), 25 deletions(-)
+ rewrite README.md (67%)
+To https://github.com/sungdark/bounty-tracker.git
+   821ac3c..beaf3fe  main -> main
+=== 2026-03-09 19:30 扫描完成 ===
+=== 2026-03-09 20:30 开始扫描赚钱机会 ===
+[2026-03-09 20:30] 扫描GitHub赏金issues...
+[2026-03-09 20:30] 整理扫描结果...
+>>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec
+=== 2026-03-10 04:30 开始扫描赚钱机会 ===
+[2026-03-10 04:30] 扫描GitHub赏金issues...
+[2026-03-10 04:30] 整理扫描结果...

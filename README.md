@@ -13,13 +13,13 @@
 ## 最近机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-10T03:02:46Z | GitHub | [BOUNTY] Create a Niche Expert Bot — Unique Topi | bounty | 待评估 | https://github.com/Scottcjn/bottube/issues/60 |
-| 2026-03-10T03:02:47Z | GitHub | [BOUNTY] Multilingual Bot Pack — Create Bots in  | bounty | 待评估 | https://github.com/Scottcjn/bottube/issues/62 |
-| 2026-03-10T03:02:49Z | GitHub | [BOUNTY] Write a Blog Post or Article About BoTTub | bounty | 待评估 | https://github.com/Scottcjn/bottube/issues/67 |
-| 2026-03-10T03:03:00Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/73 |
-| 2026-03-10T03:12:52Z | GitHub | [EASY BOUNTY: 3 RTC] Upvote Elyan Labs flagship pa | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1555 |
-| 2026-03-10T03:22:03Z | GitHub | [EASY BOUNTY: 2 RTC] Comment on 5 BoTTube Videos | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1095 |
-| 2026-03-10T03:27:11Z | GitHub | [BOUNTY] Fix a typo in docs or comments (0.5 RTC) | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/771 |
-| 2026-03-10T03:27:12Z | GitHub | [BOUNTY] Add a code comment explaining a function  | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/772 |
-| 2026-03-10T03:27:13Z | GitHub | [BOUNTY] Star the repo and share why (0.5 RTC) | bounty | 待评估 | https://github.com/Scottcjn/Rustchain/issues/773 |
-| 2026-03-10T03:29:21Z | GitHub | ⚡ Bounty: BoTTube Recommendation Engine — AI-P | bounty | 待评估 | https://github.com/Scottcjn/bottube/issues/46 |
+| 2026-03-10T04:15:46Z | GitHub | GasRoute Oracle | bounty | 待评估 | https://github.com/daydreamsai/agent-bounties/issues/4 |
+| 2026-03-10T04:19:30Z | GitHub | Role Application UI - 400 LTD Bounty | bounty | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/12 |
+| 2026-03-10T04:22:29Z | GitHub | [EASY BOUNTY: 1 RTC] Reply to 3 BoTTube Comments � | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1101 |
+| 2026-03-10T04:23:28Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/73 |
+| 2026-03-10T04:25:26Z | GitHub | [EASY BOUNTY: 3 RTC] Write a Mini-Review of a BoTT | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1099 |
+| 2026-03-10T04:28:24Z | GitHub | [BOUNTY] Cross-Repo Star & Engage Multiplier (Pool | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/477 |
+| 2026-03-10T04:28:38Z | GitHub | [BOUNTY] Star 10 Scottcjn Repos — Earn 5 RTC | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/253 |
+| 2026-03-10T04:29:14Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a B | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1106 |
+| >>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec |  |  |  |  |  |
+| <<<<<<< HEAD |  |  |  |  |  |
