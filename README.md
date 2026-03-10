@@ -126,3 +126,12 @@
 | 2026-03-10T15:30:00Z | Freelancer | Business income tax preparation (3 years) | $32 | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-10T15:30:00Z | Freelancer | Accounting tutoring (1:1) | $18 / hr | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-10T15:30:00Z | Freelancer | iOS 13-14 jailbreak camera feed swap tweak | 未标注 | 待评估 | https://www.freelancer.com/jobs/ |
+
+### 2026-03-10 16:30 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T16:30:00Z | GitHub | [FUNNEL BOUNTY: up to 10 RTC per pair] Founding Referral Loop — Bring a New User into RustChain + BoTTube | Up to 10 RTC per pair | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1583 |
+| 2026-03-10T16:30:00Z | GitHub | [EASY BOUNTY: 3 RTC] Mention an Elyan Labs Project in an Existing Repo README or Docs Site | 3 RTC per accepted claim | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1579 |
+| 2026-03-10T16:30:00Z | GitHub | [EASY BOUNTY: 2 RTC] Add an Elyan Labs Link to Your Personal Site or Link-in-Bio | 2 RTC per accepted claim | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1577 |
+| 2026-03-10T16:30:00Z | GitHub | [EASY BOUNTY: 5 RTC] Add a Flagship Project to an Awesome List or Public Tool Directory | 5 RTC per accepted placement | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1578 |
+| 2026-03-10T16:30:00Z | GitHub | Register in Ecosystem Contributors — 5 RTC per registration | 5 RTC per registration | 待评估 | https://github.com/Scottcjn/rustchain-bounties/ |
