@@ -43,3 +43,8 @@
 | 2026-03-10T08:30:00Z | GitHub | 💰 Bounty: Web UI for Email Inbox | 200 tokens | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/1 |
 | 2026-03-10T09:32:00Z | GitHub | [$250] Bank account- Unable to update currency in overview when WS has partially added non-US bank account | $250 USD | 待评估 | https://github.com/Expensify/App/issues/84535 |
 | 2026-03-10T09:32:00Z | GitHub | [BOUNTY] Report a bug with reproduction steps | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
+| 2026-03-10T11:30:00Z | GitHub | BOUNTY 50 usd token | $50 USD | 待评估 | https://github.com/souvik0908/sei-sense/issues/1 |
+| 2026-03-10T11:30:00Z | GitHub | [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC | Up to 750 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/71 |
+| 2026-03-10T11:30:00Z | GitHub | [BOUNTY] Report a Bug — 5-15 RTC | 5-15 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/305 |
+| 2026-03-10T11:30:00Z | GitHub | [BOUNTY] Break the RustChain Mechanism Spec + Falsification Matrix | Undisclosed | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/356 |
+| 2026-03-10T11:30:00Z | GitHub | Bounties can be posted without authentication - security risk | Undisclosed | 待评估 | https://github.com/datafund/Agent-Data-Exchange/issues/17 |
