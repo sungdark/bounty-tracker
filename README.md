@@ -275,3 +275,18 @@
 | 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Share Why You Starred RustChain — 3 RTC + Community Shoutout (Pool: 300 RTC) | 3 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/165 |
 | 2026-03-10T22:45:00Z | GitHub | Star & Share beacon-skill on GitHub (25 RTC Bounty) | 25 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/157 |
 | 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Star & Follow BoTTube — Earn 2 RTC Instantly (Pool: 200 RTC) | 2 RTC | 待评估 | https://github.com/Scottcjn/bottube/issues/74 |
+
+### 2026-03-10 23:37 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T23:37:00Z | Cantina | Uniswap Labs Bug Bounty Program | Up to $15,500,000 USDC | 待评估 | https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be |
+| 2026-03-10T23:37:00Z | Cantina | Euler Bug Bounty Program | Up to $7,500,000 USDC + rEUL + USUAL | 待评估 | https://cantina.xyz/bounties/4d285eee-602e-440a-845e-25e155cec26a |
+| 2026-03-10T23:37:00Z | Cantina | Coinbase Web3 Bug Bounty Program | Up to $5,000,000 | 待评估 | https://cantina.xyz/bounties/55316f42-3c5e-4746-9bd0-0f18dcbc344b |
+| 2026-03-10T23:37:00Z | Cantina | Morpho Bug Bounty Program | Up to $2,500,000 USDC | 待评估 | https://cantina.xyz/bounties/35a5f0a1-2ffd-432c-8f3b-77d169add8c3 |
+| 2026-03-10T23:37:00Z | Cantina | Pendle Finance Bug Bounty Program | Up to $2,000,000 USDC | 待评估 | https://cantina.xyz/bounties/fb1f1c54-0cb9-4201-8791-fb1e78e6e600 |
+| 2026-03-10T23:37:00Z | Cantina | PancakeSwap Bug Bounty Program | Up to $1,000,000 USDC | 待评估 | https://cantina.xyz/bounties/ea552420-8bd6-4119-815d-3d5203d0377a |
+| 2026-03-10T23:37:00Z | Cantina | LI.FI Bug Bounty Program | Up to $1,000,000 USDC | 待评估 | https://cantina.xyz/bounties/260585d8-a3e8-4d70-8077-b6f3f5f0391b |
+| 2026-03-10T23:37:00Z | Cantina | Kiln Bug Bounty Program | Up to $1,000,000 USDC | 待评估 | https://cantina.xyz/bounties/607dd012-08ad-4080-bf4a-78dc1c28faa9 |
+| 2026-03-10T23:37:00Z | Intigriti | Global Bug Bounty Platform | Variable | 待评估 | https://www.intigriti.com/ |
+| 2026-03-10T23:37:00Z | Bug-Bounty.com | Bug Bounty Platform | Variable | 待评估 | https://bug-bounty.com/ |
+| 2026-03-10T23:37:00Z | Tumar | Bug Bounty Platform | Variable | 待评估 | https://tumar.one/ |
