@@ -1,0 +1,32 @@
+[
+  {
+    "time": "2026-03-10T05:30:00Z",
+    "title": "[BOUNTY] Report a bug with reproduction steps (0.5 RTC)",
+    "url": "https://github.com/Scottcjn/Rustchain/issues/775",
+    "amount": "0.5 RTC",
+    "currency": "RTC",
+    "status": "open",
+    "progress": "pending",
+    "source": "GitHub Issues"
+  },
+  {
+    "time": "2026-03-10T05:30:00Z",
+    "title": "[BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (200 RTC Pool)",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/71",
+    "amount": "Up to 750 RTC",
+    "currency": "RTC",
+    "status": "open",
+    "progress": "pending",
+    "source": "GitHub Issues"
+  },
+  {
+    "time": "2026-03-10T05:30:00Z",
+    "title": "Properly fix CI",
+    "url": "https://github.com/cooljeanius/apple-gdb-1824/issues/14",
+    "amount": "Unknown",
+    "currency": "USD",
+    "status": "open",
+    "progress": "pending",
+    "source": "GitHub Issues"
+  }
+]
