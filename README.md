@@ -135,3 +135,21 @@
 | 2026-03-10T16:30:00Z | GitHub | [EASY BOUNTY: 2 RTC] Add an Elyan Labs Link to Your Personal Site or Link-in-Bio | 2 RTC per accepted claim | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1577 |
 | 2026-03-10T16:30:00Z | GitHub | [EASY BOUNTY: 5 RTC] Add a Flagship Project to an Awesome List or Public Tool Directory | 5 RTC per accepted placement | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1578 |
 | 2026-03-10T16:30:00Z | GitHub | Register in Ecosystem Contributors — 5 RTC per registration | 5 RTC per registration | 待评估 | https://github.com/Scottcjn/rustchain-bounties/ |
+
+### 2026-03-10 16:35 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T16:35:00Z | GitHub | Bounty Verification Bot (auto-verify claims) | 200 RTC pool | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/747 |
+| 2026-03-10T16:35:00Z | GitHub | Decibel Perpetual connector for Hummingbot | Undisclosed | 待评估 | https://github.com/hummingbot/hummingbot/issues/8028 |
+| 2026-03-10T16:35:00Z | GitHub | Code Review Bounty Program | 10-15 RTC per PR | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/73 |
+| 2026-03-10T16:35:00Z | GitHub | Ongoing Bug Bounty Program (RustChain) | Up to 750 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/71 |
+| 2026-03-10T16:35:00Z | GitHub | Chain Explorer Enhancements (La Tanda) | 200 LTD | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/89 |
+| 2026-03-10T16:35:00Z | GitHub | Accessibility Audit + Fixes (La Tanda) | 200 LTD | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/85 |
+| 2026-03-10T16:35:00Z | GitHub | MediaElement parity for InkkSlinger | Lifetime commercial license | 待评估 | https://github.com/Chevalier12/InkkSlinger/issues/5 |
+| 2026-03-10T16:35:00Z | HackerOne | 1Password Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/1password |
+| 2026-03-10T16:35:00Z | HackerOne | 23andMe Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/23andme_bbp |
+| 2026-03-10T16:35:00Z | HackerOne | 3CX Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/3cx |
+| 2026-03-10T16:35:00Z | HackerOne | 8x8 Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/8x8-bounty |
+| 2026-03-10T16:35:00Z | HackerOne | Acronis Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/acronis |
+| 2026-03-10T16:35:00Z | HackerOne | Affirm Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/affirm |
+| 2026-03-10T16:35:00Z | HackerOne | Airbnb Bug Bounty Program | Variable | 待评估 | https://hackerone.com/airbnb |
