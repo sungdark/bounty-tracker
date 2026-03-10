@@ -290,3 +290,24 @@
 | 2026-03-10T23:37:00Z | Intigriti | Global Bug Bounty Platform | Variable | 待评估 | https://www.intigriti.com/ |
 | 2026-03-10T23:37:00Z | Bug-Bounty.com | Bug Bounty Platform | Variable | 待评估 | https://bug-bounty.com/ |
 | 2026-03-10T23:37:00Z | Tumar | Bug Bounty Platform | Variable | 待评估 | https://tumar.one/ |
+
+### 2026-03-10 23:42 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T23:42:00Z | GitHub | [BOUNTY] RCS Support [14999$] | $14,999 USD | 待评估 | https://github.com/microg/GmsCore/issues/2994 |
+| 2026-03-10T23:42:00Z | GitHub | [$5] Add unit tests for network.py (spider network) | $5 USD | 待评估 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/3 |
+| 2026-03-10T23:42:00Z | GitHub | [$5] Add unit tests for pipeline.py | $5 USD | 待评估 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/2 |
+| 2026-03-10T23:42:00Z | GitHub | [BOUNTY: 75-100 RTC] RustChain MCP Server — Query the Chain from Claude Code | 75-100 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1152 |
+| 2026-03-10T23:42:00Z | GitHub | [BOUNTY: 50-75 RTC] Bounty Verification Bot — Auto-Verify Star/Follow Claims | 50-75 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/747 |
+| 2026-03-10T23:42:00Z | GitHub | [BOUNTY] BoTTube SEO Audit Fix Pack (FixMyLanding / Lighthouse) | 75 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/121 |
+| 2026-03-10T23:42:00Z | GitHub | Complete a test bounty: Submit PR and receive USDC payment | $20 USD | 待评估 | https://github.com/ubounty-app/ubounty-demo/issues/9 |
+| 2026-03-10T23:42:00Z | GitHub | 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) | 100 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/66 |
+| 2026-03-10T23:42:00Z | GitHub | Implement Enhanced Security Features for X/Twitter Scraping Tool | 未标注 | 待评估 | https://github.com/nitininhouse/X-twitter-trends-scrapping/issues/1 |
+| 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 3 RTC] Write a Mini-Review of a BoTTube Video | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1099 |
+| 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 3-5 RTC] Find and Report a BoTTube Bug | 3-5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1102 |
+| 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 2 RTC] Translate 5 BoTTube Video Descriptions | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1108 |
+| 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 2 RTC] Curate a BoTTube Top 10 List | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1103 |
+| 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 3 RTC] Write a BoTTube vs YouTube Shorts Comparison | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1107 |
+| 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a BoTTube Agent | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1106 |
+| 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 1 RTC] BoTTube First Impression — Tell Us What You Think | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1109 |
+| 2026-03-10T23:42:00Z | GitHub | [Achievement] Bug Hunter - Find a Real Bug - 3 RTC | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/520 |
