@@ -33,3 +33,8 @@
 | 2026-03-10T06:30:00Z | Medium | 2026 Digital Products Passive Income Guide | $2,000+/month potential | 待评估 | https://travisnicholson.medium.com/14-digital-products-to-sell-for-passive-income-2026-91bb0cbc3293 |
 | 2026-03-10T06:30:00Z | Amasty | 2026 Top Trending Digital Products | High profit margin | 待评估 | https://amasty.com/blog/best-digital-products-to-sell/ |
 | 2026-03-10T06:30:00Z | ResellReady | PLR Digital Products Reselling Opportunities | Variable | 待评估 | https://resellready.co/blogs/news/most-profitable-digital-products-to-sell-in-2026 |
+| 2026-03-10T07:30:00Z | GitHub | test bounty with link | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/237 |
+| 2026-03-10T07:30:00Z | GitHub | improve design of waitlist submitted state on landing page | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/231 |
+| 2026-03-10T07:30:00Z | GitHub | free bounty | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/218 |
+| 2026-03-10T07:30:00Z | HackerOne | CarrerZooms Bug Bounty Program | Variable | 待评估 | https://hackerone.com/carrerzooms |
+| 2026-03-10T07:30:00Z | HackerOne | Security Test External Program (Invite-only) | Variable | 待评估 | https://hackerone.com/security-test-ep-invite-only |
