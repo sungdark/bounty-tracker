@@ -235,3 +235,19 @@
 | 2026-03-10T20:40:00Z | GitHub | [BOUNTY] Translate a README section to your language (0.5 RTC) | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/774 |
 | 2026-03-10T20:40:00Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 RTC) | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
 | 2026-03-10T20:40:00Z | GitHub | [CAMPAIGN] 5,000 Stars Drive — Earn Up to 430 RTC (5,000 RTC Pool) | Up to 430 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/425 |
+
+### 2026-03-10 21:40 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T21:40:00Z | GitHub | $200 bounty: AltTab can't open Telegram | $200 USD | 待评估 | https://github.com/lwouis/alt-tab-macos/issues/5149 |
+| 2026-03-10T21:40:00Z | GitHub | $100 Bounty - Windows Binary | $100 USD | 待评估 | https://github.com/coder/code-server/issues/7198 |
+| 2026-03-10T21:40:00Z | GitHub | Bounties not displaying on homepage | $50 USD | 待评估 | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 |
+| 2026-03-10T21:40:00Z | GitHub | BOUNTY 50 usd token | $50 USD | 待评估 | https://github.com/souvik0908/sei-sense/issues/1 |
+| 2026-03-10T21:40:00Z | GitHub | [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC | Up to 750 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/71 |
+| 2026-03-10T21:40:00Z | GitHub | [BOUNTY] Report a Bug — 5-15 RTC | 5-15 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/305 |
+| 2026-03-10T21:40:00Z | GitHub | [BOUNTY] Break the RustChain Mechanism Spec + Falsification Matrix | Undisclosed | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/356 |
+| 2026-03-10T21:40:00Z | GitHub | Bounties can be posted without authentication - security risk | Undisclosed | 待评估 | https://github.com/datafund/Agent-Data-Exchange/issues/17 |
+| 2026-03-10T21:40:00Z | GitHub | Swag bounty - Create 10 hoodie designs | $100 USD | 待评估 | https://github.com/better-feedback/better-dopex/issues/2 |
+| 2026-03-10T21:40:00Z | GitHub | "Thank you for your vote" message not displaying for bounty creator | Undisclosed | 待评估 | https://github.com/picsoritdidnthappen/poidh-app/issues/1219 |
+| 2026-03-10T21:40:00Z | GitHub | GLA Cash Bounty incorrect value for China Red Guard | Undisclosed | 待评估 | https://github.com/TheSuperHackers/GeneralsGameCode/issues/2434 |
+| 2026-03-10T21:40:00Z | GitHub | [BUG] [alpha] Can't edit the git cloned project | Undisclosed | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/22013 |
