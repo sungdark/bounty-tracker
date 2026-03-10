@@ -41,3 +41,5 @@
 | 2026-03-10T08:30:00Z | GitHub | 💰 Bounty: API Documentation + Python SDK | 100 tokens | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/3 |
 | 2026-03-10T08:30:00Z | GitHub | 💰 Bounty: Automated Email Verification | 150 tokens | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/2 |
 | 2026-03-10T08:30:00Z | GitHub | 💰 Bounty: Web UI for Email Inbox | 200 tokens | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/1 |
+| 2026-03-10T09:32:00Z | GitHub | [$250] Bank account- Unable to update currency in overview when WS has partially added non-US bank account | $250 USD | 待评估 | https://github.com/Expensify/App/issues/84535 |
+| 2026-03-10T09:32:00Z | GitHub | [BOUNTY] Report a bug with reproduction steps | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
