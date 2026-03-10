@@ -21,5 +21,9 @@
 | 2026-03-10T05:26:50Z | GitHub | [BOUNTY: 200 RTC] RIP-305 Cross-Chain Airdrop —  | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1149 |
 | 2026-03-10T05:26:55Z | GitHub | [BOUNTY: 10 RTC each] RustChain Windows miner bund | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1501 |
 | 2026-03-10T05:26:55Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/73 |
-| >>>>>>> dbb76fbf2c4e27fbeaad6bbe2b852cdfefd5bbec |  |  |  |  |  |
-| <<<<<<< HEAD |  |  |  |  |  |
+| 2026-03-10T06:31:00Z | GitHub | test bounty | $100.00 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/188 |
+| 2026-03-10T06:31:00Z | GitHub | Bounty Card Component | 未标注 | 待评估 | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/1 |
+| 2026-03-10T06:31:00Z | GitHub | [BOUNTY] Potential Base Network Bounties - March 2026 | 未标注 | 待评估 | https://github.com/lbbcym/robin-base-tools/issues/4 |
+| 2026-03-10T06:31:00Z | GitHub | Bug bounty (idos-network) | 未标注 | 待评估 | https://github.com/idos-network/idos-sdk-js/issues/1387 |
+| 2026-03-10T06:31:00Z | GitHub | Bounty Leaderboard Page | 未标注 | 待评估 | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/2 |
+| 2026-03-10T06:31:00Z | GitHub | Bounty Discovery Algorithm | 未标注 | 待评估 | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3 |
