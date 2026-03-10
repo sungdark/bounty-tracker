@@ -48,3 +48,14 @@
 | 2026-03-10T11:30:00Z | GitHub | [BOUNTY] Report a Bug — 5-15 RTC | 5-15 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/305 |
 | 2026-03-10T11:30:00Z | GitHub | [BOUNTY] Break the RustChain Mechanism Spec + Falsification Matrix | Undisclosed | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/356 |
 | 2026-03-10T11:30:00Z | GitHub | Bounties can be posted without authentication - security risk | Undisclosed | 待评估 | https://github.com/datafund/Agent-Data-Exchange/issues/17 |
+| 2026-03-10T11:33:00Z | GitHub | fix archestra__get_mcp_gateway tool and check other archestra__ tools | $30 USD | 待评估 | https://github.com/archestra-ai/archestra/issues/3214 |
+| 2026-03-10T11:33:00Z | GitHub | ZStreams buffer(1) is buffering 2. | $250 USD | 待评估 | https://github.com/zio/zio/issues/9810 |
+| 2026-03-10T11:33:00Z | GitHub | Scala Native `WeakConcurrentBag` NPE when forking 10K fibers | $150 USD | 待评估 | https://github.com/zio/zio/issues/9681 |
+| 2026-03-10T11:33:00Z | GitHub | ClassCassException when using HandlerAspect and Path parameters. | Undisclosed | 待评估 | https://github.com/zio/zio-http/issues/3141 |
+| 2026-03-10T11:33:00Z | GitHub | zio.test.Gen generates the same data every time in certain conditions | Undisclosed | 待评估 | https://github.com/zio/zio/issues/9101 |
+| 2026-03-10T11:33:00Z | GitHub | Database dumps do not work on large databases | Undisclosed | 待评估 | https://github.com/outerbase/starbasedb/issues/59 |
+| 2026-03-10T11:33:00Z | GitHub | [BUG] Create Bounty - Rewards: First prize reward duplicates after reopening Add Rewards modal | Undisclosed | 待评估 | https://github.com/NEAR-DevHub/nearn/issues/542 |
+| 2026-03-10T11:33:00Z | GitHub | [BUG] Create Project - Duplicate From Bounty: Impossible complete creation with different Reward Type | Undisclosed | 待评估 | https://github.com/NEAR-DevHub/nearn/issues/504 |
+| 2026-03-10T11:33:00Z | GitHub | [BUG] Submissions List - Ask: 0 price displays for Fixed Reward listings before approval | Undisclosed | 待评估 | https://github.com/NEAR-DevHub/nearn/issues/496 |
+| 2026-03-10T11:33:00Z | GitHub | Configuration error while installing Google Workspace MCP | Undisclosed | 待评估 | https://github.com/archestra-ai/archestra/issues/2717 |
+| 2026-03-10T11:33:00Z | GitHub | Bounties not displaying on homepage | $50 USD | 待评估 | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 |
