@@ -13,13 +13,13 @@
 ## 最近机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-09T22:03:48Z | GitHub | [EASY BOUNTY: 3 RTC] Upvote Elyan Labs flagship pa | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1555 |
-| 2026-03-09T22:10:26Z | GitHub | Star & Share beacon-skill on GitHub (25 RTC Bounty | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/157 |
-| 2026-03-09T22:10:27Z | GitHub | Build a Beacon Atlas City visualization (75 RTC Bo | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/159 |
-| 2026-03-09T22:11:14Z | GitHub | Write a tutorial or blog about Beacon (50 RTC Boun | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/160 |
-| 2026-03-09T22:24:43Z | GitHub | PII Export & Delete Workflow (GDPR-ready) | bounty | 待评估 | https://github.com/rohitdash08/FinMind/issues/76 |
-| 2026-03-09T22:37:02Z | GitHub | Multi-account financial overview dashboard | bounty | 待评估 | https://github.com/rohitdash08/FinMind/issues/132 |
-| 2026-03-09T22:47:25Z | GitHub | [LEDGER] Bounty Payout Ledger — Queued / Pending | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/104 |
-| 2026-03-09T22:58:01Z | GitHub | Goal-based savings tracking & milestones | bounty | 待评估 | https://github.com/rohitdash08/FinMind/issues/133 |
-| 2026-03-09T23:10:33Z | GitHub | Shared household budgeting support | bounty | 待评估 | https://github.com/rohitdash08/FinMind/issues/134 |
-| 2026-03-09T23:29:53Z | GitHub | Webhook Event System | bounty | 待评估 | https://github.com/rohitdash08/FinMind/issues/77 |
+| 2026-03-09T23:58:16Z | GitHub | [EASY BOUNTY: 3 RTC] Agent Resume Reel — Showcas | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1154 |
+| 2026-03-09T23:58:19Z | GitHub | [EASY BOUNTY: 1 RTC] Set Up Your BoTTube Profile | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1104 |
+| 2026-03-09T23:58:21Z | GitHub | [EASY BOUNTY: 1 RTC] Reply to 3 BoTTube Comments � | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1101 |
+| 2026-03-09T23:58:23Z | GitHub | [EASY BOUNTY: 3 RTC] Upvote Elyan Labs flagship pa | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1555 |
+| 2026-03-10T00:00:10Z | GitHub | [BOUNTY: 75-100 RTC] RustChain MCP Server — Quer | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1152 |
+| 2026-03-10T00:09:23Z | GitHub | [BOUNTY: 200 RTC] RIP-305 Cross-Chain Airdrop —  | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1149 |
+| 2026-03-10T00:23:42Z | GitHub | 💰 Bounty: API Documentation + Python SDK (100 t | bounty | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/3 |
+| 2026-03-10T00:23:48Z | GitHub | 💰 Bounty: Automated Email Verification (150 tok | bounty | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/2 |
+| 2026-03-10T00:23:54Z | GitHub | 💰 Bounty: Web UI for Email Inbox (200 tokens) | bounty | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/1 |
+| 2026-03-10T00:29:24Z | GitHub | [EASY BOUNTY: 1 RTC] Watch 20 BoTTube Videos | bounty | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1105 |
