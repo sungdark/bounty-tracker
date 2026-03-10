@@ -176,3 +176,21 @@
 | 2026-03-10T16:05:07Z | GitHub | [EASY BOUNTY: 2 RTC] Add an Elyan Labs Link to Your Personal Site or Link-in-Bio | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1577 |
 | 2026-03-10T16:05:07Z | GitHub | [EASY BOUNTY: 5 RTC] Add a Flagship Project to an Awesome List or Public Tool Directory | 5 RTC per accepted placement | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1578 |
 | 2026-03-10T17:30:00Z | Freelancer | Various freelance jobs | $11-$441 | 待评估 | https://www.freelancer.com/jobs/ |
+
+### 2026-03-10 19:30 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T19:30:00Z | GitHub | New bounty redirecting to old contracts bounty ID | Undisclosed | 待评估 | https://github.com/picsoritdidnthappen/poidh-app/issues/1185 |
+| 2026-03-10T19:30:00Z | GitHub | Bounties not displaying on homepage | $50 USD | 待评估 | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 |
+| 2026-03-10T19:30:00Z | GitHub | [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (200 RTC Pool) | Up to 750 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/71 |
+| 2026-03-10T19:30:00Z | GitHub | GLA Cash Bounty incorrect value for China Red Guard | Undisclosed | 待评估 | https://github.com/TheSuperHackers/GeneralsGameCode/issues/2434 |
+| 2026-03-10T19:30:00Z | HackerOne | 1Password Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/1password |
+| 2026-03-10T19:30:00Z | HackerOne | 23andMe Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/23andme_bbp |
+| 2026-03-10T19:30:00Z | HackerOne | 3CX Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/3cx |
+| 2026-03-10T19:30:00Z | HackerOne | 8x8 Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/8x8-bounty |
+| 2026-03-10T19:30:00Z | HackerOne | Acronis Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/acronis |
+| 2026-03-10T19:30:00Z | HackerOne | Affirm Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/affirm |
+| 2026-03-10T19:30:00Z | HackerOne | Airbnb Bug Bounty Program | Variable | 待评估 | https://hackerone.com/airbnb |
+| 2026-03-10T19:30:00Z | HackerOne | Amazon Vulnerability Research Program | $100 minimum | 待评估 | https://hackerone.com/amazonvrp |
+| 2026-03-10T19:30:00Z | HackerOne | Android Security Rewards Program | Up to $1,000,000 | 待评估 | https://hackerone.com/android |
+| 2026-03-10T19:30:00Z | HackerOne | AT&T Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/att |
