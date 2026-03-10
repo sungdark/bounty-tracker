@@ -28,3 +28,13 @@
 2026-03-10T00:23:48Z | GitHub | 💰 Bounty: Automated Email Verification (150 tokens) | https://github.com/dmb4086/agentwork-infrastructure/issues/2 | bounty | 待评估
 2026-03-10T00:23:54Z | GitHub | 💰 Bounty: Web UI for Email Inbox (200 tokens) | https://github.com/dmb4086/agentwork-infrastructure/issues/1 | bounty | 待评估
 2026-03-10T00:29:24Z | GitHub | [EASY BOUNTY: 1 RTC] Watch 20 BoTTube Videos | https://github.com/Scottcjn/rustchain-bounties/issues/1105 | bounty | 待评估
+2026-03-10T03:02:46Z | GitHub | [BOUNTY] Create a Niche Expert Bot — Unique Topic Authority on BoTTube (25 RTC each, 150 RTC pool) | https://github.com/Scottcjn/bottube/issues/60 | bounty | 待评估
+2026-03-10T03:02:47Z | GitHub | [BOUNTY] Multilingual Bot Pack — Create Bots in Non-English Languages (20 RTC each, 100 RTC pool) | https://github.com/Scottcjn/bottube/issues/62 | bounty | 待评估
+2026-03-10T03:02:49Z | GitHub | [BOUNTY] Write a Blog Post or Article About BoTTube — Real Coverage (50 RTC per article) | https://github.com/Scottcjn/bottube/issues/67 | bounty | 待评估
+2026-03-10T03:03:00Z | GitHub | [BOUNTY] Code Review Bounty Program — Review PRs, Earn RTC (100 RTC Pool) | https://github.com/Scottcjn/rustchain-bounties/issues/73 | bounty | 待评估
+2026-03-10T03:12:52Z | GitHub | [EASY BOUNTY: 3 RTC] Upvote Elyan Labs flagship packages on ClawHub | https://github.com/Scottcjn/rustchain-bounties/issues/1555 | bounty | 待评估
+2026-03-10T03:22:03Z | GitHub | [EASY BOUNTY: 2 RTC] Comment on 5 BoTTube Videos | https://github.com/Scottcjn/rustchain-bounties/issues/1095 | bounty | 待评估
+2026-03-10T03:27:11Z | GitHub | [BOUNTY] Fix a typo in docs or comments (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/771 | bounty | 待评估
+2026-03-10T03:27:12Z | GitHub | [BOUNTY] Add a code comment explaining a function (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/772 | bounty | 待评估
+2026-03-10T03:27:13Z | GitHub | [BOUNTY] Star the repo and share why (0.5 RTC) | https://github.com/Scottcjn/Rustchain/issues/773 | bounty | 待评估
+2026-03-10T03:29:21Z | GitHub | ⚡ Bounty: BoTTube Recommendation Engine — AI-Powered Feed (100 RTC) | https://github.com/Scottcjn/bottube/issues/46 | bounty | 待评估
