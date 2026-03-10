@@ -27,3 +27,9 @@
 | 2026-03-10T06:31:00Z | GitHub | Bug bounty (idos-network) | 未标注 | 待评估 | https://github.com/idos-network/idos-sdk-js/issues/1387 |
 | 2026-03-10T06:31:00Z | GitHub | Bounty Leaderboard Page | 未标注 | 待评估 | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/2 |
 | 2026-03-10T06:31:00Z | GitHub | Bounty Discovery Algorithm | 未标注 | 待评估 | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3 |
+| 2026-03-10T06:30:00Z | GitHub | GitHub Official Bug Bounty Program | Up to $30,000+ | 待评估 | https://bounty.github.com/ |
+| 2026-03-10T06:30:00Z | BugBountyRadar | Public Bug Bounty Programs Database | Variable | 待评估 | https://bbradar.io/ |
+| 2026-03-10T06:30:00Z | GitKraken | GitKraken Security Bug Bounty | Variable | 待评估 | https://www.gitkraken.com/bug-bounty-program |
+| 2026-03-10T06:30:00Z | Medium | 2026 Digital Products Passive Income Guide | $2,000+/month potential | 待评估 | https://travisnicholson.medium.com/14-digital-products-to-sell-for-passive-income-2026-91bb0cbc3293 |
+| 2026-03-10T06:30:00Z | Amasty | 2026 Top Trending Digital Products | High profit margin | 待评估 | https://amasty.com/blog/best-digital-products-to-sell/ |
+| 2026-03-10T06:30:00Z | ResellReady | PLR Digital Products Reselling Opportunities | Variable | 待评估 | https://resellready.co/blogs/news/most-profitable-digital-products-to-sell-in-2026 |
