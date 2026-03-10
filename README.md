@@ -89,3 +89,18 @@
 | 2026-03-10T12:30:00Z | GitHub | [BUG] In the Keyboard Shortcuts modal-> Record New Shortcut modal: it is says that press ESC to close but it doesn't work. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25000 |
 | 2026-03-10T12:30:00Z | GitHub | [BUG] In the Tab Switcher panel, range error caused, so unexpected file opened. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24937 |
 | 2026-03-10T12:30:00Z | GitHub | [BUG] In the Bookmarks panel, the Clear All button's icon and name string are mismatch the location style. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24909 |
+| 2026-03-10T12:30:00Z | GitHub | GLA Cash Bounty incorrect value for China Red Guard | 未标注 | 待评估 | https://github.com/TheSuperHackers/GeneralsGameCode/issues/2434 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [alpha] Error caused when try to open the .mp4 file. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24103 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [alpha] The Extensions sidebar short key Ctrl+Shift+X doesn't work. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/23774 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [ALPHA] ACP custom `command:` handlers bypass sandbox execution policy and allow arbitrary process spawn | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/23039 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [alpha] Short key Alt+Shift+P navigate to a strange web page. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/23773 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [alpha] In the Search Editor panel, Error when click the Editor button. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/23064 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [alpha] In the Terminals panel, the Close button has not a tooltip. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24469 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [alpha] In the Search View panel, the Recent Projects item doesn't work. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/23776 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [alpha] The "Add Cursors to line ends" doesn't work. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24651 |
+| 2026-03-10T12:30:00Z | GitHub | [BUG] [alpha] In the Type Hierarchy panel, the Expand All button doesn't work. | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/23055 |
+| 2026-03-10T12:30:00Z | HackerOne | CarrerZooms Bug Bounty Program | Variable | 待评估 | https://hackerone.com/carrerzooms |
+| 2026-03-10T12:30:00Z | HackerOne | Security Test External Program (Invite-only) | Variable | 待评估 | https://hackerone.com/security-test-ep-invite-only |
+| 2026-03-10T12:30:00Z | GitHub | Bitcoin-Wordpress-Plugin - Sell digital products with crypto payments | Variable | 待评估 | https://github.com/cryptoapi/Bitcoin-Wordpress-Plugin |
+| 2026-03-10T12:30:00Z | GitHub | Digital Product E-commerce Platform - MultiVendor Django + Stripe | Variable | 待评估 | https://github.com/aioont/digital_product_ecommerce |
+| 2026-03-10T12:30:00Z | GitHub | henry-downloads - Digital products marketplace, keep 100% of sales | Variable | 待评估 | https://github.com/kevinelliott/henry-downloads |
