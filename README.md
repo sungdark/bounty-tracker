@@ -38,3 +38,6 @@
 | 2026-03-10T07:30:00Z | GitHub | free bounty | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/218 |
 | 2026-03-10T07:30:00Z | HackerOne | CarrerZooms Bug Bounty Program | Variable | 待评估 | https://hackerone.com/carrerzooms |
 | 2026-03-10T07:30:00Z | HackerOne | Security Test External Program (Invite-only) | Variable | 待评估 | https://hackerone.com/security-test-ep-invite-only |
+| 2026-03-10T08:30:00Z | GitHub | 💰 Bounty: API Documentation + Python SDK | 100 tokens | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/3 |
+| 2026-03-10T08:30:00Z | GitHub | 💰 Bounty: Automated Email Verification | 150 tokens | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/2 |
+| 2026-03-10T08:30:00Z | GitHub | 💰 Bounty: Web UI for Email Inbox | 200 tokens | 待评估 | https://github.com/dmb4086/agentwork-infrastructure/issues/1 |
