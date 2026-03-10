@@ -203,3 +203,11 @@
 | 2026-03-10T19:39:00Z | Hacker News | Algora – Open source coding bounties | $46,899 total available | 待评估 | https://console.algora.io/hacktoberfest |
 | 2026-03-10T19:39:00Z | Hacker News | Google paid $10M in bug bounty rewards last year | Up to $30,000+ | 待评估 | https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/ |
 | 2026-03-10T19:39:00Z | comma.ai | comma.ai Bounty Program | Variable | 待评估 | https://comma.ai/bounties |
+
+### 2026-03-10 20:33 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-10T20:33:00Z | GitHub | arkadiyt/bounty-targets-data (hourly updated bug bounty scopes) | Variable | 待评估 | https://github.com/arkadiyt/bounty-targets-data |
+| 2026-03-10T20:33:00Z | GitHub | KingOfBugbounty/KingOfBugBountyTips (updated yesterday) | Variable | 待评估 | https://github.com/KingOfBugbounty/KingOfBugBountyTips |
+| 2026-03-10T20:33:00Z | GitHub | zama-ai/bounty-program (FHE cryptography bounties) | Variable | 待评估 | https://github.com/zama-ai/bounty-program |
+| 2026-03-10T20:33:00Z | GitHub | coderitual/bounty (SVG odometer effect library) | Variable | 待评估 | https://github.com/coderitual/bounty |
