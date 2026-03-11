@@ -507,3 +507,12 @@
 | 2026-03-11T15:05:00Z | GitHub | [50] Tax - Angle brackets in tax name create duplicate tax rates & reverts on selection | 50 USD | 待评估 | https://github.com/Expensify/App/issues/83183 |
 | 2026-03-11T15:05:00Z | GitHub | [50] Company cards - Unable to assign a card to a non-existent user | 50 USD | 待评估 | https://github.com/Expensify/App/issues/83820 |
 | 2026-03-11T15:05:00Z | GitHub | [50] Wrong onboarding tasks displayed twice in the Concierge chat | 50 USD | 待评估 | https://github.com/Expensify/App/issues/83152 |
+
+### 2026-03-11 16:06 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T16:06:00Z | GitHub | TEST AUTUMN PLS WORTK | $150 USD | 待执行 | https://github.com/ripgrim/ripgrim/issues/6 |
+| 2026-03-11T16:06:00Z | GitHub | test auto issues 2 | bounty | 待评估 | https://github.com/bountydotnew/playground/issues/3 |
+| 2026-03-11T16:06:00Z | GitHub | test auto issue create 1 | bounty | 待评估 | https://github.com/bountydotnew/playground/issues/1 |
+| 2026-03-11T16:06:00Z | GitHub | [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain! | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 |
+| 2026-03-11T16:06:00Z | GitHub | [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1618 |
