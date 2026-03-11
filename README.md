@@ -386,7 +386,7 @@
 | 2026-03-11T08:51:41Z | GitHub | [BOUNTY: 8 RTC] Build a browser extension showing RTC balance | 8 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1607 |
 | 2026-03-11T08:51:39Z | GitHub | [BOUNTY: 10 RTC] Create a Grafana dashboard for RustChain metrics | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1609 |
 | 2026-03-11T08:51:36Z | GitHub | [BOUNTY: 5 RTC] Create a Homebrew formula for the RustChain miner | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1612 |
-| 2026-03-11T08:36:11Z | GitHub | [$10] Add GitHub Actions CI pipeline | $10 USD | 进行中 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/5 |
+| 2026-03-11T08:36:11Z | GitHub | [$10] Add GitHub Actions CI pipeline | $10 USD | 已提交PR，待审核 | https://github.com/ChinchillaEnterprises/openclaw-crm/pull/22 |
 | 2026-03-11T08:04:43Z | GitHub | [EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues showing support | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1611 |
 | 2026-03-11T08:02:16Z | GitHub | [BOUNTY: 5 RTC] Create a CLI tool to monitor RustChain node health | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1606 |
 | 2026-03-11T08:00:37Z | GitHub | [EASY BOUNTY: 1 RTC] Fix any typo or grammar error in docs | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1590 |
