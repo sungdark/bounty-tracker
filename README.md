@@ -498,3 +498,12 @@
 | 2026-03-11T15:03:00Z | GitHub | [$250] Tax - Angle brackets in tax name create duplicate tax rates & reverts on selection | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83183 |
 | 2026-03-11T15:03:00Z | GitHub | [$250] Company cards - Unable to assign a card to a non-existent user | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83820 |
 | 2026-03-11T15:03:00Z | GitHub | [$250] Wrong onboarding tasks displayed twice in the Concierge chat | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83152 |
+-e 
+### 2026-03-11 15:05 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T15:05:00Z | GitHub | [Nodesignal bounty] Admin UI | 300,000 sats | 待评估 | https://github.com/cashubtc/nutshell/issues/556 |
+| 2026-03-11T15:05:00Z | GitHub | [BOUNTY] Report a bug with reproduction steps | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
+| 2026-03-11T15:05:00Z | GitHub | [50] Tax - Angle brackets in tax name create duplicate tax rates & reverts on selection | 50 USD | 待评估 | https://github.com/Expensify/App/issues/83183 |
+| 2026-03-11T15:05:00Z | GitHub | [50] Company cards - Unable to assign a card to a non-existent user | 50 USD | 待评估 | https://github.com/Expensify/App/issues/83820 |
+| 2026-03-11T15:05:00Z | GitHub | [50] Wrong onboarding tasks displayed twice in the Concierge chat | 50 USD | 待评估 | https://github.com/Expensify/App/issues/83152 |
