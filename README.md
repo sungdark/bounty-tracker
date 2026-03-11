@@ -632,3 +632,12 @@
 | 2026-03-11T23:09:00Z | GitHub | [BOUNTY: 3 RTC] Set up Dependabot or Renovate for any Elyan Labs repo | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1613 |
 | 2026-03-11T23:09:00Z | GitHub | [BOUNTY: 5 RTC] Create a Homebrew formula for the RustChain miner | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1612 |
 | 2026-03-11T23:09:00Z | GitHub | [EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues showing support | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1611 |
+| 2026-03-11T23:09:00Z | GitHub | Complete a test bounty: Submit PR and receive USDC payment | $20 USD | 待评估 | https://github.com/ubounty-app/ubounty-demo/issues/9 |
+| 2026-03-11T23:09:00Z | Freelancer | Gym website with class booking system | $49 / hr | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-11T23:09:00Z | Freelancer | High-ticket closer "About Me" deck | $22 | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-11T23:09:00Z | Freelancer | Millstone Coffee minimalist logo design | $76 | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-11T23:09:00Z | Freelancer | Social media brand video actor (Sydney) | $178 | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-11T23:09:00Z | Freelancer | Online course video editing for bodywork training | $97 | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-11T23:09:00Z | Freelancer | Interactive Word document with tab-through fields | $95 | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-11T23:09:00Z | Freelancer | Daily fitness content video editor | $17 / hr | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-11T23:09:00Z | Freelancer | Robotic manipulation video annotation | $11 / hr | 待评估 | https://www.freelancer.com/jobs/ |
