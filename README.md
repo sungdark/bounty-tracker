@@ -378,3 +378,20 @@
 | 2026-03-11T08:46:00Z | GitHub | [BOUNTY: 10 RTC] Create a Telegram bot for RustChain | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1597 |
 | 2026-03-11T08:46:00Z | GitHub | Translate chain explorer UI text to Spanish — 20 LTD Bounty | 20 LTD | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/156 |
 | 2026-03-11T08:46:00Z | GitHub | Fix broken or placeholder links across HTML pages — 30 LTD Bounty | 30 LTD | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/155 |
+
+### 2026-03-11 08:56 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T08:51:46Z | GitHub | [BOUNTY: 10 RTC] Build a Discord bot that queries RustChain API | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1596 |
+| 2026-03-11T08:51:41Z | GitHub | [BOUNTY: 8 RTC] Build a browser extension showing RTC balance | 8 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1607 |
+| 2026-03-11T08:51:39Z | GitHub | [BOUNTY: 10 RTC] Create a Grafana dashboard for RustChain metrics | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1609 |
+| 2026-03-11T08:51:36Z | GitHub | [BOUNTY: 5 RTC] Create a Homebrew formula for the RustChain miner | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1612 |
+| 2026-03-11T08:36:11Z | GitHub | [$10] Add GitHub Actions CI pipeline | $10 USD | 进行中 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/5 |
+| 2026-03-11T08:04:43Z | GitHub | [EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues showing support | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1611 |
+| 2026-03-11T08:02:16Z | GitHub | [BOUNTY: 5 RTC] Create a CLI tool to monitor RustChain node health | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1606 |
+| 2026-03-11T08:00:37Z | GitHub | [EASY BOUNTY: 1 RTC] Fix any typo or grammar error in docs | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1590 |
+| 2026-03-11T08:00:27Z | GitHub | [EASY BOUNTY: 1 RTC] Add type hints to any Python function in the codebase | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1588 |
+| 2026-03-11T07:23:13Z | GitHub | [BOUNTY: 3 RTC] Create a Dockerfile for the RustChain miner | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1599 |
+| 2026-03-11T07:22:50Z | GitHub | [EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md to any repo missing one | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1605 |
+| 2026-03-11T07:22:27Z | GitHub | [BOUNTY: 10-50 RTC] YouTube Tutorial Videos — BoTTube, RustChain, Beacon Atlas, Grazer | 10-50 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1158 |
+| 2026-03-11T07:10:57Z | GitHub | [QUEST] Harden the Chain — Security Quest, 100 RTC Total | 100 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/398 |
