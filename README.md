@@ -395,3 +395,18 @@
 | 2026-03-11T07:22:50Z | GitHub | [EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md to any repo missing one | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1605 |
 | 2026-03-11T07:22:27Z | GitHub | [BOUNTY: 10-50 RTC] YouTube Tutorial Videos — BoTTube, RustChain, Beacon Atlas, Grazer | 10-50 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1158 |
 | 2026-03-11T07:10:57Z | GitHub | [QUEST] Harden the Chain — Security Quest, 100 RTC Total | 100 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/398 |
+
+### 2026-03-11 10:58 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T10:58:00Z | GitHub | Aave Bug Bounty Program | Up to $250,000 USD | 待评估 | https://github.com/aave/bug-bounty |
+| 2026-03-11T10:58:00Z | GitHub | Moltboard Bounty Board | Variable | 待评估 | https://github.com/victor-grajski/moltboard |
+| 2026-03-11T10:58:00Z | Freelancer | Educational platform development | $250-750 USD | 待评估 | https://www.freelancer.com/projects/angular/edt-40287901 |
+| 2026-03-11T10:58:00Z | Freelancer | Android app development | $1500-3000 USD | 待评估 | https://www.freelancer.com/projects/android/desenvolvimento-app-android-est |
+| 2026-03-11T10:58:00Z | Freelancer | Basic computer tutoring | $27 USD average | 待评估 | https://www.freelancer.com/projects/instructional-design/need-someone-teach-basics-share |
+| 2026-03-11T10:58:00Z | Freelancer | Marketing content writer | $250-750 USD | 待评估 | https://www.freelancer.com/projects/advertising/marketing-content-writer-needed-edt-40289156 |
+| 2026-03-11T10:58:00Z | Freelancer | Android banking app development | $15-25 USD/hour | 待评估 | https://www.freelancer.com/projects/flash/android-banking-app-development-edt |
+| 2026-03-11T10:58:00Z | Freelancer | Football tournament platform development | $250-750 USD | 待评估 | https://www.freelancer.com/projects/web-development/Football-Tournament-Platform-Development.html |
+| 2026-03-11T10:58:00Z | Freelancer | Melbourne conference event coordinator | $30-250 USD | 待评估 | https://www.freelancer.com/projects/customer-service/Melbourne-Conference-Event-Coordinator.html |
+| 2026-03-11T10:58:00Z | HackerOne | GitLab Bug Bounty Program | Variable | 待评估 | https://hackerone.com/gitlab |
+| 2026-03-11T10:58:00Z | HackerOne | Capital One Bug Bounty Program | Variable | 待评估 | https://hackerone.com/capital-one-bounty
