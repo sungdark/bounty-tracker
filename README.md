@@ -319,3 +319,12 @@
 | 2026-03-11T02:41:00Z | GitHub | improve design of waitlist submitted state on landing page | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/231 |
 | 2026-03-11T02:41:00Z | GitHub | free bounty | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/218 |
 | 2026-03-11T02:41:00Z | GitHub | declaw the crabs [test bounty] | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/193 |
+
+### 2026-03-11 02:45 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T02:45:00Z | GitHub | [feat] design bounties | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/243 |
+| 2026-03-11T02:45:00Z | GitHub | Bug Bounty - Critical Vulnerability Report | 未标注 | 待评估 | https://github.com/bitaps-com/mnemonic-offline-tool/issues/4 |
+| 2026-03-11T02:45:00Z | GitHub | [BUG] [alpha] Extension-contributed grammars are never loaded into syntax highlighting | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25206 |
+| 2026-03-11T02:45:00Z | GitHub | [BUG] [alpha] Extension-declared keybindings are never registered into the keybinding system | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25197 |
+| 2026-03-11T02:45:00Z | GitHub | [BUG] [alpha] Extension-contributed panels are never surfaced in the workbench | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25196 |
