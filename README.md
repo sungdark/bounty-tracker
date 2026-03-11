@@ -356,3 +356,15 @@
 | 2026-03-11T04:42:00Z | HackerOne | Amazon Vulnerability Research Program | $100 minimum | 待评估 | https://hackerone.com/amazonvrp |
 | 2026-03-11T04:42:00Z | GitHub | bounty-targets-data (hourly updated bug bounty scopes) | Variable | 待评估 | https://github.com/arkadiyt/bounty-targets-data |
 | 2026-03-11T04:42:00Z | GitHub | Algora Open Source Coding Bounties | $46,899 total available | 待评估 | https://github.com/algora-io/algora |
+
+### 2026-03-11 07:45 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T07:45:00Z | GitHub | [BUG] [alpha] Keyboard Shortcuts modal row actions buttons hover style mismatch | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25545 |
+| 2026-03-11T07:45:00Z | GitHub | [Bounty $150] Conv2d op implementation | $150 USD | 待评估 | https://github.com/tenstorrent/tt-mlir/issues/4869 |
+| 2026-03-11T07:45:00Z | GitHub | [$250] Wrong onboarding tasks displayed twice in Concierge chat | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83152 |
+| 2026-03-11T07:45:00Z | GitHub | [BUG] [alpha] Layout does not resize flexibly when window size changes | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25530 |
+| 2026-03-11T07:45:00Z | GitHub | [$250] Company cards - Unable to assign to non-existent user | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83820 |
+| 2026-03-11T07:45:00Z | GitHub | [BUG] [alpha] Explorer left-side list viewer truncates file names | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25534 |
+| 2026-03-11T07:45:00Z | GitHub | [BUG] [alpha] Tab Switcher truncates file names with no full view | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25533 |
+| 2026-03-11T07:45:00Z | GitHub | [BUG] [v1.0.0] Empty-line wrap inserts empty container tags | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25529 |
