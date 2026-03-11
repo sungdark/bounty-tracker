@@ -552,3 +552,23 @@
 | 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 5 RTC] Write OpenAPI/Swagger spec for RustChain REST API | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1604 |
 | 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 8 RTC] Build a browser extension showing RTC balance | 8 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1607 |
 | 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 10 RTC] Create a Telegram bot for RustChain | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1597 |
+
+### 2026-03-11 18:09 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T18:09:00Z | GitHub | Coinbase Exchange Integration | $750 USD | 待评估 | https://github.com/Spectral-Finance/lux/issues/83 |
+| 2026-03-11T18:09:00Z | GitHub | Complete a test bounty: Submit PR and receive USDC payment | $20 USD | 待评估 | https://github.com/ubounty-app/ubounty-demo/issues/9 |
+| 2026-03-11T18:09:00Z | GitHub | Add unit tests for core modules | 25 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/1 |
+| 2026-03-11T18:09:00Z | GitHub | Add .well-known/agent.json A2A Agent Card | 30 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/6 |
+| 2026-03-11T18:09:00Z | GitHub | Template marketplace with RTC pricing | 40 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/8 |
+| 2026-03-11T18:09:00Z | GitHub | Sanctuary interactive lesson runner | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/7 |
+| 2026-03-11T18:09:00Z | GitHub | Integration tests for Elyan Bus | 25 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/5 |
+| 2026-03-11T18:09:00Z | GitHub | Real DriftLock with embedding similarity | 75 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/4 |
+| 2026-03-11T18:09:00Z | GitHub | DPO contrastive pair generator | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/3 |
+| 2026-03-11T18:09:00Z | GitHub | Training data generator for SFT pipeline | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/2 |
+| 2026-03-11T18:09:00Z | GitHub | Smart digest with weekly financial summary | $500 USD | 待评估 | https://github.com/rohitdash08/FinMind/issues/121 |
+| 2026-03-11T18:09:00Z | GitHub | [EASY BOUNTY: 3 RTC] Agent Resume Reel — Showcase Your Bot on BoTTube | 3 RTC per agent | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1154 |
+| 2026-03-11T18:09:00Z | GitHub | Prometheus Metrics Exporter + Grafana Dashboard | 40 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/504 |
+| 2026-03-11T18:09:00Z | GitHub | [BOUNTY: 15 RTC] Port the RustChain miner to Rust | 15 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1601 |
+| 2026-03-11T18:09:00Z | GitHub | [Bounty $2000] Tune a model - VoVNet | $2000 USD | 已分配 | https://github.com/tenstorrent/tt-mlir/issues/4349 |
+| 2026-03-11T18:09:00Z | GitHub | [Bounty $150] Elementwise binary ops | $150 USD | 已分配 | https://github.com/tenstorrent/tt-mlir/issues/4862 |
