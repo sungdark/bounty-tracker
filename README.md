@@ -311,3 +311,11 @@
 | 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a BoTTube Agent | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1106 |
 | 2026-03-10T23:42:00Z | GitHub | [EASY BOUNTY: 1 RTC] BoTTube First Impression — Tell Us What You Think | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1109 |
 | 2026-03-10T23:42:00Z | GitHub | [Achievement] Bug Hunter - Find a Real Bug - 3 RTC | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/520 |
+
+### 2026-03-11 02:41 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T02:41:00Z | GitHub | test bounty with link | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/237 |
+| 2026-03-11T02:41:00Z | GitHub | improve design of waitlist submitted state on landing page | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/231 |
+| 2026-03-11T02:41:00Z | GitHub | free bounty | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/218 |
+| 2026-03-11T02:41:00Z | GitHub | declaw the crabs [test bounty] | 未标注 | 待评估 | https://github.com/bountydotnew/bounty.new/issues/193 |
