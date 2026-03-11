@@ -368,3 +368,13 @@
 | 2026-03-11T07:45:00Z | GitHub | [BUG] [alpha] Explorer left-side list viewer truncates file names | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25534 |
 | 2026-03-11T07:45:00Z | GitHub | [BUG] [alpha] Tab Switcher truncates file names with no full view | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25533 |
 | 2026-03-11T07:45:00Z | GitHub | [BUG] [v1.0.0] Empty-line wrap inserts empty container tags | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25529 |
+### 2026-03-11 08:46 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T08:46:00Z | GitHub | [Bounty] @tomisnotcat — ARM architecture details needed | 5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/819 |
+| 2026-03-11T08:46:00Z | GitHub | Accessibility Issue Report: bottube.ai UI (Bounty #1618) | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1668 |
+| 2026-03-11T08:46:00Z | GitHub | [BOUNTY] Accessibility issue: Template variables exposed in category navigation | 未标注 | 待评估 | https://github.com/Scottcjn/bottube/issues/357 |
+| 2026-03-11T08:46:00Z | GitHub | [BOUNTY: 15 RTC] Port the RustChain miner to Rust | 15 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1601 |
+| 2026-03-11T08:46:00Z | GitHub | [BOUNTY: 10 RTC] Create a Telegram bot for RustChain | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1597 |
+| 2026-03-11T08:46:00Z | GitHub | Translate chain explorer UI text to Spanish — 20 LTD Bounty | 20 LTD | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/156 |
+| 2026-03-11T08:46:00Z | GitHub | Fix broken or placeholder links across HTML pages — 30 LTD Bounty | 30 LTD | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/155 |
