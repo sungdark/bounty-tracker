@@ -572,3 +572,30 @@
 | 2026-03-11T18:09:00Z | GitHub | [BOUNTY: 15 RTC] Port the RustChain miner to Rust | 15 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1601 |
 | 2026-03-11T18:09:00Z | GitHub | [Bounty $2000] Tune a model - VoVNet | $2000 USD | 已分配 | https://github.com/tenstorrent/tt-mlir/issues/4349 |
 | 2026-03-11T18:09:00Z | GitHub | [Bounty $150] Elementwise binary ops | $150 USD | 已分配 | https://github.com/tenstorrent/tt-mlir/issues/4862 |
+
+### 2026-03-11 19:06 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T19:06:00Z | HackerOne | 1Password Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/1password |
+| 2026-03-11T19:06:00Z | HackerOne | 1Password CTF Bug Bounty Challenge | $50 minimum | 待评估 | https://hackerone.com/1password_ctf |
+| 2026-03-11T19:06:00Z | HackerOne | 23andMe Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/23andme_bbp |
+| 2026-03-11T19:06:00Z | HackerOne | 3CX Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/3cx |
+| 2026-03-11T19:06:00Z | HackerOne | 8x8 Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/8x8-bounty |
+| 2026-03-11T19:06:00Z | HackerOne | Acronis Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/acronis |
+| 2026-03-11T19:06:00Z | HackerOne | Affirm Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/affirm |
+| 2026-03-11T19:06:00Z | HackerOne | Airbnb Bug Bounty Program | Variable | 待评估 | https://hackerone.com/airbnb |
+| 2026-03-11T19:06:00Z | HackerOne | Amazon Vulnerability Research Program | $100 minimum | 待评估 | https://hackerone.com/amazonvrp |
+| 2026-03-11T19:06:00Z | HackerOne | Android Security Rewards Program | Up to $1,000,000 | 待评估 | https://hackerone.com/android |
+| 2026-03-11T19:06:00Z | HackerOne | Anduril Industries Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/anduril_industries |
+| 2026-03-11T19:06:00Z | HackerOne | AT&T Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/att |
+| 2026-03-11T19:06:00Z | HackerOne | Airtable Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/airtable |
+| 2026-03-11T19:06:00Z | HackerOne | Akamai Bug Bounty Program | Invite-only | 待评估 | https://hackerone.com/akamai |
+| 2026-03-11T19:06:00Z | HackerOne | ALSCO Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/alsco |
+| 2026-03-11T19:06:00Z | HackerOne | Amazon VRP Devices Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/amazonvrp-devices |
+| 2026-03-11T19:06:00Z | HackerOne | Arkose Labs Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/arkose_labs |
+| 2026-03-11T19:06:00Z | HackerOne | ASN Bank Bug Bounty Program | Variable | 待评估 | https://hackerone.com/asnbank |
+| 2026-03-11T19:06:00Z | GitHub | [BUG] [alpha] Keyboard Shortcuts modal row actions buttons hover style mismatch | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25545 |
+| 2026-03-11T19:06:00Z | GitHub | [BUG] [alpha] Layout does not resize flexibly when window size changes | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25530 |
+| 2026-03-11T19:06:00Z | GitHub | [BUG] [alpha] Explorer left-side list viewer truncates file names | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25534 |
+| 2026-03-11T19:06:00Z | GitHub | [BUG] [alpha] Tab Switcher truncates file names with no full view | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25533 |
+| 2026-03-11T19:06:00Z | GitHub | [BUG] [v1.0.0] Empty-line wrap inserts empty container tags | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25529 |
