@@ -1,0 +1,30 @@
+<link rel="canonical" href="https://www.hackerone.com/bug-bounty-programs" />
+    <link rel="manifest" href="/themes/custom/hackerone/assets/favicons/manifest.webmanifest">
+    <link rel="icon" href="/themes/custom/hackerone/assets/favicons/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/themes/custom/hackerone/assets/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/themes/custom/hackerone/assets/favicons/apple-touch-icon.png">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_e_Bj5w_GbqnpxckO0Y1B4oVH8tZ6f69CvXaC20gdTFc.css?delta=0&amp;language=en&amp;theme=hackerone&amp;include=eJxNjVEOwyAMxS5E2zM9aArdUhIlUJXbT5o0jU_bH05itO3WFbzihScUpDeZVNoinCbMLBG8eBt81jyFi9yRySelaOVAamJjkZuMMYLCkA1a_Pf7m7VX7ZFPL7QHH97o-u4_-mE9nQ" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_79p0PAvx1lKQN9wzh9TOZS2gGZFJijs4peD1LPdM5sQ.css?delta=1&amp;language=en&amp;theme=hackerone&amp;include=eJxNjVEOwyAMxS5E2zM9aArdUhIlUJXbT5o0jU_bH05itO3WFbzihScUpDeZVNoinCbMLBG8eBt81jyFi9yRySelaOVAamJjkZuMMYLCkA1a_Pf7m7VX7ZFPL7QHH97o-u4_-mE9nQ" />
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+  <div class="cta-component cta-component-secondary-sm field field--name-field-component-link field--type-link field--label-hidden flex"><a href="/platform/hai" class="cta-secondary-sm text-blue-black font-medium text-14 leading-140 group-[.dark-bg]/c:text-white after:content-icon-cta-secondary after:block after:leading-none after:w-3 after:h-3 flex flex-row items-center gap-2 focus-visible:outline-none focus-visible:text-primary-innovative-pink group-[.dark-bg]/c:focus-visible:text-primary-innovative-pink">Learn More</a></div>
+        <a href="https://hackerone.com/users/sign_in">Login</a>
+        <a href="https://hackerone.com/leaderboard">Leaderboard</a>
+        <a href="/contact/security-incident" data-drupal-link-system-path="node/3402">Contacted by a hacker?</a>
+          <a href="/" rel="home" class="site-logo">
+                                                <a href="/platform"
+                            <a href="/product/bug-bounty-platform"  class="font-bold text-base">
+                            <a href="/product/pentest"  class="font-bold text-base">
+                            <a href="/product/response-vulnerability-disclosure-program"  class="font-bold text-base">
+                            <a href="/product/challenge"  class="font-bold text-base">
+                            <a href="/product/ai-red-teaming"  class="font-bold text-base">
+                            <a href="/product/code"  class="font-bold text-base">
+                            <a href="/platform"
+                            <a href="/why-hackerone"
+                            <a href="/platform/hai"
+                            <a href="/platform/insights"
+                            <a href="/platform/triage"
+                            <a href="/platform/live-hacking-events"
+                            <a href="/partners/integrations"
+                            <a href="/platform/services"
+                            <a href="https://www.hackerone.com/platform/community"
+                                                <a href="/solutions"
