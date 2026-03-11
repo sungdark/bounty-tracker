@@ -410,3 +410,11 @@
 | 2026-03-11T10:58:00Z | Freelancer | Melbourne conference event coordinator | $30-250 USD | 待评估 | https://www.freelancer.com/projects/customer-service/Melbourne-Conference-Event-Coordinator.html |
 | 2026-03-11T10:58:00Z | HackerOne | GitLab Bug Bounty Program | Variable | 待评估 | https://hackerone.com/gitlab |
 | 2026-03-11T10:58:00Z | HackerOne | Capital One Bug Bounty Program | Variable | 待评估 | https://hackerone.com/capital-one-bounty
+
+### 2026-03-11 11:59 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T11:46:43Z | GitHub | Add GitHub trigger (commenting on issue) for creating bounty | 未标注 | 待评估 | https://github.com/devasignhq/devasign-api/issues/47 |
+| 2026-03-11T11:59:00Z | GitHub | [EASY BOUNTY: 2 RTC] Suggest 3 Video Ideas for a BoTTube Agent | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1106 |
+| 2026-03-11T11:59:00Z | GitHub | [$250] Tax - Angle brackets in tax name create duplicate tax rates & reverts on selection | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83183 |
+| 2026-03-11T11:59:00Z | GitHub | [BOUNTY] ARM architecture details needed | 5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/819
