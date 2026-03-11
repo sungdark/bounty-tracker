@@ -528,3 +528,27 @@
 | 2026-03-11T17:05:00Z | Amasty | 18 Best Digital Products to Sell in 2026 | High profit margin | 待评估 | https://amasty.com/blog/best-digital-products-to-sell/ |
 | 2026-03-11T17:05:00Z | ResellReady | PLR Digital Products Reselling Opportunities | Variable | 待评估 | https://resellready.co/blogs/news/most-profitable-digital-products-to-sell-in-2026 |
 | 2026-03-11T17:05:00Z | Whop | 2026 Most Profitable Digital Products (AI-driven offers, courses, templates) | Up to 95% profit margin | 待评估 | https://whop.com/blog/selling-digital-products/ |
+
+### 2026-03-11 17:10 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T17:10:00Z | GitHub | GLA Cash Bounty incorrect value for China Red Guard | 未标注 | 待评估 | https://github.com/TheSuperHackers/GeneralsGameCode/issues/2434 |
+| 2026-03-11T17:10:00Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 RTC) | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
+| 2026-03-11T17:10:00Z | GitHub | [BUG] [alpha] Escape key doesn't cancel editing | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25181 |
+| 2026-03-11T17:10:00Z | GitHub | [BUG] [alpha] workspace_aggregate_git_status frontend payload uses 'roots' but backend requires 'workspaceRoots' (IPC arg mismatch) | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24632 |
+| 2026-03-11T17:10:00Z | GitHub | [BUG] [alpha] Git Diff edit flow invokes unregistered IPC command git_show_file (command not found) | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25056 |
+| 2026-03-11T17:10:00Z | GitHub | [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain! | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 |
+| 2026-03-11T17:10:00Z | GitHub | [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1618 |
+| 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 3 RTC] Create a Postman collection for RustChain API | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1617 |
+| 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 20 RTC] Build a mobile wallet app (React Native/Flutter) | 20 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1616 |
+| 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 10 RTC] Create a Grafana dashboard for RustChain metrics | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1609 |
+| 2026-03-11T17:10:00Z | GitHub | [Nodesignal bounty] Admin UI | 300,000 sats (~$190 USD) | 待评估 | https://github.com/cashubtc/nutshell/issues/556 |
+| 2026-03-11T17:10:00Z | GitHub | [$250] Tax - Angle brackets in tax name create duplicate tax rates & reverts on selection | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83183 |
+| 2026-03-11T17:10:00Z | GitHub | [$250] Company cards - Unable to assign a card to a non-existent user | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83820 |
+| 2026-03-11T17:10:00Z | GitHub | [$250] Wrong onboarding tasks displayed twice in the Concierge chat | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83152 |
+| 2026-03-11T17:10:00Z | GitHub | TEST AUTUMN PLS WORTK | $150 USD | 待评估 | https://github.com/ripgrim/ripgrim/issues/6 |
+| 2026-03-11T17:10:00Z | GitHub | [$10] Add Airtable backend | $10 USD | 待评估 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/4 |
+| 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 5 RTC] Create a Homebrew formula for the RustChain miner | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1612 |
+| 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 5 RTC] Write OpenAPI/Swagger spec for RustChain REST API | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1604 |
+| 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 8 RTC] Build a browser extension showing RTC balance | 8 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1607 |
+| 2026-03-11T17:10:00Z | GitHub | [BOUNTY: 10 RTC] Create a Telegram bot for RustChain | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1597 |
