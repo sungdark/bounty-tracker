@@ -482,3 +482,19 @@
 | 2026-03-11T13:01:25Z | GitHub | Write a tutorial or blog about Beacon (50 RTC Bounty) | 50 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/160 |
 | 2026-03-11T13:01:07Z | GitHub | [BOUNTY: 75-100 RTC] RustChain MCP Server — Query the Chain from Claude Code | 75-100 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1152 |
 | 2026-03-11T13:01:05Z | GitHub | [BOUNTY] Facebook Marketplace Monitor API — $75 paid in $SX token | $75 USD (SX代币) | 待评估 | https://github.com/bolivian-peru/marketplace-service-template/issues/75 |
+
+### 2026-03-11 15:03 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T15:03:00Z | GitHub | GLA Cash Bounty incorrect value for China Red Guard | $300 USD | 待评估 | https://github.com/TheSuperHackers/GeneralsGameCode/issues/2434 |
+| 2026-03-11T15:03:00Z | GitHub | [BUG] [alpha] Escape key doesn't cancel editing | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25181 |
+| 2026-03-11T15:03:00Z | GitHub | [BUG] [alpha] Error caused when try to open the .mp4 file | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24103 |
+| 2026-03-11T15:03:00Z | GitHub | [BUG] [alpha] workspace_aggregate_git_status frontend payload uses 'roots' but backend requires 'workspaceRoots' (IPC arg mismatch) | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24632 |
+| 2026-03-11T15:03:00Z | GitHub | [BUG] [alpha] In the Snippets panel, the Close button has no tooltip | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/24952 |
+| 2026-03-11T15:03:00Z | GitHub | [BUG] [alpha] Git Diff edit flow invokes unregistered IPC command git_show_file (command not found) | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/25056 |
+| 2026-03-11T15:03:00Z | GitHub | [BUG] [alpha] The Extensions sidebar short key Ctrl+Shift+X doesn't work | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/23774 |
+| 2026-03-11T15:03:00Z | GitHub | [BUG] [ALPHA] ACP custom `command:` handlers bypass sandbox execution policy and allow arbitrary process spawn | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/23039 |
+| 2026-03-11T15:03:00Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 RTC) | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
+| 2026-03-11T15:03:00Z | GitHub | [$250] Tax - Angle brackets in tax name create duplicate tax rates & reverts on selection | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83183 |
+| 2026-03-11T15:03:00Z | GitHub | [$250] Company cards - Unable to assign a card to a non-existent user | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83820 |
+| 2026-03-11T15:03:00Z | GitHub | [$250] Wrong onboarding tasks displayed twice in the Concierge chat | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83152 |
