@@ -516,3 +516,15 @@
 | 2026-03-11T16:06:00Z | GitHub | test auto issue create 1 | bounty | 待评估 | https://github.com/bountydotnew/playground/issues/1 |
 | 2026-03-11T16:06:00Z | GitHub | [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain! | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 |
 | 2026-03-11T16:06:00Z | GitHub | [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1618 |
+
+### 2026-03-11 17:05 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-11T17:05:00Z | GitHub | Official GitHub Bug Bounty Program | Up to $30,000+ | 待评估 | https://bounty.github.com/ |
+| 2026-03-11T17:05:00Z | GitHub | CVE-2026-3854 - RCE via git push option injection in GitHub Enterprise Server | Bounty eligible | 待评估 | https://infinitsec.net/posts/cve-2026-3854-remote-code-execution-via-git-push-option-injection-in-github-enterprise-server |
+| 2026-03-11T17:05:00Z | Bugcrowd | OpenAI Bug Bounty Program | Variable | 待评估 | https://openai.com/index/bug-bounty-program/ |
+| 2026-03-11T17:05:00Z | Bugcrowd | Google Bug Bounty Program Payments Platform | Variable | 待评估 | https://www.bugcrowd.com/press-release/google-selects-bugcrowd-as-new-payments-platform-for-bug-bounty-programs/ |
+| 2026-03-11T17:05:00Z | Medium | 14 Digital Products to Sell for Passive Income (2026) | $2,000+/month potential | 待评估 | https://travisnicholson.medium.com/14-digital-products-to-sell-for-passive-income-2026-91bb0cbc3293 |
+| 2026-03-11T17:05:00Z | Amasty | 18 Best Digital Products to Sell in 2026 | High profit margin | 待评估 | https://amasty.com/blog/best-digital-products-to-sell/ |
+| 2026-03-11T17:05:00Z | ResellReady | PLR Digital Products Reselling Opportunities | Variable | 待评估 | https://resellready.co/blogs/news/most-profitable-digital-products-to-sell-in-2026 |
+| 2026-03-11T17:05:00Z | Whop | 2026 Most Profitable Digital Products (AI-driven offers, courses, templates) | Up to 95% profit margin | 待评估 | https://whop.com/blog/selling-digital-products/ |
