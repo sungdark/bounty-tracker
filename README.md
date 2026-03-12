@@ -688,3 +688,23 @@
 | 2026-03-12T03:10:00Z | HackerOne | Uniswap Labs Bug Bounty Program | Up to $15,500,000 USDC | 待评估 | https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be |
 | 2026-03-12T03:10:00Z | HackerOne | Euler Bug Bounty Program | Up to $7,500,000 USDC | 待评估 | https://cantina.xyz/bounties/4d285eee-602e-440a-845e-25e155cec26a |
 | 2026-03-12T03:10:00Z | GitHub | [$10] Add Airtable backend to openclaw-crm | $10 USD | 已提交PR，待审核 | https://github.com/ChinchillaEnterprises/openclaw-crm/pull/96 |
+
+### 2026-03-12 06:21 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T06:21:00Z | GitHub | TEST AUTUMN PLS WORTK | $150 USD | 待评估 | https://github.com/ripgrim/ripgrim/issues/6 |
+| 2026-03-12T06:21:00Z | GitHub | [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain! | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 |
+| 2026-03-12T06:21:00Z | GitHub | [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1618 |
+| 2026-03-12T06:21:00Z | GitHub | [BOUNTY: 3 RTC] Create a Postman collection for RustChain API | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1617 |
+| 2026-03-12T06:21:00Z | GitHub | [BOUNTY: 20 RTC] Build a mobile wallet app (React Native/Flutter) | 20 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1616 |
+| 2026-03-12T06:21:00Z | GitHub | [EASY BOUNTY: 2 RTC] Create installation GIFs or asciinema recordings | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1615 |
+| 2026-03-12T06:21:00Z | GitHub | [BOUNTY: 5 RTC] Create a load test suite for the RustChain API | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1614 |
+| 2026-03-12T06:21:00Z | GitHub | [BOUNTY: 3 RTC] Set up Dependabot or Renovate for any Elyan Labs repo | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1613 |
+| 2026-03-12T06:21:00Z | GitHub | [Bounty: 75 RTC] Real DriftLock with embedding similarity | 75 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/4 |
+| 2026-03-12T06:21:00Z | GitHub | [Bounty: 50 RTC] Sanctuary interactive lesson runner | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/7 |
+| 2026-03-12T06:21:00Z | GitHub | [Bounty: 50 RTC] DPO contrastive pair generator | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/3 |
+| 2026-03-12T06:21:00Z | GitHub | [Bounty: 50 RTC] Training data generator for SFT pipeline | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/2 |
+| 2026-03-12T06:21:00Z | GitHub | [Bounty: 40 RTC] Template marketplace with RTC pricing | 40 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/8 |
+| 2026-03-12T06:21:00Z | GitHub | [Bounty: 30 RTC] Add .well-known/agent.json A2A Agent Card | 30 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/6 |
+| 2026-03-12T06:21:00Z | GitHub | [Bounty: 25 RTC] Integration tests for Elyan Bus | 25 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/5 |
+| 2026-03-12T06:21:00Z | GitHub | [Bounty: 25 RTC] Add unit tests for core modules | 25 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/1 |
