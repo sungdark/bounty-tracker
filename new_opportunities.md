@@ -1,23 +1,22 @@
-### 2026-03-10 22:45 UTC 新发现机会
+### 2026-03-12 13:43 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Report a bug with reproduction steps (0.5 RTC) | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Write a Blog Post About RustChain — 5 RTC | 5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/302 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Star the repo and share why (0.5 RTC) | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/773 |
-| 2026-03-10T22:45:00Z | GitHub | 🏆 BOUNTY (1 SOL): Film "I Deleted My Nginx Config — Watch What Happens" Demo | 1 SOL | 待评估 | https://github.com/bolivian-peru/os-moda/issues/2 |
-| 2026-03-10T22:45:00Z | GitHub | Register in Ecosystem Contributors — 5 RTC per registration | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1575 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY: 1 RTC] Answer Questions in GitHub Discussions (Up to 10 RTC) | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/728 |
-| 2026-03-10T22:45:00Z | GitHub | 📖 Developer Documentation Page — 150 LTD Bounty | 150 LTD | 待评估 | https://github.com/INDIGOAZUL/la-tanda-web/issues/50 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY: 3 RTC] Translate RustChain README Into Your Language | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/725 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY: 10 RTC each] RustChain Windows miner bundle smoke test + failure notes | 10 RTC each | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1501 |
-| 2026-03-10T22:45:00Z | GitHub | Chicken in Every Pot: Fork the Big 5 and Earn RTC | Up to 25 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/697 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Show Off Your Setup — Post Your Mining Rig or Vintage Hardware (5 RTC each, Pool: 150 RTC) | 5 RTC each | 待评估 | https://github.com/Scottcjn/bottube/issues/123 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY: 0.5 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 10 RTC) | 0.5 RTC/repo | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/731 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY: 10 RTC] 60-Second RustChain Explainer Video | 10 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1114 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY: 1 RTC] BoTTube profile setup: avatar + bio + first published video | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1504 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Cross-Repo Star & Engage Multiplier (Pool: 300 RTC) | Up to 300 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/477 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Miner Dashboard — Personal Stats & Reward History (75 RTC) | 75 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/501 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY: 5 RTC] Starstruck 128 Stars Celebration Graphic | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1115 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Share Why You Starred RustChain — 3 RTC + Community Shoutout (Pool: 300 RTC) | 3 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/165 |
-| 2026-03-10T22:45:00Z | GitHub | Star & Share beacon-skill on GitHub (25 RTC Bounty) | 25 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/157 |
-| 2026-03-10T22:45:00Z | GitHub | [BOUNTY] Star & Follow BoTTube — Earn 2 RTC Instantly (Pool: 200 RTC) | 2 RTC | 待评估 | https://github.com/Scottcjn/bottube/issues/74 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 75 RTC] Real DriftLock with embedding similarity | 75 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/4 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 50 RTC] Sanctuary interactive lesson runner | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/7 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 50 RTC] DPO contrastive pair generator | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/3 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 50 RTC] Training data generator for SFT pipeline | 50 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/2 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 40 RTC] Template marketplace with RTC pricing | 40 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/8 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 30 RTC] Add .well-known/agent.json A2A Agent Card | 30 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/6 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 25 RTC] Integration tests for Elyan Bus | 25 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/5 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 25 RTC] Add unit tests for core modules | 25 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/1 |
+| 2026-03-12T13:43:00Z | GitHub | ⚡ Bounty: RTC/ERG Trading Pair on Spectrum DEX | 150 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/32 |
+| 2026-03-12T13:43:00Z | GitHub | [BOUNTY: 5 RTC] Create a RustChain Partner Program Proposal | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1689 |
+| 2026-03-12T13:43:00Z | GitHub | [$250] Confirm details - Unit doesn't change from Km to Mile when switching workspaces | $250 USD | 待评估 | https://github.com/Expensify/App/issues/78212 |
+| 2026-03-12T13:43:00Z | GitHub | [$250] Chat - Message sent in offline is not shown in reports page | $250 USD | 待评估 | https://github.com/Expensify/App/issues/82033 |
+| 2026-03-12T13:43:00Z | GitHub | [CFI] Allow distance mi/km to be edited when created via map | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83781 |
+| 2026-03-12T13:43:00Z | Freelancer | 酒店科技SaaS产品UX/UI设计 | $2293 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T13:43:00Z | Freelancer | VFS Global签证预约监控工具开发 | $1043 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T13:43:00Z | Freelancer | Excel工作簿转Web应用开发 | $1189 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T13:43:00Z | Freelancer | HEC-RAS河流模型校准 | $814 - $1629 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T13:43:00Z | Freelancer | 电商网站开发（女装类，Trendsi集成） | $246 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T13:43:00Z | HackerOne | Uniswap Labs Bug Bounty Program | Up to $15,500,000 USDC | 待评估 | https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be |
