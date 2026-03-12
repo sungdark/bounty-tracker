@@ -658,3 +658,19 @@
 | 2026-03-12T01:15:00Z | HackerOne | 1Password CTF Bug Bounty Challenge | $50 minimum | 待评估 | https://hackerone.com/1password_ctf |
 | 2026-03-12T01:15:00Z | HackerOne | Android Security Rewards Program | Up to $1,000,000 | 待评估 | https://hackerone.com/android |
 | 2026-03-12T01:15:00Z | Bugcrowd | OpenAI Bug Bounty Program | Variable | 待评估 | https://openai.com/index/bug-bounty-program/ |
+
+### 2026-03-12 02:10 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T02:10:00Z | GitHub | [Merged PR] $10 USD CI pipeline bounty | $10 USD | 已完成，待结算 | https://github.com/ChinchillaEnterprises/openclaw-crm/pull/22 |
+| 2026-03-12T02:10:00Z | GitHub | [$250] Tax - Angle brackets in tax name create duplicate tax rates | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83183 |
+| 2026-03-12T02:10:00Z | GitHub | [$250] Company cards - Unable to assign to non-existent user | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83820 |
+| 2026-03-12T02:10:00Z | GitHub | [$250] Wrong onboarding tasks displayed twice | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83152 |
+| 2026-03-12T02:10:00Z | GitHub | [Nodesignal bounty] Admin UI | 300,000 sats (~$190 USD) | 待评估 | https://github.com/cashubtc/nutshell/issues/556 |
+| 2026-03-12T02:10:00Z | GitHub | Coinbase Exchange Integration | $750 USD | 待评估 | https://github.com/Spectral-Finance/lux/issues/83 |
+| 2026-03-12T02:10:00Z | GitHub | Smart digest with weekly financial summary | $500 USD | 待评估 | https://github.com/rohitdash08/FinMind/issues/121 |
+| 2026-03-12T02:10:00Z | GitHub | [BOUNTY: $50+] Enable VoLTE/VoWiFi on Pixel 4a (5G) | $50+ USD | 待评估 | https://github.com/linkmfs-creator/-BOUNTY-50-Enable-VoLTE-VoWiFi-and-Backup-Calling-on-Pixel-4a-5G-bramble- |
+| 2026-03-12T02:10:00Z | GitHub | TEST AUTUMN PLS WORTK | $150 USD | 待评估 | https://github.com/ripgrim/ripgrim/issues/6 |
+| 2026-03-12T02:10:00Z | Freelancer | Gym website with class booking system | $49 / hr | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T02:10:00Z | Freelancer | High-ticket closer "About Me" deck | $22 | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T02:10:00Z | Freelancer | Millstone Coffee minimalist logo design | $76 | 待评估 | https://www.freelancer.com/jobs/ |
