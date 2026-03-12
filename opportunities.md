@@ -1,9 +1,11 @@
 # 赚钱机会扫描结果
-扫描时间：2026-03-12 21:50 UTC
+扫描时间：2026-03-12 22:50 UTC
 
 ## 💰 GitHub 赏金任务（法币）
 | 时间 | 链接 | 金额 | 状态 | 进度 |
 |------|------|------|------|------|
+| 2026-03-12 | https://github.com/ripgrim/ripgrim/issues/9 | $0 | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/ripgrim/ripgrim/issues/7 | $0 | 可认领 | 未开始 |
 | 2026-03-12 | https://github.com/mautic/mautic/issues/14409 | $80 | 可认领 | 未开始 |
 | 2026-03-12 | https://github.com/iv-org/invidious/issues/1232 | $10 | 可认领 | 未开始 |
 | 2026-03-12 | https://github.com/allknowledge34/UpdateApp/issues/5 | $0.4 | 可认领 | 未开始 |
@@ -35,6 +37,19 @@
 | 2026-03-12 | https://github.com/Scottcjn/rustchain-bounties/issues/1614 | 5 RTC (~$5) | 可认领 | 未开始 |
 | 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/5 | 25 RTC (~$25) | 可认领 | 未开始 |
 | 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/1 | 25 RTC (~$25) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/60 | 15 RTC (~$15) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/61 | 20 RTC (~$20) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/62 | 25 RTC (~$25) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/63 | 10 RTC (~$10) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/64 | 10 RTC (~$10) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/66 | 8 RTC (~$8) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/65 | 20 RTC (~$20) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/67 | 15 RTC (~$15) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/68 | 15 RTC (~$15) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/70 | 30 RTC (~$30) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/shaprai/issues/71 | 12 RTC (~$12) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/bottube/issues/364 | 10 RTC (~$10) | 可认领 | 未开始 |
+| 2026-03-12 | https://github.com/Scottcjn/bottube/issues/365 | 8 RTC (~$8) | 可认领 | 未开始 |
 | 2026-03-12 | https://github.com/Scottcjn/rustchain-bounties/issues/1617 | 3 RTC (~$3) | 可认领 | 未开始 |
 | 2026-03-12 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 | 2 RTC (~$2) | 可认领 | 未开始 |
 | 2026-03-12 | https://github.com/Scottcjn/rustchain-bounties/issues/1615 | 2 RTC (~$2) | 可认领 | 未开始 |
@@ -42,7 +57,7 @@
 
 ## 🎯 其他赏金任务（金额未公开）
 ### PlatformNetwork 赏金任务
-共发现12个有效BUG赏金任务，金额未公开，待核实：
+共发现24个有效BUG赏金任务，金额未公开，待核实：
 - https://github.com/PlatformNetwork/bounty-challenge/issues/24504
 - https://github.com/PlatformNetwork/bounty-challenge/issues/24495
 - https://github.com/PlatformNetwork/bounty-challenge/issues/24491
@@ -55,6 +70,18 @@
 - https://github.com/PlatformNetwork/bounty-challenge/issues/24478
 - https://github.com/PlatformNetwork/bounty-challenge/issues/24474
 - https://github.com/PlatformNetwork/bounty-challenge/issues/24473
+- https://github.com/PlatformNetwork/bounty-challenge/issues/26707
+- https://github.com/PlatformNetwork/bounty-challenge/issues/26511
+- https://github.com/PlatformNetwork/bounty-challenge/issues/25181
+- https://github.com/PlatformNetwork/bounty-challenge/issues/24632
+- https://github.com/PlatformNetwork/bounty-challenge/issues/22313
+- https://github.com/PlatformNetwork/bounty-challenge/issues/22310
+- https://github.com/PlatformNetwork/bounty-challenge/issues/22309
+- https://github.com/PlatformNetwork/bounty-challenge/issues/22161
+- https://github.com/PlatformNetwork/bounty-challenge/issues/22160
+- https://github.com/PlatformNetwork/bounty-challenge/issues/22159
+- https://github.com/PlatformNetwork/bounty-challenge/issues/22157
+- https://github.com/PlatformNetwork/bounty-challenge/issues/24103
 
 ### 其他未标金额赏金任务
 - https://github.com/NidhiDodiya1014/Smoother/issues/1
@@ -83,5 +110,5 @@
 ## 📊 统计
 - 总可认领赏金：$80 + $10 + $0.4 + $40 + $250*6 + $150 = $1880.4
 - 高价值任务（≥$100）：7个Expensify $250 + 1个$150 = 合计$1900
-- 加密货币任务：21个RTC奖励任务，合计最高约350 RTC (~$35)
-- 待跟进任务：12个PlatformNetwork未公开金额任务
+- 加密货币任务：34个RTC奖励任务，合计最高约595 RTC (~$600)
+- 待跟进任务：24个PlatformNetwork未公开金额任务 + 30+其他未标金额任务
