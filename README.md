@@ -884,3 +884,39 @@
 | 2026-03-12T13:43:00Z | Freelancer | HEC-RAS河流模型校准 | $814 - $1629 USD | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T13:43:00Z | Freelancer | 电商网站开发（女装类，Trendsi集成） | $246 USD | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T13:43:00Z | HackerOne | Uniswap Labs Bug Bounty Program | Up to $15,500,000 USDC | 待评估 | https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be |
+
+### 2026-03-12 14:42 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T14:42:00Z | GitHub | [BOUNTY] Record miner install + first attestation as asciinema/GIF | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1615 |
+| 2026-03-12T14:42:00Z | GitHub | [BOUNTY] Extract audio from YouTube video using yt-dlp in Node.js backend | 未标注 | 待评估 | https://github.com/NidhiDodiya1014/Smoother/issues/1 |
+| 2026-03-12T14:42:00Z | GitHub | TEST AUTUMN PLS WORTK | $150 USD | 待评估 | https://github.com/ripgrim/ripgrim/issues/6 |
+| 2026-03-12T14:42:00Z | GitHub | ⭐ Star Drive — Help RustChain hit 200 stars | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 |
+| 2026-03-12T14:42:00Z | GitHub | [BOUNTY] Find accessibility issues on bottube.ai | 1 RTC per valid report | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1618 |
+| 2026-03-12T14:42:00Z | GitHub | [BOUNTY] Configure automated dependency updates (Dependabot/Renovate) | 3 RTC per repo | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1613 |
+| 2026-03-12T14:42:00Z | Freelancer | Banner System Modification + Mobile Layout Redesign (Flynax) | $6 - $16/hr | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Combine six promotional exams into one master multiple-choice exam | $100 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | B2B Technology Outreach Virtual Assistant (commission-based) | $30 - $250 per qualified lead | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Pedal Cart Fleet Sales for Resorts/Businesses | $7172 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Sports Performance/Wearable App MVP Design/Development | $387 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Futuristic AI Website with Multi-Service Request Form | $134 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | 10-Second Risk Management Software Marketing Video | $13 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Document Verification Field Visit (Wels, Austria) | $40 - $50 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | UGC Video Content Creator (15-30 short clips/month) | $434 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Quote Polishing for T-Shirt/Poster Design | $10/hr | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | SEO Optimization & Organic Traffic Generation | $24/hr avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Modern Whole-House Interior Design (Neutral Palette) | $384 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Flowcode 10 Program Development for Microcontroller Project | $185 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Chiropractic Office Social Media Marketing (FB/IG/TikTok) | $8 - $15/hr | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Minimalistic Presentation Folder Design | $13 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Cross-Platform Mobile App Bug Fixes (iOS/Android) | $138 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | WhatsApp Business API + AI Chatbot + Zapier Integration | $11 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Zoom Call Assistant (Friendly Presence) | $6/hr | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Palm Tree QR Code Tracking Desktop Application | $300 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | E-Commerce SEO Overhaul & Ranking Improvement Plan | $105 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Corporate Website Full Cycle Development | $7 USD + revenue share | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Investor Pitch Deck Design with Animated Demo | $208 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Google Ads Campaign Setup & Lead Generation Optimization | $135 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Herbal Tea Packaging Design Refinement & Back Layout | $14 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Luxury Lifestyle Framer + Shopify E-Commerce Build | $177 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T14:42:00Z | Freelancer | Solar Installation Technical Support & Troubleshooting | $21/hr | 待评估 | https://www.freelancer.com/jobs/ |
