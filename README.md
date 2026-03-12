@@ -920,3 +920,15 @@
 | 2026-03-12T14:42:00Z | Freelancer | Herbal Tea Packaging Design Refinement & Back Layout | $14 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T14:42:00Z | Freelancer | Luxury Lifestyle Framer + Shopify E-Commerce Build | $177 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T14:42:00Z | Freelancer | Solar Installation Technical Support & Troubleshooting | $21/hr | 待评估 | https://www.freelancer.com/jobs/ |
+### 2026-03-12 19:45 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T19:45:00Z | GitHub | [BOUNTY] ML model optimization bounty (C++/performance) | 未标注 | 待评估 | https://github.com/tenstorrent/tt-mlir/issues/4349 |
+| 2026-03-12T19:45:00Z | GitHub | [BOUNTY] Postman collection for RustChain API | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1617 |
+| 2026-03-12T19:45:00Z | GitHub | [BOUNTY] New bug bounty request | $100 USD | 待评估 | https://github.com/codingo/.../issues/1 |
+| 2026-03-12T19:45:00Z | HackerOne | 1Password Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/1password |
+| 2026-03-12T19:45:00Z | HackerOne | Android Security Rewards Program | Up to $1,000,000 | 待评估 | https://hackerone.com/android |
+| 2026-03-12T19:45:00Z | Freelancer | 酒店科技SaaS产品UX/UI设计 | $2293 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T19:45:00Z | Freelancer | VFS Global签证预约监控工具开发 | $1043 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T19:45:00Z | Freelancer | HEC-RAS河流模型校准 | $814 - $1629 USD | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T19:45:00Z | Freelancer | Excel工作簿转Web应用开发 | $1189 USD | 待评估 | https://www.freelancer.com/jobs/ |
