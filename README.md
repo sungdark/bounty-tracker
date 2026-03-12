@@ -674,3 +674,17 @@
 | 2026-03-12T02:10:00Z | Freelancer | Gym website with class booking system | $49 / hr | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T02:10:00Z | Freelancer | High-ticket closer "About Me" deck | $22 | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T02:10:00Z | Freelancer | Millstone Coffee minimalist logo design | $76 | 待评估 | https://www.freelancer.com/jobs/ |
+
+### 2026-03-12 03:10 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T03:10:00Z | GitHub | Bounty: Volvo - 2022 XC90 T8 (hybrid) integration | $5,000 USD | 待评估 | https://github.com/commaai/openpilot/issues/27226 |
+| 2026-03-12T03:10:00Z | GitHub | Scala 3 Support | $1,000 USD | 待评估 | https://github.com/com-lihaoyi/scalasql/issues/2 |
+| 2026-03-12T03:10:00Z | GitHub | 200 USD bounty for deploying PR #3157 | $200 USD | 待评估 | https://github.com/dosbox-staging/dosbox-staging/issues/3150 |
+| 2026-03-12T03:10:00Z | GitHub | Add custom limitation rate to Identify | $100 USD | 待评估 | https://github.com/stashapp/stash/issues/5729 |
+| 2026-03-12T03:10:00Z | GitHub | Improve Validators page in Explorer | $500 USD (NEAR) | 待评估 | https://github.com/near/bounties/issues/14 |
+| 2026-03-12T03:10:00Z | GitHub | [ShanaBoo] [BOUNTY] Developer Integration Bounty | $700.00 | 待评估 | https://github.com/lazor-kit/lazor-kit/issues/48 |
+| 2026-03-12T03:10:00Z | GitHub | [BOUNTY] RCS Support | $14,999 USD | 待评估 | https://github.com/microg/GmsCore/issues/2994 |
+| 2026-03-12T03:10:00Z | HackerOne | Uniswap Labs Bug Bounty Program | Up to $15,500,000 USDC | 待评估 | https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be |
+| 2026-03-12T03:10:00Z | HackerOne | Euler Bug Bounty Program | Up to $7,500,000 USDC | 待评估 | https://cantina.xyz/bounties/4d285eee-602e-440a-845e-25e155cec26a |
+| 2026-03-12T03:10:00Z | GitHub | [$10] Add Airtable backend to openclaw-crm | $10 USD | 待执行 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/4 |
