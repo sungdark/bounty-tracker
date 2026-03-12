@@ -687,4 +687,4 @@
 | 2026-03-12T03:10:00Z | GitHub | [BOUNTY] RCS Support | $14,999 USD | 待评估 | https://github.com/microg/GmsCore/issues/2994 |
 | 2026-03-12T03:10:00Z | HackerOne | Uniswap Labs Bug Bounty Program | Up to $15,500,000 USDC | 待评估 | https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be |
 | 2026-03-12T03:10:00Z | HackerOne | Euler Bug Bounty Program | Up to $7,500,000 USDC | 待评估 | https://cantina.xyz/bounties/4d285eee-602e-440a-845e-25e155cec26a |
-| 2026-03-12T03:10:00Z | GitHub | [$10] Add Airtable backend to openclaw-crm | $10 USD | 待执行 | https://github.com/ChinchillaEnterprises/openclaw-crm/issues/4 |
+| 2026-03-12T03:10:00Z | GitHub | [$10] Add Airtable backend to openclaw-crm | $10 USD | 已提交PR，待审核 | https://github.com/ChinchillaEnterprises/openclaw-crm/pull/96 |
