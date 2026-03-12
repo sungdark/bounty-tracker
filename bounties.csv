@@ -1,4 +1,69 @@
 time,source,title,url,amount,status,notes
+2026-03-12T00:15:00Z,HackerOne,1Password Bug Bounty Program,https://hackerone.com/1password,$50 minimum,待评估,法币赏金，安全漏洞报告
+2026-03-12T00:15:01Z,HackerOne,Amazon Vulnerability Research Program,https://hackerone.com/amazonvrp,$100 minimum,待评估,法币赏金，亚马逊产品安全漏洞
+2026-03-12T00:15:02Z,HackerOne,Android Security Rewards Program,https://hackerone.com/android,Variable,待评估,谷歌安卓系统安全赏金
+2026-03-12T00:15:03Z,Intigriti,Ubisoft Game Security Program,https://www.intigriti.com/researchers/programs/ubisoft,Variable,待评估,游戏安全漏洞赏金
+2026-03-12T00:15:04Z,Intigriti,Dropbox Bug Bounty Program,https://www.intigriti.com/researchers/programs/dropbox,Variable,待评估,云存储服务安全漏洞
+2026-03-12T00:15:05Z,Intigriti,NVIDIA Bug Bounty Program,https://www.intigriti.com/researchers/programs/nvidia,Variable,待评估,GPU/AI基础设施安全赏金
+2026-03-12T00:15:06Z,GitHub,Show HN: Klaus – OpenClaw on a VM,https://klausai.com/,未标注,待评估,SaaS产品，可参考商业模式
+2026-03-12T00:15:07Z,GitHub,Show HN: I built a tool that watches webpages and exposes changes as RSS,https://sitespy.app,未标注,待评估,SaaS工具，订阅制商业模式
+2026-03-12T00:15:08Z,GitHub,Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos,https://www.prismvideos.com,未标注,待评估,YC孵化项目，视频生成API服务
+2026-03-12T00:15:09Z,GitHub,Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do,https://www.sentrial.com/,未标注,待评估,AI安全监控SaaS
+2026-03-11T22:08:00Z,GitHub,TEST AUTUMN PLS WORTK,https://github.com/ripgrim/ripgrim/issues/6,$150.00,待认领,法币，bounty.new托管，已全额资助
+2026-03-11T22:08:01Z,GitHub,[Bounty: 75 RTC] Real DriftLock with embedding similarity,https://github.com/Scottcjn/shaprai/issues/4,75 RTC,待认领,
+2026-03-11T22:08:02Z,GitHub,[Bounty: 50 RTC] Sanctuary interactive lesson runner,https://github.com/Scottcjn/shaprai/issues/7,50 RTC,待认领,
+2026-03-11T22:08:03Z,GitHub,[Bounty: 50 RTC] DPO contrastive pair generator,https://github.com/Scottcjn/shaprai/issues/3,50 RTC,待认领,
+2026-03-11T22:08:04Z,GitHub,[Bounty: 50 RTC] Training data generator for SFT pipeline,https://github.com/Scottcjn/shaprai/issues/2,50 RTC,待认领,
+2026-03-11T22:08:05Z,GitHub,[Bounty: 40 RTC] Template marketplace with RTC pricing,https://github.com/Scottcjn/shaprai/issues/8,40 RTC,待认领,
+2026-03-11T22:08:06Z,GitHub,[Bounty: 30 RTC] Add .well-known/agent.json A2A Agent Card,https://github.com/Scottcjn/shaprai/issues/6,30 RTC,待认领,
+2026-03-11T22:08:07Z,GitHub,[BOUNTY: 20 RTC] Build a mobile wallet app (React Native/Flutter),https://github.com/Scottcjn/rustchain-bounties/issues/1616,20 RTC,待认领,
+2026-03-11T22:08:08Z,GitHub,[BOUNTY: 15 RTC] Port the RustChain miner to Rust,https://github.com/Scottcjn/rustchain-bounties/issues/1601,15 RTC,待认领,
+2026-03-11T22:08:09Z,GitHub,[BOUNTY: 10 RTC] Create a Grafana dashboard for RustChain metrics,https://github.com/Scottcjn/rustchain-bounties/issues/1609,10 RTC,待认领,
+2026-03-11T22:08:10Z,GitHub,[BOUNTY: 8 RTC] Build a browser extension showing RTC balance,https://github.com/Scottcjn/rustchain-bounties/issues/1607,8 RTC,待认领,
+2026-03-11T22:08:11Z,GitHub,[Bounty: 25 RTC] Integration tests for Elyan Bus,https://github.com/Scottcjn/shaprai/issues/5,25 RTC,待认领,
+2026-03-11T22:08:12Z,GitHub,[Bounty: 25 RTC] Add unit tests for core modules,https://github.com/Scottcjn/shaprai/issues/1,25 RTC,待认领,
+2026-03-11T22:08:13Z,GitHub,[BOUNTY: 5 RTC] Create a load test suite for the RustChain API,https://github.com/Scottcjn/rustchain-bounties/issues/1614,5 RTC,待认领,
+2026-03-11T22:08:14Z,GitHub,[BOUNTY: 5 RTC] Create a Homebrew formula for the RustChain miner,https://github.com/Scottcjn/rustchain-bounties/issues/1612,5 RTC,待认领,
+2026-03-11T22:08:15Z,GitHub,[BOUNTY: 5 RTC] Create a CLI tool to monitor RustChain node health,https://github.com/Scottcjn/rustchain-bounties/issues/1606,5 RTC,待认领,
+2026-03-11T22:08:16Z,GitHub,[BOUNTY: 5 RTC] Create an MCP tool that interacts with RustChain,https://github.com/Scottcjn/rustchain-bounties/issues/1602,5 RTC,待认领,
+2026-03-11T22:08:17Z,GitHub,[BOUNTY: 5 RTC] Build a web dashboard showing RustChain stats,https://github.com/Scottcjn/rustchain-bounties/issues/1600,5 RTC,待认领,
+2026-03-11T22:08:18Z,GitHub,[BOUNTY: 3 RTC] Create a Postman collection for RustChain API,https://github.com/Scottcjn/rustchain-bounties/issues/1617,3 RTC,待认领,
+2026-03-11T22:08:19Z,GitHub,[BOUNTY: 3 RTC] Set up Dependabot or Renovate for any Elyan Labs repo,https://github.com/Scottcjn/rustchain-bounties/issues/1613,3 RTC,待认领,
+2026-03-11T22:08:20Z,GitHub,[BOUNTY: 3 RTC] Write a comparison: RustChain vs Ethereum PoS,https://github.com/Scottcjn/rustchain-bounties/issues/1610,3 RTC,待认领,
+2026-03-11T22:08:21Z,GitHub,[BOUNTY: 3 RTC] Create a Python/JS SDK wrapper for BoTTube API,https://github.com/Scottcjn/rustchain-bounties/issues/1603,3 RTC,待认领,
+2026-03-11T22:08:22Z,GitHub,[EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain!,https://github.com/Scottcjn/rustchain-bounties/issues/1677,2 RTC,待认领,
+2026-03-11T22:08:23Z,GitHub,[EASY BOUNTY: 2 RTC] Create installation GIFs or asciinema recordings,https://github.com/Scottcjn/rustchain-bounties/issues/1615,2 RTC,待认领,
+2026-03-11T22:08:24Z,GitHub,[EASY BOUNTY: 2 RTC] Add code comments explaining any complex function,https://github.com/Scottcjn/rustchain-bounties/issues/1608,2 RTC,待认领,
+2026-03-11T22:08:25Z,GitHub,[EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI,https://github.com/Scottcjn/rustchain-bounties/issues/1618,1 RTC,待认领,
+2026-03-11T22:08:26Z,GitHub,[EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues showing support,https://github.com/Scottcjn/rustchain-bounties/issues/1611,1 RTC,待认领,
+2026-03-11T22:08:27Z,GitHub,[EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md to any repo missing one,https://github.com/Scottcjn/rustchain-bounties/issues/1605,1 RTC,待认领
+2026-03-11T19:07:00Z,GitHub,[Bounty: 25 RTC] Add unit tests for core modules,https://github.com/Scottcjn/shaprai/issues/1,25 RTC,待认领,
+2026-03-11T19:07:01Z,GitHub,[EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain!,https://github.com/Scottcjn/rustchain-bounties/issues/1677,2 RTC,待认领,
+2026-03-11T19:07:02Z,GitHub,[EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI,https://github.com/Scottcjn/rustchain-bounties/issues/1618,1 RTC,待认领,
+2026-03-11T19:07:03Z,GitHub,[BOUNTY: 3 RTC] Set up Dependabot or Renovate for any Elyan Labs repo,https://github.com/Scottcjn/rustchain-bounties/issues/1613,3 RTC,待认领,
+2026-03-11T19:07:04Z,GitHub,[EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues showing support,https://github.com/Scottcjn/rustchain-bounties/issues/1611,1 RTC,待认领,
+2026-03-11T19:07:05Z,GitHub,[EASY BOUNTY: 2 RTC] Add code comments explaining any complex function,https://github.com/Scottcjn/rustchain-bounties/issues/1608,2 RTC,待认领,
+2026-03-11T19:07:06Z,GitHub,[EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md to any repo missing one,https://github.com/Scottcjn/rustchain-bounties/issues/1605,1 RTC,待认领,
+2026-03-11T19:07:07Z,GitHub,[BOUNTY: 3 RTC] Create a Dockerfile for the RustChain miner,https://github.com/Scottcjn/rustchain-bounties/issues/1599,3 RTC,待认领,
+2026-03-11T19:07:08Z,GitHub,[EASY BOUNTY: 2 RTC] Add a RustChain badge to your GitHub profile,https://github.com/Scottcjn/rustchain-bounties/issues/1598,2 RTC,待认领,
+2026-03-11T19:07:09Z,GitHub,[EASY BOUNTY: 1 RTC] Star all 5 Elyan Labs repos and share on social media,https://github.com/Scottcjn/rustchain-bounties/issues/1595,1 RTC,待认领,
+2026-03-11T19:07:10Z,GitHub,[EASY BOUNTY: 2 RTC] Translate any error message to your language,https://github.com/Scottcjn/rustchain-bounties/issues/1593,2 RTC,待认领,
+2026-03-11T19:07:11Z,GitHub,[BOUNTY: 3 RTC] Add RustChain to any awesome-list or curated list,https://github.com/Scottcjn/rustchain-bounties/issues/1592,3 RTC,待认领,
+2026-03-11T19:07:12Z,GitHub,[BOUNTY: 5 RTC] Create a GitHub Action workflow for any Elyan Labs repo,https://github.com/Scottcjn/rustchain-bounties/issues/1591,5 RTC,待认领,
+2026-03-11T19:07:13Z,GitHub,[EASY BOUNTY: 1 RTC] Fix any typo or grammar error in docs,https://github.com/Scottcjn/rustchain-bounties/issues/1590,1 RTC,待认领,
+2026-03-11T19:07:14Z,GitHub,[EASY BOUNTY: 2 RTC] Write a unit test for any untested function,https://github.com/Scottcjn/rustchain-bounties/issues/1589,2 RTC,待认领,
+2026-03-11T19:07:15Z,GitHub,[EASY BOUNTY: 1 RTC] Add type hints to any Python function in the codebase,https://github.com/Scottcjn/rustchain-bounties/issues/1588,1 RTC,待认领,
+2026-03-11T19:07:16Z,GitHub,Register in Ecosystem Contributors — 5 RTC per registration,https://github.com/Scottcjn/rustchain-bounties/issues/1575,5 RTC,待认领,
+2026-03-11T19:07:17Z,GitHub,[BOUNTY] Report a bug with reproduction steps (0.5 RTC),https://github.com/Scottcjn/Rustchain/issues/775,0.5 RTC,待认领,
+2026-03-11T19:07:18Z,GitHub,[BOUNTY] Star the repo and share why (0.5 RTC),https://github.com/Scottcjn/Rustchain/issues/773,0.5 RTC,待认领,
+2026-03-11T19:07:19Z,GitHub,[BOUNTY: 1 RTC] BoTTube profile setup: avatar + bio + first published video,https://github.com/Scottcjn/rustchain-bounties/issues/1504,1 RTC,待认领,
+2026-03-11T16:06:00Z,GitHub,[$10] Add Airtable backend,https://github.com/ChinchillaEnterprises/openclaw-crm/issues/4,$10 USD,待认领,
+2026-03-11T16:06:01Z,GitHub,TEST AUTUMN PLS WORTK,https://github.com/ripgrim/ripgrim/issues/6,$150 USD,待认领,
+2026-03-11T16:06:02Z,GitHub,[$10] Add GitHub Actions CI pipeline,https://github.com/ChinchillaEnterprises/openclaw-crm/issues/5,$10 USD,待认领,
+2026-03-11T16:06:03Z,GitHub,[Nodesignal bounty] Admin UI,https://github.com/cashubtc/nutshell/issues/556,300,000 sats,待评估,
+2026-03-11T16:06:04Z,GitHub,[BOUNTY] Facebook Marketplace Monitor API — $75 paid in $SX token,https://github.com/bolivian-peru/marketplace-service-template/issues/75,$75 USD (SX代币),待评估,
+2026-03-11T16:06:05Z,GitHub,[BOUNTY: 75-100 RTC] RustChain MCP Server — Query the Chain from Claude Code,https://github.com/Scottcjn/rustchain-bounties/issues/1152,75-100 RTC,待评估,
+2026-03-11T16:06:06Z,GitHub,Write a tutorial or blog about Beacon (50 RTC Bounty),https://github.com/Scottcjn/rustchain-bounties/issues/160,50 RTC,待评估,
 2026-03-10T05:07:52Z,GitHub,Mobile Wallet: Security hardening for v2,https://github.com/Scottcjn/Rustchain/issues/785,bounty,待评估,
 2026-03-10T05:08:01Z,GitHub,[BOUNTY] Report a bug with reproduction steps (0.5,https://github.com/Scottcjn/Rustchain/issues/775,0.5 RTC,待评估,
 2026-03-10T05:08:09Z,GitHub,[BOUNTY] Open an Issue or Comment on Any Scottcjn,https://github.com/Scottcjn/rustchain-bounties/issues/254,bounty,待评估,
@@ -34,23 +99,3 @@ time,source,title,url,amount,status,notes
 2026-03-10T11:30:00Z,GitHub,[BOUNTY] Report a Bug — 5-15 RTC,https://github.com/Scottcjn/Rustchain/issues/305,5-15 RTC,待评估,
 2026-03-10T11:30:00Z,GitHub,[BOUNTY] Break the RustChain Mechanism Spec + Falsification Matrix,https://github.com/Scottcjn/rustchain-bounties/issues/356,Undisclosed,待评估,
 2026-03-10T11:30:00Z,GitHub,Bounties can be posted without authentication - security risk,https://github.com/datafund/Agent-Data-Exchange/issues/17,Undisclosed,待评估,
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain!,https://github.com/Scottcjn/rustchain-bounties/issues/1677,2 RTC,待执行,简单星级任务
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI,https://github.com/Scottcjn/rustchain-bounties/issues/1618,1 RTC,待执行,UI无障碍报告
-2026-03-11T16:06:00Z,GitHub,[BOUNTY: 3 RTC] Set up Dependabot or Renovate for any Elyan Labs repo,https://github.com/Scottcjn/rustchain-bounties/issues/1613,3 RTC,待执行,依赖自动化配置
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues showing support,https://github.com/Scottcjn/rustchain-bounties/issues/1611,1 RTC,待执行,简单互动任务
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 2 RTC] Add code comments explaining any complex function,https://github.com/Scottcjn/rustchain-bounties/issues/1608,2 RTC,待执行,代码注释补充
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md to any repo missing one,https://github.com/Scottcjn/rustchain-bounties/issues/1605,1 RTC,待执行,文档补充
-2026-03-11T16:06:00Z,GitHub,[BOUNTY: 3 RTC] Create a Dockerfile for the RustChain miner,https://github.com/Scottcjn/rustchain-bounties/issues/1599,3 RTC,待执行,Docker配置
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 2 RTC] Add a RustChain badge to your GitHub profile,https://github.com/Scottcjn/rustchain-bounties/issues/1598,2 RTC,待执行,个人资料徽章
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 1 RTC] Star all 5 Elyan Labs repos and share on social media,https://github.com/Scottcjn/rustchain-bounties/issues/1595,1 RTC,待执行,星级+分享任务
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 2 RTC] Translate any error message to your language,https://github.com/Scottcjn/rustchain-bounties/issues/1593,2 RTC,待执行,翻译任务
-2026-03-11T16:06:00Z,GitHub,[BOUNTY: 3 RTC] Add RustChain to any awesome-list or curated list,https://github.com/Scottcjn/rustchain-bounties/issues/1592,3 RTC,待执行,列表收录
-2026-03-11T16:06:00Z,GitHub,[BOUNTY: 5 RTC] Create a GitHub Action workflow for any Elyan Labs repo,https://github.com/Scottcjn/rustchain-bounties/issues/1591,5 RTC,待执行,CI/CD工作流
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 1 RTC] Fix any typo or grammar error in docs,https://github.com/Scottcjn/rustchain-bounties/issues/1590,1 RTC,待执行,文档纠错
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 2 RTC] Write a unit test for any untested function,https://github.com/Scottcjn/rustchain-bounties/issues/1589,2 RTC,待执行,单元测试编写
-2026-03-11T16:06:00Z,GitHub,[EASY BOUNTY: 1 RTC] Add type hints to any Python function in the codebase,https://github.com/Scottcjn/rustchain-bounties/issues/1588,1 RTC,待执行,Python类型提示
-2026-03-11T16:06:00Z,GitHub,Register in Ecosystem Contributors — 5 RTC per registration,https://github.com/Scottcjn/rustchain-bounties/issues/1575,5 RTC,待执行,贡献者注册奖励
-2026-03-11T16:06:00Z,GitHub,[BOUNTY] Report a bug with reproduction steps (0.5 RTC),https://github.com/Scottcjn/Rustchain/issues/775,0.5 RTC,待执行,Bug报告
-2026-03-11T16:06:00Z,GitHub,[BOUNTY] Star the repo and share why (0.5 RTC),https://github.com/Scottcjn/Rustchain/issues/773,0.5 RTC,待执行,星级+反馈
-2026-03-11T16:06:00Z,GitHub,[BOUNTY: 1 RTC] BoTTube profile setup: avatar + bio + first published video,https://github.com/Scottcjn/rustchain-bounties/issues/1504,1 RTC,待执行,BoTTube资料设置
-2026-03-11T16:06:00Z,GitHub,[BOUNTY: 5 RTC] Starstruck 128 Stars Celebration Graphic,https://github.com/Scottcjn/rustchain-bounties/issues/1115,5 RTC,待执行,庆祝海报设计
