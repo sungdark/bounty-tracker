@@ -708,3 +708,11 @@
 | 2026-03-12T06:21:00Z | GitHub | [Bounty: 30 RTC] Add .well-known/agent.json A2A Agent Card | 30 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/6 |
 | 2026-03-12T06:21:00Z | GitHub | [Bounty: 25 RTC] Integration tests for Elyan Bus | 25 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/5 |
 | 2026-03-12T06:21:00Z | GitHub | [Bounty: 25 RTC] Add unit tests for core modules | 25 RTC | 待评估 | https://github.com/Scottcjn/shaprai/issues/1 |
+
+### 2026-03-12 06:27 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T06:27:37Z | GitHub | [BOUNTY] Report a bug with reproduction steps | 0.5 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/775 |
+| 2026-03-12T06:27:00Z | GitHub | [$250] Phone number inputs have a random "Go" button on iOS Native | $250 USD | 待评估 | https://github.com/Expensify/App/issues/85005 |
+| 2026-03-12T06:27:00Z | GitHub | [$250] User not redirected to concierge chat after clearing create chat error | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83779 |
+| 2026-03-12T06:27:00Z | GitHub | Implement InkCanvas and InkPresenter controls | 终身商业许可证 | 待评估 | https://github.com/Chevalier12/InkkSlinger/issues/3 |
