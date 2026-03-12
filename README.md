@@ -641,3 +641,20 @@
 | 2026-03-11T23:09:00Z | Freelancer | Interactive Word document with tab-through fields | $95 | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-11T23:09:00Z | Freelancer | Daily fitness content video editor | $17 / hr | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-11T23:09:00Z | Freelancer | Robotic manipulation video annotation | $11 / hr | 待评估 | https://www.freelancer.com/jobs/ |
+
+### 2026-03-12 01:15 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T01:15:00Z | GitHub | Bounty: Volvo - 2022 XC90 T8 (hybrid) integration | $5,000 USD | 待评估 | https://github.com/commaai/openpilot/issues/27226 |
+| 2026-03-12T01:15:00Z | GitHub | Scala 3 Support | $1,000 USD | 待评估 | https://github.com/com-lihaoyi/scalasql/issues/2 |
+| 2026-03-12T01:15:00Z | GitHub | [TUTORIAL] BTCPay Server | $90 USD | 待评估 | https://github.com/PlanB-Network/bitcoin-educational-content/issues/2125 |
+| 2026-03-12T01:15:00Z | GitHub | Improve Validators page in Explorer | $500 USD (NEAR) | 待评估 | https://github.com/near/bounties/issues/14 |
+| 2026-03-12T01:15:00Z | GitHub | Add custom limitation rate to Identify | $100 USD | 待评估 | https://github.com/stashapp/stash/issues/5729 |
+| 2026-03-12T01:15:00Z | GitHub | 200 USD bounty for deploying PR #3157 | $200 USD | 待评估 | https://github.com/dosbox-staging/dosbox-staging/issues/3150 |
+| 2026-03-12T01:15:00Z | GitHub | Bounty Program, issues submission, 2026 | Variable | 待评估 | https://github.com/orgs/asyncapi/discussions/2279 |
+| 2026-03-12T01:15:00Z | GitHub | AsyncAPI 2026 Bounty Program | Variable | 待评估 | https://github.com/orgs/asyncapi/projects/36 |
+| 2026-03-12T01:15:00Z | GitHub | Hourly updated bug bounty platform scopes | Variable | 待评估 | https://github.com/arkadiyt/bounty-targets-data |
+| 2026-03-12T01:15:00Z | HackerOne | 1Password Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/1password |
+| 2026-03-12T01:15:00Z | HackerOne | 1Password CTF Bug Bounty Challenge | $50 minimum | 待评估 | https://hackerone.com/1password_ctf |
+| 2026-03-12T01:15:00Z | HackerOne | Android Security Rewards Program | Up to $1,000,000 | 待评估 | https://hackerone.com/android |
+| 2026-03-12T01:15:00Z | Bugcrowd | OpenAI Bug Bounty Program | Variable | 待评估 | https://openai.com/index/bug-bounty-program/ |
