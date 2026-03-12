@@ -787,3 +787,19 @@
 | 2026-03-12T10:16:15Z | GitHub | [BOUNTY] Best RustChain meme contest | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/177 |
 | 2026-03-12T10:10:47Z | GitHub | [EASY BOUNTY: 2 RTC] Add code comments explaining any complex function | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1608 |
 | 2026-03-12T10:10:37Z | GitHub | Support MCP Apps | 未标注 | 待评估 | https://github.com/archestra-ai/archestra/issues/1301 |
+
+### 2026-03-12 11:20 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T11:20:00Z | HackerOne | 1Password Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/1password |
+| 2026-03-12T11:20:00Z | HackerOne | 23andMe Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/23andme_bbp |
+| 2026-03-12T11:20:00Z | HackerOne | 3CX Bug Bounty Program | $50 minimum | 待评估 | https://hackerone.com/3cx |
+| 2026-03-12T11:20:00Z | HackerOne | 8x8 Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/8x8-bounty |
+| 2026-03-12T11:20:00Z | HackerOne | Acronis Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/acronis |
+| 2026-03-12T11:20:00Z | HackerOne | Affirm Bug Bounty Program | $100 minimum | 待评估 | https://hackerone.com/affirm |
+| 2026-03-12T11:20:00Z | HackerOne | Airbnb Bug Bounty Program | Variable | 待评估 | https://hackerone.com/airbnb |
+| 2026-03-12T11:20:00Z | HackerOne | Amazon Vulnerability Research Program | $100 minimum | 待评估 | https://hackerone.com/amazonvrp |
+| 2026-03-12T11:20:00Z | HackerOne | Android Security Rewards Program | Up to $1,000,000 | 待评估 | https://hackerone.com/android |
+| 2026-03-12T11:20:00Z | Freelancer | 酒店科技SaaS产品UX/UI设计 | $2293 | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T11:20:00Z | Freelancer | VFS Global签证预约监控工具开发 | $1043 | 待评估 | https://www.freelancer.com/jobs/ |
+| 2026-03-12T11:20:00Z | Freelancer | Excel工作簿转Web应用开发 | $1189 | 待评估 | https://www.freelancer.com/jobs/ |
