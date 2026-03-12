@@ -771,3 +771,19 @@
 | 2026-03-12T10:19:00Z | Freelancer | Figma转Adobe Illustrator格式转换 | $55 | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T10:19:00Z | Freelancer | 音乐制作（12首歌曲编曲） | $562 | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T10:19:00Z | Freelancer | Excel工作簿转Web应用开发 | $1189 | 待评估 | https://www.freelancer.com/jobs/ |
+
+### 2026-03-12 10:41 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T10:41:01Z | GitHub | [CFI] Allow distance mi/km to be edited when created via map | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83781 |
+| 2026-03-12T10:39:55Z | GitHub | [EASY BOUNTY: 2 RTC] Write a unit test for any untested function | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1589 |
+| 2026-03-12T10:38:24Z | GitHub | ⚡ Bounty: RTC/ERG Trading Pair on Spectrum DEX | 150 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/32 |
+| 2026-03-12T10:36:23Z | GitHub | [BOUNTY: 5 RTC] Create a RustChain Partner Program Proposal | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1689 |
+| 2026-03-12T10:29:55Z | GitHub | [$250] Confirm details - Unit doesn't change from Km to Mile when switching workspaces | $250 USD | 待评估 | https://github.com/Expensify/App/issues/78212 |
+| 2026-03-12T10:28:48Z | GitHub | [$250] Chat - Message sent in offline is not shown in reports page | $250 USD | 待评估 | https://github.com/Expensify/App/issues/82033 |
+| 2026-03-12T10:27:17Z | GitHub | [EASY BOUNTY: 1 RTC] Add type hints to any Python function | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1588 |
+| 2026-03-12T10:24:51Z | GitHub | [Bounty]: Kubernetes Integration Tool | 75 pts | 待评估 | https://github.com/aden-hive/hive/issues/6219 |
+| 2026-03-12T10:19:35Z | GitHub | [BOUNTY: 5 RTC] Create a CLI tool to monitor RustChain node health | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1606 |
+| 2026-03-12T10:16:15Z | GitHub | [BOUNTY] Best RustChain meme contest | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/177 |
+| 2026-03-12T10:10:47Z | GitHub | [EASY BOUNTY: 2 RTC] Add code comments explaining any complex function | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1608 |
+| 2026-03-12T10:10:37Z | GitHub | Support MCP Apps | 未标注 | 待评估 | https://github.com/archestra-ai/archestra/issues/1301 |
