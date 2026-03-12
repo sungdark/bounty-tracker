@@ -803,3 +803,25 @@
 | 2026-03-12T11:20:00Z | Freelancer | 酒店科技SaaS产品UX/UI设计 | $2293 | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T11:20:00Z | Freelancer | VFS Global签证预约监控工具开发 | $1043 | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-12T11:20:00Z | Freelancer | Excel工作簿转Web应用开发 | $1189 | 待评估 | https://www.freelancer.com/jobs/ |
+
+### 2026-03-12 11:42 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-12T11:42:00Z | GitHub | Find a Typo or Broken Link | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/444 |
+| 2026-03-12T11:42:00Z | GitHub | ⚡ Bounty: RTC/ERG Trading Pair on Spectrum DEX | 150 RTC | 待评估 | https://github.com/Scottcjn/Rustchain/issues/32 |
+| 2026-03-12T11:42:00Z | GitHub | [EASY BOUNTY: 2 RTC] Write a unit test for any untested function | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1589 |
+| 2026-03-12T11:42:00Z | GitHub | [EASY BOUNTY: 1 RTC] Add type hints to any Python function | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1588 |
+| 2026-03-12T11:42:00Z | GitHub | [BOUNTY: 5 RTC] Create a CLI tool to monitor RustChain node health | 5 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1606 |
+| 2026-03-12T11:42:00Z | GitHub | [BOUNTY] Best RustChain/BoTTube Meme Wins 3 RTC | 3 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/177 |
+| 2026-03-12T11:42:00Z | GitHub | [EASY BOUNTY: 2 RTC] Add code comments explaining any complex function | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1608 |
+| 2026-03-12T11:42:00Z | GitHub | [BOUNTY: 8 RTC] Build a browser extension showing RTC balance | 8 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1607 |
+| 2026-03-12T11:42:00Z | GitHub | [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 |
+| 2026-03-12T11:42:00Z | GitHub | [BOUNTY: 20 RTC] Build a mobile wallet app (React Native/Flutter) | 20 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1616 |
+| 2026-03-12T11:42:00Z | GitHub | [EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md to any repo missing one | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1605 |
+| 2026-03-12T11:42:00Z | GitHub | [EASY BOUNTY: 2 RTC] Create installation GIFs or asciinema recordings | 2 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1615 |
+| 2026-03-12T11:42:00Z | GitHub | [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI | 1 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1618 |
+| 2026-03-12T11:42:00Z | GitHub | [BOUNTY: 15 RTC] Port the RustChain miner to Rust | 15 RTC | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1601 |
+| 2026-03-12T11:42:00Z | GitHub | Coinbase Exchange Integration | $750 USD | 待评估 | https://github.com/Spectral-Finance/lux/issues/83 |
+| 2026-03-12T11:42:00Z | GitHub | [CFI] Allow distance mi/km to be edited when created via map | $250 USD | 待评估 | https://github.com/Expensify/App/issues/83781 |
+| 2026-03-12T11:42:00Z | GitHub | [$250] Confirm details - Unit doesn't change from Km to Mile | $250 USD | 待评估 | https://github.com/Expensify/App/issues/78212 |
+| 2026-03-12T11:42:00Z | GitHub | [$250] Chat - Message sent in offline not shown in reports | $250 USD | 待评估 | https://github.com/Expensify/App/issues/82033 |
