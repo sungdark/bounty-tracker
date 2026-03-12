@@ -1,0 +1,212 @@
+{
+  "title": "[BOUNTY] Report a Bug — 5-15 RTC",
+  "url": "https://github.com/Scottcjn/Rustchain/issues/305",
+  "created_at": "2026-02-21T02:29:53Z",
+  "labels": [
+    "bug",
+    "bounty",
+    "community"
+  ],
+  "body": "## Bug Report Bounty — 5-15 RTC\n\nFind and report real bugs in the RustChain ecosystem.\n\n### Severity Tiers\n| Tier | Reward | Examples |\n|------|--------|---------|\n| Low | 5 RTC | UI glitches, typos in error messages, cosmetic issues |\n| Medium | 10 RTC | Incorrect calculations, broken API responses, edge cases |\n| High | 15 RTC | Data loss, security issues, consensus bugs, crash bugs |\n\n### Requirements\n- Must be a real, reproducible bug (not a feature request)\n- Include steps to reproduce\n- In"
+}
+{
+  "title": "[BOUNTY] Report a bug with reproduction steps (0.5 RTC)",
+  "url": "https://github.com/Scottcjn/Rustchain/issues/775",
+  "created_at": "2026-03-09T19:09:30Z",
+  "labels": [
+    "bug",
+    "good first issue",
+    "bounty"
+  ],
+  "body": "## Bounty: 0.5 RTC per valid bug report\n\nFound something broken? Report it with clear reproduction steps and earn 0.5 RTC.\n\n### What counts\n- CLI tool errors or unexpected behavior\n- API endpoint returning wrong data\n- Documentation that contradicts actual behavior\n- UI/explorer display issues\n\n### Bug report format\n1. **What happened**: Description of the bug\n2. **Expected**: What should have happened\n3. **Steps to reproduce**: Exact commands or actions\n4. **Environment**: OS, Python version, e"
+}
+{
+  "title": "[Bug]: wan2.2-14B benchmark sends requests, but the serve does not respond.",
+  "url": "https://github.com/vllm-project/vllm-omni/issues/1736",
+  "created_at": "2026-03-09T02:34:30Z",
+  "labels": [
+    "bug"
+  ],
+  "body": "### Your current environment\n\n<details>\n<summary>The output of <code>python collect_env.py</code></summary>\n\n```text\nYour output of `python collect_env.py` here\n```\n\n</details>\n\n\n### Your code version\n\n<details>\n<summary>The commit id or version of vllm</summary>\n\n```text\n0.16\n```\n</details>\n<details>\n<summary>The commit id or version of vllm-omni</summary>\n\n```text\n0.16\n```\n</details>\n\n\n### 🐛 Describe the bug\n\n```\npython3 benchmarks/diffusion/diffusion_benchmark_serving.py --base-url http://loc"
+}
+{
+  "title": "[BUG] [alpha] New Debug Configuration: Close (X) button has no tooltip or accessible name",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26112",
+  "created_at": "2026-03-12T03:14:39Z",
+  "labels": [
+    "bug",
+    "invalid",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nThe panel header has a close button (X) with no `title` or `aria-label`, so screen reader users and hover users don’t get a clear “Close” explanation.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/8e19ec2c-c08c-44de-b1b6-e70ce1001a70\n\n### Steps to Reproduce\n\nOpen the New Debug Configuration panel. Focus or hover the X button.\n\n#"
+}
+{
+  "title": "[BUG] [alpha]Test Output: Export results does nothing when downloads are blocked",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26182",
+  "created_at": "2026-03-12T07:16:00Z",
+  "labels": [
+    "bug"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nExport uses a programmatic `<a>.click()` to download a JSON blob. If downloads are blocked or the environment does not allow it, the user gets no feedback.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/592678dc-53f7-43a9-a6d8-14766c63dca8\n\n### Steps to Reproduce\n\nOpen Test Output, run tests, click “Export results” in an environm"
+}
+{
+  "title": "[BUG] [alpha] Prompt Store: Favorites and Filters icon buttons have no tooltips",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26024",
+  "created_at": "2026-03-12T01:00:53Z",
+  "labels": [
+    "bug",
+    "duplicate",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nThe “Show favorites only” (star) and “Filters” (filter icon) buttons in the toolbar have no tooltips or accessible names. New users may not understand what they do.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/655cc174-1b19-42e9-9b6a-a78c6512c040\n\n### Steps to Reproduce\n\n- Open the Prompt Store and hover or focus the favorites "
+}
+{
+  "title": "[BUG] [alpha] Prompt Store: Delete uses browser confirm()",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26020",
+  "created_at": "2026-03-12T00:54:44Z",
+  "labels": [
+    "bug",
+    "valid",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nDeleting a prompt uses the browser’s native `confirm()` dialog. This is inconsistent with the rest of the app’s dialogs and may look out of place or behave differently across platforms.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/6bb7fb7b-2288-4824-aca7-d052f52bb508\n\n### Steps to Reproduce\n\n- Open the Prompt Store, hover a pro"
+}
+{
+  "title": "[BUG] [alpha] Status-bar notifications bell cannot close the Cortex notifications drawer on second click",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26106",
+  "created_at": "2026-03-12T03:02:39Z",
+  "labels": [
+    "bug",
+    "invalid",
+    "ide"
+  ],
+  "body": "### Project\n\nide\n\n### Description\n\nthe status-bar bell behaves like open-only instead of acting as a normal toggle for the drawer it opened.\n\n### Error Message\n\n```shell\nNone\n```\n\n### Debug Logs\n\n```shell\nNone\n```\n\n### System Information\n\n```shell\n- Cortex IDE `alpha`\n- Platform: any\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/b1d7e82c-0b00-42ad-88a2-75ca882efcab\n\n### Steps to Reproduce\n\n1. Open Cortex IDE in the normal desktop layout.\n2. Click the notifications bell in the "
+}
+{
+  "title": "[BUG] [alpha]  SSH Connection: Deleting a saved connection uses a native confirm dialog (inconsistent UX)",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26223",
+  "created_at": "2026-03-12T08:11:16Z",
+  "labels": [
+    "bug"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nDeleting a saved connection uses `confirm(\"Are you sure…\")`, which shows a browser-native confirm dialog. This is visually inconsistent with the app’s design system dialogs and can behave differently across platforms.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/475d51c8-5673-4636-8947-76d853c8b387\n\n### Steps to Reproduce\n\nOpen"
+}
+{
+  "title": "[BUG] [alpha] New Debug Configuration: Program “Browse” button does nothing",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26132",
+  "created_at": "2026-03-12T03:49:16Z",
+  "labels": [
+    "bug",
+    "duplicate",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nNext to the Program field there is a “Browse” button (file icon) with `title=\"Browse\"`. It has no `onClick` handler, so it never opens a file picker or updates the Program field.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/9122b0d3-64d0-466f-b24e-518fbac61810\n\n### Steps to Reproduce\n\nOpen the New Debug Configuration panel, ens"
+}
+{
+  "title": "[BUG] [alpha] Manage Profiles: No success feedback Duplicate",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26060",
+  "created_at": "2026-03-12T02:04:31Z",
+  "labels": [
+    "bug",
+    "valid",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nAfter Duplicate, a new profile is created but there is no visible success message; the list just updates. Users may be unsure whether the action succeeded.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/56ec1dbb-1c40-4c11-82e0-aa9821674541\n\n### Steps to Reproduce\n\nOpen Manage Profiles. Click Duplicate on a profile. Observe feedba"
+}
+{
+  "title": "[BUG] [alpha] Extensions panel: Open folder button has no tooltip",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26055",
+  "created_at": "2026-03-12T02:00:03Z",
+  "labels": [
+    "bug",
+    "valid",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nThe \"Open folder\" button in the footer opens the extensions directory. It has no tooltip, so users may not know it opens the extensions folder on disk.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/f0587f9b-58e0-4528-993c-0f7f367f864d\n\n### Steps to Reproduce\n\n- Open the Extensions panel, hover or focus the \"Open folder\" button.\n"
+}
+{
+  "title": "[BUG] [alpha]  Prompt Store: Export to file has no success feedback",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26026",
+  "created_at": "2026-03-12T01:02:16Z",
+  "labels": [
+    "bug",
+    "duplicate",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nAfter clicking Export, a file is downloaded but the UI does not confirm that the export succeeded. Users who expect an in-app confirmation may be unsure whether the action worked.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/6c4c3740-2054-4474-8ff9-d32e5f56e6c2\n\n### Steps to Reproduce\n\nOpen the Prompt Store, click the Export (d"
+}
+{
+  "title": "[BUG] [alpha]  Prompt Store: Sort menu does not close on outside click",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26022",
+  "created_at": "2026-03-12T00:57:20Z",
+  "labels": [
+    "bug",
+    "duplicate",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nThe Sort dropdown (Name, Created, Modified, Usage, Ascending/Descending) stays open when the user clicks outside it. It only closes when an option is chosen, which can feel sticky and inconsistent with other dropdowns.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/b2db1508-be0a-479d-8ac0-aa259404dc5e\n\n### Steps to Reproduce\n\n- O"
+}
+{
+  "title": "[BUG] [alpha] Menu bar notifications badge ignores Do Not Disturb and keeps showing the normal bell and unread badge",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26083",
+  "created_at": "2026-03-12T02:28:19Z",
+  "labels": [
+    "bug",
+    "invalid",
+    "ide"
+  ],
+  "body": "### Project\n\nide\n\n### Description\n\nThe shared DND state exists and is already respected by another notification bell component, but the mounted menu-bar `NotificationsBadge` ignores it completely.\n\n### Error Message\n\n```shell\nNone.\n```\n\n### Debug Logs\n\n```shell\nNone.\n```\n\n### System Information\n\n```shell\n- Cortex IDE `alpha`\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/9df2882c-552f-4b7a-a755-3250bd82bef1\n\n### Steps to Reproduce\n\n1. Open Cortex IDE in the normal desktop layou"
+}
+{
+  "title": "[BUG] [alpha] Notifications panel cannot be closed by clicking the menu bar bell again",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26062",
+  "created_at": "2026-03-12T02:08:35Z",
+  "labels": [
+    "bug",
+    "valid",
+    "ide"
+  ],
+  "body": "### Project\n\nide\n\n### Description\n\n1. close the panel during `mousedown`, then\n2. immediately reopen it during the bell’s `click` toggle.\n\nSo the panel remains open instead of closing.\n\n\n### Error Message\n\n```shell\nNone\n```\n\n### Debug Logs\n\n```shell\nNone\n```\n\n### System Information\n\n```shell\n- Cortex IDE `alpha`\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/1d61dde4-a9aa-4e10-8e9e-58e9175573e3\n\n### Steps to Reproduce\n\n1. Open Cortex IDE in the normal desktop layout.\n2. Click t"
+}
+{
+  "title": "[BUG] [alpha]  Manage Profiles: Import Profile modal close button has no tooltip",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26061",
+  "created_at": "2026-03-12T02:05:58Z",
+  "labels": [
+    "bug",
+    "valid",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nThe Import Profile modal has a close (X) button in the header. The button has no tooltip, so users may not know it closes the dialog.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/29f25448-8333-4d4d-8e97-82e99acaede5\n\n### Steps to Reproduce\n\nOpen Manage Profiles, click Import. Hover or focus the close (X) button in the Import Pr"
+}
+{
+  "title": "[BUG] [alpha]  SSH Connection: “Connect” can save broken profiles even if connection fails",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26224",
+  "created_at": "2026-03-12T08:14:03Z",
+  "labels": [
+    "bug"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nWhen “Save this connection for future use” is checked, `Connect` saves the profile *before* attempting `remote.connect()`. If the connection fails (bad host/port/username/key), the broken profile remains saved, cluttering the Saved list.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/e57574ee-af11-430a-9f92-25d5bb3be88d\n\n### Step"
+}
+{
+  "title": "[BUG] [alpha]  Debug Configuration: “Add Configuration…” and “Add Configuration from Snippet…” in the list do nothing",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26111",
+  "created_at": "2026-03-12T03:13:29Z",
+  "labels": [
+    "bug",
+    "duplicate",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nIn the launch configuration picker, the list shows two actions: “Add Configuration…” and “Add Configuration from Snippet…”. Selecting either (click or Enter) does nothing. The selection handler only handles config, compound, and template types, not `action`.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/e867005c-771c-46c3-aa60-f"
+}
+{
+  "title": "[BUG] [alpha]  Prompt Store: Remove tag button (x on badge) has no tooltip",
+  "url": "https://github.com/PlatformNetwork/bounty-challenge/issues/26036",
+  "created_at": "2026-03-12T01:12:05Z",
+  "labels": [
+    "bug",
+    "valid",
+    "ide"
+  ],
+  "body": "### Project\n\ncortex\n\n### Description\n\nIn the Edit/New Prompt form, each tag is shown as a badge with a small “x” button to remove it. That button has no tooltip or accessible name, so screen-reader users may not know it removes the tag.\n\n### Error Message\n\n```shell\n\n```\n\n### Debug Logs\n\n```shell\n\n```\n\n### System Information\n\n```shell\n$ bounty info\n```\n\n### Screenshots\n\nhttps://github.com/user-attachments/assets/1f2767fe-049b-4ba0-a49e-bd12595a15ba\n\n### Steps to Reproduce\n\nOpen the Prompt Store, "
+}
