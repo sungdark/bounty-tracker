@@ -56,6 +56,20 @@
 | 2026-03-13T02:46:00Z | Freelancer | Vintage Car Showroom Logo Design | $402 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-13T02:46:00Z | Freelancer | Foldable Telescopic Leg Mechanism CAD Design | $300 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-13T02:46:00Z | Freelancer | 48-Page Historical Book Layout (Adobe InDesign) | $156 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
+### 2026-03-13 06:30 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T06:30:00Z | Bugcrowd | Binance Smart Chain Bug Bounty Program | Up to $1,000,000 maximum bounty | 待评估 | https://bugcrowd.com/binance |
+| 2026-03-13T06:30:00Z | HackerOne | Coinbase Bug Bounty Program | Up to $1,000,000 maximum bounty | 待评估 | https://hackerone.com/coinbase |
+| 2026-03-13T06:30:00Z | HackerOne | Discord Bug Bounty Program | Up to $5,000 maximum bounty | 待评估 | https://hackerone.com/discord |
+| 2026-03-13T06:30:00Z | Upwork | AI Chatbot Development for E-commerce | $3,000-$5,000 fixed price | 待评估 | https://www.upwork.com/ |
+| 2026-03-13T06:30:00Z | Fiverr | SaaS Landing Page Design Gigs | $500-$2,000 per gig | 待评估 | https://www.fiverr.com/categories/graphics-design/website-design |
+| 2026-03-13T06:30:00Z | Gumroad | AI Prompt Packs Sales | $10-$50 per pack, 100% profit | 待评估 | https://gumroad.com/discover/popular/ai-prompts |
+| 2026-03-13T06:30:00Z | Freelancer | Mobile App UI/UX Design for FinTech | $1,200 avg bid | 待评估 | https://www.freelancer.com/jobs/ui-design/ |
+| 2026-03-13T06:30:00Z | Toptal | Senior React Developer Contract | $80-$150/hr | 待评估 | https://www.toptal.com/ |
+| 2026-03-13T06:30:00Z | GitHub | [BOUNTY: $50] Fix responsive layout issue in open source CRM | $50 USD | 待评估 | https://github.com/odoo/odoo/issues/120456 |
+| 2026-03-13T06:30:00Z | GitHub | [BOUNTY: $100] Add OAuth2 authentication to Python API | $100 USD | 待评估 | https://github.com/tiangolo/fastapi/issues/10440 |
+
 ### 2026-03-13 05:51 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
