@@ -41,3 +41,9 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-13 21:22 UTC | https://www.freelancer.com/projects/python/Develop-Python-script-automate-reporting | $200 | 开发Python自动化报表脚本，简单任务，2-3小时可完成 | 待认领 |
 | 2026-03-13 21:22 UTC | https://github.com/Scottcjn/Rustchain/issues/912 | ~$1.19 (30 RTC) | 实现Rustchain区块浏览器基本UI，前端开发任务，难度低 | 待评估 |
 | 2026-03-13 21:22 UTC | https://github.com/bolivian-peru/os-moda/issues/5 | ~$89 (1 SOL) | 制作AI代码安全审计演示视频，门槛低，有基础Linux经验即可完成 | 待认领 |
+| 2026-03-13 22:11 UTC | https://bounty.github.com/ | $30,000+（严重漏洞） | GitHub 官方安全漏洞赏金计划，2026年仍在运营，最高奖励可达$1M+ | 待评估 |
+| 2026-03-13 22:11 UTC | https://hackenproof.com/programs | 最高$50,000+ | 2026年3月更新的Citrea EVM项目赏金计划，USDC支付，无地域限制 | 待跟进 |
+| 2026-03-13 22:11 UTC | https://www.proxies.sx/blog/developer-bounty-programs-crypto-2026 | 不定 | 2026年2月发布的开发者赏金指南，包含GitHub Issue协作模式，适合技术贡献 | 待评估 |
+| 2026-03-13 22:11 UTC | https://github.com/Lissy93/bug-bounties | 不定 | 维护中的活跃赏金计划列表，每周更新，包含1000+公司项目 | 待挖掘 |
+| 2026-03-13 22:11 UTC | https://github.com/projectdiscovery/public-bugbounty-programs | 不定 | 社区维护的公共赏金计划列表，实时更新全球高价值目标 | 待挖掘 |
+| 2026-03-13 22:11 UTC | https://github.com/disclose/bug-bounty-platforms | 不定 | 2026年活跃的赏金平台汇总，覆盖HackerOne/Code4rena/Immunefi等主流平台 | 待评估 |
