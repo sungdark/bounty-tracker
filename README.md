@@ -12,6 +12,18 @@
 | notes | string | 备注 |
 ## 最近机会
 
+### 2026-03-13 05:30 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T05:30:00Z | Bugcrowd | Aiven Cloud Platform Bug Bounty | Up to $25,000 maximum bounty | 待评估 | https://bugcrowd.com/engagements/aiven-mbb-og |
+| 2026-03-13T05:30:00Z | Bugcrowd | Atlassian Product Suite Bug Bounty | Up to $10,000 maximum bounty | 待评估 | https://bugcrowd.com/engagements/atlassian |
+| 2026-03-13T05:30:00Z | Bugcrowd | Arlo Smart Home Rewards Program | Up to $7,000 maximum bounty | 待评估 | https://bugcrowd.com/engagements/arlo |
+| 2026-03-13T05:30:00Z | Bugcrowd | Asana Project Management Bug Bounty | Up to $6,500 maximum bounty | 待评估 | https://bugcrowd.com/engagements/asana |
+| 2026-03-13T05:30:00Z | Bugcrowd | CoinDesk Data API Bug Bounty | Up to $7,500 maximum bounty | 待评估 | https://bugcrowd.com/engagements/CCData-mbb-og |
+| 2026-03-13T05:30:00Z | Bugcrowd | Afterpay BNPL Platform Bug Bounty | Up to $5,000 maximum bounty | 待评估 | https://bugcrowd.com/engagements/afterpay |
+| 2026-03-13T05:30:00Z | Bugcrowd | AnyTask Freelancer Platform Bug Bounty | Up to $5,000 maximum bounty | 待评估 | https://bugcrowd.com/engagements/anytask-mbb-og |
+| 2026-03-13T05:30:00Z | Bugcrowd | Acorns Financial Platform Bug Bounty | Up to $4,000 maximum bounty | 待评估 | https://bugcrowd.com/engagements/acorns |
+
 ### 2026-03-13 04:51 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|

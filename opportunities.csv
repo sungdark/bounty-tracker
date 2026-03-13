@@ -29,3 +29,12 @@ id,accepted_at_utc,source,repo,issue_url,reward,reward_type,reward_value,status,
 9,2026-03-09 15:30,bugcrowd,Abn Amro,https://www.abnamro.nl/en/personal/overabnamro/secure-banking/responsible-disclosure.html,"Responsible disclosure bounty program",USD,,pending,,,2026-03-09 15:30,Bank bounty program
 9,2026-03-09 16:30,github,bountydotnew/bounty.new,https://github.com/bountydotnew/bounty.new/issues/231,improve design of waitlist submitted state,USD,,pending,,,2026-03-09 16:30,设计类任务，金额待确认
 10,2026-03-09 16:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1519,[BOUNTY] 150 RTC — Integrate Beacon into CrewAI/LangGraph template,RTC,150,pending,,,2026-03-09 16:30,AI集成任务，+50 RTC bonus for Beacon集成
+id,accepted_at_utc,source,repo,issue_url,reward,reward_type,reward_value,status,pr_url,claim_url,last_update_utc,notes
+31,2026-03-13 05:30,Bugcrowd,CoinDesk Data,https://bugcrowd.com/engagements/CCData-mbb-og,Bug bounty program for CoinDesk Data API,USD,7500,pending,,,2026-03-13 05:30,Max payout $7500 for API vulnerabilities
+32,2026-03-13 05:30,Bugcrowd,Acorns,https://bugcrowd.com/engagements/acorns,Bug bounty program for Acorns financial platform,USD,4000,pending,,,2026-03-13 05:30,Max payout $4000 for web/app vulnerabilities
+33,2026-03-13 05:30,Bugcrowd,Afterpay,https://bugcrowd.com/engagements/afterpay,Bug bounty program for Afterpay BNPL platform,USD,5000,pending,,,2026-03-13 05:30,Max payout $5000 for web/app vulnerabilities
+34,2026-03-13 05:30,Bugcrowd,Aiven,https://bugcrowd.com/engagements/aiven-mbb-og,Bug bounty program for Aiven cloud platform,USD,25000,pending,,,2026-03-13 05:30,High payout $25000 max for cloud infrastructure vulnerabilities
+35,2026-03-13 05:30,Bugcrowd,AnyTask,https://bugcrowd.com/engagements/anytask-mbb-og,Bug bounty program for AnyTask freelancer platform,USD,5000,pending,,,2026-03-13 05:30,Max payout $5000 for platform vulnerabilities
+36,2026-03-13 05:30,Bugcrowd,Arlo,https://bugcrowd.com/engagements/arlo,Cash rewards program for Arlo smart home devices,USD,7000,pending,,,2026-03-13 05:30,Max payout $7000 for IoT/device vulnerabilities
+37,2026-03-13 05:30,Bugcrowd,Asana,https://bugcrowd.com/engagements/asana,Bug bounty program for Asana project management platform,USD,6500,pending,,,2026-03-13 05:30,Max payout $6500 for web/app vulnerabilities
+38,2026-03-13 05:30,Bugcrowd,Atlassian,https://bugcrowd.com/engagements/atlassian,Bug bounty program for Atlassian product suite,USD,10000,pending,,,2026-03-13 05:30,Max payout $10000 for Jira/Confluence vulnerabilities
