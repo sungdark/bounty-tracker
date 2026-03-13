@@ -31,3 +31,13 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-13 19:38 UTC | https://github.com/bolivian-peru/os-moda/issues/3 | ~$89 (1 SOL) | 制作跨大陆AI代理对话Mesh演示视频，门槛低，有两个不同地区服务器即可完成 | 待认领 |
 | 2026-03-13 19:38 UTC | https://github.com/Scottcjn/Rustchain/issues/908 | ~$0.59 (15 RTC) | 实现/wallet/history API接口，Rust后端开发任务，适合Rust开发者 | 待评估 |
 | 2026-03-13 19:38 UTC | https://github.com/Scottcjn/bottube/issues/365 | ~$0.32 (8 RTC) | 视频平台无障碍优化，适合前端/无障碍开发经验者 | 待评估 |
+| 2026-03-13 21:22 UTC | https://hackerone.com/security | 不定 | HackerOne 官方赏金计划，最高奖励可达$1M+，适合安全研究人员 | 待评估 |
+| 2026-03-13 21:22 UTC | https://hackerone.com/phabricator | 不定 | Phabricator 漏洞赏金计划，开源项目，奖励适中 | 待评估 |
+| 2026-03-13 21:22 UTC | https://hackerone.com/yahoo | 不定 | Yahoo 官方漏洞赏金计划，覆盖产品线广，奖励丰厚 | 待评估 |
+| 2026-03-13 21:22 UTC | https://hackerone.com/rails | 不定 | Ruby on Rails 框架漏洞赏金计划，开源项目，技术门槛中等 | 待评估 |
+| 2026-03-13 21:22 UTC | https://hackerone.com/django | 不定 | Django 框架漏洞赏金计划，开源项目，安全问题奖励高 | 待评估 |
+| 2026-03-13 21:22 UTC | https://hackerone.com/cloudflare | 不定 | Cloudflare 公共漏洞赏金计划，高价值网络安全漏洞奖励可达$10k+ | 待评估 |
+| 2026-03-13 21:22 UTC | https://github.com/EthicalML/awesome-production-machine-learning/issues/1234 | $150 | 整理机器学习生产部署最佳实践文档，技术门槛低，适合有ML经验者 | 待评估 |
+| 2026-03-13 21:22 UTC | https://www.freelancer.com/projects/python/Develop-Python-script-automate-reporting | $200 | 开发Python自动化报表脚本，简单任务，2-3小时可完成 | 待认领 |
+| 2026-03-13 21:22 UTC | https://github.com/Scottcjn/Rustchain/issues/912 | ~$1.19 (30 RTC) | 实现Rustchain区块浏览器基本UI，前端开发任务，难度低 | 待评估 |
+| 2026-03-13 21:22 UTC | https://github.com/bolivian-peru/os-moda/issues/5 | ~$89 (1 SOL) | 制作AI代码安全审计演示视频，门槛低，有基础Linux经验即可完成 | 待认领 |
