@@ -141,7 +141,7 @@
     "link": "https://github.com/",
     "amount": "Unknown",
     "status": "discovered",
-    "notes": "GitHub \u00b7 Change is constant. GitHub keeps you ahead."
+    "notes": "GitHub · Change is constant. GitHub keeps you ahead."
   },
   {
     "time": "2026-03-13T06:55:02.328443Z",
@@ -149,7 +149,7 @@
     "link": "https://github.com/login",
     "amount": "Unknown",
     "status": "discovered",
-    "notes": "Sign in to GitHub \u00b7 GitHub"
+    "notes": "Sign in to GitHub · GitHub"
   },
   {
     "time": "2026-03-13T06:55:02.328447Z",
@@ -165,7 +165,7 @@
     "link": "https://github.com/openclaw",
     "amount": "Unknown",
     "status": "discovered",
-    "notes": "openclaw \u00b7 GitHub"
+    "notes": "openclaw · GitHub"
   },
   {
     "time": "2026-03-13T06:55:02.328457Z",
@@ -197,7 +197,7 @@
     "link": "https://github.com/trending",
     "amount": "Unknown",
     "status": "discovered",
-    "notes": "Trending repositories on GitHub today \u00b7 GitHub"
+    "notes": "Trending repositories on GitHub today · GitHub"
   },
   {
     "time": "2026-03-13T06:55:02.328466Z",
@@ -205,7 +205,7 @@
     "link": "https://docs.github.com/zh/get-started",
     "amount": "Unknown",
     "status": "discovered",
-    "notes": "GitHub \u6587\u6863\u5165\u95e8 - GitHub \u6587\u6863"
+    "notes": "GitHub 文档入门 - GitHub 文档"
   },
   {
     "time": "2026-03-13T06:55:02.328468Z",
@@ -325,7 +325,7 @@
     "link": "https://apps.apple.com/it/app/raiplay/id501323740",
     "amount": "Unknown",
     "status": "discovered",
-    "notes": "\u200eApp RaiPlay - App Store"
+    "notes": "‎App RaiPlay - App Store"
   },
   {
     "time": "2026-03-13T12:35:21.677007Z",
@@ -341,7 +341,7 @@
     "link": "https://www.tvdream.net/programmi-tv/la-pennicanza/",
     "amount": "Unknown",
     "status": "discovered",
-    "notes": "La Pennicanza in streaming \u2013 Diretta e repliche video su RaiPlay"
+    "notes": "La Pennicanza in streaming – Diretta e repliche video su RaiPlay"
   },
   {
     "time": "2026-03-13T12:35:21.677016Z",
@@ -374,5 +374,13 @@
     "amount": "Unknown",
     "status": "discovered",
     "notes": "Gordon Ramsay Street Pizza | Gordon Ramsay Restaurants"
+  },
+  {
+    "time": "2026-03-13T14:08:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/Scottcjn/bottube/issues/365",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "[BOUNTY: 8 RTC] Screen reader friendly video pages (a11y)"
   }
 ]
