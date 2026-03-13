@@ -25,6 +25,11 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [bug_bounty](https://hackerone.com/att): $100 minimum - discovered
 
 ### Passive Income Opportunities (2026-03-13)
+- 2026-03-13 19:22 [digital_product](https://payhip.com/blog/best-platforms-to-sell-digital-products/): 20 best platforms to sell digital products (courses, downloads, memberships) - discovered
+- 2026-03-13 19:22 [digital_product](https://sellfy.com/blog/best-ecommerce-digital-products/): Sellfy platform for digital downloads/courses - discovered
+- 2026-03-13 19:22 [freelance](https://www.upwork.com/freelance-jobs/coding/): 283+ remote coding jobs (fiat payment) - discovered
+- 2026-03-13 19:22 [freelance](https://www.freelancer.com/jobs/coding/): 12M+ coding jobs available - discovered
+- 2026-03-13 19:22 [freelance](https://www.peopleperhour.com/freelance-programming-jobs): Freelance programming gigs - discovered
 - 2026-03-13 [passive_income](https://github.com/MRColorR/money4band): USD/ crypto for sharing unused internet bandwidth - discovered
 - 2026-03-13 [passive_income](https://github.com/XternA/income-generator): USD/ crypto for sharing unused internet bandwidth - discovered
 - 2026-03-13 [passive_income](https://github.com/DeNetPRO/Node): Rewards for renting out disk space - discovered
@@ -33,6 +38,23 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
 ### GitHub Bounty Opportunities (2026-03-13)
+- 2026-03-13 19:22 [github_bounty](https://github.com/zama-ai/bounty-program): Contribute to FHE libraries, rewards available - discovered
+- 2026-03-13 19:22 [github_bounty](https://www.remotion.dev/docs/contributing/bounty): Bounties for Remotion open source contributions - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/bottube/issues/365): 8 RTC - Screen reader friendly video pages - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/bottube/issues/364): 10 RTC - Keyboard shortcuts for video player - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): 15 RTC - Implement /wallet/history endpoint - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/70): 30 RTC - Agent fleet battle (3+ agents) - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/68): 15 RTC - Grazer content integration - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/67): 15 RTC - DriftLock stress test - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/66): 8 RTC - CLI walkthrough video/blog post - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/64): 10 RTC - Accessibility audit + fixes - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/62): 25 RTC - Cross-platform agent (3+ platforms) - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/61): 20 RTC - ShaprAI + BoTTube video creation integration - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/60): 15 RTC - ShaprAI + Moltbook Beacon deployment - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/8): 40 RTC - Template marketplace with RTC pricing - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/7): 50 RTC - Sanctuary interactive lesson runner - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/3): 50 RTC - DPO contrastive pair generator - discovered
+- 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/shaprai/issues/2): 50 RTC - SFT training data generator - discovered
 - 2026-03-13 [github_bounty](https://github.com/Scottcjn/rustchain-bounties): 1-150 RTC crypto for contributions - discovered
 - 2026-03-13 [github_bounty](https://github.com/XRPLBounties/Proposals): Paid challenges for XRP Ledger development - discovered
 - 2026-03-13 [github_bounty](https://github.com/vegaprotocol/bounties): Rewards for Vega protocol contributions - discovered
