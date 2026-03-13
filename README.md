@@ -47,3 +47,6 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-13 22:11 UTC | https://github.com/Lissy93/bug-bounties | 不定 | 维护中的活跃赏金计划列表，每周更新，包含1000+公司项目 | 待挖掘 |
 | 2026-03-13 22:11 UTC | https://github.com/projectdiscovery/public-bugbounty-programs | 不定 | 社区维护的公共赏金计划列表，实时更新全球高价值目标 | 待挖掘 |
 | 2026-03-13 22:11 UTC | https://github.com/disclose/bug-bounty-platforms | 不定 | 2026年活跃的赏金平台汇总，覆盖HackerOne/Code4rena/Immunefi等主流平台 | 待评估 |
+| 2026-03-13 23:39 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1743 | ~$2.67 (65 RTC) | Python开发赏金验证机器人，包含多阶段奖励，总奖励65RTC，已有人认领 | 已认领 |
+| 2026-03-13 23:39 UTC | https://github.com/bountydotnew/bounty.new/issues/253 | 不定 | 开发赏金排行榜功能，设计/前端开发任务 | 待评估 |
+| 2026-03-13 23:39 UTC | https://github.com/SuperteamDAO/earn/issues/1338 | 不定 | 测试赏金系统问题，低门槛任务 | 待评估 |
