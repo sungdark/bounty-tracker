@@ -18,4 +18,9 @@
 | 2026-03-13 16:17 | bug_bounty | HackerOne | https://hackerone.com/8x8-bounty | 最低$100 | 待执行 | 已发现 | 8x8通信平台漏洞赏金计划 |
 | 2026-03-13 16:17 | passive_income | Multiple | https://github.com/MRColorR/money4band | 按流量结算 | 待执行 | 已发现 | 共享未使用带宽赚取法币/加密货币，被动收入 |
 | 2026-03-13 16:17 | passive_income | Multiple | https://github.com/DeNetPRO/Node | 按存储结算 | 待执行 | 已发现 | 出租磁盘空间获取奖励，被动收入 |
+| 2026-03-13 20:10 | github_bounty | GitHub | https://bounty.github.com/ | 最高$30,000+ | 待执行 | 已发现 | GitHub官方漏洞赏金计划，关键漏洞奖励≥$30,000 |
+| 2026-03-13 20:10 | digital_product | Forbes | https://www.forbes.com/sites/bryanrobinson/2026/03/12/top-15-profitable-and-popular-side-hustles-gaining-momentum-in-2026/ | 多档收入 | 待执行 | 已发现 | 2026年3月最新15个高增长副业方向，含AI相关机会 |
+| 2026-03-13 20:10 | freelance | Upwork | https://www.upwork.com/resources/highest-paying-freelance-jobs | 最高$150+/小时 | 待执行 | 已发现 | 24个2026年最高薪自由职业方向，技术类岗位需求旺盛 |
+| 2026-03-13 20:10 | bug_bounty | HackerOne | https://hackerone.com/airbnb | 最低$50 | 待执行 | 已发现 | Airbnb漏洞赏金计划，安全漏洞奖励 |
+| 2026-03-13 20:10 | bug_bounty | HackerOne | https://hackerone.com/amazonvrp | 最低$100 | 待执行 | 已发现 | Amazon漏洞赏金计划，设备/服务类漏洞奖励 |
 |------|------|------|------|------|------|------|------|
