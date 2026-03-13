@@ -12,6 +12,17 @@
 | notes | string | 备注 |
 ## 最近机会
 
+### 2026-03-13 11:33 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T11:33:00Z | GitHub | [\$250] mWeb - Wallet - Opening searched result page and tapping device back button directs to wallet page | \$250 USD | 待评估 | https://github.com/Expensify/App/issues/62473 |
+| 2026-03-13T11:33:00Z | GitHub | [\$200 bounty] Ford Lightnings Harness Causes Errors When Openpilot Not Running | \$200 USD | 待评估 | https://github.com/commaai/openpilot/issues/30302 |
+| 2026-03-13T11:33:00Z | GitHub | [BOUNTY: 3 RTC] Set up Dependabot or Renovate for any Elyan Labs repo | 3 RTC (~\$0.3 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1613 |
+| 2026-03-13T11:33:00Z | GitHub | [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain! | 2 RTC (~\$0.2 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 |
+| 2026-03-13T11:33:00Z | GitHub | [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI | 1 RTC (~\$0.1 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1618 |
+| 2026-03-13T11:33:00Z | GitHub | [EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md to any repo missing one | 1 RTC (~\$0.1 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1605 |
+| 2026-03-13T11:33:00Z | GitHub | [EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues showing support | 1 RTC (~\$0.1 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1611 |
+
 ### 2026-03-13 08:31 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
