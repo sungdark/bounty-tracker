@@ -38,6 +38,12 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
 ### GitHub Bounty Opportunities (2026-03-13)
+- 2026-03-13 21:10 [github_bounty](https://github.com/sixgroup-security/bug-bounty): SIX Group AG official bug bounty program - discovered
+- 2026-03-13 21:10 [github_bounty](https://github.com/fabriziosalmi/enjoy/issues/8): Enjoy project bounty board - karma rewards for contributions - discovered
+- 2026-03-13 21:10 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/773): RustChain star repo bounty - 0.5 RTC - discovered
+- 2026-03-13 21:10 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/302): RustChain blog post bounty - 5 RTC - discovered
+- 2026-03-13 21:10 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/303): RustChain social media post bounty - 3 RTC - discovered
+- 2026-03-13 21:10 [github_bounty](https://github.com/Scottcjn/bottube/issues/210): BoTTube dev.to post bounty - 5 RTC - discovered
 - 2026-03-13 20:38 [github_bounty](https://github.com/ETLOnline/spark): Open-source platform with bounty rewards for contributions - discovered
 - 2026-03-13 20:38 [github_bounty](https://github.com/akhilk07/zama-fhe): Zama FHE protocol guides with bounty opportunities - discovered
 - 2026-03-13 20:38 [github_bounty](https://github.com/ChinchillaEnterprises/openclaw-crm): CRM with agent bounty system - discovered
