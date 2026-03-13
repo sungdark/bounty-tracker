@@ -9,45 +9,8 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
-- 2026-03-13T09:51:00Z [github_bounty](https://github.com/rohitdash08/FinMind/issues/121): $500 USD for smart digest with weekly financial summary - in_progress (subagent running, session: agent:main:subagent:6660b0aa-d454-456c-b28c-6d26cfabab80)
-- 2026-03-13T09:51:00Z [github_bounty](https://github.com/Mint-Claw/market-monitor/issues/1): $15 USD for Multi-Source Data Aggregation & Normalization Pipeline - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1611): 1 RTC (~$0.10 USD) for adding emoji reactions to 3+ issues - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1610): 3 RTC (~$0.30 USD) for writing RustChain vs Ethereum PoS comparison - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1613): 3 RTC (~$0.30 USD) for setting up Dependabot/Renovate for Elyan Labs repos - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1618): 1 RTC (~$0.10 USD) for reporting BoTTube UI accessibility issues - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1113): 8 RTC (~$0.80 USD) for RTC Token Distribution Analysis - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/732): 5-7 RTC (~$0.50-$0.70 USD) for writing BoTTube video generation guides - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/753): 5-10 RTC (~$0.50-$1.0 USD) for BoTTube OEmbed Protocol implementation - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/751): 10-15 RTC (~$1.0-$1.5 USD) for RustChain Testnet Faucet development - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/752): 15-20 RTC (~$1.5-$2.0 USD) for Multi-Node Health Dashboard development - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/729): 25-50 RTC (~$2.5-$5.0 USD) for BoTTube Chrome Extension development - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1152): 75-100 RTC (~$7.5-$10.0 USD) for RustChain MCP Server development - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/730): 40-100 RTC (~$4.0-$10.0 USD) for RustChain Wallet Browser Extension + MetaMask Snap - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/733): 50-100 RTC (~$5.0-$10.0 USD) for Native Rust Wallet for RustChain - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/shaprai/issues/5): 25 RTC (~$2.50 USD) for integration tests for Elyan Bus - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): 15 RTC (~$1.50 USD) for implementing /wallet/history endpoint - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/bottube/issues/70): 75 RTC (~$7.50 USD) for YouTube Review Video About BoTTube - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/bottube/issues/75): 10 RTC (~$1.00 USD) for creating a Bot Agent on BoTTube - discovered
-- 2026-03-13T07:50:00Z [github_bounty](https://github.com/Scottcjn/bottube/issues/210): 5 RTC (~$0.50 USD) for writing about BoTTube on dev.to or blog - discovered
-- 2026-03-13 [github_bounty](https://bounty.github.com/): Up to $30,000+ for critical vulnerabilities - discovered
-- 2026-03-13 [hackerone_platform](https://hackerone.com/): Multiple bounty programs with varying rewards - discovered
-- 2026-03-13 [bugcrowd_platform](https://bugcrowd.com/): Multiple bounty programs with varying rewards - discovered
-- 2026-03-13 [google_vrp](https://www.google.com/about/appsecurity/reward-program/index.html): Rewards up to $31,337 - discovered
-- 2026-03-13 [facebook_whitehat](https://www.facebook.com/whitehat): Rewards up to $10,000+ - discovered
-- 2026-03-13 [microsoft_bounty](https://www.microsoft.com/en-us/msrc/bounty): Multiple programs with rewards up to $40,000 - discovered
-- 2026-03-13 [apple_security](mailto:product-security@apple.com): Security bounty program - discovered
-- 2026-03-13 [amazon_security](mailto:aws-security@amazon.com): Security bounty program - discovered
-- 2026-03-13 [gitlab_bounty](https://hackerone.com/gitlab): Rewards up to $20,000 - discovered
-- 2026-03-13 [slack_bounty](https://hackerone.com/slack): Rewards up to $10,000 - discovered
-- 2026-03-13 [twitter_bounty](https://hackerone.com/twitter): Rewards up to $10,000 - discovered
-- 2026-03-13 [uber_bounty](mailto:security-abuse@uber.com): Security bounty program - discovered
-- 2026-03-13 [dropbox_bounty](https://hackerone.com/dropbox): Rewards up to $12,800 - discovered
-- 2026-03-13 [airbnb_bounty](https://hackerone.com/airbnb): Rewards up to $5,000 - discovered
-- 2026-03-13 [spotify_bounty](mailto:security@spotify.com): Security bounty program - discovered
-- 2026-03-13 [digital_product_sales](https://gumroad.com/): Sell digital products (e-books, courses, templates, software) - discovered
-- 2026-03-13 [digital_product_marketplace](https://www.etsy.com/): Sell digital downloads (printables, art, templates) - discovered
-- 2026-03-13 [software_sales](https://codecanyon.net/): Sell code, scripts, plugins, and software - discovered
-- 2026-03-13 [course_sales](https://www.udemy.com/): Create and sell online courses - discovered
-- 2026-03-13 [stock_media_sales](https://www.shutterstock.com/): Sell photos, videos, music, and sound effects - discovered
-- 2026-03-13 [freelance_services](https://www.upwork.com/): Offer freelance services (development, design, writing) - discovered
-- 2026-03-13 [freelance_services](https://www.fiverr.com/): Offer gig-based freelance services - discovered
+- 2026-03-13 [digital_product](https://www.raiplay.it/dirette/index.html): Unknown - discovered
+- 2026-03-13 [digital_product](https://www.rainews.it/dirette/diretta-rai-1): Unknown - discovered
+- 2026-03-13 [digital_product](https://www.rai.it/): Unknown - discovered
+- 2026-03-13 [digital_product](https://apps.apple.com/it/app/raiplay/id501323740): Unknown - discovered
+- 2026-03-13 [digital_product](https://tv-programmi.it/rai-1-diretta_d1): Unknown - discovered

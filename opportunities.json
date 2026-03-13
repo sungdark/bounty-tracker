@@ -238,5 +238,85 @@
     "amount": "Unknown",
     "status": "discovered",
     "notes": "Alabama - Local Time & Time Zones in United States | Timezones.com"
+  },
+  {
+    "time": "2026-03-13T12:35:21.676970Z",
+    "type": "digital_product",
+    "link": "https://www.raiplay.it/dirette/index.html",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "Tutte le dirette TV ed eventi live esclusivi in streaming su RaiPlay"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677000Z",
+    "type": "digital_product",
+    "link": "https://www.rainews.it/dirette/diretta-rai-1",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "Rai 1"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677003Z",
+    "type": "digital_product",
+    "link": "https://www.rai.it/",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "Rai.it"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677005Z",
+    "type": "digital_product",
+    "link": "https://apps.apple.com/it/app/raiplay/id501323740",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "\u200eApp RaiPlay - App Store"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677007Z",
+    "type": "digital_product",
+    "link": "https://tv-programmi.it/rai-1-diretta_d1",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "Rai 1 diretta: guardare Rai 1 in live gratis il streaming online"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677008Z",
+    "type": "digital_product",
+    "link": "https://www.tvdream.net/programmi-tv/la-pennicanza/",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "La Pennicanza in streaming \u2013 Diretta e repliche video su RaiPlay"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677016Z",
+    "type": "digital_product",
+    "link": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "22 Best Pizza Restaurants in London for Perfect Pies and Slices"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677019Z",
+    "type": "digital_product",
+    "link": "https://www.tripadvisor.com/Restaurants-g186338-c31-London_England.html",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "THE 10 BEST Pizza Places in London (Updated 2026) - Tripadvisor"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677022Z",
+    "type": "digital_product",
+    "link": "https://www.just-eat.co.uk/takeaway/nearme/pizza?msockid=22969cad5a3d6bec3b0d8bb65b466abe",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "Pizza Near Me: Takeaways & Delivery from best Restaurants | Just Eat"
+  },
+  {
+    "time": "2026-03-13T12:35:21.677024Z",
+    "type": "digital_product",
+    "link": "https://www.gordonramsayrestaurants.com/en/uk/street-pizza",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "Gordon Ramsay Street Pizza | Gordon Ramsay Restaurants"
   }
 ]
