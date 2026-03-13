@@ -1,5 +1,109 @@
 [
   {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/1",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "Bounty: Bounty Card Component - reusable UI component with Tailwind styling, responsive layout"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/kodaksax/Bounty-production/issues/352",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "wishy washy bounty \"apply for bounty\" button"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/bountydotnew/bounty.new/issues/218",
+    "amount": "$0.00",
+    "status": "discovered",
+    "notes": "free bounty - submit PR to claim"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "bug_bounty",
+    "link": "https://github.com/idos-network/idos-sdk-js/issues/1387",
+    "amount": "Varies by severity",
+    "status": "discovered",
+    "notes": "Bug bounty report for idos.network security vulnerabilities"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1743",
+    "amount": "30-65 RTC (~$30-65 estimated)",
+    "status": "discovered",
+    "notes": "[BOUNTY #747] Bounty Verification Bot — Auto-Verify Claims, Python/GitHub Actions"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/bountydotnew/bounty.new/issues/253",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "feat: bounty leaderboard - tabs for bounty hunters/creators"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/bountydotnew/bounty.new/issues/243",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "[feat] design bounties - for design work on Paper & Figma platforms"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1759",
+    "amount": "Varies",
+    "status": "discovered",
+    "notes": "[BOUNTY #71] Ongoing Bug Bounty Program - security/development tasks"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1752",
+    "amount": "50-100 RTC (~$50-100 estimated)",
+    "status": "discovered",
+    "notes": "[BOUNTY #1746] Native Rust Wallet for RustChain — CLI + crate"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1751",
+    "amount": "25-150 RTC (~$25-150 estimated)",
+    "status": "discovered",
+    "notes": "[BOUNTY #1747] RIP-302 Agent Economy: Live Demo + Build Bounties"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/aden-hive/hive/issues/6219",
+    "amount": "75 pts",
+    "status": "discovered",
+    "notes": "[Bounty]: Kubernetes Integration Tool - SRE/DevOps agent capabilities"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/ripgrim/ripgrim/issues/9",
+    "amount": "$0.00",
+    "status": "discovered",
+    "notes": "my first bounty - bounty.new test bounty"
+  },
+  {
+    "time": "2026-03-13T19:10:00Z",
+    "type": "github_bounty",
+    "link": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/861",
+    "amount": "Unknown",
+    "status": "discovered",
+    "notes": "[BOUNTY] Suggestion #554 - fix locker lewdverb interaction, payment via PayPal/crypto"
+  },
+  {
     "time": "2026-03-13T14:01:00.000000Z",
     "type": "bug_bounty",
     "link": "https://forum.zknation.io/t/tpp-draft-zksync-immunefi-bug-bounty-program-2026/903",
@@ -134,253 +238,5 @@
     "amount": "Varies",
     "status": "discovered",
     "notes": "Forbes top 15 profitable side hustles for 2026"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328412Z",
-    "type": "github_bounty",
-    "link": "https://github.com/",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "GitHub · Change is constant. GitHub keeps you ahead."
-  },
-  {
-    "time": "2026-03-13T06:55:02.328443Z",
-    "type": "github_bounty",
-    "link": "https://github.com/login",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Sign in to GitHub · GitHub"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328447Z",
-    "type": "github_bounty",
-    "link": "https://github.com/github",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "GitHub"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328449Z",
-    "type": "github_bounty",
-    "link": "https://github.com/openclaw",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "openclaw · GitHub"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328457Z",
-    "type": "github_bounty",
-    "link": "https://github.com/signup",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Sign up for GitHub"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328460Z",
-    "type": "github_bounty",
-    "link": "https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Creating an account on GitHub"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328462Z",
-    "type": "github_bounty",
-    "link": "https://docs.github.com/",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "GitHub Docs"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328464Z",
-    "type": "github_bounty",
-    "link": "https://github.com/trending",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Trending repositories on GitHub today · GitHub"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328466Z",
-    "type": "github_bounty",
-    "link": "https://docs.github.com/zh/get-started",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "GitHub 文档入门 - GitHub 文档"
-  },
-  {
-    "time": "2026-03-13T06:55:02.328468Z",
-    "type": "github_bounty",
-    "link": "https://github.com/obra/superpowers",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "GitHub - obra/superpowers: An agentic skills framework & software ..."
-  },
-  {
-    "time": "2026-03-13T06:55:02.491298Z",
-    "type": "digital_product",
-    "link": "https://www.timeanddate.com/worldclock/usa/alabama",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Time in Alabama, United States - timeanddate.com"
-  },
-  {
-    "time": "2026-03-13T06:55:02.491314Z",
-    "type": "digital_product",
-    "link": "https://time.is/Alabama",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Time in Alabama, United States now"
-  },
-  {
-    "time": "2026-03-13T06:55:02.491318Z",
-    "type": "digital_product",
-    "link": "https://24timezones.com/Alabama/time",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Current time in Alabama, United States"
-  },
-  {
-    "time": "2026-03-13T06:55:02.491320Z",
-    "type": "digital_product",
-    "link": "https://whichtimezone.com/usa/alabama/",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Alabama (AL) time zone - WhichTimezone"
-  },
-  {
-    "time": "2026-03-13T06:55:02.491322Z",
-    "type": "digital_product",
-    "link": "https://www.worldometers.info/time/alabama-united-states/",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Time in Alabama, USA (LIVE) - Worldometer"
-  },
-  {
-    "time": "2026-03-13T06:55:02.491324Z",
-    "type": "digital_product",
-    "link": "https://en.true-time.com/us-al/",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Current time in Alabama"
-  },
-  {
-    "time": "2026-03-13T06:55:02.491326Z",
-    "type": "digital_product",
-    "link": "https://www.theclocktime.com/Alabama",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Alabama time now"
-  },
-  {
-    "time": "2026-03-13T06:55:02.491328Z",
-    "type": "digital_product",
-    "link": "https://www.generalblue.com/time-in-alabama-us",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Current Local Time in Alabama, United States - General Blue"
-  },
-  {
-    "time": "2026-03-13T06:55:02.491343Z",
-    "type": "digital_product",
-    "link": "https://www.worldstandardtime.com/state-united-states-alabama",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Alabama Time Now | Current Local Time in Alabama, United States ..."
-  },
-  {
-    "time": "2026-03-13T06:55:02.491346Z",
-    "type": "digital_product",
-    "link": "https://timezones.com/united-states/alabama",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Alabama - Local Time & Time Zones in United States | Timezones.com"
-  },
-  {
-    "time": "2026-03-13T12:35:21.676970Z",
-    "type": "digital_product",
-    "link": "https://www.raiplay.it/dirette/index.html",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Tutte le dirette TV ed eventi live esclusivi in streaming su RaiPlay"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677000Z",
-    "type": "digital_product",
-    "link": "https://www.rainews.it/dirette/diretta-rai-1",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Rai 1"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677003Z",
-    "type": "digital_product",
-    "link": "https://www.rai.it/",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Rai.it"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677005Z",
-    "type": "digital_product",
-    "link": "https://apps.apple.com/it/app/raiplay/id501323740",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "‎App RaiPlay - App Store"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677007Z",
-    "type": "digital_product",
-    "link": "https://tv-programmi.it/rai-1-diretta_d1",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Rai 1 diretta: guardare Rai 1 in live gratis il streaming online"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677008Z",
-    "type": "digital_product",
-    "link": "https://www.tvdream.net/programmi-tv/la-pennicanza/",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "La Pennicanza in streaming – Diretta e repliche video su RaiPlay"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677016Z",
-    "type": "digital_product",
-    "link": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "22 Best Pizza Restaurants in London for Perfect Pies and Slices"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677019Z",
-    "type": "digital_product",
-    "link": "https://www.tripadvisor.com/Restaurants-g186338-c31-London_England.html",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "THE 10 BEST Pizza Places in London (Updated 2026) - Tripadvisor"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677022Z",
-    "type": "digital_product",
-    "link": "https://www.just-eat.co.uk/takeaway/nearme/pizza?msockid=22969cad5a3d6bec3b0d8bb65b466abe",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Pizza Near Me: Takeaways & Delivery from best Restaurants | Just Eat"
-  },
-  {
-    "time": "2026-03-13T12:35:21.677024Z",
-    "type": "digital_product",
-    "link": "https://www.gordonramsayrestaurants.com/en/uk/street-pizza",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "Gordon Ramsay Street Pizza | Gordon Ramsay Restaurants"
-  },
-  {
-    "time": "2026-03-13T14:08:00Z",
-    "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/bottube/issues/365",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "[BOUNTY: 8 RTC] Screen reader friendly video pages (a11y)"
   }
 ]
