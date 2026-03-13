@@ -133,6 +133,16 @@
 | 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 10 RTC] Keyboard shortcuts for BoTTube | 10 RTC (~$1 USD) | 待评估 | https://github.com/Scottcjn/bottube/issues/364 |
 | 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 8 RTC] ShaprAI CLI walkthrough | 8 RTC (~$0.8 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/66 |
 
+### 2026-03-13 10:54 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T10:54:00Z | GitHub | [BOUNTY: 30 RTC] Agent fleet battle -- build and score 3+ agents | 30 RTC (~$3.0 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/70 |
+| 2026-03-13T10:54:00Z | GitHub | [BOUNTY: 25 RTC] Cross-platform ShaprAI agent on 3+ platforms | 25 RTC (~$2.5 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/62 |
+| 2026-03-13T10:54:00Z | GitHub | [Bounty: 40 RTC] Template marketplace with RTC pricing | 40 RTC (~$4.0 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/8 |
+| 2026-03-13T10:54:00Z | GitHub | [BOUNTY: 15 RTC] Implement /wallet/history endpoint (fixes #775, #886) | 15 RTC (~$1.5 USD) | 待评估 | https://github.com/Scottcjn/Rustchain/issues/908 |
+| 2026-03-13T10:54:00Z | GitHub | [BOUNTY: 12 RTC] Port ShaprAI agent to CrewAI or SmoLagents | 12 RTC (~$1.2 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/71 |
+| 2026-03-13T10:54:00Z | GitHub | [BOUNTY: 8 RTC] Screen reader friendly video pages (a11y) | 8 RTC (~$0.8 USD) | 待评估 | https://github.com/Scottcjn/bottube/issues/365 |
+
 ### 2026-03-13 08:56 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
