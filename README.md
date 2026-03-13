@@ -112,3 +112,10 @@
 | 2026-03-13T05:51:00Z | GitHub | [BOUNTY: 5-7 RTC] Write Video Generation Guides for BoTTube Agents | 5-7 RTC (~$0.5-$0.7 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/732 |
 | 2026-03-13T05:51:00Z | GitHub | [BOUNTY: 0.5 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 10 RTC) | 0.5 RTC/repo (~$0.05 USD/repo) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/731 |
 | 2026-03-13T05:51:00Z | GitHub | [BOUNTY: 1 RTC] Answer Questions in GitHub Discussions (Up to 10 RTC) | 1 RTC/answer (~$0.1 USD/answer) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/728 |
+### 2026-03-13 08:56 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T08:56:00Z | GitHub | Zama FHE Bounty Program 更新 | €500 - €16,750 per bounty | 待评估 | https://github.com/zama-ai/bounty-program |
+| 2026-03-13T08:56:00Z | GitHub | akhilk07/zama-fhe FHE技术指南 | Variable rewards | 待评估 | https://github.com/akhilk07/zama-fhe |
+| 2026-03-13T08:56:00Z | GitHub | openclaw-crm  bounty system | Variable rewards | 待评估 | https://github.com/ChinchillaEnterprises/openclaw-crm |
+| 2026-03-13T08:56:00Z | GitHub | spark bounty program | Variable rewards | 待评估 | https://github.com/ETLOnline/spark |
