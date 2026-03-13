@@ -9,6 +9,11 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
+- 2026-03-13 04:49 UTC [freelance](https://www.freelancer.com/projects/cad-cam/spectacle-frame-mechanical-aesthetic) - Undisclosed amount - Spectacle frame mechanical & aesthetic design - discovered
+- 2026-03-13 04:49 UTC [freelance](https://www.freelancer.com/projects/generative-engine-optimization/shopify-seo-optimization-expert) - Undisclosed amount - Shopify SEO optimization expert needed - discovered
+- 2026-03-13 04:49 UTC [freelance](https://www.freelancer.com/projects/illustration/apparel-mockups-spec-sheets-creation) - Undisclosed amount - Apparel mockups & spec sheets creation - discovered
+- 2026-03-13 04:49 UTC [freelance](https://www.freelancer.com/projects/lead-generation/professional-data-research-brief) - Undisclosed amount - Professional data research brief - discovered
+- 2026-03-13 04:49 UTC [freelance](https://www.freelancer.com/projects/lead-generation/lead-generation-specialist-40296728) - Undisclosed amount - Lead generation specialist - discovered
 - 2026-03-13 02:50 UTC [freelance](https://www.freelancer.com/projects/android/industrial-iot-remote-monitoring-app) - Undisclosed amount - Industrial IoT remote monitoring app - discovered
 - 2026-03-13 02:50 UTC [freelance](https://www.freelancer.com/projects/ai-content-creation/toolkit-templates-developer-needed) - Undisclosed amount - Toolkit templates developer needed - discovered
 - 2026-03-13 02:50 UTC [freelance](https://www.freelancer.com/projects/talent-acquisition/freelance-talent-recruiter-needed) - Undisclosed amount - Freelance talent recruiter needed - discovered
