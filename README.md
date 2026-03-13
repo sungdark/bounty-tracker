@@ -38,6 +38,12 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
 ### GitHub Bounty Opportunities (2026-03-13)
+- 2026-03-13 20:22 [github_bounty](https://github.com/zan8in/afrog/security/policy): Security vulnerability bounties for afrog security tool - discovered
+- 2026-03-13 20:22 [github_bounty](https://github.com/six2dez/reconftw/security/policy): Security vulnerability bounties for reconftw scanning tool - discovered
+- 2026-03-13 20:22 [github_bounty](https://github.com/langflow-ai/openrag): AI RAG platform contribution opportunities (potential bounties) - discovered
+- 2026-03-13 20:22 [github_bounty](https://github.com/lightpanda-io/browser): Headless browser contribution bounties (>$100 per PR) - discovered
+- 2026-03-13 20:22 [github_bounty](https://github.com/promptfoo/promptfoo): AI red teaming/pentesting bounty opportunities (>$50 average reward) - discovered
+- 2026-03-13 20:22 [github_bounty](https://github.com/alibaba/page-agent): In-page GUI agent development bounties - discovered
 - 2026-03-13 19:22 [github_bounty](https://github.com/zama-ai/bounty-program): Contribute to FHE libraries, rewards available - discovered
 - 2026-03-13 19:22 [github_bounty](https://www.remotion.dev/docs/contributing/bounty): Bounties for Remotion open source contributions - discovered
 - 2026-03-13 19:22 [github_bounty](https://github.com/Scottcjn/bottube/issues/365): 8 RTC - Screen reader friendly video pages - discovered
@@ -59,7 +65,6 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [github_bounty](https://github.com/XRPLBounties/Proposals): Paid challenges for XRP Ledger development - discovered
 - 2026-03-13 [github_bounty](https://github.com/vegaprotocol/bounties): Rewards for Vega protocol contributions - discovered
 - 2026-03-13 [github_bounty](https://github.com/TheSCInitiative/bounties): SCI funded bounties for issue fixes - discovered
-- 2026-03-13 17:09 [github_bounty](https://github.com/promptfoo/promptfoo): AI red teaming/pentesting bounty opportunities (>$50 average reward) - discovered
 - 2026-03-13 17:09 [github_bounty](https://github.com/anthropics/claude-plugins-official): Plugin development opportunities (potential paid grants) - discovered
 - 2026-03-13 17:09 [github_bounty](https://github.com/InsForge/InsForge): Fullstack agent development bounties - discovered
 
