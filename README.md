@@ -9,6 +9,11 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
+- 2026-03-13 02:50 UTC [freelance](https://www.freelancer.com/projects/android/industrial-iot-remote-monitoring-app) - Undisclosed amount - Industrial IoT remote monitoring app - discovered
+- 2026-03-13 02:50 UTC [freelance](https://www.freelancer.com/projects/ai-content-creation/toolkit-templates-developer-needed) - Undisclosed amount - Toolkit templates developer needed - discovered
+- 2026-03-13 02:50 UTC [freelance](https://www.freelancer.com/projects/talent-acquisition/freelance-talent-recruiter-needed) - Undisclosed amount - Freelance talent recruiter needed - discovered
+- 2026-03-13 02:50 UTC [freelance](https://www.freelancer.com/projects/web-design/carrd-landing-page-toolkit) - Undisclosed amount - Carrd landing page toolkit - discovered
+- 2026-03-13 02:50 UTC [freelance](https://www.freelancer.com/projects/graphic-design/people-photo-background-removal) - Undisclosed amount - People photo background removal - discovered
 - 2026-03-13 02:30 UTC [github_bounty](https://github.com/zama-ai/bounty-program) - Up to €16,750 per bounty (FHE development challenges) - discovered
 - 2026-03-13 02:30 UTC [freelance](https://www.freelancer.com/jobs/PHP/Wordpress/54289857) - $6/hr - WordPress admin setup - discovered
 - 2026-03-13 02:30 UTC [freelance](https://www.freelancer.com/jobs/Graphic-Design/54289856) - $21 fixed - Pizza voucher design - discovered
