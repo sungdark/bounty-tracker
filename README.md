@@ -112,6 +112,27 @@
 | 2026-03-13T05:51:00Z | GitHub | [BOUNTY: 5-7 RTC] Write Video Generation Guides for BoTTube Agents | 5-7 RTC (~$0.5-$0.7 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/732 |
 | 2026-03-13T05:51:00Z | GitHub | [BOUNTY: 0.5 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 10 RTC) | 0.5 RTC/repo (~$0.05 USD/repo) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/731 |
 | 2026-03-13T05:51:00Z | GitHub | [BOUNTY: 1 RTC] Answer Questions in GitHub Discussions (Up to 10 RTC) | 1 RTC/answer (~$0.1 USD/answer) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/728 |
+### 2026-03-13 10:33 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T10:33:00Z | GitHub | [$200 Bounty] Google SERP + AI Search Scraper | $200 USD | 待评估 | https://github.com/bolivian-peru/marketplace-service-template/issues/149 |
+| 2026-03-13T10:33:00Z | GitHub | [$200 Bounty] AltTab can't open Telegram | $200 USD | 待评估 | https://github.com/lwouis/alt-tab-macos/issues/5149 |
+| 2026-03-13T10:33:00Z | GitHub | [$100 Bounty] Win the Auto-Merge | $100 USD or equivalent crypto | 待评估 | https://github.com/skridlevsky/openchaos/issues/154 |
+| 2026-03-13T10:33:00Z | GitHub | [$50 Bounty] Implement Webhook Event System | $50 USD | 待评估 | https://github.com/rohitdash08/FinMind/pull/288 |
+| 2026-03-13T10:33:00Z | GitHub | [$50 Bounty] Fix responsive layout issue in open source CRM | $50 USD | 待评估 | https://github.com/odoo/odoo/issues/120456 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 50-75 RTC] Bounty Verification Bot | 50-75 RTC (~$5-$7.5 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/747 |
+| 2026-03-13T10:33:00Z | GitHub | [Bounty: 50 RTC] Sanctuary interactive lesson runner | 50 RTC (~$5 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/7 |
+| 2026-03-13T10:33:00Z | GitHub | [Bounty: 50 RTC] DPO contrastive pair generator | 50 RTC (~$5 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/3 |
+| 2026-03-13T10:33:00Z | GitHub | [Bounty: 50 RTC] Training data generator for SFT pipeline | 50 RTC (~$5 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/2 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 50-100 RTC] Native Rust Wallet for RustChain | 50-100 RTC (~$5-$10 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1752 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 20 RTC] Deploy a ShaprAI agent to BoTTube | 20 RTC (~$2 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/61 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 15 RTC] Deploy a ShaprAI agent to Moltbook | 15 RTC (~$1.5 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/60 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 15 RTC] DriftLock stress test | 15 RTC (~$1.5 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/67 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 15 RTC] Grazer integration | 15 RTC (~$1.5 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/68 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 20 RTC] Beacon mesh network test | 20 RTC (~$2 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/65 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 10 RTC] Keyboard shortcuts for BoTTube | 10 RTC (~$1 USD) | 待评估 | https://github.com/Scottcjn/bottube/issues/364 |
+| 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 8 RTC] ShaprAI CLI walkthrough | 8 RTC (~$0.8 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/66 |
+
 ### 2026-03-13 08:56 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
