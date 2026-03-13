@@ -9,6 +9,16 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $97 fixed - ISO 9001:2015 Design & Development Tracking Web Application - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $70-$100 fixed - Virtual Assistant (graphic design + social media) - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $142 fixed - TrainerCentral LMS course setup + Zoho CRM integration - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $1-$4/hr - Travel content video editor (short-form + YouTube) - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $28 fixed - Bilingual Arabic/English maritime logistics logo design - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $133 fixed - Undisclosed shortlisted project - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $140 fixed - Psychiatric intake form build (HTML/CSS/JS with conditional logic) - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $6-$16/hr - Podcast video editing (YouTube + Reels/TikToks) - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $8/hr - QuickBooks Online advanced training - discovered
+- 2026-03-13 06:52 UTC [freelance](https://www.freelancer.com/jobs/) - $16-$135/hr - 3D Generalist for technical/industrial animation (Mumbai only) - discovered
 - 2026-03-13 04:49 UTC [freelance](https://www.freelancer.com/projects/cad-cam/spectacle-frame-mechanical-aesthetic) - Undisclosed amount - Spectacle frame mechanical & aesthetic design - discovered
 - 2026-03-13 04:49 UTC [freelance](https://www.freelancer.com/projects/generative-engine-optimization/shopify-seo-optimization-expert) - Undisclosed amount - Shopify SEO optimization expert needed - discovered
 - 2026-03-13 04:49 UTC [freelance](https://www.freelancer.com/projects/illustration/apparel-mockups-spec-sheets-creation) - Undisclosed amount - Apparel mockups & spec sheets creation - discovered
@@ -27,13 +37,3 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 02:30 UTC [freelance](https://www.freelancer.com/jobs/Mechanical-Engineering/54289853) - $270 fixed - SolidWorks 3D shed design - discovered
 - 2026-03-13 02:30 UTC [freelance](https://www.freelancer.com/jobs/Wordpress/54289852) - $47 fixed - WordPress store UI makeover - discovered
 - 2026-03-13 02:30 UTC [freelance](https://www.freelancer.com/jobs/Python/54289851) - $20/hr - HTML to PDF converter script - discovered
-- 2026-03-13 02:30 UTC [freelance](https://www.freelancer.com/jobs/Shipping/54289850) - $177-$531 fixed - Drum shipping from US to Australia - discovered
-- 2026-03-13 02:30 UTC [freelance](https://www.freelancer.com/jobs/Amazon-Web-Services/54289849) - $333 fixed - AWS deployment + app store submission - discovered
-- 2026-03-13 02:30 UTC [freelance](https://www.freelancer.com/jobs/Sales/54289848) - $250-$750 per sale - Contractor website sales commission - discovered
-- 2026-03-12 23:46 UTC [github_bounty](https://github.com/zama-ai/bounty-program) - Up to €16,750 per bounty - discovered
-- 2026-03-12 23:46 UTC [github_bounty](https://hackerone.com/1password) - $50 minimum bounty - discovered
-- 2026-03-12 23:46 UTC [github_bounty](https://hackerone.com/8x8-bounty) - $100 minimum bounty - discovered
-- 2026-03-12 23:46 UTC [github_bounty](https://hackerone.com/airbnb) - Bounties available - discovered
-- 2026-03-12 23:46 UTC [github_bounty](https://hackerone.com/amazonvrp) - $100 minimum bounty - discovered
-- 2026-03-12 23:46 UTC [github_bounty](https://hackerone.com/android) - Monetary rewards available - discovered
-- 2026-03-12 23:46 UTC [github_bounty](https://hackerone.com/att) - $100 minimum bounty - discovered
