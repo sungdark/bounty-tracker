@@ -18,3 +18,6 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-13 17:39 UTC | https://hackerone.com/1password | $50 起 | 1Password 漏洞赏金计划，最高奖励可达$1M，适合安全研究人员 | 待评估 |
 | 2026-03-13 17:39 UTC | https://hackerone.com/airbnb | $100 起 | Airbnb 漏洞赏金计划，奖励丰厚，适合安全领域从业者 | 待评估 |
 | 2026-03-13 17:39 UTC | https://hackerone.com/3cx | $50 起 | 3CX 通信软件漏洞赏金计划，近期更新活跃 | 待评估 |
+| 2026-03-13 18:39 UTC | https://github.com/bolivian-peru/os-moda/issues/2 | ~$89 (1 SOL) | 制作osModa自修复演示视频，门槛较低，有服务器即可完成，奖励即时到账 | 待认领 |
+| 2026-03-13 18:39 UTC | https://github.com/Scottcjn/bottube/issues/364 | ~$12.6 (10 RTC) | 为视频播放器添加键盘快捷键，前端开发任务，难度低，适合JS开发者 | 待认领 |
+| 2026-03-13 18:39 UTC | https://github.com/Scottcjn/Rustchain/issues/773 | ~$0.63 (0.5 RTC) | 简单任务：Star仓库+评论，2分钟即可完成 | 可立即执行 |
