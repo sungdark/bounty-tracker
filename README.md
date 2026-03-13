@@ -37,6 +37,9 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [github_bounty](https://github.com/XRPLBounties/Proposals): Paid challenges for XRP Ledger development - discovered
 - 2026-03-13 [github_bounty](https://github.com/vegaprotocol/bounties): Rewards for Vega protocol contributions - discovered
 - 2026-03-13 [github_bounty](https://github.com/TheSCInitiative/bounties): SCI funded bounties for issue fixes - discovered
+- 2026-03-13 17:09 [github_bounty](https://github.com/promptfoo/promptfoo): AI red teaming/pentesting bounty opportunities (>$50 average reward) - discovered
+- 2026-03-13 17:09 [github_bounty](https://github.com/anthropics/claude-plugins-official): Plugin development opportunities (potential paid grants) - discovered
+- 2026-03-13 17:09 [github_bounty](https://github.com/InsForge/InsForge): Fullstack agent development bounties - discovered
 
 ### Previous
 - 2026-03-13 [digital_product](https://www.raiplay.it/dirette/index.html): Unknown - discovered
