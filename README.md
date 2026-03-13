@@ -12,6 +12,15 @@
 | notes | string | 备注 |
 ## 最近机会
 
+### 2026-03-13 13:01 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T13:01:00Z | GitHub | $150 Bounty: Feature implementation | $150 USD | 待评估 | https://github.com/ripgrim/ripgrim/issues/6 |
+| 2026-03-13T13:01:00Z | GitHub | [BOUNTY $15] Multi-Source Data Aggregation & Normalization Pipeline | $15 USD | 待评估 | https://github.com/Mint-Claw/market-monitor/issues/1 |
+| 2026-03-13T13:01:00Z | GitHub | BoTTube Chrome Extension — Browse, Upload, and Engage from Your Browser | 50 RTC (~$5 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/729 |
+| 2026-03-13T13:01:00Z | GitHub | Apple II RTC Miner — 150 RTC (4.0x Multiplier!) | 150 RTC (~$15 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/436 |
+| 2026-03-13T13:01:00Z | GitHub | Liquidity Provider Incentive Program — Earn 500 RTC/month for wRTC/SOL LP | 500 RTC/month (~$50/month) | 待评估 | https://github.com/Scottcjn/bottube/issues/97 |
+
 ### 2026-03-13 12:55 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
@@ -24,8 +33,6 @@
 | 2026-03-13T12:55:00Z | GitHub | All struct fields should be (concretely) typed | \$200 USD | 待评估 | https://github.com/QuantumSavory/QuantumSymbolics.jl/issues/67 |
 | 2026-03-13T12:55:00Z | GitHub | Tensor Networks Backend | \$400 USD | 待评估 | https://github.com/QuantumSavory/QuantumSavory.jl/issues/129 |
 | 2026-03-13T12:55:00Z | GitHub | A backend for QuantumCumulants.jl | \$200 USD | 待评估 | https://github.com/QuantumSavory/QuantumSymbolics.jl/issues/73 |
-| 2026-03-13T12:55:00Z | GitHub | [BOUNTY] Liquidity Provider Incentive Program — Earn 500 RTC/month for wRTC/SOL LP | 500 RTC/month (~$50/month) | 待评估 | https://github.com/Scottcjn/bottube/issues/97 |
-| 2026-03-13T12:55:00Z | GitHub | [BOUNTY] Port RustChain Miner to Apple II (6502) — 150 RTC (4.0x Multiplier!) | 150 RTC (~$15 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/436 |
 
 ### 2026-03-13 11:33 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
