@@ -963,3 +963,21 @@
 | 2026-03-13T00:48:00Z | Freelancer | Luxury Lifestyle Framer + Shopify E-Commerce Build | $177 avg bid | 待评估 | https://www.freelancer.com/jobs/ |
 | 2026-03-13T00:48:00Z | Freelancer | Solar Installation Technical Support & Troubleshooting | $21/hr | 待评估 | https://www.freelancer.com/jobs/ |
 
+### 2026-03-13 01:46 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T01:43:03Z | GitHub | [$500][Accessibility][Tracking] Live Region / Status Announcements | $500 USD | 待评估 | https://github.com/Expensify/App/issues/79229 |
+| 2026-03-13T01:39:57Z | GitHub | [BUG] [alpha] Settings Panel — Divider Lines for Options Do Not Extend to the Right Edge of the Panel | 未标注 | 待评估 | https://github.com/PlatformNetwork/bounty-challenge/issues/26791 |
+| 2026-03-13T01:19:34Z | GitHub | [$250] Expense- Receipt scan without currency assigns incorrect currency based on location | $250 USD | 待评估 | https://github.com/Expensify/App/issues/81184 |
+| 2026-03-13T01:14:53Z | GitHub | [Due for payment 2026-01-29] [$250][Accessibility][Tracking] Implement Keyboard Reordering | $250 USD | 待支付 | https://github.com/Expensify/App/issues/79247 |
+| 2026-03-13T01:01:02Z | GitHub | [$250] Screen Reader: Global: Cannot close the bottomsheet without selecting an option | $250 USD | 待评估 | https://github.com/Expensify/App/issues/77459 |
+| 2026-03-13T01:00:42Z | GitHub | [$250] Screen Reader: Many Pages: The input field is announced without entered value | $250 USD | 待评估 | https://github.com/Expensify/App/issues/77547 |
+| 2026-03-13T00:48:36Z | GitHub | [BOUNTY: 15 RTC] Implement /wallet/history endpoint (fixes #775, #886) | 15 RTC (~$1.5 USD) | 待评估 | https://github.com/Scottcjn/Rustchain/issues/908 |
+| 2026-03-12T23:31:15Z | GitHub | [$500] Invoice shows waiting for user to add a bank account despite payer already having a verified bank account | $500 USD | 待评估 | https://github.com/Expensify/App/issues/78241 |
+| 2026-03-12T23:28:29Z | GitHub | [$250] Android - Reports - App crashes when opening Reports > Approve | $250 USD | 待评估 | https://github.com/Expensify/App/issues/80430 |
+| 2026-03-12T23:02:14Z | GitHub | [$250] Expense - Loading indefinitely when no description is saved. | $250 USD | 待评估 | https://github.com/Expensify/App/issues/76326 |
+| 2026-03-12T22:53:41Z | GitHub | [Due for payment 2026-03-19] [$250] Infinite loading after clicking the browser forward button again | $250 USD | 待支付 | https://github.com/Expensify/App/issues/83519 |
+| 2026-03-12T22:53:36Z | GitHub | [Due for payment 2026-03-19] [$250] Expense - Card expense can be merged with card expense when imported from CSV file | $250 USD | 待支付 | https://github.com/Expensify/App/issues/81167 |
+| 2026-03-12T22:53:24Z | GitHub | [Due for payment 2026-03-19] [$250] Expense - In confirm details page, amount row is missing & rate field displays pending | $250 USD | 待支付 | https://github.com/Expensify/App/issues/72671 |
+| 2026-03-12T22:53:12Z | GitHub | [Due for payment 2026-03-19] [$500] Screen Reader: Many Pages: There is no dialog role and title announced | $500 USD | 待支付 | https://github.com/Expensify/App/issues/76944 |
+
