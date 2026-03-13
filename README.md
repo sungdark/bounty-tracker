@@ -133,6 +133,29 @@
 | 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 10 RTC] Keyboard shortcuts for BoTTube | 10 RTC (~$1 USD) | 待评估 | https://github.com/Scottcjn/bottube/issues/364 |
 | 2026-03-13T10:33:00Z | GitHub | [BOUNTY: 8 RTC] ShaprAI CLI walkthrough | 8 RTC (~$0.8 USD) | 待评估 | https://github.com/Scottcjn/shaprai/issues/66 |
 
+### 2026-03-13 10:58 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T10:58:00Z | GitHub | [BOUNTY] Port RustChain Miner to Apple II (6502) — 150 RTC (4.0x Multiplier!) | 150 RTC (~$15 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/436 |
+| 2026-03-13T10:58:00Z | GitHub | [BOUNTY] Liquidity Provider Incentive Program — Earn 500 RTC/month for wRTC/SOL LP | 500 RTC/month (~$50/month) | 待评估 | https://github.com/Scottcjn/bottube/issues/97 |
+| 2026-03-13T10:58:00Z | GitHub | [BOUNTY] Mine on Exotic Hardware — Bonus RTC for Unusual Architectures | 10-30 RTC (~$1-$3) | 待评估 | https://github.com/Scottcjn/Rustchain/issues/168 |
+| 2026-03-13T10:58:00Z | GitHub | [BOUNTY] Report a Bug — 5-15 RTC | 5-15 RTC (~$0.5-$1.5) | 待评估 | https://github.com/Scottcjn/Rustchain/issues/305 |
+| 2026-03-13T10:58:00Z | GitHub | [BOUNTY: 10 RTC] Keyboard shortcuts for BoTTube video player (a11y) | 10 RTC (~$1 USD) | 待评估 | https://github.com/Scottcjn/bottube/issues/364 |
+| 2026-03-13T10:58:00Z | GitHub | 🎬 Bounty: First 100 Videos Sprint — Upload Content, Earn RTC | 4-7 RTC per video (~$0.4-$0.7) | 待评估 | https://github.com/Scottcjn/bottube/issues/54 |
+| 2026-03-13T10:58:00Z | GitHub | [QUEST] Become a RustChain Miner — 5 Steps, 50 RTC Total | 50 RTC (~$5 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/397 |
+| 2026-03-13T10:58:00Z | GitHub | [GRANTS] RustChain Micro-Grants — Build Your Own Thing | 100-200 RTC (~$10-$20) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/402 |
+| 2026-03-13T10:58:00Z | GitHub | [EASY BOUNTY: 2 RTC] Create installation GIFs or asciinema recordings | 2 RTC (~$0.2 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1615 |
+| 2026-03-13T10:58:00Z | GitHub | [EASY BOUNTY: 1 RTC] Star all 5 Elyan Labs repos and share on social media | 1 RTC (~$0.1 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1595 |
+| 2026-03-13T10:58:00Z | GitHub | [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain! | 2 RTC (~$0.2 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1677 |
+| 2026-03-13T10:58:00Z | GitHub | [BOUNTY] Upload Your First 10 Videos — Earn 15 RTC | 15 RTC (~$1.5 USD) | 待评估 | https://github.com/Scottcjn/bottube/issues/76 |
+| 2026-03-13T10:58:00Z | GitHub | [BOUNTY] Star & Follow BoTTube — Earn 2 RTC Instantly | 2 RTC (~$0.2 USD) | 待评估 | https://github.com/Scottcjn/bottube/issues/74 |
+| 2026-03-13T10:58:00Z | GitHub | [EASY BOUNTY: 5 RTC] Add a Flagship Project to an Awesome List or Public Tool Directory | 5 RTC (~$0.5 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1578 |
+| 2026-03-13T10:58:00Z | GitHub | [EASY BOUNTY: 3 RTC] Upvote Elyan Labs flagship packages on ClawHub | 3 RTC (~$0.3 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1555 |
+| 2026-03-13T10:58:00Z | GitHub | [EASY BOUNTY: 3 RTC] Mention an Elyan Labs Project in an Existing Repo README or Docs Site | 3 RTC (~$0.3 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1579 |
+| 2026-03-13T10:58:00Z | GitHub | [EASY BOUNTY: 2 RTC] Add an Elyan Labs Link to Your Personal Site or Link-in-Bio | 2 RTC (~$0.2 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1577 |
+| 2026-03-13T10:58:00Z | GitHub | [EASY BOUNTY: 2 RTC] Translate any error message to your language | 2 RTC (~$0.2 USD) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/1593 |
+| 2026-03-13T10:58:00Z | GitHub | [BOUNTY] Content Creator Program — Write About RustChain, Earn 25-100 RTC | 15-100 RTC (~$1.5-$10) | 待评估 | https://github.com/Scottcjn/rustchain-bounties/issues/399 |
+
 ### 2026-03-13 10:54 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
