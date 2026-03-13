@@ -12,6 +12,15 @@
 | notes | string | 备注 |
 ## 最近机会
 
+### 2026-03-13 08:31 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T08:31:00Z | GitHub | Zama FHE Bounty Program | €500 - €16,750 per bounty | 待评估 | https://github.com/zama-ai/bounty-program |
+| 2026-03-13T08:31:00Z | GitHub | GitHub Official Bug Bounty Program | $30,000+ for critical vulnerabilities | 待评估 | https://bounty.github.com/ |
+| 2026-03-13T08:31:00Z | Bug Bounty Radar | Latest public bug bounty programs | Variable rewards | 待评估 | https://bbradar.io/ |
+| 2026-03-13T08:31:00Z | Apple | Apple Security Bounty Program | Up to $1,000,000 for critical issues | 待评估 | https://security.apple.com/bounty/ |
+| 2026-03-13T08:31:00Z | Intigriti | Global bug bounty platform | Variable rewards | 待评估 | https://www.intigriti.com/ |
+
 ### 2026-03-13 05:30 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
