@@ -14,3 +14,7 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-13 15:12 UTC | https://codecanyon.net/top-sellers | $10-$500/份 | CodeCanyon 插件/脚本售卖，适合技术开发者 | 待评估 |
 | 2026-03-13 15:12 UTC | https://www.fiverr.com/gigs/high-demand | $5-$500+ per gig | Fiverr 高需求服务，适合技术、设计、文案等各类技能 | 待评估 |
 | 2026-03-13 15:12 UTC | https://www.hackerone.com/bug-bounty-programs | 不定 | HackerOne 最新赏金计划列表，定期更新高价值项目 | 待评估 |
+| 2026-03-13 17:39 UTC | https://github.com/zama-ai/bounty-program | 不定 | Zama FHE 开源项目赏金计划，贡献代码/文档可获奖励，技术门槛中等 | 待跟进 |
+| 2026-03-13 17:39 UTC | https://hackerone.com/1password | $50 起 | 1Password 漏洞赏金计划，最高奖励可达$1M，适合安全研究人员 | 待评估 |
+| 2026-03-13 17:39 UTC | https://hackerone.com/airbnb | $100 起 | Airbnb 漏洞赏金计划，奖励丰厚，适合安全领域从业者 | 待评估 |
+| 2026-03-13 17:39 UTC | https://hackerone.com/3cx | $50 起 | 3CX 通信软件漏洞赏金计划，近期更新活跃 | 待评估 |
