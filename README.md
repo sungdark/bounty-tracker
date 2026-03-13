@@ -78,6 +78,32 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [github_bounty](https://github.com/TheSCInitiative/bounties): SCI funded bounties for issue fixes - discovered
 - 2026-03-13 17:09 [github_bounty](https://github.com/anthropics/claude-plugins-official): Plugin development opportunities (potential paid grants) - discovered
 - 2026-03-13 17:09 [github_bounty](https://github.com/InsForge/InsForge): Fullstack agent development bounties - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/ripgrim/ripgrim/issues/6): $150 USD - TEST AUTUMN PLS WORTK - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/2): 50 RTC - Training data generator for SFT pipeline - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/8): 40 RTC - Template marketplace with RTC pricing - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/62): 25 RTC - Cross-platform ShaprAI agent on 3+ platforms - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/61): 20 RTC - Deploy a ShaprAI agent to BoTTube with video creation - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1616): 20 RTC - Build a mobile wallet app (React Native/Flutter) - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): 15 RTC - Implement /wallet/history endpoint - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/70): 15 RTC - Agent fleet battle -- build and score 3+ agents - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/67): 15 RTC - DriftLock stress test -- prove agent identity holds - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/68): 15 RTC - Grazer integration -- auto-discover and engage content - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/60): 15 RTC - Deploy a ShaprAI agent to Moltbook with Beacon - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1609): 10 RTC - Create a Grafana dashboard for RustChain metrics - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/64): 10 RTC - Accessibility audit + fixes for any Elyan Labs UI - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/bottube/issues/364): 10 RTC - Keyboard shortcuts for BoTTube video player (a11y) - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1607): 8 RTC - Build a browser extension showing RTC balance - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/shaprai/issues/66): 8 RTC - ShaprAI CLI walkthrough video or blog post - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/bottube/issues/365): 8 RTC - Screen reader friendly video pages (a11y) - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1606): 5 RTC - Create a CLI tool to monitor RustChain node health - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1614): 5 RTC - Create a load test suite for the RustChain API - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1612): 5 RTC - Create a Homebrew formula for the RustChain miner - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1617): 3 RTC - Create a Postman collection for RustChain API - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1613): 3 RTC - Set up Dependabot or Renovate for any Elyan Labs repo - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1677): 2 RTC - Star & Share Campaign -- Help Us Hit 200 Stars on RustChain! - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1608): 2 RTC - Add code comments explaining any complex function - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1611): 1 RTC - Add emoji reactions to 3+ issues showing support - discovered
+- 2026-03-13 22:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1618): 1 RTC - Report any accessibility issue in BoTTube UI - discovered
 
 ### Previous
 - 2026-03-13 [digital_product](https://www.raiplay.it/dirette/index.html): Unknown - discovered
