@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-03-13T14:01:00.000000Z",
+    "type": "bug_bounty",
+    "link": "https://forum.zknation.io/t/tpp-draft-zksync-immunefi-bug-bounty-program-2026/903",
+    "amount": "Varies (critical vulnerabilities up to 6+ figures)",
+    "status": "discovered",
+    "notes": "ZKsync Immunefi Bug Bounty Program 2026 - active TPP draft, reimbursements for 2025 payouts"
+  },
+  {
+    "time": "2026-03-13T14:01:00.000000Z",
+    "type": "bug_bounty_platform",
+    "link": "https://www.intigriti.com/",
+    "amount": "Varies by program",
+    "status": "discovered",
+    "notes": "Top-tier bug bounty platform with Ambassador Program benefits"
+  },
+  {
+    "time": "2026-03-13T14:01:00.000000Z",
+    "type": "bug_bounty_platform",
+    "link": "https://www.yeswehack.com/",
+    "amount": "Varies by program",
+    "status": "discovered",
+    "notes": "Global bug bounty platform used by Orange France and other enterprises"
+  },
+  {
+    "time": "2026-03-13T14:01:00.000000Z",
+    "type": "github_bounty",
+    "link": "https://github.blog/security/application-security/how-the-community-powers-github-advanced-security-with-codeql-queries/",
+    "amount": "Varies based on query quality/impact",
+    "status": "discovered",
+    "notes": "GitHub Security Lab CodeQL bounty program - rewards for high-precision vulnerability queries"
+  },
+  {
+    "time": "2026-03-13T14:01:00.000000Z",
+    "type": "digital_product",
+    "link": "https://resellready.co/blogs/news/most-profitable-digital-products-for-passive-income-in-2026",
+    "amount": "80-95% profit margin potential",
+    "status": "discovered",
+    "notes": "2026 profitable digital products: printables, PLR bundles, Notion/Canva templates, AI prompts, mini courses"
+  },
+  {
+    "time": "2026-03-13T14:01:00.000000Z",
+    "type": "digital_product_platform",
+    "link": "https://gumroad.com/",
+    "amount": "No upfront fees, 10% + $0.30 per sale",
+    "status": "discovered",
+    "notes": "Beginner-friendly platform for selling digital products with simple checkout"
+  },
+  {
+    "time": "2026-03-13T14:01:00.000000Z",
+    "type": "digital_product_guide",
+    "link": "https://travisnicholson.medium.com/14-digital-products-to-sell-for-passive-income-2026-91bb0cbc3293",
+    "amount": "$2,000+/month proven income",
+    "status": "discovered",
+    "notes": "14 digital product ideas generating $50k/year in passive income (updated Jan 2026)"
+  },
+  {
     "time": "2026-03-12T23:50:00.000000Z",
     "type": "github_bounty",
     "link": "https://github.com/Scottcjn/bottube/issues/365",
