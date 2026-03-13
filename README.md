@@ -12,6 +12,16 @@
 | notes | string | 备注 |
 ## 最近机会
 
+### 2026-03-13 04:51 UTC 新发现机会
+| 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
+|----------|------|------|------|------|------|
+| 2026-03-13T04:51:00Z | HackerOne | Meta Bug Bounty Program | Up to $2,000,000 maximum bounty | 待评估 | https://hackerone.com/meta |
+| 2026-03-13T04:51:00Z | HackerOne | Google Vulnerability Reward Program | Up to $31,337 maximum bounty | 待评估 | https://bughunters.google.com/ |
+| 2026-03-13T04:51:00Z | HackerOne | Shopify Bug Bounty Program | $500 minimum bounty | 待评估 | https://hackerone.com/shopify |
+| 2026-03-13T04:51:00Z | Upwork | Full Stack Developer for SaaS Product | $50-$100/hr | 待评估 | https://www.upwork.com/ |
+| 2026-03-13T04:51:00Z | Fiverr | Custom GPT Development Gigs | $10-$500 per gig | 待评估 | https://www.fiverr.com/categories/programming-tech/ai-services/ |
+| 2026-03-13T04:51:00Z | Gumroad | Digital Product Sales (templates/courses) | 100% profit (minus fees) | 待评估 | https://gumroad.com/discover |
+
 ### 2026-03-13 04:30 UTC 新发现机会
 | 发现时间 | 来源 | 标题 | 金额 | 状态 | 链接 |
 |----------|------|------|------|------|------|
