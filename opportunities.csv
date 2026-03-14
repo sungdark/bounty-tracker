@@ -1,9 +1,7 @@
-time,link,amount,assessment,status
-2026-03-14 01:41 UTC,https://yeswehack.com/programs/proconnect-identite,"€50 - €5,000",Public government bug bounty program, new as of 2026-03-13,Open
-2026-03-14 01:41 UTC,https://yeswehack.com/programs/systemd-bug-bounty-program,"€150 - €10,000",Sovereign Tech Agency systemd bounty program, updated 2026-03-11,Open
-2026-03-14 01:41 UTC,https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program,"€50 - €1,500",French public health bug bounty, updated 2026-03-09,Open
-2026-03-14 01:41 UTC,https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program,"€50 - €7,000",German state bank bug bounty, updated 2026-03-09,Open
-2026-03-14 01:41 UTC,https://bounty.github.com,"$30,000+ for critical vulnerabilities",Official GitHub security bounty program,Open
-2026-03-14 01:41 UTC,https://www.bountyhub.dev,GitHub issue bounty platform, allows monetizing PR contributions,Open
-2026-03-14 01:41 UTC,https://gitpay.me,Git issue bounty platform for open source contributions,Open
-2026-03-14 01:41 UTC,https://hackerone.com/opportunities/all,Hundreds of active bug bounty programs with $50+ minimum payouts,Open
+time,url,amount,assessment,status
+2026-03-14T20:50:55Z,https://github.com/rohitdash08/FinMind/issues/121,$500,法币高价值任务，要求生成每周财务摘要，需要实现生产级功能+测试+文档，开发成本中等，收益高,待评估
+2026-03-14T20:47:54Z,https://github.com/YahiaRagae/mushaf-imad-android/issues/40,50 Points,积分类任务，要求实现Android View回调与持久化，开发成本低,待评估
+2026-03-14T20:57:27Z,https://github.com/Scottcjn/rustchain-bounties/issues/733,50-100 RTC,加密货币任务，要求将Python钱包移植为Rust原生CLI，开发成本高,待评估
+2026-03-14T20:45:02Z,https://github.com/Scottcjn/Rustchain/issues/908,15 RTC,加密货币任务，要求实现钱包历史接口，开发成本中等,待评估
+2026-03-14T20:31:18Z,https://github.com/Scottcjn/shaprai/issues/8,40 RTC,加密货币任务，要求构建模板市场功能，开发成本中等,待评估
+2026-02-05T03:36:58Z,https://github.com/vishalsingh2972/100xDevs_2.0/issues/6,未标明,法币任务，要求补充Web2和DevOps文档，开发成本极低，适合快速完成,待评估
