@@ -48,6 +48,10 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-13 22:11 UTC | https://github.com/projectdiscovery/public-bugbounty-programs | 不定 | 社区维护的公共赏金计划列表，实时更新全球高价值目标 | 待挖掘 |
 | 2026-03-13 22:11 UTC | https://github.com/disclose/bug-bounty-platforms | 不定 | 2026年活跃的赏金平台汇总，覆盖HackerOne/Code4rena/Immunefi等主流平台 | 待评估 |
 | 2026-03-13 23:39 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1743 | ~$2.67 (65 RTC) | Python开发赏金验证机器人，包含多阶段奖励，总奖励65RTC，已有人认领 | 已认领 |
+| 2026-03-14 02:40 UTC | https://github.com/Expensify/App/issues/84535 | $250 | 前端React Native bug修复，银行账户货币更新问题，有明确重现步骤，可立即认领 | 待跟进 |
+| 2026-03-14 02:40 UTC | https://github.com/Expensify/App/issues/82013 | $250 | Android公共房间深度链接打开异常bug，中等复杂度，收益稳定 | 待跟进 |
+| 2026-03-14 02:40 UTC | https://github.com/Expensify/App/issues/80490 | $250 | 外币收据税费计算逻辑bug，后端/前端混合任务，文档齐全 | 待跟进 |
+| 2026-03-14 02:40 UTC | https://github.com/PlatformNetwork/bounty-challenge/issues | ~$50-$100/个 | 批量可访问性bug修复（共15+个有效任务），均为aria-label/role属性缺失，修复成本极低，可批量处理 | 待评估 |
 | 2026-03-13 23:39 UTC | https://github.com/bountydotnew/bounty.new/issues/253 | 不定 | 开发赏金排行榜功能，设计/前端开发任务 | 待评估 |
 | 2026-03-13 23:39 UTC | https://github.com/SuperteamDAO/earn/issues/1338 | 不定 | 测试赏金系统问题，低门槛任务 | 待评估 |
 | 2026-03-14 00:12 UTC | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | 修复AltTab在macOS上无法打开Telegram的问题，Objective-C开发任务，高优先级 | 待认领 |
