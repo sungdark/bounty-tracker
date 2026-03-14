@@ -213,6 +213,21 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 07:32 [digital_product](https://gumroad.com/discover): 数字产品售卖平台，支持全球美元结算，无入驻门槛 - discovered
 - 2026-03-14 07:32 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
 
+### New Bounty Opportunities (2026-03-14 13:44 UTC)
+#### Platform Network Bounty (Latest 12 New Issues)
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27940): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27939): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27938): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27937): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27936): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27935): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27934): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27931): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27930): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27927): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27926): Platform Network bounty (USD fiat) - discovered
+- 2026-03-14 13:44 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27925): Platform Network bounty (USD fiat) - discovered
+
 ### New Bounty Opportunities (2026-03-14 13:39 UTC)
 #### GitHub Bounty (Latest Updates)
 - 2026-03-14 13:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/71): RustChain ongoing bug bounty program, 750 RTC pool (~$75 USD total), critical bugs up to 200 RTC (~$20 USD) - discovered
