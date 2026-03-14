@@ -213,6 +213,31 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 07:32 [digital_product](https://gumroad.com/discover): 数字产品售卖平台，支持全球美元结算，无入驻门槛 - discovered
 - 2026-03-14 07:32 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
 
+### New Bounty Opportunities (2026-03-14 10:34 UTC)
+#### GitHub Bounty (Yesterday 发布)
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/bottube/issues/364): 10 RTC (~$1) - 为视频播放器添加键盘快捷键，前端JS开发 - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/shaprai/issues/66): 8 RTC (~$0.8) - 创建ShaprAI CLI使用教程（视频/博客），内容创作 - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/shaprai/issues/64): 10 RTC (~$1) - Elyan Labs UI无障碍审计和修复，前端开发 - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/shaprai/issues/60): 15 RTC (~$1.5) - 部署ShaprAI代理到Moltbook平台，DevOps - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1677): 2 RTC (~$0.2) - Star RustChain系列仓库并分享，无技术门槛 - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1618): 1 RTC (~$0.1) - 报告bottube.ai无障碍问题，每个有效报告1 RTC - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1613): 3 RTC (~$0.3) - 配置Dependabot/Renovate依赖自动更新，DevOps - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1611): 1 RTC (~$0.1) - 给3个以上Issue添加表情反应，无技术门槛 - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1608): 2 RTC (~$0.2) - 为复杂函数添加注释说明，Python/JS开发 - discovered
+- 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1605): 1 RTC (~$0.1) - 创建CONTRIBUTING.md文档，内容创作 - discovered
+
+#### Freelancer 众包任务 (最新发布)
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/production-planning-inventory-dispatch-automation-tool/): $1621-$2702 USD - 家具制造业生产/库存/发货自动化工具开发，全栈 - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/ios-android-mobile-app-development/): $826 USD - 跨平台移动应用开发（iOS+Android），React Native/Flutter - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/aws-devops-ci-cd-terraform/): $18/hr USD - AWS DevOps工程师，CI/CD+监控搭建 - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/laravel-ecommerce-frontend-redesign/): $27/hr USD - Laravel电商产品页前端重构，Vue.js/Blade - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/chess-academy-website-development/): $270 USD - 国际象棋学院官网开发，现代UI/UX + SEO - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/craft-cms-blog-integration/): $177 USD - Craft CMS博客集成开发，SEO优化 - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/wordpress-ecommerce-shopify-speed-optimization/): $11/hr USD - Shopify/GemPages网站速度优化 - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/shopify-store-customization/): $103 USD - Shopify美妆电商站定制开发，移动端优化 - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/excel-forecasting-data-analysis/): $2/hr USD - Excel数据预测分析，统计建模 - discovered
+- 2026-03-14 10:34 [freelance](https://www.freelancer.com/jobs/ai-content-strategy-copywriting/): $470 USD - AI创业公司内容策略和文案撰写 - discovered
+
 ### New Bounty Opportunities (2026-03-14 10:18 UTC)
 - 2026-03-14 10:18 [github_bounty](https://github.com/Expensify/App/issues/84535): $250 USD - 修复银行账户概览中更新货币的bug，React Native开发任务 - discovered
 - 2026-03-14 09:45 [github_bounty](https://github.com/Scottcjn/bottube/issues/365): ~$0.8 (8 RTC) - BoTTube视频页无障碍优化，前端CSS/JS任务 - discovered
