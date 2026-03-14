@@ -213,7 +213,8 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 07:32 [digital_product](https://gumroad.com/discover): 数字产品售卖平台，支持全球美元结算，无入驻门槛 - discovered
 - 2026-03-14 07:32 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
 
-### New Bounty Opportunities (2026-03-14 09:46 UTC)
+### New Bounty Opportunities (2026-03-14 10:18 UTC)
+- 2026-03-14 10:18 [github_bounty](https://github.com/Expensify/App/issues/84535): $250 USD - 修复银行账户概览中更新货币的bug，React Native开发任务 - discovered
 - 2026-03-14 09:45 [github_bounty](https://github.com/Scottcjn/bottube/issues/365): ~$0.8 (8 RTC) - BoTTube视频页无障碍优化，前端CSS/JS任务 - discovered
 - 2026-03-14 09:09 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1595): ~$0.1 (1 RTC) - 给5个Elyan Labs仓库加star并分享到社交媒体，无技术门槛 - discovered
 - 2026-03-14 09:09 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1592): ~$0.3 (3 RTC) - 将RustChain添加到任意awesome-list或精选列表 - discovered
