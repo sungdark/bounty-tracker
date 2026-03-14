@@ -399,3 +399,16 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 13:50 [bug_bounty](https://yeswehack.com/programs/swiss-post-evoting): 瑞士邮政电子投票赏金计划，最高奖励€230,000 EUR (~$250,000 USD) - discovered
 - 2026-03-14 13:50 [bug_bounty](https://bounty.github.com/): GitHub官方赏金计划，严重漏洞奖励$30,000+ USD - discovered
 - 2026-03-14 13:50 [bug_bounty](https://www.hackerone.com/1password): 1Password CTF赏金，最低$50 USD/个，最高$1M USD - discovered
+
+### New Bounty Opportunities (2026-03-14 14:25 UTC)
+#### Platform Network New Bounties
+- 2026-03-14 14:25 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27944): Platform Network bounty (USD fiat) - discovered
+
+#### Upwork New Freelance Opportunities
+- 2026-03-14 14:25 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
+- 2026-03-14 14:25 [freelance](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency): 47个最新AI Agent开发任务，平均$75/小时 - discovered
+
+#### Low Threshold Quick Bounties
+- 2026-03-14 14:25 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1761): ~$0.1 (1 RTC) - 给RustChain仓库添加star，无技术门槛 - discovered
+- 2026-03-14 14:25 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1759): ~$0.3 (3 RTC) - 提交功能建议Issue，无需编码 - discovered
+- 2026-03-14 14:25 [digital_product](https://gumroad.com/discover/popular): 高销量数字产品模板参考，可快速仿制售卖，利润率90%+ - discovered
