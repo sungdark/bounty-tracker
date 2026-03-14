@@ -168,6 +168,20 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://www.rai.it/): Unknown - discovered
 - 2026-03-13 [digital_product](https://apps.apple.com/it/app/raiplay/id501323740): Unknown - discovered
 - 2026-03-13 [digital_product](https://tv-programmi.it/rai-1-diretta_d1): Unknown - discovered
+### New Bounty Opportunities (2026-03-14 09:33 UTC)
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27810): Platform Network bounty: Problem matcher toggle buttons missing role="checkbox" and aria-checked (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27809): Platform Network bounty: "Focus terminal" checkbox label is Text component, not <label> element (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27808): Platform Network bounty: CortexTitleBar top-level menu buttons do not support ArrowLeft/ArrowRight menubar traversal (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27807): Platform Network bounty: TitleBarDropdownMenu can remain open after Tab moves focus outside the menu system (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27806): Platform Network bounty: Clicking task row immediately executes task, increasing accidental-run risk (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27805): Platform Network bounty: TitleBarDropdownMenu has no typeahead navigation by item label (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27804): Platform Network bounty: Remove dependency IconButtons have no aria-label (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27803): Platform Network bounty: TitleBarDropdownMenu does not implement Home/End keyboard jumps (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27802): Platform Network bounty: SettingsSyncContext formatLastSync has unguarded Date constructor fallback — displays "Invalid Date" for corrupt sync timestamps (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27801): Platform Network bounty: GitHub button does not follow the current accent color in Create Remote Tunnel dialog (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27800): Platform Network bounty: LocalHistoryContext has two unguarded Date constructor calls — displays "Invalid Date" in local history panel (USD fiat) - discovered
+- 2026-03-14 09:33 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27799): Platform Network bounty: TerminalAutoReplies formatLastTriggered has unguarded Date constructor — displays "Invalid Date" for corrupt rule timestamps (USD fiat) - discovered
+
 ### New Bounty Opportunities (2026-03-14 08:46 UTC)
 - 2026-03-14 08:46 [github_bounty](https://github.com/bolivian-peru/marketplace-service-template/issues/77): $100 USD (SX token) - 开发LinkedIn人员和公司信息富集API，后端开发任务 - discovered
 - 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1152): ~$7.5-$10 (75-100 RTC) - 开发RustChain MCP服务器，支持Claude Code直接查询链上数据 - discovered
