@@ -168,6 +168,27 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://www.rai.it/): Unknown - discovered
 - 2026-03-13 [digital_product](https://apps.apple.com/it/app/raiplay/id501323740): Unknown - discovered
 - 2026-03-13 [digital_product](https://tv-programmi.it/rai-1-diretta_d1): Unknown - discovered
+### New Bounty Opportunities (2026-03-14 08:46 UTC)
+- 2026-03-14 08:46 [github_bounty](https://github.com/bolivian-peru/marketplace-service-template/issues/77): $100 USD (SX token) - 开发LinkedIn人员和公司信息富集API，后端开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1152): ~$7.5-$10 (75-100 RTC) - 开发RustChain MCP服务器，支持Claude Code直接查询链上数据 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/shaprai/issues/70): ~$3 (30 RTC) - 构建3+竞争代理舰队并进行质量评分，AI开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/shaprai/issues/62): ~$2.5 (25 RTC) - 跨3+平台部署ShaprAI代理，跨端开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): ~$1.5 (15 RTC) - 实现/wallet/history端点，后端Python开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/shaprai/issues/67): ~$1.5 (15 RTC) - DriftLock压力测试，验证代理身份持久性，测试任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/shaprai/issues/68): ~$1.5 (15 RTC) - Grazer集成，实现自动内容发现和互动，AI集成任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1601): ~$1.5 (15 RTC) - 将RustChain矿工从Python移植到Rust，Rust开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1616): ~$2 (20 RTC) - 构建移动钱包应用(React Native/Flutter)，移动端开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/bottube/issues/365): ~$0.8 (8 RTC) - BoTTube视频页无障碍优化，前端CSS/JS任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/shaprai/issues/66): ~$0.8 (8 RTC) - 创建ShaprAI CLI教程视频或博客文章，内容创作任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1596): ~$1 (10 RTC) - 开发查询RustChain API的Discord机器人，后端开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1597): ~$1 (10 RTC) - 创建RustChain Telegram机器人，后端开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1591): ~$0.5 (5 RTC) - 为任意Elyan Labs仓库创建GitHub Action工作流，DevOps任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1612): ~$0.5 (5 RTC) - 创建RustChain矿工的Homebrew formula，打包任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1614): ~$0.5 (5 RTC) - 创建RustChain API的负载测试套件，测试任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1589): ~$0.2 (2 RTC) - 为任意未测试函数编写pytest单元测试，简单开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1588): ~$0.1 (1 RTC) - 为代码库中任意Python函数添加类型提示，简单开发任务 - discovered
+- 2026-03-14 08:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1584): ~$1 (10 RTC/对) - 创始人推荐计划，邀请新用户加入RustChain + BoTTube生态，无技术门槛 - discovered
+
 ### New Bounty Opportunities (2026-03-14 07:32 UTC)
 - 2026-03-14 07:32 [github_bounty](https://github.com/ripgrim/ripgrim/issues/10): $20 USD - 修复网站首页响应式布局问题，前端CSS任务 - discovered
 - 2026-03-14 07:32 [github_bounty](https://github.com/bountydotnew/playground/issues/4): $5 USD - 测试bounty.new平台提交流程，无需编码，10分钟完成 - discovered
@@ -177,13 +198,3 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 07:32 [digital_product](https://github.com/topics/digital-product-template): 高利润数字产品模板资源，可直接修改售卖，利润率90%+ - discovered
 - 2026-03-14 07:32 [digital_product](https://gumroad.com/discover): 数字产品售卖平台，支持全球美元结算，无入驻门槛 - discovered
 - 2026-03-14 07:32 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
-
-### New GitHub Bounty Opportunities (2026-03-14 07:14 UTC)
-- 2026-03-14 07:14 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1760): ~$0.1 (1 RTC) - 给RustChain仓库添加star，无技术门槛，快速完成 - discovered
-- 2026-03-14 07:14 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1758): ~$0.3 (3 RTC) - 提交一个简单的功能建议Issue，无需编码 - discovered
-- 2026-03-14 07:14 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1757): ~$0.5 (5 RTC) - 改进RustChain文档中的拼写错误，简单文本编辑 - discovered
-- 2026-03-14 07:14 [github_bounty](https://github.com/ripgrim/ripgrim/issues/10): $20 USD - 修复网站首页响应式布局问题，前端CSS任务 - discovered
-- 2026-03-14 07:14 [github_bounty](https://github.com/bountydotnew/playground/issues/4): $5 USD - 测试bounty.new平台提交流程，无需编码，10分钟完成 - discovered
-- 2026-03-14 07:14 [digital_product](https://github.com/topics/digital-product-template): 高利润数字产品模板资源，可直接修改售卖，利润率90%+ - discovered
-- 2026-03-14 07:14 [digital_product](https://gumroad.com/discover): 数字产品售卖平台，支持全球美元结算，无入驻门槛 - discovered
-- 2026-03-14 07:14 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
