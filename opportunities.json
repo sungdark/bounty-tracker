@@ -1,242 +1,66 @@
 [
   {
-    "time": "2026-03-13T19:10:00Z",
+    "time": "2026-03-14T07:14:00Z",
     "type": "github_bounty",
-    "link": "https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/1",
-    "amount": "Unknown",
+    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1760",
+    "amount": "1 RTC (~$0.1 estimated)",
     "status": "discovered",
-    "notes": "Bounty: Bounty Card Component - reusable UI component with Tailwind styling, responsive layout"
+    "notes": "给RustChain仓库添加star，无技术门槛，快速完成"
   },
   {
-    "time": "2026-03-13T19:10:00Z",
+    "time": "2026-03-14T07:14:00Z",
     "type": "github_bounty",
-    "link": "https://github.com/kodaksax/Bounty-production/issues/352",
-    "amount": "Unknown",
+    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1758",
+    "amount": "3 RTC (~$0.3 estimated)",
     "status": "discovered",
-    "notes": "wishy washy bounty \"apply for bounty\" button"
+    "notes": "提交一个简单的功能建议Issue，无需编码"
   },
   {
-    "time": "2026-03-13T19:10:00Z",
+    "time": "2026-03-14T07:14:00Z",
     "type": "github_bounty",
-    "link": "https://github.com/bountydotnew/bounty.new/issues/218",
-    "amount": "$0.00",
+    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1757",
+    "amount": "5 RTC (~$0.5 estimated)",
     "status": "discovered",
-    "notes": "free bounty - submit PR to claim"
+    "notes": "改进RustChain文档中的拼写错误，简单文本编辑"
   },
   {
-    "time": "2026-03-13T19:10:00Z",
-    "type": "bug_bounty",
-    "link": "https://github.com/idos-network/idos-sdk-js/issues/1387",
-    "amount": "Varies by severity",
-    "status": "discovered",
-    "notes": "Bug bounty report for idos.network security vulnerabilities"
-  },
-  {
-    "time": "2026-03-13T19:10:00Z",
+    "time": "2026-03-14T07:14:00Z",
     "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1743",
-    "amount": "30-65 RTC (~$30-65 estimated)",
+    "link": "https://github.com/ripgrim/ripgrim/issues/10",
+    "amount": "$20 USD",
     "status": "discovered",
-    "notes": "[BOUNTY #747] Bounty Verification Bot — Auto-Verify Claims, Python/GitHub Actions"
+    "notes": "修复网站首页响应式布局问题，前端CSS任务"
   },
   {
-    "time": "2026-03-13T19:10:00Z",
+    "time": "2026-03-14T07:14:00Z",
     "type": "github_bounty",
-    "link": "https://github.com/bountydotnew/bounty.new/issues/253",
-    "amount": "Unknown",
+    "link": "https://github.com/bountydotnew/playground/issues/4",
+    "amount": "$5 USD",
     "status": "discovered",
-    "notes": "feat: bounty leaderboard - tabs for bounty hunters/creators"
+    "notes": "测试bounty.new平台提交流程，无需编码，10分钟完成"
   },
   {
-    "time": "2026-03-13T19:10:00Z",
-    "type": "github_bounty",
-    "link": "https://github.com/bountydotnew/bounty.new/issues/243",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "[feat] design bounties - for design work on Paper & Figma platforms"
-  },
-  {
-    "time": "2026-03-13T19:10:00Z",
-    "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1759",
-    "amount": "Varies",
-    "status": "discovered",
-    "notes": "[BOUNTY #71] Ongoing Bug Bounty Program - security/development tasks"
-  },
-  {
-    "time": "2026-03-13T19:10:00Z",
-    "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1752",
-    "amount": "50-100 RTC (~$50-100 estimated)",
-    "status": "discovered",
-    "notes": "[BOUNTY #1746] Native Rust Wallet for RustChain — CLI + crate"
-  },
-  {
-    "time": "2026-03-13T19:10:00Z",
-    "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/rustchain-bounties/issues/1751",
-    "amount": "25-150 RTC (~$25-150 estimated)",
-    "status": "discovered",
-    "notes": "[BOUNTY #1747] RIP-302 Agent Economy: Live Demo + Build Bounties"
-  },
-  {
-    "time": "2026-03-13T19:10:00Z",
-    "type": "github_bounty",
-    "link": "https://github.com/aden-hive/hive/issues/6219",
-    "amount": "75 pts",
-    "status": "discovered",
-    "notes": "[Bounty]: Kubernetes Integration Tool - SRE/DevOps agent capabilities"
-  },
-  {
-    "time": "2026-03-13T19:10:00Z",
-    "type": "github_bounty",
-    "link": "https://github.com/ripgrim/ripgrim/issues/9",
-    "amount": "$0.00",
-    "status": "discovered",
-    "notes": "my first bounty - bounty.new test bounty"
-  },
-  {
-    "time": "2026-03-13T19:10:00Z",
-    "type": "github_bounty",
-    "link": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/861",
-    "amount": "Unknown",
-    "status": "discovered",
-    "notes": "[BOUNTY] Suggestion #554 - fix locker lewdverb interaction, payment via PayPal/crypto"
-  },
-  {
-    "time": "2026-03-13T14:01:00.000000Z",
-    "type": "bug_bounty",
-    "link": "https://forum.zknation.io/t/tpp-draft-zksync-immunefi-bug-bounty-program-2026/903",
-    "amount": "Varies (critical vulnerabilities up to 6+ figures)",
-    "status": "discovered",
-    "notes": "ZKsync Immunefi Bug Bounty Program 2026 - active TPP draft, reimbursements for 2025 payouts"
-  },
-  {
-    "time": "2026-03-13T14:01:00.000000Z",
-    "type": "bug_bounty_platform",
-    "link": "https://www.intigriti.com/",
-    "amount": "Varies by program",
-    "status": "discovered",
-    "notes": "Top-tier bug bounty platform with Ambassador Program benefits"
-  },
-  {
-    "time": "2026-03-13T14:01:00.000000Z",
-    "type": "bug_bounty_platform",
-    "link": "https://www.yeswehack.com/",
-    "amount": "Varies by program",
-    "status": "discovered",
-    "notes": "Global bug bounty platform used by Orange France and other enterprises"
-  },
-  {
-    "time": "2026-03-13T14:01:00.000000Z",
-    "type": "github_bounty",
-    "link": "https://github.blog/security/application-security/how-the-community-powers-github-advanced-security-with-codeql-queries/",
-    "amount": "Varies based on query quality/impact",
-    "status": "discovered",
-    "notes": "GitHub Security Lab CodeQL bounty program - rewards for high-precision vulnerability queries"
-  },
-  {
-    "time": "2026-03-13T14:01:00.000000Z",
+    "time": "2026-03-14T07:14:00Z",
     "type": "digital_product",
-    "link": "https://resellready.co/blogs/news/most-profitable-digital-products-for-passive-income-in-2026",
-    "amount": "80-95% profit margin potential",
+    "link": "https://github.com/topics/digital-product-template",
+    "amount": "90%+ profit margin",
     "status": "discovered",
-    "notes": "2026 profitable digital products: printables, PLR bundles, Notion/Canva templates, AI prompts, mini courses"
+    "notes": "高利润数字产品模板资源，可直接修改售卖"
   },
   {
-    "time": "2026-03-13T14:01:00.000000Z",
+    "time": "2026-03-14T07:14:00Z",
     "type": "digital_product_platform",
-    "link": "https://gumroad.com/",
-    "amount": "No upfront fees, 10% + $0.30 per sale",
+    "link": "https://gumroad.com/discover",
+    "amount": "No upfront fees",
     "status": "discovered",
-    "notes": "Beginner-friendly platform for selling digital products with simple checkout"
+    "notes": "数字产品售卖平台，支持全球美元结算，无入驻门槛"
   },
   {
-    "time": "2026-03-13T14:01:00.000000Z",
-    "type": "digital_product_guide",
-    "link": "https://travisnicholson.medium.com/14-digital-products-to-sell-for-passive-income-2026-91bb0cbc3293",
-    "amount": "$2,000+/month proven income",
+    "time": "2026-03-14T07:14:00Z",
+    "type": "freelance",
+    "link": "https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency",
+    "amount": "$30-$150 per hour",
     "status": "discovered",
-    "notes": "14 digital product ideas generating $50k/year in passive income (updated Jan 2026)"
-  },
-  {
-    "time": "2026-03-12T23:50:00.000000Z",
-    "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/bottube/issues/365",
-    "amount": "8 RTC (~$8 estimated)",
-    "status": "discovered",
-    "notes": "Screen reader friendly video pages (a11y) - requires HTML/ARIA changes, screen reader test output"
-  },
-  {
-    "time": "2026-03-12T23:50:00.000000Z",
-    "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/bottube/issues/364",
-    "amount": "10 RTC (~$10 estimated)",
-    "status": "discovered",
-    "notes": "Keyboard shortcuts for BoTTube video player (a11y) - JavaScript implementation, no interference with text input"
-  },
-  {
-    "time": "2026-03-12T23:50:00.000000Z",
-    "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/Rustchain/issues/908",
-    "amount": "15 RTC (~$15 estimated)",
-    "status": "discovered",
-    "notes": "Implement /wallet/history endpoint - Python/Flask, SQLite queries, pagination support"
-  },
-  {
-    "time": "2026-03-12T23:50:00.000000Z",
-    "type": "github_bounty",
-    "link": "https://github.com/Scottcjn/shaprai/issues/71",
-    "amount": "12 RTC (~$12 estimated)",
-    "status": "discovered",
-    "notes": "Port ShaprAI agent to CrewAI or SmoLagents - runtime adapter integration, personality preservation"
-  },
-  {
-    "time": "2026-03-12T23:46:35.543955Z",
-    "type": "github_bounty",
-    "link": "https://bounty.github.com/",
-    "amount": "Up to $50,000+ per critical vulnerability",
-    "status": "discovered",
-    "notes": "Official GitHub Security Bug Bounty Program - high value opportunities for security researchers"
-  },
-  {
-    "time": "2026-03-12T23:46:35.543980Z",
-    "type": "github_bounty",
-    "link": "https://github.com/arkadiyt/bounty-targets-data",
-    "amount": "Varies by program",
-    "status": "discovered",
-    "notes": "Hourly updated bug bounty scopes from HackerOne/Bugcrowd/Intigriti/etc"
-  },
-  {
-    "time": "2026-03-12T23:46:35.543981Z",
-    "type": "github_bounty",
-    "link": "https://github.com/projectdiscovery/public-bugbounty-programs",
-    "amount": "Varies by program",
-    "status": "discovered",
-    "notes": "Community curated list of public bug bounty programs"
-  },
-  {
-    "time": "2026-03-12T23:46:35.543982Z",
-    "type": "bug_bounty_platform",
-    "link": "https://www.hackerone.com/bug-bounty-programs",
-    "amount": "Varies by program",
-    "status": "discovered",
-    "notes": "HackerOne bug bounty platform - largest program directory"
-  },
-  {
-    "time": "2026-03-12T23:46:35.543983Z",
-    "type": "digital_product",
-    "link": "https://travisnicholson.medium.com/14-digital-products-to-sell-for-passive-income-2026-91bb0cbc3293",
-    "amount": "$1,000+/month potential",
-    "status": "discovered",
-    "notes": "14 profitable digital product ideas for passive income in 2026"
-  },
-  {
-    "time": "2026-03-12T23:46:35.543984Z",
-    "type": "digital_product",
-    "link": "https://www.forbes.com/sites/bryanrobinson/2026/03/12/top-15-profitable-and-popular-side-hustles-gaining-momentum-in-2026/",
-    "amount": "Varies",
-    "status": "discovered",
-    "notes": "Forbes top 15 profitable side hustles for 2026"
+    "notes": "12个最新OpenClaw相关外包任务"
   }
 ]
