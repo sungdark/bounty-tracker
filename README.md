@@ -40,6 +40,8 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
 ### GitHub Bounty Opportunities (2026-03-14)
+- 2026-03-14 14:42 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): [BOUNTY: 15 RTC] Implement /wallet/history endpoint (~$1.5 USD) - discovered
+- 2026-03-14 14:42 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1612): [BOUNTY: 5 RTC] Create a Homebrew formula for the RustChain miner (~$0.5 USD) - discovered
 - 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27656): Platform Network bounty: Type Hierarchy subtypes toggle icon button has no explicit aria-label (USD) - discovered
 - 2026-03-14 06:31 [github_bounty](https://github.com/ripgrim/ripgrim/issues/9): my first bounty (Unknown USD value) - discovered
 - 2026-03-14 06:31 [github_bounty](https://github.com/ripgrim/ripgrim/issues/7): test auto creation 2 (Unknown USD value) - discovered
