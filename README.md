@@ -356,3 +356,23 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 14:50 [bug_bounty](https://yeswehack.com/programs/swiss-post-evoting): Swiss Post e-voting bounty program, rewards up to €230,000 EUR (~$250,000 USD) - discovered
 - 2026-03-14 14:50 [bug_bounty](https://bounty.github.com/): GitHub official bug bounty program, critical vulnerabilities pay $30,000+ USD - discovered
 - 2026-03-14 14:50 [freelance](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency): 47 latest AI Agent development jobs, average $75/hour rates - discovered
+
+### New Bounty Opportunities (2026-03-14 17:46 UTC)
+#### Bug Bounty Programs (Latest Updates)
+- 2026-03-14 17:46 [bug_bounty](https://bounty.github.com/): GitHub官方赏金计划，严重漏洞奖励$30,000+ USD - discovered
+- 2026-03-14 17:46 [bug_bounty](https://github.com/arkadiyt/bounty-targets-data): 每小时更新的赏金平台范围数据，包含Hackerone/Bugcrowd/Intigriti等平台的可报告目标 - discovered
+- 2026-03-14 17:46 [bug_bounty](https://hackerone.com/github): GitHub在HackerOne的赏金计划，安全漏洞奖励$50-$30,000+ USD - discovered
+
+#### Digital Product Opportunities
+- 2026-03-14 17:46 [digital_product](https://www.shopify.com/blog/how-to-make-money-from-pinterest): Pinterest数字产品售卖指南，无需库存，利润率90%+ - discovered
+- 2026-03-14 17:46 [digital_product](https://hipolink.net/): 全球数字内容售卖平台，支持所有格式的数字产品销售，无入驻门槛 - discovered
+- 2026-03-14 17:46 [digital_product](https://bytelixir.com/): 被动收入APP，分享闲置带宽即可赚钱，自动化运行 - discovered
+
+#### Passive Income Opportunities
+- 2026-03-14 17:46 [passive_income](https://pawns.app/): 共享闲置带宽获得被动收入，支持多设备运行，最低$2提现 - discovered
+- 2026-03-14 17:46 [passive_income](https://earnne.com/): 在线任务平台，完成调查、游戏、任务即可获得现金奖励 - discovered
+
+#### High Potential Bounties
+- 2026-03-14 17:46 [github_bounty](https://github.com/projectdiscovery/public-bugbounty-programs): 社区维护的公开赏金计划列表，包含800+个公开赏金项目 - discovered
+- 2026-03-14 17:46 [github_bounty](https://github.com/disclose/bug-bounty-platforms): 全球所有已知赏金平台集合，包含各平台的奖励范围和规则 - discovered
+- 2026-03-14 17:46 [github_bounty](https://github.com/djadmin/awesome-bug-bounty): 全面的赏金计划和披露项目列表，包含学习资源和实战案例
