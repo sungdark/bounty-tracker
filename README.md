@@ -9,6 +9,40 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
+### New Bounty Opportunities (2026-03-14 19:54 UTC)
+#### Latest GitHub Bounties (Just Discovered - Fiat Priority)
+##### Platform Network Bounties (USD Fiat, New)
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28192): Platform Network bounty (USD fiat) - Clone Repository modal is dismissed by outside click - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28191): Platform Network bounty (USD fiat) - "Amend previous commit" checkbox is non-functional - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28190): Platform Network bounty (USD fiat) - VariableInspector rows have no keyboard focus/activation support - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28189): Platform Network bounty (USD fiat) - Settings dialog sidebar navigation tree lacks proper ARIA semantics - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28188): Platform Network bounty (USD fiat) - Hide Button Does Not Expose an Accessible Name - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28187): Platform Network bounty (USD fiat) - "Paste" button does not paste clipboard content in Clone Repository dialog - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28186): Platform Network bounty (USD fiat) - REPL execution indicator is not announced programmatically - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28185): Platform Network bounty (USD fiat) - Find Process Button Does Not Expose an Accessible Name - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28184): Platform Network bounty (USD fiat) - REPL output updates are not announced as live output - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28183): Platform Network bounty (USD fiat) - Add Rule Button Hover Shows Blue Instead of Primary Accent - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28182): Platform Network bounty (USD fiat) - Current task tab stays blank in a new workspace - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28181): Platform Network bounty (USD fiat) - REPLPanel "Close REPL" button has no aria-label - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28180): Platform Network bounty (USD fiat) - REPLPanel maximize/minimize button has no aria-label - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28179): Platform Network bounty (USD fiat) - REPLPanel "Export as notebook" button has no aria-label - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28178): Platform Network bounty (USD fiat) - REPLPanel "Toggle variable inspector" button has no aria-label - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28177): Platform Network bounty (USD fiat) - REPLPanel "Clear all outputs" button has no aria-label - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28176): Platform Network bounty (USD fiat) - CortexPromptInput text field has no aria-label - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28175): Platform Network bounty (USD fiat) - CortexPromptInput attach and send buttons have no aria-label - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28174): Platform Network bounty (USD fiat) - FileChangeRow in Changes panel is clickable div with no accessibility semantics - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28173): Platform Network bounty (USD fiat) - Settings Auto Save dropdown does not display a chevron icon - discovered
+
+##### Expensify Bounties (USD Fiat, New)
+- 2026-03-14 19:54 [github_bounty](https://github.com/Expensify/App/issues/84631): [$250 USD] Refactor code to keep navigation handling in the UI components - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/Expensify/App/issues/84608): [$250 USD] Refactor `getPolicyExpenseReportOption()` parameter type - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/Expensify/App/issues/84186): [$250 USD] iOS - App returns to login page after removing copilot - discovered
+
+##### RustChain Bounties (RTC crypto)
+- 2026-03-14 19:54 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1754): [BOUNTY: 50-100 RTC] Native Rust Wallet for RustChain — CLI + crates.io (~$5-10 USD) - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1751): [BOUNTY: 25-150 RTC] RIP-302 Agent Economy: Live Demo + Build Bounties (~$2.5-15 USD) - discovered
+- 2026-03-14 19:54 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1748): [BOUNTY: 10-50 RTC] Agent-to-Agent Transaction Test Challenge (~$1-5 USD) - discovered
+
 ### New Bounty Opportunities (2026-03-14 19:32 UTC)
 #### Latest GitHub Bounties (Just Discovered)
 - 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1597): [BOUNTY: 10 RTC] Create a Telegram bot for RustChain (~$1.0 USD) - discovered
