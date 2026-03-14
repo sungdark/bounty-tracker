@@ -9,7 +9,9 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
-### Bug Bounty Programs (2026-03-13)
+### Bug Bounty Programs (2026-03-14)
+- 2026-03-14 04:32 [bug_bounty](https://hackerone.com/opportunities/all): HackerOne public bounty programs, $50+ minimum bounty (USD) - discovered
+- 2026-03-14 04:32 [bug_bounty](https://bugcrowd.com/programs): Bugcrowd bounty platform, $50+ minimum bounty (USD) - discovered
 - 2026-03-13 [bug_bounty](https://hackerone.com/1password): $50 minimum - discovered
 - 2026-03-13 [bug_bounty](https://hackerone.com/23andme_bbp): $50 minimum - discovered
 - 2026-03-13 [bug_bounty](https://hackerone.com/3cx): $50 minimum - discovered
