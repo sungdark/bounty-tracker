@@ -213,6 +213,31 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 07:32 [digital_product](https://gumroad.com/discover): 数字产品售卖平台，支持全球美元结算，无入驻门槛 - discovered
 - 2026-03-14 07:32 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
 
+### New Bounty Opportunities (2026-03-14 11:19 UTC)
+#### High Value Bug Bounty Programs (Latest Update)
+- 2026-03-14 11:19 [bug_bounty](https://yeswehack.com/programs/swiss-post-evoting): Swiss Post e-voting bounty program, rewards up to €230,000 EUR (≈$250,000 USD) - discovered
+- 2026-03-14 11:19 [bug_bounty](https://yeswehack.com/programs/doctolib-public-bug-bounty-program): Doctolib healthtech bounty, rewards up to €50,000 EUR (≈$54,000 USD) - discovered
+- 2026-03-14 11:19 [bug_bounty](https://yeswehack.com/programs/franceconnect-proconnect-public): French government DINUM bounty, rewards up to €30,000 EUR (≈$32,500 USD) - discovered
+- 2026-03-14 11:19 [bug_bounty](https://yeswehack.com/programs/systemd-bug-bounty-program): Sovereign Tech Agency systemd bounty, rewards €150-€10,000 EUR - discovered
+- 2026-03-14 11:19 [bug_bounty](https://yeswehack.com/programs/proconnect-identite): French government ProConnect bounty, rewards €50-€5,000 EUR - discovered
+- 2026-03-14 11:19 [bug_bounty](https://yeswehack.com/programs/zivver-bug-bounty-program): Kiteworks Zivver bounty, rewards $1-$10,000 USD - discovered
+- 2026-03-14 11:19 [bug_bounty](https://bounty.github.com/): GitHub official bug bounty program, critical vulnerabilities pay $30,000+ USD - discovered
+- 2026-03-14 11:19 [bug_bounty](https://www.hackerone.com/bug-bounty-programs): HackerOne platform, average critical payout $3,700 USD, up to $12,000 USD for top 10% - discovered
+
+#### FHE Development Bounties (Zama AI)
+- 2026-03-14 11:19 [github_bounty](https://github.com/zama-ai/bounty-program): Zama FHE development bounty program, rewards up to €10,000 EUR per challenge - discovered
+- 2026-03-14 11:19 [github_bounty](https://github.com/zama-ai/bounty-program#-leaderboard): Top earners have made €16,750+ EUR from past seasons - discovered
+
+#### Digital Product Opportunities (2026 Trends)
+- 2026-03-14 11:19 [digital_product](https://resellready.co/blogs/news/100-digital-products-you-can-sell-online-in-2026-mega-guide): 100+ high-demand digital product ideas for 2026, global market size $300B+ - discovered
+- 2026-03-14 11:19 [digital_product](https://printify.com/blog/print-on-demand-trends/): Print-on-demand trending niches for 2026, low startup cost, 90%+ profit margins - discovered
+- 2026-03-14 11:19 [digital_product](https://wpastra.com/resources/digital-products-to-sell/): 28 most profitable digital products to sell in 2026 (templates, courses, AI tools) - discovered
+
+#### Freelance Platforms
+- 2026-03-14 11:19 [freelance](https://www.toptal.com/): Toptal elite freelance platform, top 3% of talent, average $60-150+/hour rates - discovered
+- 2026-03-14 11:19 [freelance](https://www.upwork.com/): Upwork freelance marketplace, 1000+ new coding jobs posted daily - discovered
+- 2026-03-14 11:19 [freelance](https://www.fiverr.com/): Fiverr gig platform, high demand for AI/automation services - discovered
+
 ### New Bounty Opportunities (2026-03-14 10:34 UTC)
 #### GitHub Bounty (Yesterday 发布)
 - 2026-03-14 10:34 [github_bounty](https://github.com/Scottcjn/bottube/issues/364): 10 RTC (~$1) - 为视频播放器添加键盘快捷键，前端JS开发 - discovered
