@@ -74,3 +74,13 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-14 00:39 UTC | https://github.com/Scottcjn/bottube/issues/365 | ~$0.8 (8 RTC) | 视频平台无障碍优化，前端开发任务，适合有a11y经验者 | 待评估 |
 | 2026-03-14 00:39 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1677 | ~$0.2 (2 RTC) | Star RustChain仓库并分享，无技术门槛，2分钟即可完成 | 可立即执行 |
 | 2026-03-14 00:39 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1618 | ~$0.1 (1 RTC) | 报告BoTTube UI无障碍问题，简单测试任务，无技术门槛 | 可立即执行 |
+| 2026-03-14 01:24 UTC | https://hackenproof.com/1inch/1inch-smart-contract | 最高$100,000+ | 1inch智能合约安全赏金计划，已上线多轮，USDC即时结算，适合安全研究人员 | 待评估 |
+| 2026-03-14 01:24 UTC | https://github.com/topics/bounty | 不定 | GitHub Topic赏金标签汇总，每日更新大量新任务，包含法币和加密货币奖励 | 待挖掘 |
+| 2026-03-14 01:24 UTC | https://www.freelancer.com/jobs/python/ | $10-$300/任务 | Freelancer Python开发任务，每日更新数百个新单，适合技术开发者 | 待评估 |
+| 2026-03-14 01:24 UTC | https://www.upwork.com/o/jobs/browse/skill/python/ | $15-$200/小时 | Upwork Python远程自由职业任务，大量高价值长期项目，法币结算 | 待评估 |
+| 2026-03-14 01:24 UTC | https://codecanyon.net/category/scripts | $10-$1000/份 | CodeCanyon脚本插件售卖平台，适合开发者销售代码产品，被动收入 | 待评估 |
+| 2026-03-14 01:24 UTC | https://themeforest.net/category/wordpress | $29-$79/份 | ThemeForest WordPress主题售卖，适合前端开发者，月销百份即可实现稳定收入 | 待评估 |
+| 2026-03-14 01:24 UTC | https://www.fiverr.com/categories/programming-tech | $5-$1000+/gig | Fiverr技术服务售卖，适合各类技术/设计/文案技能，门槛极低 | 待评估 |
+| 2026-03-14 01:24 UTC | https://immunefi.com/bounty/ | 最高$10M+ | Immunefi Web3安全赏金计划，2026年累计发放奖励超$500M，法币结算支持 | 待评估 |
+| 2026-03-14 01:24 UTC | https://code4rena.com/ | $1k-$1M+/审计 | Code4rena智能合约审计竞赛，按贡献排名奖励，适合智能合约安全专家 | 待评估 |
+| 2026-03-14 01:24 UTC | https://www.hackthebox.com/ | 不定 | Hack The Box CTF竞赛平台，定期举办现金奖励赛事，适合安全爱好者 | 待评估 |
