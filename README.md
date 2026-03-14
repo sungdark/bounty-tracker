@@ -312,3 +312,16 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 08:00 [github_bounty](https://github.com/Scottcjn/shaprai/issues/70): ~$3 (30 RTC) - 构建3+竞争代理舰队并进行质量评分，AI开发任务 - discovered
 - 2026-03-14 07:51 [github_bounty](https://github.com/bolivian-peru/marketplace-service-template/issues/77): $100 USD (SX token) - 开发LinkedIn人员和公司信息富集API，后端开发任务 - discovered
 - 2026-03-14 07:35 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1612): ~$0.5 (5 RTC) - 创建RustChain矿工的Homebrew formula，打包任务 - discovered
+
+### New Bounty Opportunities (2026-03-14 13:50 UTC)
+#### GitHub Bounty (Latest Discovered)
+- 2026-03-14 13:50 [github_bounty](https://github.com/mautic/mautic/issues/14409): $80 USD - 修复代码编辑器<head>内容重复bug，前端开发任务 - discovered
+- 2026-03-14 13:50 [github_bounty](https://github.com/allknowledge34/UpdateApp/issues/5): $0.4 USD - 修复登录失败"Invalid Email"bug，全栈开发任务 - discovered
+- 2026-03-14 13:50 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): 15 RTC (~$1.5 USD) - 实现/wallet/history API端点，Python后端开发 - discovered
+- 2026-03-14 13:50 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/775): 0.5 RTC (~$0.05 USD) per valid bug report - 低门槛bug报告奖励计划 - discovered
+- 2026-03-14 13:50 [github_bounty](https://github.com/ripgrim/ripgrim/issues/6): $150 USD - 测试赏金任务，快速完成可获支付 - discovered
+
+#### High Value Bounty Programs
+- 2026-03-14 13:50 [bug_bounty](https://yeswehack.com/programs/swiss-post-evoting): 瑞士邮政电子投票赏金计划，最高奖励€230,000 EUR (~$250,000 USD) - discovered
+- 2026-03-14 13:50 [bug_bounty](https://bounty.github.com/): GitHub官方赏金计划，严重漏洞奖励$30,000+ USD - discovered
+- 2026-03-14 13:50 [bug_bounty](https://www.hackerone.com/1password): 1Password CTF赏金，最低$50 USD/个，最高$1M USD - discovered
