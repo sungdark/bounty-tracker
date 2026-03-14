@@ -50,3 +50,15 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-13 23:39 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1743 | ~$2.67 (65 RTC) | Python开发赏金验证机器人，包含多阶段奖励，总奖励65RTC，已有人认领 | 已认领 |
 | 2026-03-13 23:39 UTC | https://github.com/bountydotnew/bounty.new/issues/253 | 不定 | 开发赏金排行榜功能，设计/前端开发任务 | 待评估 |
 | 2026-03-13 23:39 UTC | https://github.com/SuperteamDAO/earn/issues/1338 | 不定 | 测试赏金系统问题，低门槛任务 | 待评估 |
+| 2026-03-14 00:12 UTC | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | 修复AltTab在macOS上无法打开Telegram的问题，Objective-C开发任务，高优先级 | 待认领 |
+| 2026-03-14 00:12 UTC | https://github.com/coder/code-server/issues/7198 | $100 | 编译Windows原生code-server二进制文件，C++/Node.js开发任务，无需WSL/Docker | 待认领 |
+| 2026-03-14 00:12 UTC | https://github.com/mautic/mautic/issues/15838 | $80 | 修复GrapesJS编辑器head内容重复问题，前端JS开发任务，已有PR可参考 | 待评估 |
+| 2026-03-14 00:12 UTC | https://github.com/souvik0908/sei-sense/issues/1 | $50 | SEI链相关开发任务，详情需联系项目方 | 待评估 |
+| 2026-03-14 00:12 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/71 | $7.5-$20 | RustChain bug bounty计划，按严重程度奖励，范围5-200 RTC（1 RTC=$0.1） | 可立即执行 |
+| 2026-03-14 00:12 UTC | https://github.com/Scottcjn/Rustchain/issues/908 | $1.5 | 实现/wallet/history API接口，Python/Flask开发任务，难度低 | 待认领 |
+| 2026-03-14 00:12 UTC | https://github.com/Scottcjn/Rustchain/issues/305 | $0.5-$1.5 | RustChain bug报告奖励，5-15 RTC/个，提交清晰复现步骤即可 | 可立即执行 |
+| 2026-03-14 00:12 UTC | https://github.com/Scottcjn/Rustchain/issues/775 | $0.05 | 简单bug报告任务，0.5 RTC/个，有复现步骤即可 | 可立即执行 |
+| 2026-03-14 00:12 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/356 | $2.5-$30 | RustChain机制规范破解测试，25-300 RTC/个，技术门槛高 | 待评估 |
+| 2026-03-14 00:12 UTC | https://github.com/cashubtc/nutshell/issues/557 | ~$42 | Nutshell钱包/ mint严重漏洞报告，100,000 sats奖励，适合安全研究人员 | 待评估 |
+| 2026-03-14 00:12 UTC | https://github.com/better-feedback/better-dopex/issues/2 | $100 | 设计10款连帽衫图案，设计类任务，无需开发经验 | 待认领 |
+| 2026-03-14 00:12 UTC | https://gitlab.com/rz1989s/meteora-cp-amm-fee-routing | $7,500 | Meteora CP-AMM费用路由Anchor程序开发，Solana智能合约任务，高报酬 | 待评估 |
