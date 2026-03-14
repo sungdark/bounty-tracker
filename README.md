@@ -9,6 +9,59 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
+### New Bounty Opportunities (2026-03-14 17:29 UTC)
+#### Latest GitHub Bounties (Just Discovered)
+- 2026-03-14 17:29 [github_bounty](https://github.com/Scottcjn/bottube/issues/364): [BOUNTY: 10 RTC] Keyboard shortcuts for BoTTube video player (a11y) (~$1.0 USD) - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/Scottcjn/shaprai/issues/66): [BOUNTY: 8 RTC] ShaprAI CLI walkthrough video or blog post (~$0.8 USD) - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/Scottcjn/shaprai/issues/64): [BOUNTY: 10 RTC] Accessibility audit + fixes for any Elyan Labs UI (~$1.0 USD) - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/Scottcjn/shaprai/issues/60): [BOUNTY: 15 RTC] Deploy a ShaprAI agent to Moltbook with Beacon (~$1.5 USD) - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1677): [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain! (~$0.2 USD) - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28135): Platform Network bounty (USD fiat) - Keyboard shortcuts recording silently discards previous keystrokes when a third key is pressed - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28134): Platform Network bounty (USD fiat) - Icons in Kill Process on Port dialog are Displayed at Inconsistent Sizes - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28133): Platform Network bounty (USD fiat) - Create Tag Dialog — Commit Picker Dropdown Hover Highlight Clipped at Right Edge - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28132): Platform Network bounty (USD fiat) - Settings Font Family value is cut off inside the input box - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28131): Platform Network bounty (USD fiat) - Create Tag Dialog — Commit Selector (Specific Commit) Has No Divider Lines Between Items - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28130): Platform Network bounty (USD fiat) - Scan All Listening Ports button Icon and Label are too close together - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28129): Platform Network bounty (USD fiat) - Tab Switcher search input has no aria-label or associated label element - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28128): Platform Network bounty (USD fiat) - Inspector (dev tools) uses 15+ bare hardcoded rgba colors for node type indicators and warnings — breaks on light themes - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28127): Platform Network bounty (USD fiat) - ProcessExplorer uses 25+ bare hardcoded rgba colors for all status indicators — breaks on light themes - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28126): Platform Network bounty (USD fiat) - AnsiOutput uses 32 bare hardcoded hex ANSI colors — terminal output breaks on light themes - discovered
+
+#### Previous New Bounties (2026-03-14 16:46 UTC)
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28065): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28064): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28063): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28062): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28061): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28060): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28059): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28058): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28057): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28056): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28055): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28054): Platform Network bounty (USD fiat) - Newly discovered accessibility/UI bug bounty - discovered
+
+#### Active High Value Bounty Programs
+- 2026-03-14 16:46 [bug_bounty](https://yeswehack.com/programs/swiss-post-evoting): Swiss Post e-voting bounty program, rewards up to €230,000 EUR (≈$250,000 USD) - active
+- 2026-03-14 16:46 [bug_bounty](https://bounty.github.com/): GitHub official bug bounty program, critical vulnerabilities pay $30,000+ USD - active
+- 2026-03-14 16:46 [bug_bounty](https://www.hackerone.com/1password): 1Password bug bounty, $50 minimum payout, up to $1M USD for critical vulnerabilities - active
+
+#### Freelance Market Summary
+- 2026-03-14 16:46 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12 OpenClaw-related freelance jobs, $30-$150/hour rates - active
+- 2026-03-14 16:46 [freelance](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency): 47 AI Agent development jobs, average $75/hour rates - active
+
+#### Quick Win Low Threshold Opportunities
+- 2026-03-14 16:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1761): ~$0.1 (1 RTC) - Star RustChain repository, no technical threshold - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1588): ~$0.1 (1 RTC) - Add type hints to Python functions, simple development task - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1759): ~$0.3 (3 RTC) - Submit feature suggestion issue, no coding required - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1757): ~$0.5 (5 RTC) - Fix documentation typos, simple text editing - discovered
+- 2026-03-14 16:46 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1591): ~$0.5 (5 RTC) - Create GitHub Action workflow for any Elyan Labs repo, DevOps task - discovered
+
+---
+
+### Previous Scan Results (All Active Opportunities)
+<!-- Below are previous opportunities that are still active -->
+
 ### Bug Bounty Programs (2026-03-14)
 - 2026-03-14 04:32 [bug_bounty](https://hackerone.com/opportunities/all): HackerOne public bounty programs, $50+ minimum bounty (USD) - discovered
 - 2026-03-14 04:32 [bug_bounty](https://bugcrowd.com/programs): Bugcrowd bounty platform, $50+ minimum bounty (USD) - discovered
@@ -40,6 +93,16 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
 ### GitHub Bounty Opportunities (2026-03-14)
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28135): Platform Network bounty (USD fiat) - Keyboard shortcuts recording silently discards previous keystrokes when a third key is pressed - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28134): Platform Network bounty (USD fiat) - Icons in Kill Process on Port dialog are Displayed at Inconsistent Sizes - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28133): Platform Network bounty (USD fiat) - Create Tag Dialog — Commit Picker Dropdown Hover Highlight Clipped at Right Edge - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28132): Platform Network bounty (USD fiat) - Settings Font Family value is cut off inside the input box - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28131): Platform Network bounty (USD fiat) - Create Tag Dialog — Commit Selector (Specific Commit) Has No Divider Lines Between Items - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28130): Platform Network bounty (USD fiat) - Scan All Listening Ports button Icon and Label are too close together - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28129): Platform Network bounty (USD fiat) - Tab Switcher search input has no aria-label or associated label element - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28128): Platform Network bounty (USD fiat) - Inspector (dev tools) uses 15+ bare hardcoded rgba colors for node type indicators and warnings — breaks on light themes - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28127): Platform Network bounty (USD fiat) - ProcessExplorer uses 25+ bare hardcoded rgba colors for all status indicators — breaks on light themes - discovered
+- 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28126): Platform Network bounty (USD fiat) - AnsiOutput uses 32 bare hardcoded hex ANSI colors — terminal output breaks on light themes - discovered
 - 2026-03-14 14:42 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): [BOUNTY: 15 RTC] Implement /wallet/history endpoint (~$1.5 USD) - discovered
 - 2026-03-14 14:42 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1612): [BOUNTY: 5 RTC] Create a Homebrew formula for the RustChain miner (~$0.5 USD) - discovered
 - 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27656): Platform Network bounty: Type Hierarchy subtypes toggle icon button has no explicit aria-label (USD) - discovered
@@ -144,6 +207,7 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 23:12 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1607): 8 RTC - Build a browser extension showing RTC balance - discovered
 - 2026-03-13 23:12 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1606): 5 RTC - Create a CLI tool to monitor RustChain node health - discovered
 - 2026-03-13 23:12 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1614): 5 RTC - Create a load test suite for the RustChain API - discovered
+<<<<<<< HEAD
 - 2026-03-13 23:12 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1612): 5 RTC - Create a Homebrew formula for the RustChain miner - discovered
 - 2026-03-13 23:12 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1613): 3 RTC - Set up Dependabot or Renovate for any Elyan Labs repo - discovered
 - 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1677): ~$0.2 (2 RTC) - Star RustChain系列仓库并分享到社交媒体，无技术门槛 - discovered
