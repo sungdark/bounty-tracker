@@ -38,6 +38,8 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
 ### GitHub Bounty Opportunities (2026-03-14)
+- 2026-03-14 04:30 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): 15 RTC reward for implementing /wallet/history endpoint - discovered
+- 2026-03-14 04:30 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/775): 0.5 RTC per valid bug report with reproduction steps - discovered
 - 2026-03-14 04:17 [github_bounty](https://github.com/Talyx66/SCRIPTFANG): Bug bounty hunting toolkit (potential contribution bounties) - discovered
 - 2026-03-14 04:06 [github_bounty](https://github.com/AquilesJunior001/Eliza-Lobster): Crypto bounty automation on Solana - discovered
 - 2026-03-14 04:06 [github_bounty](https://github.com/ajaakevin/HACKME): OSINT security research tool with bounty topics - discovered
@@ -48,6 +50,19 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 03:49 [github_bounty](https://github.com/nezzyomran/ExecEvasion): WAF bypass tool for bug bounty hunters - discovered
 - 2026-03-14 03:46 [github_bounty](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter): AI-powered Burp Suite bounty hunting tool - discovered
 - 2026-03-14 03:46 [github_bounty](https://github.com/mayankkmaurya/BTCMultiPuzzle): Bitcoin puzzle solving pool (rewards for puzzle solutions) - discovered
+
+### Chinese Bug Bounty Platforms (2026-03-14)
+- 2026-03-14 04:30 [bug_bounty](https://先知.aliyun.com/): 阿里云先知安全平台，人民币结算，最低赏金¥100 - discovered
+- 2026-03-14 04:30 [bug_bounty](https://security.tencent.com/index.php/response): 腾讯安全应急响应中心(TSRC)，人民币结算，最低赏金¥200 - discovered
+- 2026-03-14 04:30 [bug_bounty](https://www.butian.net/): 360补天平台，人民币结算，最低赏金¥50 - discovered
+- 2026-03-14 04:30 [bug_bounty](https://sec.bytedance.com/): 字节跳动安全应急响应中心(BSRC)，人民币结算，最低赏金¥300 - discovered
+
+### Digital Product Platforms (2026-03-14)
+- 2026-03-14 04:30 [digital_product](https://xiaoe-tech.com/): 小鹅通 - 知识付费/数字产品售卖平台，人民币结算 - discovered
+- 2026-03-14 04:30 [digital_product](https://afdian.net/): 爱发电 - 创作者赞助/数字作品售卖平台，人民币结算 - discovered
+- 2026-03-14 04:30 [digital_product](https://gumroad.com/): Gumroad - 全球数字产品售卖平台，美元结算 - discovered
+- 2026-03-14 04:30 [digital_product](https://payhip.com/): Payhip - 数字下载/课程售卖平台，美元结算 - discovered
+- 2026-03-14 04:30 [digital_product](https://sellfy.com/): Sellfy - 电商平台支持数字产品售卖，美元结算 - discovered
 
 ### GitHub Bounty Opportunities (2026-03-13)
 - 2026-03-13 21:38 [github_bounty](https://github.com/MonoGame/MonoGame/issues/8194): $5000 USD - Switch console runtime from BRUTE to NativeAOT (locked for tomspilman) - discovered
