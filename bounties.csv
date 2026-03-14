@@ -133,3 +133,10 @@ time,source,title,url,amount,status,notes
 2026-03-10T11:30:00Z,GitHub,[BOUNTY] Report a Bug — 5-15 RTC,https://github.com/Scottcjn/Rustchain/issues/305,5-15 RTC,待评估,
 2026-03-10T11:30:00Z,GitHub,[BOUNTY] Break the RustChain Mechanism Spec + Falsification Matrix,https://github.com/Scottcjn/rustchain-bounties/issues/356,Undisclosed,待评估,
 2026-03-10T11:30:00Z,GitHub,Bounties can be posted without authentication - security risk,https://github.com/datafund/Agent-Data-Exchange/issues/17,Undisclosed,待评估,
+2026-03-14T22:58:00Z,GitHub,"[BOUNTY: 15 RTC] Implement /wallet/history endpoint",https://github.com/Scottcjn/Rustchain/issues/908,15 RTC,待评估,Rust后端API开发任务
+2026-03-14T22:58:00Z,GitHub,"QA-5.1: ReciterPickerDialog",https://github.com/YahiaRagae/mushaf-imad-android/issues/36,25 points,待评估,安卓QA测试任务
+2026-03-14T22:58:00Z,GitHub,"Implement admin panel for group management",https://github.com/sorosave-protocol/frontend/issues/38,Unknown,待评估,前端管理面板开发任务
+2026-03-14T22:58:00Z,GitHub,"Register in Ecosystem Contributors — 5 RTC per registration",https://github.com/Scottcjn/rustchain-bounties/issues/1575,5 RTC,可立即执行,注册生态贡献者，1分钟完成
+2026-03-14T22:58:00Z,GitHub,"[EASY BOUNTY: 2 RTC] Star & Share Campaign",https://github.com/Scottcjn/rustchain-bounties/issues/1677,2 RTC,可立即执行,给仓库加star并分享，2分钟完成
+2026-03-14T22:58:00Z,GitHub,"[BOUNTY: 8 RTC] Build a browser extension showing RTC balance",https://github.com/Scottcjn/rustchain-bounties/issues/1607,8 RTC,待评估,浏览器扩展开发任务
+2026-03-14T22:58:00Z,GitHub,"[BOUNTY: 20 RTC] Build a mobile wallet app (React Native/Flutter)",https://github.com/Scottcjn/rustchain-bounties/issues/1616,20 RTC,待评估,移动端钱包开发任务
