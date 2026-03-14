@@ -9,6 +9,20 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
+### New Bounty Opportunities (2026-03-14 19:32 UTC)
+#### Latest GitHub Bounties (Just Discovered)
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1597): [BOUNTY: 10 RTC] Create a Telegram bot for RustChain (~$1.0 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1575): [BOUNTY: 5 RTC] Register in Ecosystem Contributors (~$0.5 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1677): [EASY BOUNTY: 2 RTC] Star & Share Campaign — Help Us Hit 200 Stars on RustChain! (~$0.2 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1614): [BOUNTY: 5 RTC] Create a load test suite for the RustChain API (~$0.5 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1616): [BOUNTY: 20 RTC] Build a mobile wallet app (React Native/Flutter) (~$2.0 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1591): [BOUNTY: 5 RTC] Create a GitHub Action workflow for any Elyan Labs repo (~$0.5 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1595): [EASY BOUNTY: 1 RTC] Star all 5 Elyan Labs repos and share on social media (~$0.1 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1611): [EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues showing support (~$0.1 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/449): [BOUNTY: 50 RTC] Build a BoTTube Bot That Uploads Daily (~$5.0 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/450): [BOUNTY: 15 RTC] Write a BoTTube Integration Guide (~$1.5 USD) - discovered
+- 2026-03-14 19:32 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/453): [BOUNTY: 75 RTC] Dual-Mining Integration: Earn RTC While Mining PoW Coins (~$7.5 USD) - discovered
+
 ### New Bounty Opportunities (2026-03-14 17:29 UTC)
 #### Latest GitHub Bounties (Just Discovered)
 - 2026-03-14 17:29 [github_bounty](https://github.com/Scottcjn/bottube/issues/364): [BOUNTY: 10 RTC] Keyboard shortcuts for BoTTube video player (a11y) (~$1.0 USD) - discovered
