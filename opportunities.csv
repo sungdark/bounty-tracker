@@ -1,31 +1,9 @@
-id,accepted_at_utc,source,repo,issue_url,reward,reward_type,reward_value,status,pr_url,claim_url,last_update_utc,notes
-1,2026-03-09 11:30,github,zama-ai/bounty-program,https://github.com/zama-ai/bounty-program,"Contribute to the FHE space and Zama's open source libraries and get rewarded 💰",USD,,accepted,,,2026-03-09 11:30,Zama Bounty Program - 15.5k stars, active opportunities
-2,2026-03-09 11:30,github,ETLOnline/spark,https://github.com/ETLOnline/spark,"Rewards system for open source contributions",USD,,accepted,,,2026-03-09 11:30,Spark open source platform with bounty program, updated Mar 9 2026
-3,2026-03-09 11:30,github,akhilk07/zama-fhe,https://github.com/akhilk07/zama-fhe,"Technical guides for Zama FHE protocol with bounty opportunities",USD,,accepted,,,2026-03-09 11:30,Zama FHE guides, updated Mar 9 2026
-4,2026-03-09 11:30,github,ChinchillaEnterprises/openclaw-crm,https://github.com/ChinchillaEnterprises/openclaw-crm,"Agent bounty system for CRM",USD,,accepted,,,2026-03-09 11:30,OpenClaw CRM with spider-network referral tracking and agent bounty system
-12,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1106,"Suggest 3 Video Ideas for a BoTTube Agent",RTC,2,open,,,2026-03-09 19:30,Easy, 72 comments, low effort
-13,2026-03-09 19:30,github,Scottcjn/Rustchain,https://github.com/Scottcjn/Rustchain/issues/771,"Fix a typo in docs or comments",RTC,0.5,open,,,2026-03-09 19:30,Easy, 100 fixes available
-14,2026-03-09 19:30,github,Scottcjn/Rustchain,https://github.com/Scottcjn/Rustchain/issues/772,"Add a code comment explaining a function",RTC,0.5,open,,,2026-03-09 19:30,Easy, 100 comments available
-15,2026-03-09 19:30,github,Scottcjn/Rustchain,https://github.com/Scottcjn/Rustchain/issues/773,"Star the repo and share why",RTC,0.5,open,,,2026-03-09 19:30,Easy, 50 spots available
-16,2026-03-09 19:30,github,INDIGOAZUL/la-tanda-web,https://github.com/INDIGOAZUL/la-tanda-web/issues/86,"Performance Audit + Lighthouse Optimization",LTD,150,open,,,2026-03-09 19:30,Medium, paid on merge
-17,2026-03-09 19:30,github,Scottcjn/Rustchain,https://github.com/Scottcjn/Rustchain/issues/774,"Translate a README section to your language",RTC,0.5,open,,,2026-03-09 19:30,Easy, 100 sections available
-18,2026-03-09 19:30,github,Scottcjn/Rustchain,https://github.com/Scottcjn/Rustchain/issues/775,"Report a bug with reproduction steps",RTC,0.5,open,,,2026-03-09 19:30,Easy, 50 reports available
-19,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1504,"BoTTube profile setup: avatar + bio + first published video",RTC,1,open,,,2026-03-09 19:30,Easy, open for claims
-20,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1492,"BoTTube creator onboarding empty-state + first upload checklist",RTC,30,open,,,2026-03-09 19:30,Medium, UI/UX work required
-21,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/402,"RustChain Micro-Grants — Build Your Own Thing",RTC,100-200,open,,,2026-03-09 19:30,Medium, proposal required
-22,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/54,"Security Red Team - Ledger Integrity & Transfer Logging",RTC,200,open,,,2026-03-09 19:30,Hard, security audit required
-23,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1154,"Agent Resume Reel — Showcase Your Bot on BoTTube",RTC,3,open,,,2026-03-09 19:30,Easy, max 2 per person
-24,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/684,"Agent-to-Agent Transaction Test Challenge — Use Beacon + Grazer + RIP-302",RTC,10-50,open,,,2026-03-09 19:30,Medium, agent development required
-25,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1100,"Upload Your First BoTTube Video",RTC,5,open,,,2026-03-09 19:30,Easy, one claim per person
-26,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1099,"Write a Mini-Review of a BoTTube Video",RTC,3,open,,,2026-03-09 19:30,Easy, 100+ words required
-27,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1103,"Curate a BoTTube Top 10 List",RTC,2,open,,,2026-03-09 19:30,Easy, 10 videos required
-28,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1101,"Reply to 3 BoTTube Comments — Start Conversations",RTC,1,open,,,2026-03-09 19:30,Easy, 3 replies required
-29,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1107,"Write a BoTTube vs YouTube Shorts Comparison",RTC,3,open,,,2026-03-09 19:30,Easy, 200+ words required
-30,2026-03-09 19:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1105,"Watch 20 BoTTube Videos",RTC,1,open,,,2026-03-09 19:30,Easy, 20 videos required
-5,2026-03-09 15:30,bugcrowd,0x,https://docs.0x.org/developer-resources/bounties,"Bug bounty program for 0x protocol",USD,,pending,,,2026-03-09 15:30,DeFi protocol bounty program
-6,2026-03-09 15:30,bugcrowd,23andme,https://www.23andme.com/security-report/,"Security bug bounty program",USD,,pending,,,2026-03-09 15:30,Genetics company bounty program
-7,2026-03-09 15:30,bugcrowd,24sessions,https://www.24sessions.com/responsible-disclosure,"Bug bounty program",USD,,pending,,,2026-03-09 15:30,Video conferencing platform bounty
-8,2026-03-09 15:30,bugcrowd,84codes,https://www.84codes.com/security/,"Security bug bounty",USD,,pending,,,2026-03-09 15:30,Cloud services company bounty
-9,2026-03-09 15:30,bugcrowd,Abn Amro,https://www.abnamro.nl/en/personal/overabnamro/secure-banking/responsible-disclosure.html,"Responsible disclosure bounty program",USD,,pending,,,2026-03-09 15:30,Bank bounty program
-9,2026-03-09 16:30,github,bountydotnew/bounty.new,https://github.com/bountydotnew/bounty.new/issues/231,improve design of waitlist submitted state,USD,,pending,,,2026-03-09 16:30,设计类任务，金额待确认
-10,2026-03-09 16:30,github,Scottcjn/rustchain-bounties,https://github.com/Scottcjn/rustchain-bounties/issues/1519,[BOUNTY] 150 RTC — Integrate Beacon into CrewAI/LangGraph template,RTC,150,pending,,,2026-03-09 16:30,AI集成任务，+50 RTC bonus for Beacon集成
+time,link,amount,assessment,status
+2026-03-14 01:41 UTC,https://yeswehack.com/programs/proconnect-identite,"€50 - €5,000",Public government bug bounty program, new as of 2026-03-13,Open
+2026-03-14 01:41 UTC,https://yeswehack.com/programs/systemd-bug-bounty-program,"€150 - €10,000",Sovereign Tech Agency systemd bounty program, updated 2026-03-11,Open
+2026-03-14 01:41 UTC,https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program,"€50 - €1,500",French public health bug bounty, updated 2026-03-09,Open
+2026-03-14 01:41 UTC,https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program,"€50 - €7,000",German state bank bug bounty, updated 2026-03-09,Open
+2026-03-14 01:41 UTC,https://bounty.github.com,"$30,000+ for critical vulnerabilities",Official GitHub security bounty program,Open
+2026-03-14 01:41 UTC,https://www.bountyhub.dev,GitHub issue bounty platform, allows monetizing PR contributions,Open
+2026-03-14 01:41 UTC,https://gitpay.me,Git issue bounty platform for open source contributions,Open
+2026-03-14 01:41 UTC,https://hackerone.com/opportunities/all,Hundreds of active bug bounty programs with $50+ minimum payouts,Open
