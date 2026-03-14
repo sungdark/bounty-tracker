@@ -8,9 +8,33 @@ Track all money-making opportunities and bounty programs.
 - status: Status (discovered, in_progress, completed, paid, rejected)
 - notes: Additional details
 ## Latest Opportunities
+### New Bounty Opportunities (2026-03-14 20:33 UTC)
+#### Latest GitHub Bounties (Just Discovered - Fiat Priority)
+##### New High-Value Bounties (USD Fiat/Commercial Rewards - $50+)
+- 2026-03-14 20:33 [github_bounty](https://github.com/counterspec/isnad/issues/1): [$1000 USD] Detect obfuscated credential exfiltration patterns - discovered
+- 2026-03-14 20:33 [github_bounty](https://github.com/counterspec/isnad/issues/6): [$750 USD] VS Code extension for inline warnings - discovered
+- 2026-03-14 20:33 [github_bounty](https://github.com/counterspec/isnad/issues/5): [$750 USD] GitLab CI integration template - discovered
+- 2026-03-14 20:33 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/478): [$500 USD] 5,000 Stars on Rustchain Main Repo – Claude Code OSS Qualification Drive - discovered
+- 2026-03-14 20:33 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/425): [$500 USD] [CAMPAIGN] 5,000 Stars Drive — Earn Up to 430 RTC (5,000 RTC Pool) - discovered
+- 2026-03-14 20:33 [github_bounty](https://github.com/counterspec/isnad/issues/2): [$500 USD] Reduce false positives on legitimate HTTP clients - discovered
+- 2026-03-14 20:33 [github_bounty](https://github.com/counterspec/isnad/issues/3): [$200 USD] Scanner rule for malicious WebSocket handlers - discovered
+- 2026-03-14 20:33 [github_bounty](https://github.com/counterspec/isnad/issues/4): [$100 USD] Chinese language documentation - discovered
+- 2026-03-14 20:33 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/436): [$80 USD] [BOUNTY] Port RustChain Miner to Apple II (6502) — 150 RTC (4.0x Multiplier!) - discovered
+
+##### New Digital Product Opportunities (Fiat, Recurring Revenue)
+- 2026-03-14 20:33 [digital_product](https://amasty.com/blog/best-digital-products-to-sell/): 18 high-demand digital product ideas for 2026 (courses, templates, plugins) - researched
+- 2026-03-14 20:33 [digital_product](https://sellfy.com/blog/digital-products/): 20 profitable digital products to sell in 2026 with low startup costs - researched
+- 2026-03-14 20:33 [digital_product](https://www.bigcommerce.com/articles/ecommerce/selling-digital-goods/): Sell templates/plugins on Envato Market (ThemeForest/CodeCanyon) - 70% commission rate - researched
+
+##### Active Platforms (Fiat Payouts)
+- 2026-03-14 20:33 [platform](https://www.bountyhub.dev/): BountyHub - earn USD by solving GitHub issues - discovered
+- 2026-03-14 20:33 [platform](https://coderbounty.com/list/): Coderbounty - list of paid code issues with fiat payouts - discovered
+- 2026-03-14 20:33 [platform](https://bounty.github.com/): GitHub official bug bounty program - critical vulnerabilities pay $30,000+ USD - active
+- 2026-03-14 20:33 [platform](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency): 47 AI Agent development jobs, average $75/hour USD rates - active
+
 ### New Bounty Opportunities (2026-03-14 19:58 UTC)
 #### Latest GitHub Bounties (Just Discovered - Fiat Priority)
-##### New High-Value Bounties (USD Fiat/Commercial Rewards)
+##### High-Value Bounties (USD Fiat/Commercial Rewards)
 - 2026-03-14 19:58 [github_bounty](https://github.com/Chevalier12/InkkSlinger/issues/3): [Lifetime commercial license] Implement InkCanvas and InkPresenter controls - discovered
 - 2026-03-14 19:58 [github_bounty](https://github.com/Chevalier12/InkkSlinger/issues/5): [Lifetime commercial license] Implement MediaElement control - discovered
 - 2026-03-14 19:58 [github_bounty](https://github.com/Expensify/App/issues/59953): [$375 USD] Android: Fix onPress not working for Pressable in Tooltip (React Native) - discovered
