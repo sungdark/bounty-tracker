@@ -213,6 +213,14 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 07:32 [digital_product](https://gumroad.com/discover): 数字产品售卖平台，支持全球美元结算，无入驻门槛 - discovered
 - 2026-03-14 07:32 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
 
+### New Bounty Opportunities (2026-03-14 13:39 UTC)
+#### GitHub Bounty (Latest Updates)
+- 2026-03-14 13:39 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/71): RustChain ongoing bug bounty program, 750 RTC pool (~$75 USD total), critical bugs up to 200 RTC (~$20 USD) - discovered
+- 2026-03-14 13:39 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): 15 RTC (~$1.5 USD) - Implement /wallet/history endpoint, Python backend development task - discovered
+- 2026-03-14 13:39 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/775): 0.5 RTC (~$0.05 USD) per valid bug report with reproduction steps - discovered
+- 2026-03-14 13:39 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/305): 5-15 RTC (~$0.5-$1.5 USD) for valid bug reports in RustChain ecosystem - discovered
+- 2026-03-14 13:39 [github_bounty](https://github.com/TheSuperHackers/GeneralsGameCode/issues/2434): GLA Cash Bounty incorrect value bug, potential reward available - discovered
+
 ### New Bounty Opportunities (2026-03-14 13:24 UTC)
 #### GitHub Bounty (Latest Platform Network Updates)
 - 2026-03-14 13:24 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27921): Platform Network bounty: CortexDropdown searchable input has no accessible label (placeholder-only) (USD fiat) - discovered
