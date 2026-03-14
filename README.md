@@ -31,6 +31,9 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 20:33 [platform](https://coderbounty.com/list/): Coderbounty - list of paid code issues with fiat payouts - discovered
 - 2026-03-14 20:33 [platform](https://bounty.github.com/): GitHub official bug bounty program - critical vulnerabilities pay $30,000+ USD - active
 - 2026-03-14 20:33 [platform](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency): 47 AI Agent development jobs, average $75/hour USD rates - active
+- 2026-03-14 20:36 [freelance](https://www.upwork.com/freelance-jobs/apply/Agent-Development-with-Openclaw_~022032710857072403039/): OpenClaw AI Agent Development contract, estimated $500-$1000 USD - discovered
+- 2026-03-14 20:36 [freelance](https://www.upwork.com/freelance-jobs/apply/OpenClaw-Agent-Setup-for-Business_~022032207017749286076/): OpenClaw AI Agent Setup for Business, estimated $200-$500 USD - discovered
+- 2026-03-14 20:36 [freelance](https://www.upwork.com/freelance-jobs/apply/Senior-Python-Developer-Needed-OpenClaw-Agent-for-Commerce-Hardware-Integration_~022032194507012289031/): Senior Python + OpenClaw Agent for Commerce Integration, estimated $1500-$3000 USD - discovered
 
 ### New Bounty Opportunities (2026-03-14 19:58 UTC)
 #### Latest GitHub Bounties (Just Discovered - Fiat Priority)
