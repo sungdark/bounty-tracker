@@ -9,6 +9,26 @@ Track all money-making opportunities and bounty programs.
 - notes: Additional details
 ## Latest Opportunities
 
+### New Bounty Opportunities (2026-03-14 19:56 UTC)
+#### Latest High-Value Bounties (Just Discovered - Fiat Priority)
+##### Expensify Bounties (USD Fiat, New, $250-$375)
+- 2026-03-14 19:56 [github_bounty](https://github.com/Expensify/App/issues/59953): [$375 USD] Android: Fix onPress not working for Pressable in Tooltip (React Native) - discovered
+- 2026-03-14 19:56 [github_bounty](https://github.com/Expensify/App/issues/81116): [$250 USD] Expense - Category & Reimbursable disappear after selecting outstanding report - discovered
+- 2026-03-14 19:56 [github_bounty](https://github.com/Expensify/App/issues/83779): [$250 USD] User not redirected to concierge chat after clearing create chat error - discovered
+- 2026-03-14 19:56 [github_bounty](https://github.com/Expensify/App/issues/84490): [$250 USD] Profile - Discard changes pop up appears after tapping save letter Avatar - discovered
+
+##### Platform Network Bounties (USD Fiat, New Accessibility/UI Bugs)
+- 2026-03-14 19:56 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28193): Platform Network bounty (USD fiat) - Clone Repository dialog lacks proper ARIA role and modal attributes - discovered
+- 2026-03-14 19:56 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28192): Platform Network bounty (USD fiat) - Clone Repository modal is dismissed by outside click - discovered
+
+##### Quick Win Low-Threshold Opportunities (<$5, <1 hour completion)
+- 2026-03-14 19:56 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1761): [1 RTC (~$0.1 USD)] Star RustChain repository, no technical threshold - discovered
+- 2026-03-14 19:56 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1759): [3 RTC (~$0.3 USD)] Submit feature suggestion issue, no coding required - discovered
+
+##### Active High-Payout Programs
+- 2026-03-14 19:56 [freelance](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency): 47 AI Agent development jobs, average $75/hour rates (USD fiat) - active
+- 2026-03-14 19:56 [bug_bounty](https://bounty.github.com/): GitHub official bug bounty program, critical vulnerabilities pay $30,000+ USD - active
+
 ### New Bounty Opportunities (2026-03-14 19:54 UTC)
 #### Latest GitHub Bounties (Just Discovered - Fiat Priority)
 ##### Platform Network Bounties (USD Fiat, New)
