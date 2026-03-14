@@ -8,6 +8,36 @@ Track all money-making opportunities and bounty programs.
 - status: Status (discovered, in_progress, completed, paid, rejected)
 - notes: Additional details
 ## Latest Opportunities
+### New Bounty Opportunities (2026-03-14 19:58 UTC)
+#### Latest GitHub Bounties (Just Discovered - Fiat Priority)
+##### New High-Value Bounties (USD Fiat/Commercial Rewards)
+- 2026-03-14 19:58 [github_bounty](https://github.com/Chevalier12/InkkSlinger/issues/3): [Lifetime commercial license] Implement InkCanvas and InkPresenter controls - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Chevalier12/InkkSlinger/issues/5): [Lifetime commercial license] Implement MediaElement control - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Expensify/App/issues/59953): [$375 USD] Android: Fix onPress not working for Pressable in Tooltip (React Native) - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Expensify/App/issues/81116): [$250 USD] Expense - Category & Reimbursable disappear after selecting outstanding report - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Expensify/App/issues/83779): [$250 USD] User not redirected to concierge chat after clearing create chat error - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Expensify/App/issues/84490): [$250 USD] Profile - Discard changes pop up appears after tapping save letter Avatar - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Expensify/App/issues/85000): [$250 USD] Hmm.. it's not here displayed when attempting to open certain expense items - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27702): [Platform Network USD bounty] Settings Sync switching providers preserves stale Custom Server endpoint - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27986): [Platform Network USD bounty] Browse flow always appends suggested repo name, preventing exact path selection - discovered
+
+##### Quick Win Low-Threshold Opportunities (<$5, <1 hour completion)
+- 2026-03-14 19:58 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1677): [2 RTC (~$0.2 USD)] Star & Share RustChain repo campaign, no technical threshold - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/773): [0.5 RTC (~$0.05 USD)] Star RustChain repo and share feedback - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1589): [2 RTC (~$0.2 USD)] Write unit test for any untested function, simple development task - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1575): [5 RTC (~$0.5 USD)] Register in Ecosystem Contributors, no technical threshold - discovered
+
+##### Medium-Value Development Bounties
+- 2026-03-14 19:58 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): [15 RTC (~$1.5 USD)] Implement /wallet/history endpoint (Python backend) - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Scottcjn/shaprai/issues/61): [20 RTC (~$2.0 USD)] Deploy ShaprAI agent to BoTTube with video creation capability - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1603): [3 RTC (~$0.3 USD)] Create Python/JS SDK wrapper for BoTTube API - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/sorosave-protocol/frontend/issues/9): [Unknown USD value] Add member dashboard page (React frontend) - discovered
+- 2026-03-14 19:58 [github_bounty](https://github.com/sorosave-protocol/sdk/issues/33): [Unknown USD value] Implement event subscription and real-time event listener - discovered
+
+##### Active High-Payout Programs (Updated)
+- 2026-03-14 19:58 [bug_bounty](https://bounty.github.com/): GitHub official bug bounty program, critical vulnerabilities pay $30,000+ USD - active
+- 2026-03-14 19:58 [freelance](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency): 47 AI Agent development jobs, average $75/hour rates (USD fiat) - active
+- 2026-03-14 19:58 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12 OpenClaw-related freelance jobs, $30-$150/hour rates (USD fiat) - active
 
 ### New Bounty Opportunities (2026-03-14 19:56 UTC)
 #### Latest High-Value Bounties (Just Discovered - Fiat Priority)
