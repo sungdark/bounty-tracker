@@ -37,6 +37,18 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/mezod/awesome-indie): Resources for independent developers to make money - discovered
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
+### GitHub Bounty Opportunities (2026-03-14)
+- 2026-03-14 04:17 [github_bounty](https://github.com/Talyx66/SCRIPTFANG): Bug bounty hunting toolkit (potential contribution bounties) - discovered
+- 2026-03-14 04:06 [github_bounty](https://github.com/AquilesJunior001/Eliza-Lobster): Crypto bounty automation on Solana - discovered
+- 2026-03-14 04:06 [github_bounty](https://github.com/ajaakevin/HACKME): OSINT security research tool with bounty topics - discovered
+- 2026-03-14 04:03 [github_bounty](https://github.com/BluHExH/HEX-Reconebot): Bug bounty reconnaissance tool - discovered
+- 2026-03-14 04:02 [github_bounty](https://github.com/lasthoot/MINE-Wordlist): Curated wordlist for bug bounty hunting - discovered
+- 2026-03-14 04:00 [github_bounty](https://github.com/adam-317/Beatrix): Bug bounty CLI framework with AI analysis - discovered
+- 2026-03-14 03:57 [github_bounty](https://github.com/sgmurphy/wordpress-bug-bounty): WordPress plugin security scanning bounty program - discovered
+- 2026-03-14 03:49 [github_bounty](https://github.com/nezzyomran/ExecEvasion): WAF bypass tool for bug bounty hunters - discovered
+- 2026-03-14 03:46 [github_bounty](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter): AI-powered Burp Suite bounty hunting tool - discovered
+- 2026-03-14 03:46 [github_bounty](https://github.com/mayankkmaurya/BTCMultiPuzzle): Bitcoin puzzle solving pool (rewards for puzzle solutions) - discovered
+
 ### GitHub Bounty Opportunities (2026-03-13)
 - 2026-03-13 21:38 [github_bounty](https://github.com/MonoGame/MonoGame/issues/8194): $5000 USD - Switch console runtime from BRUTE to NativeAOT (locked for tomspilman) - discovered
 - 2026-03-13 21:38 [github_bounty](https://github.com/MonoGame/MonoGame/issues/8318): $2000 USD - Better 3D onboarding tutorial - discovered
