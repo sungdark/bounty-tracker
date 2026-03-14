@@ -1,4 +1,13 @@
 time,source,title,url,amount,status,notes
+2026-03-14T17:47:00Z,GitHub,GitHub 官方赏金计划,https://bounty.github.com/,$30,000+ 严重漏洞,待评估,法币赏金，最高奖励可达$30k+
+2026-03-14T17:47:01Z,HackerOne,GitHub HackerOne 计划,https://hackerone.com/github,上不封顶,待评估,全球最大赏金平台
+2026-03-14T17:47:02Z,ProjectDiscovery,公共赏金项目列表,https://github.com/projectdiscovery/public-bugbounty-programs,各项目不等,待评估,社区维护的所有公开赏金项目汇总
+2026-03-14T17:47:03Z,Arkadiyt,赏金范围数据,https://github.com/arkadiyt/bounty-targets-data,各项目不等,待评估,每小时更新HackerOne/Bugcrowd等平台可提交范围
+2026-03-14T17:47:04Z,Disclose,赏金平台汇总,https://github.com/disclose/bug-bounty-platforms,各平台不等,待评估,所有活跃赏金平台清单
+2026-03-14T17:47:05Z,ByteLixir,带宽共享被动收入,https://bytelixir.com/,每月约$5-$20,可立即执行,出售闲置带宽，全自动无门槛
+2026-03-14T17:47:06Z,Pawns.app,带宽共享被动收入,https://pawns.app/,每月约$5-$15,可立即执行,同类带宽共享平台，收益稳定
+2026-03-14T17:47:07Z,Hipolink,数字产品售卖平台,https://hipolink.net/,10%-90% 提成,待调研,支持售卖所有数字内容（课程/代码/工具/素材等）
+2026-03-14T17:47:08Z,Shopify,Pinterest数字产品引流指南,https://www.shopify.com/blog/how-to-make-money-from-pinterest,被动收入,待调研,一次制作无限售卖，适合模板/指南/素材类
 2026-03-12T00:15:00Z,HackerOne,1Password Bug Bounty Program,https://hackerone.com/1password,$50 minimum,待评估,法币赏金，安全漏洞报告
 2026-03-12T00:15:01Z,HackerOne,Amazon Vulnerability Research Program,https://hackerone.com/amazonvrp,$100 minimum,待评估,法币赏金，亚马逊产品安全漏洞
 2026-03-12T00:15:02Z,HackerOne,Android Security Rewards Program,https://hackerone.com/android,Variable,待评估,谷歌安卓系统安全赏金
