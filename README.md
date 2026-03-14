@@ -88,3 +88,23 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-14 01:24 UTC | https://immunefi.com/bounty/ | 最高$10M+ | Immunefi Web3安全赏金计划，2026年累计发放奖励超$500M，法币结算支持 | 待评估 |
 | 2026-03-14 01:24 UTC | https://code4rena.com/ | $1k-$1M+/审计 | Code4rena智能合约审计竞赛，按贡献排名奖励，适合智能合约安全专家 | 待评估 |
 | 2026-03-14 01:24 UTC | https://www.hackthebox.com/ | 不定 | Hack The Box CTF竞赛平台，定期举办现金奖励赛事，适合安全爱好者 | 待评估 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/bottube/issues/364 | ~$1.0 (10 RTC) | 为BoTTube视频播放器添加键盘快捷键，前端JS开发任务，难度低，有明确实现要求 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/shaprai/issues/66 | ~$0.8 (8 RTC) | 制作ShaprAI CLI使用教程（视频/博客/录屏），内容创作任务，无技术门槛，有额外奖励 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/shaprai/issues/64 | ~$1.0 (10 RTC) | Elyan Labs UI无障碍审计+修复，前端开发任务，适合有a11y经验者，有额外奖励 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/shaprai/issues/60 | ~$1.5 (15 RTC) | 部署ShaprAI代理到Moltbook平台，简单DevOps任务，门槛低，有额外奖励 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1677 | ~$0.2 (2 RTC) | Star 8个Elyan Labs仓库+社交分享，无技术门槛，2分钟即可完成，有额外奖励 | 可立即执行 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1618 | ~$0.1 (1 RTC) | 报告BoTTube UI无障碍问题，简单测试任务，无技术门槛 | 可立即执行 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1613 | ~$0.3 (3 RTC) | 为任意Elyan Labs仓库配置Dependabot/Renovate依赖更新，DevOps任务，难度低 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1611 | ~$0.1 (1 RTC) | 为3个以上Issue添加表情反应，无技术门槛，1分钟即可完成 | 可立即执行 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1608 | ~$0.2 (2 RTC) | 为复杂函数添加代码注释，开发任务，难度低 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | ~$0.1 (1 RTC) | 为缺少CONTRIBUTING.md的仓库添加贡献指南，文档任务，无技术门槛 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1598 | ~$0.2 (2 RTC) | 在GitHub个人资料添加RustChain徽章，无技术门槛，5分钟即可完成 | 可立即执行 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1595 | ~$0.1 (1 RTC) | Star 5个Elyan Labs仓库+社交分享，无技术门槛，2分钟即可完成 | 可立即执行 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1593 | ~$0.2 (2 RTC) | 翻译错误信息到其他语言，i18n任务，无技术门槛 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1592 | ~$0.3 (3 RTC) | 将RustChain相关项目添加到awesome-list，内容任务，难度低 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1591 | ~$0.5 (5 RTC) | 为任意Elyan Labs仓库创建GitHub Action工作流，CI/CD任务，难度中等 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1589 | ~$0.2 (2 RTC) | 为未测试函数编写单元测试，开发任务，难度低 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1588 | ~$0.1 (1 RTC) | 为Python函数添加类型提示，开发任务，难度极低 | 待认领 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1575 | ~$0.5 (5 RTC) | 注册Elyan Labs贡献者名录，无技术门槛，所有贡献者都可领取 | 可立即执行 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/Rustchain/issues/775 | ~$0.05 (0.5 RTC) | 报告RustChain bug并提供复现步骤，简单测试任务 | 可立即执行 |
+| 2026-03-14 04:13 UTC | https://github.com/Scottcjn/Rustchain/issues/773 | ~$0.05 (0.5 RTC) | Star RustChain仓库+评论，无技术门槛，1分钟即可完成 | 可立即执行 |
