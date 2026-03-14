@@ -40,6 +40,15 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
 ### GitHub Bounty Opportunities (2026-03-14)
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge): Platform Network bug bounty program, rewards for valid Cortex IDE bug reports (USD fiat) - discovered
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27576): Platform Network bounty: Toolchain Selector close button missing aria-label - discovered
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27609): Platform Network bounty: ACP Tools Panel Execute modal close button missing aria-label - discovered
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27562): Platform Network bounty: Agents Manager close button missing aria-label - discovered
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27606): Platform Network bounty: ACP Tools Panel Add Custom Tool modal close button missing aria-label - discovered
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27597): Platform Network bounty: Semantic Token Editor Add Rule modal close button missing aria-label - discovered
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27585): Platform Network bounty: Channels Panel Create Channel modal close button missing aria-label - discovered
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27575): Platform Network bounty: Toolchain Selector overlay missing dialog role/aria-modal - discovered
+- 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27572): Platform Network bounty: SSH Connection Dialog close button missing aria-label - discovered
 - 2026-03-14 04:30 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): 15 RTC reward for implementing /wallet/history endpoint - discovered
 - 2026-03-14 04:30 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/775): 0.5 RTC per valid bug report with reproduction steps - discovered
 - 2026-03-14 04:17 [github_bounty](https://github.com/Talyx66/SCRIPTFANG): Bug bounty hunting toolkit (potential contribution bounties) - discovered
