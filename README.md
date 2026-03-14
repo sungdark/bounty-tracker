@@ -40,6 +40,16 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 [digital_product](https://github.com/saasify-sh/saasify): Monetize APIs as SaaS - discovered
 
 ### GitHub Bounty Opportunities (2026-03-14)
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27656): Platform Network bounty: Type Hierarchy subtypes toggle icon button has no explicit aria-label (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27655): Platform Network bounty: Type Hierarchy header close icon button has no explicit aria-label (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27654): Platform Network bounty: Type Hierarchy supertypes toggle icon button has no explicit aria-label (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27653): Platform Network bounty: Project Select modal Open Cortex Project can add a deleted project path to the workspace (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27652): Platform Network bounty: Settings Sync Sign Out remains clickable while Sync Now is in progress (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27651): Platform Network bounty: References View overlay container is missing aria-modal (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27650): Platform Network bounty: References View overlay container is missing role="dialog" (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27649): Platform Network bounty: Project Symbols search input has no explicit aria-label (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27648): Platform Network bounty: Create Channel dialog keeps the primary action enabled before the channel name is valid (USD) - discovered
+- 2026-03-14 06:22 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27647): Platform Network bounty: View Quick Access search input has no explicit aria-label (USD) - discovered
 - 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge): Platform Network bug bounty program, rewards for valid Cortex IDE bug reports (USD fiat) - discovered
 - 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27576): Platform Network bounty: Toolchain Selector close button missing aria-label - discovered
 - 2026-03-14 05:30 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27609): Platform Network bounty: ACP Tools Panel Execute modal close button missing aria-label - discovered
