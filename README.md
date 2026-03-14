@@ -98,6 +98,19 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28133): Platform Network bounty (USD fiat) - Create Tag Dialog — Commit Picker Dropdown Hover Highlight Clipped at Right Edge - discovered
 - 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28132): Platform Network bounty (USD fiat) - Settings Font Family value is cut off inside the input box - discovered
 - 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28131): Platform Network bounty (USD fiat) - Create Tag Dialog — Commit Selector (Specific Commit) Has No Divider Lines Between Items - discovered
+### New Bounty Opportunities (2026-03-14 18:55 UTC)
+#### Latest GitHub Bounties (Just Discovered)
+- 2026-03-14 18:55 [github_bounty](https://github.com/Expensify/App/issues/59953): [$375 USD] Android: Investigate and fix onPress not working for Pressable in Tooltip - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/Expensify/App/issues/81116): [$250 USD] Expense - After selecting outstanding report on confirm page, Category & Reimbursable disappear - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/Expensify/App/issues/83779): [$250 USD] User is not redirected to the concierge chat after clearing the create chat error - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/Expensify/App/issues/83776): [$250 USD] Agent Zero status indicator gets stuck until page refresh - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/Expensify/App/issues/84490): [$250 USD] Profile - Discard changes pop up appear after tapping save letter Avatar - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/Expensify/App/issues/85000): [$250 USD] Hmm.. it's not here displayed when attempting to open certain expense items from the Expenses page - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28130): Platform Network bounty (USD fiat) - Scan All Listening Ports button Icon and Label are too close together - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27702): Platform Network bounty (USD fiat) - Settings Sync switching providers preserves a stale Custom Server endpoint - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27986): Platform Network bounty (USD fiat) - Browse flow always appends suggested repo name, preventing exact selected target path - discovered
+- 2026-03-14 18:55 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): [BOUNTY: 15 RTC] Implement /wallet/history endpoint (fixes #775, #886) (~$1.5 USD) - discovered
+
 ### New Bounty Opportunities (2026-03-14 18:32 UTC)
 #### Latest GitHub Bounties (Just Discovered)
 - 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): [BOUNTY: 15 RTC] Implement /wallet/history endpoint (fixes #775, #886) (~$1.5 USD) - discovered
