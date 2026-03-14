@@ -62,3 +62,15 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 | 2026-03-14 00:12 UTC | https://github.com/cashubtc/nutshell/issues/557 | ~$42 | Nutshell钱包/ mint严重漏洞报告，100,000 sats奖励，适合安全研究人员 | 待评估 |
 | 2026-03-14 00:12 UTC | https://github.com/better-feedback/better-dopex/issues/2 | $100 | 设计10款连帽衫图案，设计类任务，无需开发经验 | 待认领 |
 | 2026-03-14 00:12 UTC | https://gitlab.com/rz1989s/meteora-cp-amm-fee-routing | $7,500 | Meteora CP-AMM费用路由Anchor程序开发，Solana智能合约任务，高报酬 | 待评估 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/shaprai/issues/2 | ~$5.0 (50 RTC) | 开发SFT训练数据生成器，Python/ML开发任务，难度中等 | 待评估 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/shaprai/issues/8 | ~$4.0 (40 RTC) | 开发Agent模板市场，全栈开发任务，适合React/Python开发者 | 待评估 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/shaprai/issues/60 | ~$1.5 (15 RTC) | 部署ShaprAI代理到Moltbook平台，简单DevOps任务，门槛低 | 待认领 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/shaprai/issues/64 | ~$1.0 (10 RTC) | Elyan Labs UI无障碍审计+修复，前端开发任务，适合有a11y经验者 | 待认领 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/shaprai/issues/66 | ~$0.8 (8 RTC) | 制作ShaprAI CLI教程（视频/博客），内容创作任务，无技术门槛 | 待认领 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/shaprai/issues/68 | ~$1.5 (15 RTC) | 集成Grazer内容自动发现功能，Python开发任务，难度低 | 待评估 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/shaprai/issues/70 | ~$3.0 (30 RTC) | 开发3+智能代理并对战测试，AI/Agent开发任务，适合大模型开发者 | 待评估 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/Rustchain/issues/908 | ~$1.5 (15 RTC) | 实现/wallet/history API接口，Rust后端开发任务，适合Rust开发者 | 待评估 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/bottube/issues/364 | ~$1.0 (10 RTC) | 视频播放器添加键盘快捷键，前端JS开发任务，难度低 | 待认领 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/bottube/issues/365 | ~$0.8 (8 RTC) | 视频平台无障碍优化，前端开发任务，适合有a11y经验者 | 待评估 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1677 | ~$0.2 (2 RTC) | Star RustChain仓库并分享，无技术门槛，2分钟即可完成 | 可立即执行 |
+| 2026-03-14 00:39 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1618 | ~$0.1 (1 RTC) | 报告BoTTube UI无障碍问题，简单测试任务，无技术门槛 | 可立即执行 |
