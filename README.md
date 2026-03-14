@@ -213,6 +213,11 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 07:32 [digital_product](https://gumroad.com/discover): 数字产品售卖平台，支持全球美元结算，无入驻门槛 - discovered
 - 2026-03-14 07:32 [freelance](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency): 12个最新OpenClaw相关外包任务，单价$30-$150/小时 - discovered
 
+### New Bounty Opportunities (2026-03-14 13:24 UTC)
+#### GitHub Bounty (Latest Platform Network Updates)
+- 2026-03-14 13:24 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27921): Platform Network bounty: CortexDropdown searchable input has no accessible label (placeholder-only) (USD fiat) - discovered
+- 2026-03-14 13:24 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/27920): Platform Network bounty: CortexDropdown does not expose active option through `aria-activedescendant` (USD fiat) - discovered
+
 ### New Bounty Opportunities (2026-03-14 11:19 UTC)
 #### High Value Bug Bounty Programs (Latest Update)
 - 2026-03-14 11:19 [bug_bounty](https://yeswehack.com/programs/swiss-post-evoting): Swiss Post e-voting bounty program, rewards up to €230,000 EUR (≈$250,000 USD) - discovered

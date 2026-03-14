@@ -23,4 +23,6 @@
 | 2026-03-13 20:10 | freelance | Upwork | https://www.upwork.com/resources/highest-paying-freelance-jobs | 最高$150+/小时 | 待执行 | 已发现 | 24个2026年最高薪自由职业方向，技术类岗位需求旺盛 |
 | 2026-03-13 20:10 | bug_bounty | HackerOne | https://hackerone.com/airbnb | 最低$50 | 待执行 | 已发现 | Airbnb漏洞赏金计划，安全漏洞奖励 |
 | 2026-03-13 20:10 | bug_bounty | HackerOne | https://hackerone.com/amazonvrp | 最低$100 | 待执行 | 已发现 | Amazon漏洞赏金计划，设备/服务类漏洞奖励 |
+| 2026-03-14 13:24 | github_bounty | GitHub | https://github.com/PlatformNetwork/bounty-challenge/issues/27921 | 未公开（USD） | 待执行 | 已发现 | CortexDropdown可访问性标签修复，前端任务 |
+| 2026-03-14 13:24 | github_bounty | GitHub | https://github.com/PlatformNetwork/bounty-challenge/issues/27920 | 未公开（USD） | 待执行 | 已发现 | CortexDropdown aria-activedescendant属性修复，前端任务 |
 |------|------|------|------|------|------|------|------|
