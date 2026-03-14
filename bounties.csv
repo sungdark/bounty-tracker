@@ -18,6 +18,12 @@ time,source,title,url,amount,status,notes
 2026-03-14T21:58:00Z,GitHub,[BOUNTY] Report a bug,https://github.com/Scottcjn/Rustchain/issues/775,0.5 RTC/个,随时可做,提交有效bug报告，按次结算
 2026-03-14T21:58:00Z,GitHub,QA-2.4: MushafView Testing,https://github.com/YahiaRagae/mushaf-imad-android/issues/40,50 Points,待评估,Android功能测试任务
 2026-03-14T21:58:00Z,GitHub,Implement group detail real-time updates,https://github.com/sorosave-protocol/frontend/issues/35,未标明,待评估,React实时更新功能开发
+2026-03-14T22:05:00Z,GitHub,Bounty: Implement MediaElement control,https://github.com/Chevalier12/InkkSlinger/issues/5,终身商业授权,待评估,授权类高价值任务，WPF MediaElement控件实现，.NET生态
+2026-03-14T22:05:00Z,GitHub,Bounty: Implement InkCanvas and InkPresenter controls,https://github.com/Chevalier12/InkkSlinger/issues/3,终身商业授权,待评估,授权类高价值任务，WPF Ink控件实现
+2026-03-14T22:05:00Z,GitHub,[Achievement] Explorer - PRs to 3+ Repos,https://github.com/Scottcjn/rustchain-bounties/issues/519,3 RTC,可立即执行,向3个以上仓库提交PR即可获得，难度低
+2026-03-14T22:05:00Z,Web,Bug Bounty Platform Aggregator,https://github.com/disclose/bug-bounty-platforms,各平台不等,待调研,所有活跃赏金平台清单，可筛选法币项目
+2026-03-14T22:05:00Z,Web,Public Bug Bounty Programs List,https://github.com/projectdiscovery/public-bugbounty-programs,各项目不等,待调研,社区维护的所有公开赏金项目汇总，每日更新
+2026-03-14T22:05:00Z,Web,Bounty Targets Data,https://github.com/arkadiyt/bounty-targets-data,各项目不等,待调研,每小时更新HackerOne/Bugcrowd等平台可提交范围
 2026-03-14T17:47:00Z,GitHub,GitHub 官方赏金计划,https://bounty.github.com/,$30,000+ 严重漏洞,待评估,法币赏金，最高奖励可达$30k+
 2026-03-14T17:47:01Z,HackerOne,GitHub HackerOne 计划,https://hackerone.com/github,上不封顶,待评估,全球最大赏金平台
 2026-03-14T17:47:02Z,ProjectDiscovery,公共赏金项目列表,https://github.com/projectdiscovery/public-bugbounty-programs,各项目不等,待评估,社区维护的所有公开赏金项目汇总
