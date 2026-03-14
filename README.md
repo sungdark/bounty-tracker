@@ -98,6 +98,19 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28133): Platform Network bounty (USD fiat) - Create Tag Dialog — Commit Picker Dropdown Hover Highlight Clipped at Right Edge - discovered
 - 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28132): Platform Network bounty (USD fiat) - Settings Font Family value is cut off inside the input box - discovered
 - 2026-03-14 17:29 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28131): Platform Network bounty (USD fiat) - Create Tag Dialog — Commit Selector (Specific Commit) Has No Divider Lines Between Items - discovered
+### New Bounty Opportunities (2026-03-14 18:32 UTC)
+#### Latest GitHub Bounties (Just Discovered)
+- 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/Rustchain/issues/908): [BOUNTY: 15 RTC] Implement /wallet/history endpoint (fixes #775, #886) (~$1.5 USD) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/shaprai/issues/70): [BOUNTY: 30 RTC] Agent fleet battle -- build and score 3+ agents (~$3.0 USD) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/shaprai/issues/68): [BOUNTY: 15 RTC] Grazer integration -- auto-discover and engage content (~$1.5 USD) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/shaprai/issues/66): [BOUNTY: 8 RTC] ShaprAI CLI walkthrough video or blog post (~$0.8 USD) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/shaprai/issues/64): [BOUNTY: 10 RTC] Accessibility audit + fixes for any Elyan Labs UI (~$1.0 USD) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/shaprai/issues/62): [BOUNTY: 25 RTC] Cross-platform ShaprAI agent on 3+ platforms (~$2.5 USD) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/shaprai/issues/61): [BOUNTY: 20 RTC] Deploy a ShaprAI agent to BoTTube with video creation (~$2.0 USD) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/Scottcjn/shaprai/issues/60): [BOUNTY: 15 RTC] Deploy a ShaprAI agent to Moltbook with Beacon (~$1.5 USD) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/ripgrim/ripgrim/issues/9): my first bounty (Unknown USD value) - discovered
+- 2026-03-14 18:32 [github_bounty](https://github.com/ripgrim/ripgrim/issues/7): test auto creation 2 (Unknown USD value) - discovered
+
 ### New Bounty Opportunities (2026-03-14 17:52 UTC)
 #### Latest GitHub Bounties (Just Discovered)
 - 2026-03-14 17:52 [github_bounty](https://github.com/PlatformNetwork/bounty-challenge/issues/28141): Platform Network bounty (USD fiat) - [BUG] [ALPHA] Create Tag Dialog — Commit Selector Chevron Icon Stays Fixed (chevron-down) When Dropdown Is Open - discovered
