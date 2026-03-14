@@ -4,6 +4,22 @@ Automatically scanned赚钱机会 (money-making opportunities) from public sourc
 
 | Time | Opportunity Link | Amount | Preliminary Assessment | Status |
 |------|-------------------|--------|------------------------|--------|
+| 2026-03-14 04:41 UTC | https://github.com/ripgrim/ripgrim/issues/6 | $150.00 | 测试赏金任务，USDT支付，已标注全额资助，提交PR即可认领 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/2 | ~$5.0 (50 RTC) | 开发SFT训练数据生成器，Python/ML开发任务，难度中等，文档齐全 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/8 | ~$4.0 (40 RTC) | 开发Agent模板市场，全栈开发任务，适合React/Python开发者，需求明确 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/70 | ~$3.0 (30 RTC) | 开发3+智能代理并进行对战测试，AI/Agent开发任务，适合大模型开发者 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/62 | ~$2.5 (25 RTC) | 开发跨平台ShaprAI代理（支持3+平台），跨端开发任务，适合全栈开发者 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/61 | ~$2.0 (20 RTC) | 部署ShaprAI代理到BoTTube平台实现视频自动生成，AI+DevOps任务，门槛中等 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/60 | ~$1.5 (15 RTC) | 部署ShaprAI代理到Moltbook平台，简单DevOps任务，门槛低，有额外奖励 | 待认领 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/68 | ~$1.5 (15 RTC) | 集成Grazer内容自动发现功能，Python开发任务，难度低 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/67 | ~$1.5 (15 RTC) | 对DriftLock身份验证系统进行压力测试，技术门槛中等，适合后端开发者 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/Rustchain/issues/908 | ~$1.5 (15 RTC) | 实现/wallet/history API接口，Python/Flask开发任务，难度低，需求明确 | 待认领 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/64 | ~$1.0 (10 RTC) | Elyan Labs UI无障碍审计+修复，前端开发任务，适合有a11y经验者，有额外奖励 | 待认领 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/bottube/issues/364 | ~$1.0 (10 RTC) | 为BoTTube视频播放器添加键盘快捷键，前端JS开发任务，难度低，有明确实现要求 | 待认领 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/shaprai/issues/66 | ~$0.8 (8 RTC) | 制作ShaprAI CLI使用教程（视频/博客/录屏），内容创作任务，无技术门槛，有额外奖励 | 待认领 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/bottube/issues/365 | ~$0.8 (8 RTC) | 视频平台无障碍优化，前端开发任务，适合有a11y经验者 | 待评估 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1677 | ~$0.2 (2 RTC) | Star 8个Elyan Labs仓库+社交分享，无技术门槛，2分钟即可完成，有额外奖励 | 可立即执行 |
+| 2026-03-14 04:41 UTC | https://github.com/Scottcjn/rustchain-bounties/issues/1618 | ~$0.1 (1 RTC) | 报告BoTTube UI无障碍问题，简单测试任务，无技术门槛 | 可立即执行 |
 | 2026-03-13 15:12 UTC | https://bounty.github.com/ | $100-$10,000+ | GitHub 官方漏洞赏金计划，难度中高，适合安全研究人员 | 待评估 |
 | 2026-03-13 15:12 UTC | https://hackerone.com/github | $100-$10,000+ | GitHub HackerOne 赏金计划，同上 | 待评估 |
 | 2026-03-13 15:12 UTC | https://github.com/arkadiyt/bounty-targets-data | 不定 | 实时更新的全球赏金平台目标列表，可用于批量挖掘机会 | 待评估 |
