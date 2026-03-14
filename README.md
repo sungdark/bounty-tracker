@@ -87,6 +87,23 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-13 23:12 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1614): 5 RTC - Create a load test suite for the RustChain API - discovered
 - 2026-03-13 23:12 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1612): 5 RTC - Create a Homebrew formula for the RustChain miner - discovered
 - 2026-03-13 23:12 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1613): 3 RTC - Set up Dependabot or Renovate for any Elyan Labs repo - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1677): ~$0.2 (2 RTC) - Star RustChain系列仓库并分享到社交媒体，无技术门槛 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/73): ~$1-$2.5 (10-25 RTC)/PR - 代码评审赏金计划，按评审质量奖励 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/bottube/issues/365): ~$0.8 (8 RTC) - BoTTube视频页无障碍优化，前端开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1160): ~$0.5-$3 (5-30 RTC)/视频 - 制作Elyan Labs生态相关短视频，内容创作任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1577): ~$0.2 (2 RTC) - 在个人网站/Linktree添加Elyan Labs链接，低门槛任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/bottube/issues/364): ~$1 (10 RTC) - 为BoTTube视频播放器添加键盘快捷键，前端JS开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1601): ~$1.5 (15 RTC) - 将RustChain矿工从Python移植到Rust，Rust开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/bolivian-peru/marketplace-service-template/issues/72): $75 - 开发亚马逊产品&BSR跟踪API，后端开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/shaprai/issues/8): ~$4 (40 RTC) - 开发支持RTC定价的模板市场，全栈开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/shaprai/issues/60): ~$1.5 (15 RTC) - 部署ShaprAI代理到Moltbook平台，简单DevOps任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/shaprai/issues/61): ~$2 (20 RTC) - 部署ShaprAI代理到BoTTube生成视频，AI+DevOps任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/shaprai/issues/62): ~$2.5 (25 RTC) - 跨3+平台部署ShaprAI代理，跨端开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/shaprai/issues/64): ~$1 (10 RTC) - Elyan Labs UI无障碍审计+修复，前端开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/bottube/issues/97): 最高500 RTC/月 - wRTC/SOL流动性提供者激励计划，持有LP30天可获奖励 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1600): ~$0.5 (5 RTC) - 开发RustChain统计数据仪表板，前端开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1596): ~$1 (10 RTC) - 开发查询RustChain API的Discord机器人，后端开发任务 - discovered
+- 2026-03-14 03:41 [github_bounty](https://github.com/Scottcjn/rustchain-bounties/issues/1597): ~$1 (10 RTC) - 创建RustChain Telegram机器人，后端开发任务 - discovered
 
 ### Previous
 - 2026-03-13 [digital_product](https://www.raiplay.it/dirette/index.html): Unknown - discovered
