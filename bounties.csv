@@ -1,4 +1,23 @@
 time,source,title,url,amount,status,notes
+2026-03-14T21:58:00Z,GitHub,Smart digest with weekly financial summary,https://github.com/rohitdash08/FinMind/issues/121,$500,待评估,法币高价值任务，生成每周财务摘要，需要生产级功能+测试+文档
+2026-03-14T21:58:00Z,GitHub,Bounty - Add GRVT Perpetual Connector,https://github.com/hummingbot/hummingbot/issues/8046,3000 USDC,待评估,法币超高价值任务，开发GRVT永续合约连接器，REST/WebSocket集成
+2026-03-14T21:58:00Z,GitHub,Bounty: Implement MediaElement control,https://github.com/Chevalier12/InkkSlinger/issues/5,终身商业授权,待评估,授权类高价值任务，WPF MediaElement控件实现
+2026-03-14T21:58:00Z,GitHub,[BOUNTY: 50-100 RTC] Native Rust Wallet,https://github.com/Scottcjn/rustchain-bounties/issues/733,100 RTC,待评估,加密货币高价值任务，Rust CLI钱包开发
+2026-03-14T21:58:00Z,GitHub,[BOUNTY] On-Chain Governance System,https://github.com/Scottcjn/rustchain-bounties/issues/50,100 RTC,待评估,链上治理投票系统开发，包含API和Web UI
+2026-03-14T21:58:00Z,GitHub,[BOUNTY: 40-100 RTC] Browser Extension,https://github.com/Scottcjn/rustchain-bounties/issues/730,100 RTC,待评估,RTC钱包浏览器扩展 + MetaMask Snap集成
+2026-03-14T21:58:00Z,GitHub,[BOUNTY: 50-75 RTC] Verification Bot,https://github.com/Scottcjn/rustchain-bounties/issues/747,75 RTC,待评估,赏金验证机器人开发，自动校验star/follow/钱包
+2026-03-14T21:58:00Z,GitHub,[Bounty: 40 RTC] Template marketplace,https://github.com/Scottcjn/shaprai/issues/8,40 RTC,待评估,模板市场功能开发，支持RTC定价交易
+2026-03-14T21:58:00Z,GitHub,Chicken in Every Pot: Fork Bounty,https://github.com/Scottcjn/rustchain-bounties/issues/697,25 RTC,可立即执行,Fork 5个仓库 + Star + 关注，5分钟完成，收益$2.5
+2026-03-14T21:58:00Z,GitHub,[BOUNTY: 20 RTC] Mobile Wallet App,https://github.com/Scottcjn/rustchain-bounties/issues/1616,20 RTC,待评估,React Native/Flutter移动钱包开发
+2026-03-14T21:58:00Z,GitHub,[BOUNTY: 15 RTC] /wallet/history Endpoint,https://github.com/Scottcjn/Rustchain/issues/908,15 RTC,可立即执行,API端点开发，返回交易历史，1-2小时完成
+2026-03-14T21:58:00Z,GitHub,[BOUNTY: 15 RTC] Deploy ShaprAI Agent,https://github.com/Scottcjn/shaprai/issues/60,15 RTC,可立即执行,部署AI代理到Moltbook，发布3篇内容
+2026-03-14T21:58:00Z,GitHub,[BOUNTY: 8 RTC] Browser Extension,https://github.com/Scottcjn/rustchain-bounties/issues/1607,8 RTC,可立即执行,浏览器扩展显示RTC余额，难度极低
+2026-03-14T21:58:00Z,GitHub,[Achievement] First Blood,https://github.com/Scottcjn/rustchain-bounties/issues/518,3 RTC,自动触发,首次PR合并额外奖励
+2026-03-14T21:58:00Z,GitHub,[EASY BOUNTY: 2 RTC] Star & Share,https://github.com/Scottcjn/rustchain-bounties/issues/1677,2 RTC,可立即执行,Star 8个仓库 + 社交分享，2分钟完成
+2026-03-14T21:58:00Z,GitHub,[EASY BOUNTY: 1 RTC] Emoji Reactions,https://github.com/Scottcjn/rustchain-bounties/issues/1611,1 RTC,可立即执行,给3个Issue加反应，30秒完成
+2026-03-14T21:58:00Z,GitHub,[BOUNTY] Report a bug,https://github.com/Scottcjn/Rustchain/issues/775,0.5 RTC/个,随时可做,提交有效bug报告，按次结算
+2026-03-14T21:58:00Z,GitHub,QA-2.4: MushafView Testing,https://github.com/YahiaRagae/mushaf-imad-android/issues/40,50 Points,待评估,Android功能测试任务
+2026-03-14T21:58:00Z,GitHub,Implement group detail real-time updates,https://github.com/sorosave-protocol/frontend/issues/35,未标明,待评估,React实时更新功能开发
 2026-03-14T17:47:00Z,GitHub,GitHub 官方赏金计划,https://bounty.github.com/,$30,000+ 严重漏洞,待评估,法币赏金，最高奖励可达$30k+
 2026-03-14T17:47:01Z,HackerOne,GitHub HackerOne 计划,https://hackerone.com/github,上不封顶,待评估,全球最大赏金平台
 2026-03-14T17:47:02Z,ProjectDiscovery,公共赏金项目列表,https://github.com/projectdiscovery/public-bugbounty-programs,各项目不等,待评估,社区维护的所有公开赏金项目汇总
