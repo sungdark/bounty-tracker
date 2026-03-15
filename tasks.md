@@ -17,4 +17,4 @@
 | BT-0011 | 2026-03-15T06:39:00+00:00 | hackerone | Anduril Industries | https://hackerone.com/anduril_industries | $50+ | USD | 50 | new |  |  | 2026-03-15T06:39:00+00:00 | Anduril Industries bug bounty program，最低赏金$50 |
 | BT-0012 | 2026-03-15T06:39:00+00:00 | hackerone | Arkose Labs | https://hackerone.com/arkose_labs | $50+ | USD | 50 | new |  |  | 2026-03-15T06:39:00+00:00 | Arkose Labs bug bounty program，最低赏金$50 |
 | BT-0013 | 2026-03-15T06:39:00+00:00 | hackerone | AT&T | https://hackerone.com/att | $100+ | USD | 100 | new |  |  | 2026-03-15T06:39:00+00:00 | AT&T bug bounty program，最低赏金$100 |
-| BT-0014 | 2026-03-15T06:42:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2074 | 2 RTC | RTC | 0.2 | new |  |  | 2026-03-15T06:42:00+00:00 | 挖矿设备照片投稿，每张2 RTC（约$0.2），最高5 RTC |
+| BT-0014 | 2026-03-15T06:42:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2074 | 2 RTC | RTC | 0.2 | submitted | https://github.com/Scottcjn/rustchain-bounties/issues/2074#issuecomment-4062405156 |  | 2026-03-15T06:45:00+00:00 | 已提交搞笑挖矿设备照片（墙贴树莓派集群），待审核，预计获得2 RTC奖励 |
