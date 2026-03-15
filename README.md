@@ -10,6 +10,9 @@
 ## 最新机会（2026-03-15）
 | 时间 | 金额 | 链接 | 评估 | 状态 |
 |------|------|------|------|------|
+| 2026-03-15 02:01 | ~$0.1 USD/star | [RustChain Star & Follow 赏金任务](https://github.com/Scottcjn/rustchain-bounties/issues/2103) | 无技术门槛，Star仓库+Follow即可获得RTC奖励，可兑换法币，最高可获25 RTC额外奖励 | 待评估 |
+| 2026-03-15 02:01 | 未标明（赏金标签） | [Sentry JavaScript 安全漏洞修复](https://github.com/getsentry/sentry-javascript/issues/19790) | Bug Bounty标签安全漏洞修复任务，属于Sentry官方赏金计划，有机会获得高额法币奖励 | 待评估 |
+| 2026-03-15 02:01 | Hacktoberfest 奖励（$20-$100 USD/4 PRs） | [Kana Dojo 日语语法点添加](https://github.com/lingdojo/kana-dojo/issues/8593) | 无代码要求，仅需编辑JSON文件，1分钟完成，可参与Hacktoberfest获得奖励 | 待评估 |
 | 2026-03-15 01:34 | $250,000 USD | [瑞士邮政电子投票赏金计划](https://yeswehack.com/programs/swiss-post-evoting) | 超高价值安全赏金，奖励最高€230,000 EUR，需要深厚的安全研究能力 | 待评估 |
 | 2026-03-15 01:34 | $30,000+ USD | [GitHub官方赏金计划](https://bounty.github.com/) | 严重漏洞奖励$30,000+ USD，适合安全研究人员 | 待评估 |
 | 2026-03-15 01:34 | $25,000 USD | [Aiven Managed Bug Bounty](https://bugcrowd.com/engagements/aiven-mbb-og) | 云服务平台赏金计划，最高奖励$25,000 USD | 待评估 |
