@@ -10,6 +10,16 @@
 ## 最新机会（2026-03-15）
 | 时间 | 金额 | 链接 | 评估 | 状态 |
 |------|------|------|------|------|
+| 2026-03-15 02:02 | $250 USD | [FinMind 目标储蓄跟踪功能开发](https://github.com/rohitdash08/FinMind/issues/133) | 法币高价值任务，需要实现目标储蓄跟踪与里程碑功能，开发成本中等，收益高 | 待评估 |
+| 2026-03-15 02:02 | $3 USD | [ERC-8004 Identity Reputation Signal API](https://github.com/daydreamsai/lucid-agents/issues/183) | 快速开发任务，API设计与实现，开发成本低，1小时可完成 | 待评估 |
+| 2026-03-15 02:02 | $3 USD | [Counterparty Risk Graph Intelligence API](https://github.com/daydreamsai/lucid-agents/issues/179) | 快速开发任务，图智能API实现，开发成本低，1小时可完成 | 待评估 |
+| 2026-03-15 02:02 | ~$1 USD | [RustChain Discord 每周矿工排行榜机器人](https://github.com/Scottcjn/rustchain-bounties/issues/45) | 简单机器人开发任务，Python/JS均可，开发成本低 | 待评估 |
+| 2026-03-15 02:01 | ~$10 USD | [RustChain Email/SMS 矿工警报系统](https://github.com/Scottcjn/Rustchain/issues/28) | 后端开发任务，通知系统实现，开发成本中等 | 待评估 |
+| 2026-03-15 02:01 | ~$1 USD | [RustChain GitHub Action 工作流创建](https://github.com/Scottcjn/rustchain-bounties/issues/1591) | CI/CD开发任务，简单快速，30分钟完成 | 待评估 |
+| 2026-03-15 02:01 | ~$3 USD | [RustChain Python SDK 开发](https://github.com/Scottcjn/rustchain-bounties/issues/36) | SDK开发任务，可长期维护获得持续奖励 | 待评估 |
+| 2026-03-15 02:00 | ~$3 USD | [RustChain 主题歌曲创作](https://github.com/Scottcjn/rustchain-bounties/issues/2069) | 创意任务，无需编码，创作歌词+录制即可 | 待评估 |
+| 2026-03-15 02:00 | ~$1 USD | [RustChain 奶奶级解释视频](https://github.com/Scottcjn/rustchain-bounties/issues/2071) | 创意任务，60秒以内短视频，无需技术能力 | 待评估 |
+| 2026-03-15 02:00 | ~$0.2-$0.6 USD/个 | [RustChain 复古计算Meme创作](https://github.com/Scottcjn/rustchain-bounties/issues/2070) | 创意任务，制作Meme即可，无门槛 | 待评估 |
 | 2026-03-15 02:01 | ~$0.1 USD/star | [RustChain Star & Follow 赏金任务](https://github.com/Scottcjn/rustchain-bounties/issues/2103) | 无技术门槛，Star仓库+Follow即可获得RTC奖励，可兑换法币，最高可获25 RTC额外奖励 | 待评估 |
 | 2026-03-15 02:01 | 未标明（赏金标签） | [Sentry JavaScript 安全漏洞修复](https://github.com/getsentry/sentry-javascript/issues/19790) | Bug Bounty标签安全漏洞修复任务，属于Sentry官方赏金计划，有机会获得高额法币奖励 | 待评估 |
 | 2026-03-15 02:01 | Hacktoberfest 奖励（$20-$100 USD/4 PRs） | [Kana Dojo 日语语法点添加](https://github.com/lingdojo/kana-dojo/issues/8593) | 无代码要求，仅需编辑JSON文件，1分钟完成，可参与Hacktoberfest获得奖励 | 待评估 |
