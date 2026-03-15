@@ -7,30 +7,62 @@
 - `assessment`: 初步评估结果
 - `status`: 当前进度（待评估/进行中/已完成/已失效）
 
-## 最新机会（2026-03-14）
+## 最新机会（2026-03-15）
+| 时间 | 金额 | 链接 | 评估 | 状态 |
+|------|------|------|------|------|
+| 2026-03-15 01:34 | $250,000 USD | [瑞士邮政电子投票赏金计划](https://yeswehack.com/programs/swiss-post-evoting) | 超高价值安全赏金，奖励最高€230,000 EUR，需要深厚的安全研究能力 | 待评估 |
+| 2026-03-15 01:34 | $30,000+ USD | [GitHub官方赏金计划](https://bounty.github.com/) | 严重漏洞奖励$30,000+ USD，适合安全研究人员 | 待评估 |
+| 2026-03-15 01:34 | $25,000 USD | [Aiven Managed Bug Bounty](https://bugcrowd.com/engagements/aiven-mbb-og) | 云服务平台赏金计划，最高奖励$25,000 USD | 待评估 |
+| 2026-03-15 01:34 | $7,500 USD | [CoinDesk Data API赏金计划](https://bugcrowd.com/engagements/CCData-mbb-og) | API安全赏金，最高奖励$7,500 USD | 待评估 |
+| 2026-03-15 01:34 | $5,000 USD | [Afterpay bug bounty计划](https://bugcrowd.com/engagements/afterpay) | 支付平台赏金，最高奖励$5,000 USD | 待评估 |
+| 2026-03-15 01:34 | $5,000 USD | [AnyTask Freelancer Platform赏金](https://bugcrowd.com/engagements/anytask-mbb-og) | 自由职业平台赏金，最高奖励$5,000 USD | 待评估 |
+| 2026-03-15 01:34 | $7,000 USD | [Arlo Cash Rewards计划](https://bugcrowd.com/engagements/arlo) | 智能家居设备赏金，最高奖励$7,000 USD | 待评估 |
+| 2026-03-15 01:34 | $4,000 USD | [Acorns Grow Inc.赏金计划](https://bugcrowd.com/engagements/acorns) | 理财平台赏金，最高奖励$4,000 USD | 待评估 |
+| 2026-03-15 01:34 | $150 USD | [ripgrim网站响应式布局修复](https://github.com/ripgrim/ripgrim/issues/6) | 前端CSS任务，快速完成可获支付，开发成本低 | 待评估 |
+| 2026-03-15 01:34 | $100 USD | [LinkedIn人员信息富集API开发](https://github.com/bolivian-peru/marketplace-service-template/issues/77) | 后端开发任务，需要LinkedIn数据爬取/API集成经验 | 待评估 |
+| 2026-03-15 01:34 | $80 USD | [mautic代码编辑器<head>内容重复bug修复](https://github.com/mautic/mautic/issues/14409) | 前端开发任务，PHP/JS经验即可 | 待评估 |
+| 2026-03-15 01:34 | $20 USD | [ripgrim网站首页响应式布局修复](https://github.com/ripgrim/ripgrim/issues/10) | 前端CSS任务，简单快速 | 待评估 |
+| 2026-03-15 01:34 | $10 USD | [ripgrim测试赏金任务](https://github.com/ripgrim/ripgrim/issues/3) | 简单实现任务，快速完成 | 待评估 |
+| 2026-03-15 01:34 | $5 USD | [bounty.new平台提交流程测试](https://github.com/bountydotnew/playground/issues/4) | 无需编码，10分钟完成 | 待评估 |
+| 2026-03-15 01:34 | ~$10 USD | [RustChain MCP服务器开发](https://github.com/Scottcjn/rustchain-bounties/issues/1152) | 后端开发任务，支持Claude Code直接查询链上数据 | 待评估 |
+| 2026-03-15 01:34 | ~$1.5 USD | [RustChain /wallet/history端点实现](https://github.com/Scottcjn/Rustchain/issues/908) | Python后端开发任务，开发成本低 | 待评估 |
+| 2026-03-15 01:34 | ~$0.1 USD | [RustChain仓库star任务](https://github.com/Scottcjn/rustchain-bounties/issues/1761) | 无技术门槛，10秒完成 | 待评估 |
+| 2026-03-15 01:34 | ~$0.3 USD | [RustChain功能建议提交](https://github.com/Scottcjn/rustchain-bounties/issues/1759) | 无需编码，提交Issue即可 | 待评估 |
+| 2026-03-15 01:34 | 90%+利润率 | [数字产品模板售卖](https://gumroad.com/discover/popular) | 高销量数字产品模板参考，可快速仿制售卖 | 待评估 |
+| 2026-03-15 01:34 | $75/小时 平均 | [AI Agent开发外包任务](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency) | 47个最新AI Agent开发任务，单价高 | 待评估 |
+| 2026-03-15 01:34 | $30-$150/小时 | [OpenClaw相关外包任务](https://www.upwork.com/nx/jobs/search/?q=openclaw&sort=recency) | 12个最新OpenClaw相关任务，技术匹配度高 | 待评估 |
+
+### 历史机会存档
+#### 2026-03-14 高价值任务
 | 金额 | 链接 | 评估 | 状态 |
 |------|------|------|------|
-| $500 | [FinMind 每周财务摘要功能](https://github.com/rohitdash08/FinMind/issues/121) | 法币高价值任务，要求生成每周财务摘要，需要实现生产级功能+测试+文档，开发成本中等，收益高 | 待评估 |
-| 50 Points | [MushafView回调与持久化](https://github.com/YahiaRagae/mushaf-imad-android/issues/40) | 积分类任务，要求实现Android View回调与持久化，开发成本低 | 待评估 |
-| 50-100 RTC | [Rust钱包移植](https://github.com/Scottcjn/rustchain-bounties/issues/733) | 加密货币任务，要求将Python钱包移植为Rust原生CLI，开发成本高 | 待评估 |
-| 15 RTC | [钱包历史接口实现](https://github.com/Scottcjn/Rustchain/issues/908) | 加密货币任务，要求实现钱包历史接口，开发成本中等 | 待评估 |
-| 40 RTC | [模板市场功能开发](https://github.com/Scottcjn/shaprai/issues/8) | 加密货币任务，要求构建模板市场功能，开发成本中等 | 待评估 |
-| 未标明 | [100xDevs文档补充](https://github.com/vishalsingh2972/100xDevs_2.0/issues/6) | 法币任务，要求补充Web2和DevOps文档，开发成本极低，适合快速完成 | 待评估 |
 | $3000 | [GRVT永续合约连接器](https://github.com/hummingbot/hummingbot/issues/8046) | 法币高价值任务，要求开发Hummingbot GRVT永续合约连接器，开发成本中高，收益极高，后续还有1000 USDC现货连接器任务 | 待评估 |
 | $500 | [FinMind 每周财务摘要功能](https://github.com/rohitdash08/FinMind/issues/121) | 法币高价值任务，要求生成每周财务摘要，需要实现生产级功能+测试+文档，开发成本中等，收益高 | 待评估 |
-| 终身商业授权 | [InkkSlinger MediaElement实现](https://github.com/Chevalier12/InkkSlinger/issues/5) | 商业授权类任务，要求实现WPF MediaElement控件，开发成本高，适合C#/.NET开发者 | 待评估 |
-| 50-100 RTC | [Rust钱包移植](https://github.com/Scottcjn/rustchain-bounties/issues/733) | 加密货币任务，要求将Python钱包移植为Rust原生CLI，开发成本高 | 待评估 |
-| 100 RTC | [链上治理系统开发](https://github.com/Scottcjn/rustchain-bounties/issues/50) | 加密货币任务，要求开发RustChain链上提案与投票系统，开发成本高 | 待评估 |
-| 50-75 RTC | [赏金验证机器人](https://github.com/Scottcjn/rustchain-bounties/issues/747) | 加密货币任务，要求开发GitHub自动验证机器人，开发成本中等 | 待评估 |
-| 40-100 RTC | [浏览器钱包扩展](https://github.com/Scottcjn/rustchain-bounties/issues/730) | 加密货币任务，要求开发RustChain Chrome/Firefox钱包扩展，开发成本中等 | 待评估 |
-| 40 RTC | [模板市场功能开发](https://github.com/Scottcjn/shaprai/issues/8) | 加密货币任务，要求构建模板市场功能，开发成本中等 | 待评估 |
-| 25 RTC | [Fork+Star+Follow任务](https://github.com/Scottcjn/rustchain-bounties/issues/697) | 加密货币低难度任务，要求Fork+Star+Follow指定仓库，开发成本极低，可快速完成 | 待评估 |
-| 20 RTC | [移动端钱包开发](https://github.com/Scottcjn/rustchain-bounties/issues/1616) | 加密货币任务，要求开发React Native/Flutter移动端钱包，开发成本中等 | 待评估 |
-| 15 RTC | [钱包历史接口实现](https://github.com/Scottcjn/Rustchain/issues/908) | 加密货币任务，要求实现钱包历史接口，开发成本中等 | 待评估 |
-| 15 RTC | [ShaprAI Agent部署](https://github.com/Scottcjn/shaprai/issues/60) | 加密货币任务，要求部署ShaprAI Agent到Moltbook，开发成本低 | 待评估 |
-| 8 RTC | [余额查询浏览器扩展](https://github.com/Scottcjn/rustchain-bounties/issues/1607) | 加密货币低难度任务，要求开发简单浏览器扩展显示余额，开发成本低 | 待评估 |
-| 50 Points | [MushafView回调与持久化](https://github.com/YahiaRagae/mushaf-imad-android/issues/40) | 积分类任务，要求实现Android View回调与持久化，开发成本低 | 待评估 |
-| 3 RTC | [首次PR合并奖励](https://github.com/Scottcjn/rustchain-bounties/issues/518) | 加密货币低难度任务，首次提交PR合并即可获得，无额外开发成本 | 待评估 |
-| 2 RTC | [Star+分享任务](https://github.com/Scottcjn/rustchain-bounties/issues/1677) | 加密货币低难度任务，要求Star仓库+社交媒体分享，开发成本极低 | 待评估 |
-| 1 RTC | [Emoji反应任务](https://github.com/Scottcjn/rustchain-bounties/issues/1611) | 加密货币低难度任务，要求给3个Issue加表情反应，开发成本极低 | 待评估 |
-| 0.5 RTC/个 | [Bug报告任务](https://github.com/Scottcjn/Rustchain/issues/775) | 加密货币低难度任务，提交可复现的Bug报告即可获得，开发成本极低 | 待评估 |
+| $250 | [Expensify银行账户货币更新bug修复](https://github.com/Expensify/App/issues/84535) | React Native开发任务，修复银行账户概览中更新货币的bug | 待评估 |
+| $54,000 | [Doctolib healthtech bounty](https://yeswehack.com/programs/doctolib-public-bug-bounty-program) | 医疗科技平台赏金，最高奖励€50,000 EUR | 待评估 |
+| $32,500 | [法国政府DINUM赏金](https://yeswehack.com/programs/franceconnect-proconnect-public) | 政府项目赏金，最高奖励€30,000 EUR | 待评估 |
+
+#### 低门槛快速任务（<1小时完成）
+| 金额 | 链接 | 评估 | 状态 |
+|------|------|------|------|
+| ~$0.1 | [给Issue添加表情反应](https://github.com/Scottcjn/rustchain-bounties/issues/1611) | 无技术门槛，给3个Issue加表情即可 | 待评估 |
+| ~$0.1 | [添加CONTRIBUTING.md文档](https://github.com/Scottcjn/rustchain-bounties/issues/1605) | 简单文档创作，无需编码 | 待评估 |
+| ~$0.2 | [Star仓库+社交媒体分享](https://github.com/Scottcjn/rustchain-bounties/issues/1677) | 无技术门槛，1分钟完成 | 待评估 |
+| ~$0.2 | [为函数添加代码注释](https://github.com/Scottcjn/rustchain-bounties/issues/1608) | 简单开发任务，10分钟完成 | 待评估 |
+| ~$0.5 | [文档拼写错误改进](https://github.com/Scottcjn/rustchain-bounties/issues/1757) | 简单文本编辑，无需编码 | 待评估 |
+
+#### 被动收入机会
+| 类型 | 链接 | 评估 | 状态 |
+|------|------|------|------|
+| 带宽分享 | [money4band](https://github.com/MRColorR/money4band) | 共享闲置带宽获得法币/加密货币奖励 | 待评估 |
+| 存储分享 | [DeNetPRO Node](https://github.com/DeNetPRO/Node) | 出租磁盘空间获得奖励 | 待评估 |
+| 数字产品售卖 | [Gumroad](https://gumroad.com/) | 全球数字产品售卖平台，美元结算，无入驻门槛 | 待评估 |
+| 数字产品售卖 | [小鹅通](https://xiaoe-tech.com/) | 国内知识付费/数字产品售卖平台，人民币结算 | 待评估 |
+
+#### 国内赏金平台
+| 平台 | 链接 | 最低赏金 | 结算货币 |
+|------|------|------|------|
+| 阿里云先知 | https://先知.aliyun.com/ | ¥100 | 人民币 |
+| 腾讯TSRC | https://security.tencent.com/index.php/response | ¥200 | 人民币 |
+| 360补天 | https://www.butian.net/ | ¥50 | 人民币 |
+| 字节跳动BSRC | https://sec.bytedance.com/ | ¥300 | 人民币 |
