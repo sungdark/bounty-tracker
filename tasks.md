@@ -97,3 +97,10 @@
 | BT-0080 | 2026-03-15T12:57:00+00:00 | github | alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | USD | 200 | new |  |  | 2026-03-15T12:57:00+00:00 | 修复AltTab无法打开Telegram的bug，现金奖励$200
 | BT-0081 | 2026-03-15T12:57:00+00:00 | github | code-server | https://github.com/coder/code-server/issues/7198 | $100 | USD | 100 | new |  |  | 2026-03-15T12:57:00+00:00 | 提供Windows原生code-server二进制文件，奖励$100
 | BT-0082 | 2026-03-15T12:57:00+00:00 | github | poidh-app | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 | $50 | USD | 50 | new |  |  | 2026-03-15T12:57:00+00:00 | 修复首页赏金按价值排序不显示的bug，奖励$50
+| BT-0083 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务1，奖励0.1-5 RTC
+| BT-0084 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务2，奖励0.1-5 RTC
+| BT-0085 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务3，奖励0.1-5 RTC
+| BT-0086 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务4，奖励0.1-5 RTC
+| BT-0087 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务1，奖励0.1-5 RTC
+| BT-0088 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务2，奖励0.1-5 RTC
+| BT-0089 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务3，奖励0.1-5 RTC
