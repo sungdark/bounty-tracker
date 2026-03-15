@@ -135,3 +135,6 @@
 | BT-0118 | 2026-03-15T14:15:00+00:00 | github | FreezingMoon | https://github.com/FreezingMoon/AncientBeast/issues/2803 | 234 XTR | XTR | 0 | open |  |  | 2026-03-15T14:15:00+00:00 | Android端六边形触摸输入问题修复，奖励234 XTR
 | BT-0119 | 2026-03-15T14:15:00+00:00 | github | acmpesuecc | https://github.com/acmpesuecc/traffic_simulation/issues/10 | 150 Points | Points | 0 | open |  |  | 2026-03-15T14:15:00+00:00 | 流量模拟更新传播算法bug修复，150积分奖励
 | BT-0120 | 2026-03-15T14:15:00+00:00 | github | acmpesuecc | https://github.com/acmpesuecc/traffic_simulation/issues/9 | 350 Points | Points | 0 | open |  |  | 2026-03-15T14:15:00+00:00 | 交通网络图形可视化开发，350积分奖励
+| BT-0121 | 2026-03-15T14:20:00+00:00 | github | YahiaRagae | https://github.com/YahiaRagae/mushaf-imad-android/issues/33 | points:25 | Points | 0 | new |  |  | 2026-03-15T14:20:00+00:00 | QuranPlayerView Seeking & Progress 测试任务，25积分奖励
+| BT-0122 | 2026-03-15T14:20:00+00:00 | github | YahiaRagae | https://github.com/YahiaRagae/mushaf-imad-android/issues/27 | points:25 | Points | 0 | new |  |  | 2026-03-15T14:20:00+00:00 | Last Read Position API 测试任务，25积分奖励
+| BT-0123 | 2026-03-15T14:20:00+00:00 | github | YahiaRagae | https://github.com/YahiaRagae/mushaf-imad-android/issues/25 | points:25 | Points | 0 | new |  |  | 2026-03-15T14:20:00+00:00 | Reading History API 测试任务，25积分奖励
