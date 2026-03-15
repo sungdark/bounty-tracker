@@ -102,3 +102,4 @@
 | BT-0092 | 2026-03-15T05:08:00Z | github | hyperlane-xyz | https://github.com/search?q=org:hyperlane-xyz+label:bounty+is:open+is:issue | 多档赏金 | 加密货币 | 可变 | discovered |  |  | 2026-03-15T05:08:00Z | 跨链Gas代币自动补充工具开发赏金任务 |
 | BT-0093 | 2026-03-15T05:08:00Z | github | zama-ai/bounty-program | https://github.com/zama-ai/bounty-program/issues?q=label:%22%F0%9F%92%B5+Grant+accepted%22+is:open | 多档赏金 | USD | 可变 | discovered |  |  | 2026-03-15T05:08:00Z | FHE全同态加密相关开发赏金任务 |
 | BT-0094 | 2026-03-15T05:08:00Z | github | asyncapi | https://github.com/orgs/asyncapi/discussions/2279 | 多档赏金 | USD | 可变 | discovered |  |  | 2026-03-15T05:08:00Z | 2026年3月AsyncAPI赏金计划开放提交 |
+| BT-0095 | 2026-03-15T05:09:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2103 | 1 RTC起，上不封顶 | RTC | 可变 | discovered |  |  | 2026-03-15T05:09:00Z | 一键Star/Follow即可赚RTC，AI代理可参与，支持批量操作 |
