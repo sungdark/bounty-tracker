@@ -111,4 +111,6 @@
 | BT-0094 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/4 | 100 USDC | USDC | 100 | new |  |  | 2026-03-15T16:28:00+00:00 | 中文文档翻译编写
 | BT-0095 | 2026-03-15T17:05:00+00:00 | immunefi | zkVerify | https://immunefi.com/bug-bounty/ | up to $50,000 | USD | 50000 | new |  |  | 2026-03-15T17:05:00+00:00 | zkVerify区块链项目bug赏金计划，最高奖励$50,000
 | BT-0096 | 2026-03-15T17:10:00+00:00 | immunefi | Injective | https://immunefi.com/bug-bounty/injective/ | up to $500M+ | USD | 500 | new |  |  | 2026-03-15T17:10:00+00:00 | Injective区块链bug赏金计划，近期有争议但仍开放接受报告，最低赏金$500+
+| BT-0097 | 2026-03-15T17:14:00+00:00 | bountyhub | BountyHub | https://www.bountyhub.dev/ | $10+ | USD | 10 | new |  |  | 2026-03-15T17:14:00+00:00 | GitHub Issue赏金平台，支持众筹，开发者0手续费，支持120+国家提现
+| BT-0098 | 2026-03-15T17:14:00+00:00 | github | GitHub Security | https://bounty.github.com/ | $30,000+ | USD | 30000 | new |  |  | 2026-03-15T17:14:00+00:00 | GitHub官方漏洞赏金计划，严重漏洞最高$30,000+奖励
 
