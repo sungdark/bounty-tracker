@@ -154,3 +154,5 @@ time,source,title,url,amount,status,notes
 2026-03-14T23:00:00Z,https://github.com/Scottcjn/rustchain-bounties/issues/697,25 RTC,加密货币低难度任务，Fork+Star+Follow指定仓库，5分钟即可完成,待执行
 2026-03-14T23:00:00Z,https://github.com/Scottcjn/rustchain-bounties/issues/518,3 RTC,加密货币低难度任务，首次PR合并奖励，无额外开发成本,待执行
 2026-03-14T23:00:00Z,https://github.com/Scottcjn/rustchain-bounties/issues/1677,2 RTC,加密货币低难度任务，Star仓库+社交媒体分享，1分钟完成,待执行
+2026-03-15T02:00:00Z,GitHub,RustChain Star & Follow,https://github.com/Scottcjn/rustchain-bounties/issues/2103,1 RTC,部分完成,已Star Rustchain仓库，待Follow授权后提交评论
+2026-03-15T02:00:00Z,GitHub,Kana Dojo日语语法点添加,https://github.com/lingdojo/kana-dojo/issues/8593,Hacktoberfest贡献,已完成,PR已提交: https://github.com/lingdojo/kana-dojo/pull/8594，待审核合并
