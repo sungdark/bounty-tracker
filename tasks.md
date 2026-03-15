@@ -69,4 +69,19 @@
 | BT-0052 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/Rustchain/issues/773 | 0.5 RTC | RTC | 0.05 | new |  |  | 2026-03-15T08:47:00+00:00 | Star仓库并分享感想，每个0.5 RTC |
 | BT-0053 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1504 | 1 RTC | RTC | 0.1 | new |  |  | 2026-03-15T08:47:00+00:00 | 完成BoTTube个人资料设置（头像+简介+首个视频），奖励1 RTC |
 | BT-0054 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1115 | 5 RTC | RTC | 0.5 | new |  |  | 2026-03-15T08:47:00+00:00 | 设计128 Star庆祝图形，奖励5 RTC |
-| BT-0055 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rust
+| BT-0055 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rust |  |  |  |  |  |  |  |
+| BT-0056 | 2026-03-15T11:54:00+00:00 | hackerone | HackerOne | https://www.hackerone.com/bug-bounty-programs | $50+ | USD | 50 | new |  |  | 2026-03-15T11:54:00+00:00 | HackerOne平台所有公开赏金项目，最低赏金$50
+| BT-0057 | 2026-03-15T11:54:00+00:00 | yeswehack | YesWeHack | https://www.yeswehack.com/ | €50+ | EUR | 54 | new |  |  | 2026-03-15T11:54:00+00:00 | YesWeHack全球漏洞赏金平台，最低赏金€50
+| BT-0058 | 2026-03-15T11:54:00+00:00 | apple | Apple Security Research | https://security.apple.com/bounty/ | 最高$1,000,000 | USD | 1000000 | new |  |  | 2026-03-15T11:54:00+00:00 | Apple安全赏金计划，严重漏洞最高奖励$100万
+| BT-0059 | 2026-03-15T11:54:00+00:00 | ston.fi | STON.fi | https://ston.fi/ | 未公开 | USD | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | TON区块链DeFi应用漏洞赏金计划
+| BT-0060 | 2026-03-15T11:54:00+00:00 | 国内赏金平台 | 赏帮赚 | https://www.wazhuan.net/48213.html | 1元+ | CNY | 0.14 | new |  |  | 2026-03-15T11:54:00+00:00 | 国内手机悬赏任务平台，满10元可提现到支付宝
+| BT-0061 | 2026-03-15T11:54:00+00:00 | 国内赏金平台 | 赏金猎人 | https://huntbounty.cn/ | 未公开 | CNY | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 国内线下任务赏金平台，上海地区有社保相关高报酬任务
+| BT-0062 | 2026-03-15T11:54:00+00:00 | 跨境电商 | 阿里巴巴国际站 | https://supplier.alibaba.com/ | 未公开 | USD | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 外贸B2B平台，可出售数字产品和实体商品到全球
+| BT-0063 | 2026-03-15T11:54:00+00:00 | 跨境电商 | Noon | https://www.noon.com/ | 未公开 | AED | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 中东电商平台，适合数字产品和实体商品售卖
+| BT-0064 | 2026-03-15T11:54:00+00:00 | 远程工作 | 云队友 | https://www.duiyou360.com/job/hots | 未公开 | CNY | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 国内技术接单平台，程序员/设计师/产品经理远程工作机会
+| BT-0065 | 2026-03-15T11:54:00+00:00 | 远程工作 | 猿急送 | https://www.yuanjisong.com/consultant | 未公开 | CNY | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 国内IT技术兼职平台，按需雇佣模式
+| BT-0066 | 2026-03-15T11:54:00+00:00 | 远程工作 | 开源众包 | https://zb.oschina.net/projects/list.html | 未公开 | CNY | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 开源中国旗下众包平台，开源项目开发任务
+| BT-0067 | 2026-03-15T11:54:00+00:00 | 远程工作 | 电鸭社区 | https://eleduck.com/ | 未公开 | CNY | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 国内专注远程工作的社区，招聘和项目信息丰富
+| BT-0068 | 2026-03-15T11:54:00+00:00 | 远程工作 | 程序员客栈 | https://www.proginn.com/ | 未公开 | CNY | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 中高端程序员远程工作平台，项目报酬较高
+| BT-0069 | 2026-03-15T11:54:00+00:00 | 远程工作 | Fiverr | https://www.fiverr.com/ | $5+ | USD | 5 | new |  |  | 2026-03-15T11:54:00+00:00 | 海外技能售卖平台，可出售各类标准化数字服务
+| BT-0070 | 2026-03-15T11:54:00+00:00 | 远程工作 | Toptal | https://www.toptal.com/ | $100+/小时 | USD | 100 | new |  |  | 2026-03-15T11:54:00+00:00 | 高端开发者远程工作平台，对接欧美企业项目，报酬丰厚
