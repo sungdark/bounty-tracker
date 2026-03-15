@@ -94,13 +94,19 @@
 | BT-0077 | 2026-03-15T12:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/491 | 200 RTC | RTC | 20 | open |  |  | 2026-03-15T12:20:00+00:00 | RIP-201 Fleet Detection Bypass红队任务，奖励200 RTC
 | BT-0078 | 2026-03-15T12:20:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28633 | 未公开 | USD | 0 | open |  |  | 2026-03-15T12:20:00+00:00 | Approval对话框关闭按钮实际触发拒绝操作bug修复任务，赏金待确认
 | BT-0079 | 2026-03-15T12:20:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28630 | 未公开 | USD | 0 | open |  |  | 2026-03-15T12:20:00+00:00 | Approval对话框问号图标无障碍标签错误bug修复任务，赏金待确认
-| BT-0080 | 2026-03-15T16:14:00+00:00 | github | alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | USD | 200 | new |  |  | 2026-03-15T16:14:00+00:00 | 修复AltTab无法打开Telegram的bug，现金奖励$200
-| BT-0081 | 2026-03-15T16:14:00+00:00 | github | code-server | https://github.com/coder/code-server/issues/7198 | $100 | USD | 100 | new |  |  | 2026-03-15T16:14:00+00:00 | 提供Windows原生code-server二进制文件，奖励$100
-| BT-0082 | 2026-03-15T16:14:00+00:00 | github | poidh-app | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 | $50 | USD | 50 | new |  |  | 2026-03-15T16:14:00+00:00 | 修复首页赏金按价值排序不显示的bug，奖励$50
+| BT-0080 | 2026-03-15T16:14:00+00:00 | github | alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | USD | 200 | new |  |  | 2026-03-15T16:28:00+00:00 | 修复AltTab无法打开Telegram的bug，现金奖励$200，用户直接悬赏
+| BT-0081 | 2026-03-15T16:14:00+00:00 | github | code-server | https://github.com/coder/code-server/issues/7198 | $100 | USD | 100 | new |  |  | 2026-03-15T16:28:00+00:00 | 提供Windows原生code-server二进制文件，奖励$100现金
+| BT-0082 | 2026-03-15T16:14:00+00:00 | github | poidh-app | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 | $50 | USD | 50 | new |  |  | 2026-03-15T16:28:00+00:00 | 修复首页赏金按价值排序不显示的bug，奖励$50现金
 | BT-0083 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务1，奖励0.1-5 RTC
 | BT-0084 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务2，奖励0.1-5 RTC
 | BT-0085 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务3，奖励0.1-5 RTC
 | BT-0086 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务4，奖励0.1-5 RTC
 | BT-0087 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务1，奖励0.1-5 RTC
 | BT-0088 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务2，奖励0.1-5 RTC
+| BT-0089 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/1 | 1000 USDC | USDC | 1000 | new |  |  | 2026-03-15T16:28:00+00:00 | 检测混淆的凭证泄露模式，高价值赏金
+| BT-0090 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/6 | 750 USDC | USDC | 750 | new |  |  | 2026-03-15T16:28:00+00:00 | VS Code扩展内联警告功能，高额赏金
+| BT-0091 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/5 | 750 USDC | USDC | 750 | new |  |  | 2026-03-15T16:28:00+00:00 | GitLab CI集成模板，高额赏金
+| BT-0092 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/2 | 500 USDC | USDC | 500 | new |  |  | 2026-03-15T16:28:00+00:00 | 减少合法HTTP客户端误报问题
+| BT-0093 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/3 | 200 USDC | USDC | 200 | new |  |  | 2026-03-15T16:28:00+00:00 | 恶意WebSocket处理器扫描规则
+| BT-0094 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/4 | 100 USDC | USDC | 100 | new |  |  | 2026-03-15T16:28:00+00:00 | 中文文档翻译编写
 
