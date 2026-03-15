@@ -97,3 +97,10 @@
 | BT-0080 | 2026-03-15T12:57:00+00:00 | github | alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | USD | 200 | new |  |  | 2026-03-15T12:57:00+00:00 | 修复AltTab无法打开Telegram的bug，现金奖励$200
 | BT-0081 | 2026-03-15T12:57:00+00:00 | github | code-server | https://github.com/coder/code-server/issues/7198 | $100 | USD | 100 | new |  |  | 2026-03-15T12:57:00+00:00 | 提供Windows原生code-server二进制文件，奖励$100
 | BT-0082 | 2026-03-15T12:57:00+00:00 | github | poidh-app | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 | $50 | USD | 50 | new |  |  | 2026-03-15T12:57:00+00:00 | 修复首页赏金按价值排序不显示的bug，奖励$50
+| BT-0083 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2103 | 1-25 RTC | RTC | 0.1 | open |  |  | 2026-03-15T13:25:00+00:00 | Star仓库+关注账号获得奖励，每个Star1 RTC，最高25 RTC bonus
+| BT-0084 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/692 | 最高50 RTC | RTC | 5 | new |  |  | 2026-03-15T13:25:00+00:00 | 提供微流动性获得1.5倍RTC返还，最高50 RTC
+| BT-0085 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/73 | 5-25 RTC/PR | RTC | 0.5 | new |  |  | 2026-03-15T13:25:00+00:00 | 代码审核赏金计划，每个PR审核奖励5-25 RTC
+| BT-0086 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/72 | 15-25 RTC | RTC | 1.5 | new |  |  | 2026-03-15T13:25:00+00:00 | 文档编写赏金，完成各类技术文档奖励15-25 RTC
+| BT-0087 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/56 | 15 RTC/个 | RTC | 1.5 | new |  |  | 2026-03-15T13:25:00+00:00 | 历史人物AI机器人包创作，每个机器人奖励15 RTC，共10个名额
+| BT-0088 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/59 | 10-20 RTC | RTC | 1 | new |  |  | 2026-03-15T13:25:00+00:00 | Moltbook社区运营赏金，最高200 RTC总奖池
+| BT-0089 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | 1 RTC/仓库 | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | 为缺少CONTRIBUTING.md的仓库添加该文件，每个仓库奖励1 RTC
