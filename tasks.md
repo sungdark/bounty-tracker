@@ -141,3 +141,9 @@
 | BT-0124 | 2026-03-15T14:58:00+00:00 | github | dragonked2 | https://github.com/dragonked2/Dons | 未公开 | USD | 0 | new |  |  | 2026-03-15T14:58:00+00:00 | Dons Js Scanner 相关赏金任务，奖励待确认
 | BT-0125 | 2026-03-15T14:58:00+00:00 | github | 1712n | https://github.com/1712n/challenge | 未公开 | USD | 0 | new |  |  | 2026-03-15T14:58:00+00:00 | 编程挑战赏金项目，奖励待确认
 | BT-0126 | 2026-03-15T14:58:00+00:00 | github | MeoMunDep | https://github.com/MeoMunDep/Discord-Autobot | 未公开 | USD | 0 | new |  |  | 2026-03-15T14:58:00+00:00 | Discord 自动化机器人相关赏金任务，奖励待确认
+| BT-0127 | 2026-03-15T15:15:00+00:00 | bug bounty | systemd | https://yeswehack.com/programs | €50 - €5,000 | EUR | 54 | new |  |  | 2026-03-15T15:15:00+00:00 | systemd Bug Bounty Program，2026-03-13更新，最低奖励€50
+| BT-0128 | 2026-03-15T15:15:00+00:00 | bug bounty | Multipli | https://hackenproof.com/programs | 未公开 | USD | 0 | new |  |  | 2026-03-15T15:15:00+00:00 | Multipli ZK收益协议智能合约赏金计划
+| BT-0129 | 2026-03-15T15:15:00+00:00 | bug bounty | Web3 | https://immunefi.com/bug-bounty/ | 最高$1,000,000+ | USD | 1000000 | new |  |  | 2026-03-15T15:15:00+00:00 | Immunefi Web3漏洞赏金平台，高价值智能合约漏洞奖励
+| BT-0130 | 2026-03-15T15:15:00+00:00 | freelance | Freelancer | https://www.freelancer.com/jobs/ | $5 - $10,000+ | USD | 5 | new |  |  | 2026-03-15T15:15:00+00:00 | Freelancer平台各类编程/设计/写作自由职业项目，即时启动
+| BT-0131 | 2026-03-15T15:15:00+00:00 | freelance | Indeed | https://www.indeed.com/q-remote-programming-jobs.html | $20 - $150/小时 | USD | 20 | new |  |  | 2026-03-15T15:15:00+00:00 | Indeed远程编程工作机会，全职/兼职都有
+| BT-0132 | 2026-03-15T15:15:00+00:00 | AI freelance | Vollna | https://www.vollna.com/freelance-ai-projects | $50 - $5000+ | USD | 50 | new |  |  | 2026-03-15T15:15:00+00:00 | AI相关 freelance 项目，涵盖大模型/Agent/LLM应用开发
