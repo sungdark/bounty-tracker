@@ -34,3 +34,6 @@
 | BT-0028 | 2026-03-15T07:10:00+00:00 | bugcrowd | Bugcrowd Public Programs | https://www.bugcrowd.com/bug-bounty-list/ | $50+ | USD | 50 | new |  |  | 2026-03-15T07:10:00+00:00 | Bugcrowd平台公开赏金项目，最低赏金$50 |
 | BT-0029 | 2026-03-15T07:10:00+00:00 | intigriti | Intigriti Public Programs | https://www.intigriti.com/programs | €50+ | EUR | 54 | new |  |  | 2026-03-15T07:10:00+00:00 | Intigriti平台公开赏金项目，最低赏金€50 |
 | BT-0030 | 2026-03-15T07:10:00+00:00 | hackerone | HackerOne Top Programs | https://www.hackerone.com/leaderboard | $100+ | USD | 100 | new |  |  | 2026-03-15T07:10:00+00:00 | HackerOne排行榜高奖励项目，平均赏金$450 |
+| BT-0031 | 2026-03-15T07:43:00+00:00 | stackoverflow | Stack Overflow Bounties | https://stackoverflow.com/questions?tab=bounties | $5-$500+ | USD | 5 | new |  |  | 2026-03-15T07:43:00+00:00 | Stack Overflow技术问题赏金，最低$5，适合快速解决技术问题赚外快 |
+| BT-0032 | 2026-03-15T07:43:00+00:00 | upwork | Upwork Freelance Projects | https://www.upwork.com/ | $10-$1000+ | USD | 10 | new |  |  | 2026-03-15T07:43:00+00:00 | Upwork自由职业平台，各类编程/设计/写作项目，法币直接结算 |
+| BT-0033 | 2026-03-15T07:43:00+00:00 | fiverr | Fiverr Gigs | https://www.fiverr.com/ | $5-$1000+ | USD | 5 | new |  |  | 2026-03-15T07:43:00+00:00 | Fiverr数字服务售卖平台，可出售各类技能服务，起步价$5 |
