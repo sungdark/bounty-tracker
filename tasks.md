@@ -18,3 +18,19 @@
 | BT-0012 | 2026-03-15T06:39:00+00:00 | hackerone | Arkose Labs | https://hackerone.com/arkose_labs | $50+ | USD | 50 | new |  |  | 2026-03-15T06:39:00+00:00 | Arkose Labs bug bounty program，最低赏金$50 |
 | BT-0013 | 2026-03-15T06:39:00+00:00 | hackerone | AT&T | https://hackerone.com/att | $100+ | USD | 100 | new |  |  | 2026-03-15T06:39:00+00:00 | AT&T bug bounty program，最低赏金$100 |
 | BT-0014 | 2026-03-15T06:42:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2074 | 2 RTC | RTC | 0.2 | submitted | https://github.com/Scottcjn/rustchain-bounties/issues/2074#issuecomment-4062405156 |  | 2026-03-15T06:45:00+00:00 | 已提交搞笑挖矿设备照片（墙贴树莓派集群），待审核，预计获得2 RTC奖励 |
+| BT-0015 | 2026-03-15T07:09:00+00:00 | hackerone | Shopify | https://hackerone.com/shopify | $50+ | USD | 50 | new |  |  | 2026-03-15T07:09:00+00:00 | Shopify bug bounty program，最低赏金$50 |
+| BT-0016 | 2026-03-15T07:09:00+00:00 | hackerone | Spotify | https://hackerone.com/spotify | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | Spotify bug bounty program，最低赏金$100 |
+| BT-0017 | 2026-03-15T07:09:00+00:00 | hackerone | Slack | https://hackerone.com/slack | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | Slack bug bounty program，最低赏金$100 |
+| BT-0018 | 2026-03-15T07:09:00+00:00 | hackerone | Twitter | https://hackerone.com/twitter | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | X (Twitter) bug bounty program，最低赏金$100 |
+| BT-0019 | 2026-03-15T07:09:00+00:00 | hackerone | Uber | https://hackerone.com/uber | $500+ | USD | 500 | new |  |  | 2026-03-15T07:09:00+00:00 | Uber bug bounty program，最低赏金$500 |
+| BT-0020 | 2026-03-15T07:09:00+00:00 | hackerone | Verizon | https://hackerone.com/verizon | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | Verizon bug bounty program，最低赏金$100 |
+| BT-0021 | 2026-03-15T07:09:00+00:00 | hackerone | VMWare | https://hackerone.com/vmware | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | VMWare bug bounty program，最低赏金$100 |
+| BT-0022 | 2026-03-15T07:09:00+00:00 | hackerone | WhatsApp | https://hackerone.com/whatsapp | $1000+ | USD | 1000 | new |  |  | 2026-03-15T07:09:00+00:00 | WhatsApp bug bounty program，最低赏金$1000，高价值目标 |
+| BT-0023 | 2026-03-15T07:09:00+00:00 | hackerone | WordPress | https://hackerone.com/wordpress | $50+ | USD | 50 | new |  |  | 2026-03-15T07:09:00+00:00 | WordPress bug bounty program，最低赏金$50 |
+| BT-0024 | 2026-03-15T07:09:00+00:00 | hackerone | Yahoo | https://hackerone.com/yahoo | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | Yahoo bug bounty program，最低赏金$100 |
+| BT-0025 | 2026-03-15T07:09:00+00:00 | hackerone | Yelp | https://hackerone.com/yelp | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | Yelp bug bounty program，最低赏金$100 |
+| BT-0026 | 2026-03-15T07:09:00+00:00 | hackerone | Zendesk | https://hackerone.com/zendesk | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | Zendesk bug bounty program，最低赏金$100 |
+| BT-0027 | 2026-03-15T07:10:00+00:00 | zama | Zama Bounty Program | https://github.com/zama-ai/bounty-program | €10,000 per bounty | EUR | 10800 | new |  |  | 2026-03-15T07:10:00+00:00 | Zama FHE bounty program，每个项目最高奖励€10,000，高价值技术项目 |
+| BT-0028 | 2026-03-15T07:10:00+00:00 | bugcrowd | Bugcrowd Public Programs | https://www.bugcrowd.com/bug-bounty-list/ | $50+ | USD | 50 | new |  |  | 2026-03-15T07:10:00+00:00 | Bugcrowd平台公开赏金项目，最低赏金$50 |
+| BT-0029 | 2026-03-15T07:10:00+00:00 | intigriti | Intigriti Public Programs | https://www.intigriti.com/programs | €50+ | EUR | 54 | new |  |  | 2026-03-15T07:10:00+00:00 | Intigriti平台公开赏金项目，最低赏金€50 |
+| BT-0030 | 2026-03-15T07:10:00+00:00 | hackerone | HackerOne Top Programs | https://www.hackerone.com/leaderboard | $100+ | USD | 100 | new |  |  | 2026-03-15T07:10:00+00:00 | HackerOne排行榜高奖励项目，平均赏金$450 |
