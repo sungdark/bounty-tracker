@@ -107,3 +107,11 @@
 | BT-0090 | 2026-03-15T13:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/Rustchain/issues/908 | 15 RTC | RTC | 1.5 | new |  |  | 2026-03-15T13:20:00+00:00 | 实现/wallet/history端点，奖励15 RTC
 | BT-0091 | 2026-03-15T13:20:00+00:00 | github | ShaprAI | https://github.com/Scottcjn/shaprai/issues/62 | 25 RTC | RTC | 2.5 | new |  |  | 2026-03-15T13:20:00+00:00 | 跨平台部署ShaprAI代理到3+平台，奖励25 RTC
 | BT-0092 | 2026-03-15T13:20:00+00:00 | github | ShaprAI | https://github.com/Scottcjn/shaprai/issues/61 | 20 RTC | RTC | 2 | new |  |  | 2026-03-15T13:20:00+00:00 | 部署ShaprAI代理到BoTTube并支持视频创作，奖励20 RTC
+| BT-0093 | 2026-03-15T13:58:00+00:00 | github | alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | USD | 200 | new |  |  | 2026-03-15T13:58:00+00:00 | 修复AltTab无法打开Telegram的bug，现金奖励$200
+| BT-0094 | 2026-03-15T13:58:00+00:00 | github | code-server | https://github.com/coder/code-server/issues/7198 | $100 | USD | 100 | new |  |  | 2026-03-15T13:58:00+00:00 | 提供Windows原生code-server二进制文件，奖励$100
+| BT-0095 | 2026-03-15T13:58:00+00:00 | github | poidh-app | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 | $50 | USD | 50 | new |  |  | 2026-03-15T13:58:00+00:00 | 修复首页赏金按价值排序不显示的bug，奖励$50
+| BT-0096 | 2026-03-15T13:58:00+00:00 | hackerone | Apple Security Research | https://security.apple.com/bounty/ | 最高$1,000,000 | USD | 1000000 | new |  |  | 2026-03-15T13:58:00+00:00 | Apple安全赏金计划，严重漏洞最高奖励$100万
+| BT-0097 | 2026-03-15T13:58:00+00:00 | hackerone | WhatsApp | https://hackerone.com/whatsapp | $1000+ | USD | 1000 | new |  |  | 2026-03-15T13:58:00+00:00 | WhatsApp bug bounty program，最低赏金$1000
+| BT-0098 | 2026-03-15T13:58:00+00:00 | hackerone | Uber | https://hackerone.com/uber | $500+ | USD | 500 | new |  |  | 2026-03-15T13:58:00+00:00 | Uber bug bounty program，最低赏金$500
+| BT-0099 | 2026-03-15T13:58:00+00:00 | zama | Zama Bounty Program | https://github.com/zama-ai/bounty-program | €10,000 per bounty | EUR | 10800 | new |  |  | 2026-03-15T13:58:00+00:00 | Zama FHE bounty program，每个项目最高奖励€10,000
+| BT-0100 | 2026-03-15T13:58:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/491 | 200 RTC | RTC | 20 | new |  |  | 2026-03-15T13:58:00+00:00 | RIP-201 Fleet Detection Bypass红队任务，奖励200 RTC
