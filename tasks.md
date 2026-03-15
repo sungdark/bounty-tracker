@@ -138,3 +138,6 @@
 | BT-0121 | 2026-03-15T14:20:00+00:00 | github | YahiaRagae | https://github.com/YahiaRagae/mushaf-imad-android/issues/33 | points:25 | Points | 0 | new |  |  | 2026-03-15T14:20:00+00:00 | QuranPlayerView Seeking & Progress 测试任务，25积分奖励
 | BT-0122 | 2026-03-15T14:20:00+00:00 | github | YahiaRagae | https://github.com/YahiaRagae/mushaf-imad-android/issues/27 | points:25 | Points | 0 | new |  |  | 2026-03-15T14:20:00+00:00 | Last Read Position API 测试任务，25积分奖励
 | BT-0123 | 2026-03-15T14:20:00+00:00 | github | YahiaRagae | https://github.com/YahiaRagae/mushaf-imad-android/issues/25 | points:25 | Points | 0 | new |  |  | 2026-03-15T14:20:00+00:00 | Reading History API 测试任务，25积分奖励
+| BT-0124 | 2026-03-15T14:58:00+00:00 | github | dragonked2 | https://github.com/dragonked2/Dons | 未公开 | USD | 0 | new |  |  | 2026-03-15T14:58:00+00:00 | Dons Js Scanner 相关赏金任务，奖励待确认
+| BT-0125 | 2026-03-15T14:58:00+00:00 | github | 1712n | https://github.com/1712n/challenge | 未公开 | USD | 0 | new |  |  | 2026-03-15T14:58:00+00:00 | 编程挑战赏金项目，奖励待确认
+| BT-0126 | 2026-03-15T14:58:00+00:00 | github | MeoMunDep | https://github.com/MeoMunDep/Discord-Autobot | 未公开 | USD | 0 | new |  |  | 2026-03-15T14:58:00+00:00 | Discord 自动化机器人相关赏金任务，奖励待确认
