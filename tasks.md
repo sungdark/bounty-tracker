@@ -123,5 +123,6 @@
 | BT-0112 | 2026-03-15T23:10:00+00:00 | devguild | DevGuild | https://devguild.tech/ | $10+ | USD | 10 | waitlist |  |  | 2026-03-15T23:10:00+00:00 | 开发者赏金市场，法币USD直接支付，目前处于早期访问等待列表
 | BT-0113 | 2026-03-15T23:18:00+00:00 | up-for-grabs | Up For Grabs | https://up-for-grabs.net/ | 多种 | 多种 | 0 | open |  |  | 2026-03-15T23:18:00+00:00 | 开源项目新手友好任务聚合平台，许多项目带赏金奖励，适合新贡献者入门
 | BT-0114 | 2026-03-15T23:18:00+00:00 | gitpay | Gitpay | https://gitpay.me/ | $5+ | USD | 5 | open |  |  | 2026-03-15T23:18:00+00:00 | GitHub issue赏金平台，解决问题后直接银行账户法币结算，自动验证支付
+| BT-0115 | 2026-03-15T23:35:00+00:00 | bountyhub | BountyHub | https://www.bountyhub.dev/bounties | $10+ | USD | 10 | open |  |  | 2026-03-15T23:35:00+00:00 | 零手续费GitHub Issue赏金平台，支持众筹，开发者0手续费，120+国家支持Stripe/PayPal法币提现 |
 
 
