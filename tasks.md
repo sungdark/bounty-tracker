@@ -119,4 +119,6 @@
 | BT-0108 | 2026-03-15T22:24:00+00:00 | hackerone | Twilio | https://hackerone.com/twilio | $100+ | USD | 100 | new |  |  | 2026-03-15T22:24:00+00:00 | Twilio公开bug bounty计划，最低赏金$100，高质量漏洞奖励更高
 | BT-0109 | 2026-03-15T22:24:00+00:00 | hackerone | DoorDash | https://hackerone.com/doordash | $100+ | USD | 100 | new |  |  | 2026-03-15T22:24:00+00:00 | DoorDash公开bug bounty计划，最低赏金$100，平台持续开放接受报告
 | BT-0110 | 2026-03-15T22:24:00+00:00 | github | arkadiyt/bounty-targets-data | https://github.com/arkadiyt/bounty-targets-data |  |  |  | 参考 |  |  | 2026-03-15T22:24:00+00:00 | 每小时更新HackerOne/Bugcrowd/Intigriti公开赏金范围数据，共233个开放赏金项目
+| BT-0111 | 2026-03-15T23:09:00+00:00 | palemoon | Pale Moon | https://developer.palemoon.org/docs/bounty/ | $50-$250 | USD | 50 | open |  |  | 2026-03-15T23:09:00+00:00 | Pale Moon开发赏金计划，典型赏金$50-$250，PayPal法币结算
+| BT-0112 | 2026-03-15T23:10:00+00:00 | devguild | DevGuild | https://devguild.tech/ | $10+ | USD | 10 | waitlist |  |  | 2026-03-15T23:10:00+00:00 | 开发者赏金市场，法币USD直接支付，目前处于早期访问等待列表
 
