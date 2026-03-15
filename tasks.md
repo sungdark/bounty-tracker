@@ -80,3 +80,5 @@
 | BT-0063 | 2026-03-15T09:13:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1578 | 5 RTC | RTC | 0.5 | new |  |  | 2026-03-15T09:13:00+00:00 | 将旗舰项目添加到Awesome List或公共工具目录，每个接受的提交奖励5 RTC |
 | BT-0064 | 2026-03-15T09:14:00+00:00 | github | BoTTube | https://github.com/Scottcjn/rustchain-bounties/issues/1603 | 3 RTC | RTC | 0.3 | new |  |  | 2026-03-15T09:14:00+00:00 | 为BoTTube API创建Python/JS SDK封装，奖励3 RTC |
 | BT-0065 | 2026-03-15T09:14:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1593 | 2 RTC | RTC | 0.2 | new |  |  | 2026-03-15T09:14:00+00:00 | 将错误信息翻译到其他语言，每个语言（至少20条字符串）奖励2 RTC |
+| BT-0066 | 2026-03-15T10:12:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/5 | Undisclosed | N/A | 0 | new |  |  | 2026-03-15T10:12:00+00:00 | 创建Kravral大陆交互式地图，包含5个区域，赏金待确认 |
+| BT-0067 | 2026-03-15T10:12:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/3 | Undisclosed | N/A | 0 | new |  |  | 2026-03-15T10:12:00+00:00 | 扩充Kaiser Historia人物背景故事，赏金待确认 |
