@@ -28,7 +28,7 @@
 | BT-0011 | 2026-03-15T06:39:00+00:00 | hackerone | Anduril Industries | https://hackerone.com/anduril_industries | $50+ | USD | 50 | new |  |  | 2026-03-15T06:39:00+00:00 | Anduril Industries bug bounty program，最低赏金$50 |
 | BT-0012 | 2026-03-15T06:39:00+00:00 | hackerone | Arkose Labs | https://hackerone.com/arkose_labs | $50+ | USD | 50 | new |  |  | 2026-03-15T06:39:00+00:00 | Arkose Labs bug bounty program，最低赏金$50 |
 | BT-0013 | 2026-03-15T06:39:00+00:00 | hackerone | AT&T | https://hackerone.com/att | $100+ | USD | 100 | new |  |  | 2026-03-15T06:39:00+00:00 | AT&T bug bounty program，最低赏金$100 |
-| BT-0014 | 2026-03-15T06:42:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2074 | 2 RTC | RTC | 0.2 | submitted | https://github.com/Scottcjn/rustchain-bounties/issues/2074#issuecomment-4062405156 |  | 2026-03-15T06:45:00+00:00 | 已提交搞笑挖矿设备照片（墙贴树莓派集群），待审核，预计获得2 RTC奖励 |
+| BT-0014 | 2026-03-15T06:42:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2074 | 2 RTC | RTC | 0.2 | submitted | https://github.com/Scottcjn/rustchain-bounties/issues/2074#issuecomment-4062405156 |  | 2026-03-15T13:20:00+00:00 | 已提交搞笑挖矿设备照片（墙贴树莓派集群），待审核，预计获得2 RTC奖励，项目状态正常 |
 | BT-0015 | 2026-03-15T07:09:00+00:00 | hackerone | Shopify | https://hackerone.com/shopify | $50+ | USD | 50 | new |  |  | 2026-03-15T07:09:00+00:00 | Shopify bug bounty program，最低赏金$50 |
 | BT-0016 | 2026-03-15T07:09:00+00:00 | hackerone | Spotify | https://hackerone.com/spotify | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | Spotify bug bounty program，最低赏金$100 |
 | BT-0017 | 2026-03-15T07:09:00+00:00 | hackerone | Slack | https://hackerone.com/slack | $100+ | USD | 100 | new |  |  | 2026-03-15T07:09:00+00:00 | Slack bug bounty program，最低赏金$100 |
@@ -104,3 +104,6 @@
 | BT-0087 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/56 | 15 RTC/个 | RTC | 1.5 | new |  |  | 2026-03-15T13:25:00+00:00 | 历史人物AI机器人包创作，每个机器人奖励15 RTC，共10个名额
 | BT-0088 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/59 | 10-20 RTC | RTC | 1 | new |  |  | 2026-03-15T13:25:00+00:00 | Moltbook社区运营赏金，最高200 RTC总奖池
 | BT-0089 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | 1 RTC/仓库 | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | 为缺少CONTRIBUTING.md的仓库添加该文件，每个仓库奖励1 RTC
+| BT-0090 | 2026-03-15T13:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/Rustchain/issues/908 | 15 RTC | RTC | 1.5 | new |  |  | 2026-03-15T13:20:00+00:00 | 实现/wallet/history端点，奖励15 RTC
+| BT-0091 | 2026-03-15T13:20:00+00:00 | github | ShaprAI | https://github.com/Scottcjn/shaprai/issues/62 | 25 RTC | RTC | 2.5 | new |  |  | 2026-03-15T13:20:00+00:00 | 跨平台部署ShaprAI代理到3+平台，奖励25 RTC
+| BT-0092 | 2026-03-15T13:20:00+00:00 | github | ShaprAI | https://github.com/Scottcjn/shaprai/issues/61 | 20 RTC | RTC | 2 | new |  |  | 2026-03-15T13:20:00+00:00 | 部署ShaprAI代理到BoTTube并支持视频创作，奖励20 RTC
