@@ -108,3 +108,10 @@
 | BT-0091 | 2026-03-15T10:19:00+00:00 | github | Scottcjn/bottube | https://github.com/Scottcjn/bottube/issues/158 | 50 RTC | RTC | 5 | new |  |  | 2026-03-15T10:19:00+00:00 | 撰写BoTTube API集成文章（带dofollow链接），奖励50 RTC |
 | BT-0092 | 2026-03-15T10:19:00+00:00 | github | Scottcjn/shaprai | https://github.com/Scottcjn/shaprai/issues/66 | 8 RTC | RTC | 0.8 | new |  |  | 2026-03-15T10:19:00+00:00 | 制作ShaprAI CLI使用教程（视频/博客），奖励8 RTC |
 | BT-0093 | 2026-03-15T10:19:00+00:00 | github | Scottcjn/shaprai | https://github.com/Scottcjn/shaprai/issues/62 | 25-50 RTC | RTC | 2.5-5 | new |  |  | 2026-03-15T10:19:00+00:00 | 跨平台部署ShaprAI Agent到3+平台，基础25 RTC，每多1个平台+5 RTC |
+| BT-0094 | 2026-03-15T10:52:00+00:00 | hackerone | Audible | https://hackerone.com/audible | $50+ | USD | 50 | new |  |  | 2026-03-15T10:52:00+00:00 | Audible bug bounty program，最低赏金$50 |
+| BT-0095 | 2026-03-15T10:52:00+00:00 | hackerone | Automattic | https://hackerone.com/automattic | 未公开 | USD | 50 | new |  |  | 2026-03-15T10:52:00+00:00 | Automattic (WordPress.com/Jetpack) bug bounty program |
+| BT-0096 | 2026-03-15T10:52:00+00:00 | hackerone | Banco Plata | https://hackerone.com/banco_plata | $50+ | USD | 50 | new |  |  | 2026-03-15T10:52:00+00:00 | Banco Plata bug bounty program，最低赏金$50 |
+| BT-0097 | 2026-03-15T10:52:00+00:00 | hackerone | Basecamp | https://hackerone.com/basecamp | $100+ | USD | 100 | new |  |  | 2026-03-15T10:52:00+00:00 | Basecamp bug bounty program，最低赏金$100 |
+| BT-0098 | 2026-03-15T10:52:00+00:00 | bugcrowd | Bugcrowd Programs | https://www.bugcrowd.com/engagements | $50+ | USD | 50 | new |  |  | 2026-03-15T10:52:00+00:00 | Bugcrowd平台各类赏金项目，最低赏金$50 |
+| BT-0099 | 2026-03-15T10:52:00+00:00 | github | Algora | https://github.com/algora-io/algora | 未公开 | USD | 0 | new |  |  | 2026-03-15T10:52:00+00:00 | Algora开源赏金平台，付费解决开源项目问题 |
+| BT-0100 | 2026-03-15T10:52:00+00:00 | github | Bounty Targets Data | https://github.com/arkadiyt/bounty-targets-data | 未公开 | USD | 0 | new |  |  | 2026-03-15T10:52:00+00:00 |  hourly-updated bug bounty platform scopes数据集，可基于此开发扫描工具 |
