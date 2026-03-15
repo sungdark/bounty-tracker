@@ -107,4 +107,11 @@
 | BT-0096 | 2026-03-15T17:10:00+00:00 | immunefi | Injective | https://immunefi.com/bug-bounty/injective/ | up to $500M+ | USD | 500 | new |  |  | 2026-03-15T19:35:00+00:00 | Injective区块链bug赏金计划，近期有争议但仍开放接受报告，最低赏金$500+
 | BT-0097 | 2026-03-15T17:14:00+00:00 | bountyhub | BountyHub | https://www.bountyhub.dev/ | $10+ | USD | 10 | new |  |  | 2026-03-15T19:35:00+00:00 | GitHub Issue赏金平台，支持众筹，开发者0手续费，支持120+国家提现
 | BT-0098 | 2026-03-15T17:14:00+00:00 | github | GitHub Security | https://bounty.github.com/ | $30,000+ | USD | 30000 | new |  |  | 2026-03-15T19:35:00+00:00 | GitHub官方漏洞赏金计划，严重漏洞最高$30,000+奖励
+| BT-0099 | 2026-03-15T20:37:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/872 | 未公开 | 未公开 | 0 | new |  |  | 2026-03-15T20:37:00+00:00 | [BOUNTY] Suggestion #384，新发现赏金任务
+| BT-0100 | 2026-03-15T20:37:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/871 | 未公开 | 未公开 | 0 | new |  |  | 2026-03-15T20:37:00+00:00 | [BOUNTY] Suggestion #428，新发现赏金任务
+| BT-0101 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2077 | 20 RTC | RTC | 2 | new |  |  | 2026-03-15T20:37:00+00:00 | [BOUNTY: 20 RTC] 设计可印刷的RustChain周边（T恤、海报或徽章）
+| BT-0102 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2076 | 5 RTC | RTC | 0.5 | new |  |  | 2026-03-15T20:37:00+00:00 | [CREATIVE BOUNTY: 5 RTC] 编写RustChain背景故事短篇小说
+| BT-0103 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2075 | 3 RTC | RTC | 0.3 | new |  |  | 2026-03-15T20:37:00+00:00 | [EASY BOUNTY: 3 RTC] ASCII艺术比赛，终端里的RustChain
+| BT-0104 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2072 | 8 RTC | RTC | 0.8 | new |  |  | 2026-03-15T20:37:00+00:00 | [CREATIVE BOUNTY: 8 RTC] 设计RustChain硬件交易卡（10张一套）
+| BT-0105 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2068 | 10 RTC | RTC | 1 | new |  |  | 2026-03-15T20:37:00+00:00 | [CREATIVE BOUNTY: 10 RTC] 设计RustChain贴纸包（6+张贴纸）
 
