@@ -69,7 +69,7 @@
 | BT-0052 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/Rustchain/issues/773 | 0.5 RTC | RTC | 0.05 | new |  |  | 2026-03-15T08:47:00+00:00 | Star仓库并分享感想，每个0.5 RTC |
 | BT-0053 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1504 | 1 RTC | RTC | 0.1 | new |  |  | 2026-03-15T08:47:00+00:00 | 完成BoTTube个人资料设置（头像+简介+首个视频），奖励1 RTC |
 | BT-0054 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1115 | 5 RTC | RTC | 0.5 | new |  |  | 2026-03-15T08:47:00+00:00 | 设计128 Star庆祝图形，奖励5 RTC |
-| BT-0055 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rust |  |  |  |  |  |  |  |
+| BT-0055 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rust | 0.5 RTC | RTC | 0.05 | new |  |  | 2026-03-15T08:47:00+00:00 | 更新文档，修复链接错误，奖励0.5 RTC
 | BT-0056 | 2026-03-15T11:54:00+00:00 | hackerone | HackerOne | https://www.hackerone.com/bug-bounty-programs | $50+ | USD | 50 | new |  |  | 2026-03-15T11:54:00+00:00 | HackerOne平台所有公开赏金项目，最低赏金$50
 | BT-0057 | 2026-03-15T11:54:00+00:00 | yeswehack | YesWeHack | https://www.yeswehack.com/ | €50+ | EUR | 54 | new |  |  | 2026-03-15T11:54:00+00:00 | YesWeHack全球漏洞赏金平台，最低赏金€50
 | BT-0058 | 2026-03-15T11:54:00+00:00 | apple | Apple Security Research | https://security.apple.com/bounty/ | 最高$1,000,000 | USD | 1000000 | new |  |  | 2026-03-15T11:54:00+00:00 | Apple安全赏金计划，严重漏洞最高奖励$100万
