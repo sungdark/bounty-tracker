@@ -114,4 +114,6 @@
 | BT-0103 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2075 | 3 RTC | RTC | 0.3 | new |  |  | 2026-03-15T20:37:00+00:00 | [EASY BOUNTY: 3 RTC] ASCII艺术比赛，终端里的RustChain
 | BT-0104 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2072 | 8 RTC | RTC | 0.8 | new |  |  | 2026-03-15T20:37:00+00:00 | [CREATIVE BOUNTY: 8 RTC] 设计RustChain硬件交易卡（10张一套）
 | BT-0105 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2068 | 10 RTC | RTC | 1 | new |  |  | 2026-03-15T20:37:00+00:00 | [CREATIVE BOUNTY: 10 RTC] 设计RustChain贴纸包（6+张贴纸）
+| BT-0106 | 2026-03-15T21:23:00+00:00 | github | MonoGame | https://github.com/MonoGame/MonoGame/issues/8318 | $2000 | USD | 2000 | open |  |  | 2026-03-15T21:23:00+00:00 | 💰 高额赏金：创建更好的3D入门教程，奖励$2000
+| BT-0107 | 2026-03-15T21:23:00+00:00 | github | PlebLab | https://github.com/PlebLab/BuilderReport/issues/3 | $50 | USD | 50 | open |  |  | 2026-03-15T21:23:00+00:00 | 数据采集任务：从X获取数据建立pipeline，奖励$50
 
