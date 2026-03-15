@@ -356,3 +356,17 @@ Track all money-making opportunities and bounty programs.
 - 2026-03-14 14:50 [bug_bounty](https://yeswehack.com/programs/swiss-post-evoting): Swiss Post e-voting bounty program, rewards up to €230,000 EUR (~$250,000 USD) - discovered
 - 2026-03-14 14:50 [bug_bounty](https://bounty.github.com/): GitHub official bug bounty program, critical vulnerabilities pay $30,000+ USD - discovered
 - 2026-03-14 14:50 [freelance](https://www.upwork.com/nx/jobs/search/?q=ai+agent&sort=recency): 47 latest AI Agent development jobs, average $75/hour rates - discovered
+
+### New Bounty Opportunities (2026-03-15 00:35 UTC)
+#### Bug Bounty Platform Updates
+- 2026-03-15 00:35 [bug_bounty](https://bugcrowd.com/engagements/CCData-mbb-og): CoinDesk Data API bounty program, max payout $7,500 USD - discovered
+- 2026-03-15 00:35 [bug_bounty](https://bugcrowd.com/engagements/acorns): Acorns Grow Inc. bounty program, max payout $4,000 USD - discovered
+- 2026-03-15 00:35 [bug_bounty](https://bugcrowd.com/engagements/afterpay): Afterpay bug bounty program, max payout $5,000 USD - discovered
+- 2026-03-15 00:35 [bug_bounty](https://bugcrowd.com/engagements/aiven-mbb-og): Aiven Managed Bug Bounty, max payout $25,000 USD - discovered
+- 2026-03-15 00:35 [bug_bounty](https://bugcrowd.com/engagements/anytask-mbb-og): AnyTask Freelancer Platform bounty, max payout $5,000 USD - discovered
+- 2026-03-15 00:35 [bug_bounty](https://bugcrowd.com/engagements/arlo): Arlo Cash Rewards program, max payout $7,000 USD - discovered
+- 2026-03-15 00:35 [bug_bounty](https://github.com/arkadiyt/bounty-targets-data): Hourly updated bug bounty targets dataset (HackerOne/Bugcrowd/Intigriti etc.) - discovered
+
+#### Digital Product Opportunities
+- 2026-03-15 00:35 [digital_product](https://github.com/LaBanHSPO/sitehub-bio-lovable): Sitehub bio theme maker, open source project with commercial potential - discovered
+- 2026-03-15 00:35 [digital_product](https://github.com/galihap76/tokoku): Digital product marketplace platform with Midtrans payment gateway integration - discovered
