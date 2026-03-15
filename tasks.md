@@ -37,3 +37,15 @@
 | BT-0031 | 2026-03-15T07:43:00+00:00 | stackoverflow | Stack Overflow Bounties | https://stackoverflow.com/questions?tab=bounties | $5-$500+ | USD | 5 | new |  |  | 2026-03-15T07:43:00+00:00 | Stack Overflow技术问题赏金，最低$5，适合快速解决技术问题赚外快 |
 | BT-0032 | 2026-03-15T07:43:00+00:00 | upwork | Upwork Freelance Projects | https://www.upwork.com/ | $10-$1000+ | USD | 10 | new |  |  | 2026-03-15T07:43:00+00:00 | Upwork自由职业平台，各类编程/设计/写作项目，法币直接结算 |
 | BT-0033 | 2026-03-15T07:43:00+00:00 | fiverr | Fiverr Gigs | https://www.fiverr.com/ | $5-$1000+ | USD | 5 | new |  |  | 2026-03-15T07:43:00+00:00 | Fiverr数字服务售卖平台，可出售各类技能服务，起步价$5 |
+| BT-0034 | 2026-03-15T08:07:00+00:00 | github | PayPol Protocol | https://github.com/PayPol-Foundation/paypol-protocol/issues/7 | Undisclosed | USD | 0 | new |  |  | 2026-03-15T08:07:00+00:00 | 构建多链Gas估算Agent，赏金奖励待确认 |
+| BT-0035 | 2026-03-15T08:07:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/74 | 2 RTC | RTC | 0.2 | new |  |  | 2026-03-15T08:07:00+00:00 | Star仓库+注册账号即可获得2 RTC，总池200 RTC |
+| BT-0036 | 2026-03-15T08:07:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/478 | 2-430 RTC | RTC | 0.2 | new |  |  | 2026-03-15T08:07:00+00:00 | Star主仓库+其他仓库，最高可获得430 RTC奖励 |
+| BT-0037 | 2026-03-15T08:07:00+00:00 | github | ShaprAI | https://github.com/Scottcjn/shaprai/issues/66 | 8 RTC | RTC | 0.8 | new |  |  | 2026-03-15T08:07:00+00:00 | 制作ShaprAI CLI使用教程（视频/博客），奖励8 RTC |
+| BT-0038 | 2026-03-15T08:07:00+00:00 | github | WattCoin | https://github.com/WattCoin-Org/wattcoin/issues/25 | 5,000 WATT | WATT | 0 | new |  |  | 2026-03-15T08:07:00+00:00 | 运行WattNode节点7天并完成50个任务，奖励5000 WATT |
+| BT-0039 | 2026-03-15T08:07:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | 1 RTC | RTC | 0.1 | new |  |  | 2026-03-15T08:07:00+00:00 | 为缺少CONTRIBUTING.md的仓库添加该文件，每个仓库奖励1 RTC |
+| BT-0040 | 2026-03-15T08:07:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/61 | 50 RTC | RTC | 5 | new |  |  | 2026-03-15T08:07:00+00:00 | 运营BoTTube机器人达到50订阅，奖励50 RTC |
+| BT-0041 | 2026-03-15T08:07:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1677 | 2 RTC | RTC | 0.2 | new |  |  | 2026-03-15T08:07:00+00:00 | Star指定8个仓库并分享到社交平台，奖励2 RTC |
+| BT-0042 | 2026-03-15T08:07:00+00:00 | github | PayPol Protocol | https://github.com/PayPol-Foundation/paypol-protocol/issues/4 | Undisclosed | USD | 0 | new |  |  | 2026-03-15T08:07:00+00:00 | 构建空投分发Agent，赏金奖励待确认 |
+| BT-0043 | 2026-03-15T08:07:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/697 | 0.5-25 RTC | RTC | 0.05 | new |  |  | 2026-03-15T08:07:00+00:00 | Fork指定仓库，最高可获得25 RTC奖励 |
+| BT-0044 | 2026-03-15T08:07:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/60 | 25 RTC | RTC | 2.5 | new |  |  | 2026-03-15T08:07:00+00:00 | 创建垂直领域专家机器人，每个奖励25 RTC |
+| BT-0045 | 2026-03-15T08:07:00+00:00 | github | PayPol Protocol | https://github.com/PayPol-Foundation/paypol-protocol/issues/2 | Undisclosed | USD | 0 | new |  |  | 2026-03-15T08:07:00+00:00 | 构建代币归属Agent，赏金奖励待确认 |
