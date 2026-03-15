@@ -116,4 +116,7 @@
 | BT-0105 | 2026-03-15T20:37:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2068 | 10 RTC | RTC | 1 | new |  |  | 2026-03-15T20:37:00+00:00 | [CREATIVE BOUNTY: 10 RTC] 设计RustChain贴纸包（6+张贴纸）
 | BT-0106 | 2026-03-15T21:23:00+00:00 | github | MonoGame | https://github.com/MonoGame/MonoGame/issues/8318 | $2000 | USD | 2000 | open |  |  | 2026-03-15T21:23:00+00:00 | 💰 高额赏金：创建更好的3D入门教程，奖励$2000
 | BT-0107 | 2026-03-15T21:23:00+00:00 | github | PlebLab | https://github.com/PlebLab/BuilderReport/issues/3 | $50 | USD | 50 | open |  |  | 2026-03-15T21:23:00+00:00 | 数据采集任务：从X获取数据建立pipeline，奖励$50
+| BT-0108 | 2026-03-15T22:24:00+00:00 | hackerone | Twilio | https://hackerone.com/twilio | $100+ | USD | 100 | new |  |  | 2026-03-15T22:24:00+00:00 | Twilio公开bug bounty计划，最低赏金$100，高质量漏洞奖励更高
+| BT-0109 | 2026-03-15T22:24:00+00:00 | hackerone | DoorDash | https://hackerone.com/doordash | $100+ | USD | 100 | new |  |  | 2026-03-15T22:24:00+00:00 | DoorDash公开bug bounty计划，最低赏金$100，平台持续开放接受报告
+| BT-0110 | 2026-03-15T22:24:00+00:00 | github | arkadiyt/bounty-targets-data | https://github.com/arkadiyt/bounty-targets-data |  |  |  | 参考 |  |  | 2026-03-15T22:24:00+00:00 | 每小时更新HackerOne/Bugcrowd/Intigriti公开赏金范围数据，共233个开放赏金项目
 
