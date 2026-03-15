@@ -66,3 +66,6 @@
 | BT-0060 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/728 | 1 RTC/answer | RTC | 0.1 | new |  |  | 2026-03-15T08:47:00+00:00 | 在GitHub Discussion回答问题，每个奖励1 RTC，最高10 RTC |
 | BT-0061 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/725 | 3 RTC | RTC | 0.3 | new |  |  | 2026-03-15T08:47:00+00:00 | 翻译RustChain README到其他语言，每个语言奖励3 RTC |
 | BT-0062 | 2026-03-15T08:47:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/697 | 0.5-25 RTC | RTC | 0.05 | new |  |  | 2026-03-15T08:47:00+00:00 | Fork指定仓库，最高奖励25 RTC |
+| BT-0063 | 2026-03-15T09:13:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1578 | 5 RTC | RTC | 0.5 | new |  |  | 2026-03-15T09:13:00+00:00 | 将旗舰项目添加到Awesome List或公共工具目录，每个接受的提交奖励5 RTC |
+| BT-0064 | 2026-03-15T09:14:00+00:00 | github | BoTTube | https://github.com/Scottcjn/rustchain-bounties/issues/1603 | 3 RTC | RTC | 0.3 | new |  |  | 2026-03-15T09:14:00+00:00 | 为BoTTube API创建Python/JS SDK封装，奖励3 RTC |
+| BT-0065 | 2026-03-15T09:14:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1593 | 2 RTC | RTC | 0.2 | new |  |  | 2026-03-15T09:14:00+00:00 | 将错误信息翻译到其他语言，每个语言（至少20条字符串）奖励2 RTC |
