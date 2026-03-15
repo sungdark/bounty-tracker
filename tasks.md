@@ -87,3 +87,10 @@
 | BT-0070 | 2026-03-15T11:54:00+00:00 | 远程工作 | Toptal | https://www.toptal.com/ | $100+/小时 | USD | 100 | new |  |  | 2026-03-15T11:54:00+00:00 | 高端开发者远程工作平台，对接欧美企业项目，报酬丰厚
 | BT-0071 | 2026-03-15T12:14:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2103 | 1-25 RTC | RTC | 0.1 | open |  |  | 2026-03-15T12:14:00+00:00 | Star仓库+关注账号获得奖励，每个Star1 RTC，最高25 RTC bonus
 | BT-0072 | 2026-03-15T12:14:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/5 | 未公开 | USD | 0 | new |  |  | 2026-03-15T12:14:00+00:00 | 制作Kravral大陆互动地图，赏金待确认
+| BT-0073 | 2026-03-15T12:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2103 | 1-25 RTC | RTC | 0.1 | open |  |  | 2026-03-15T12:20:00+00:00 | Star仓库+关注账号获得奖励，每个Star1 RTC，最高25 RTC bonus
+| BT-0074 | 2026-03-15T12:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2069 | 15-20 RTC | RTC | 1.5 | open |  |  | 2026-03-15T12:20:00+00:00 | 创作并录制RustChain主题曲/水手号子，奖励15 RTC，带MV额外5 RTC
+| BT-0075 | 2026-03-15T12:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1102 | 3-5 RTC | RTC | 0.3 | open |  |  | 2026-03-15T12:20:00+00:00 | 发现并报告BoTTube bug，奖励3-5 RTC
+| BT-0076 | 2026-03-15T12:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1613 | 3 RTC | RTC | 0.3 | open |  |  | 2026-03-15T12:20:00+00:00 | 为Elyan Labs仓库设置Dependabot或Renovate，奖励3 RTC
+| BT-0077 | 2026-03-15T12:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/491 | 200 RTC | RTC | 20 | open |  |  | 2026-03-15T12:20:00+00:00 | RIP-201 Fleet Detection Bypass红队任务，奖励200 RTC
+| BT-0078 | 2026-03-15T12:20:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28633 | 未公开 | USD | 0 | open |  |  | 2026-03-15T12:20:00+00:00 | Approval对话框关闭按钮实际触发拒绝操作bug修复任务，赏金待确认
+| BT-0079 | 2026-03-15T12:20:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28630 | 未公开 | USD | 0 | open |  |  | 2026-03-15T12:20:00+00:00 | Approval对话框问号图标无障碍标签错误bug修复任务，赏金待确认
