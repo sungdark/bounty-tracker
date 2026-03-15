@@ -109,4 +109,6 @@
 | BT-0092 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/2 | 500 USDC | USDC | 500 | new |  |  | 2026-03-15T16:28:00+00:00 | 减少合法HTTP客户端误报问题
 | BT-0093 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/3 | 200 USDC | USDC | 200 | new |  |  | 2026-03-15T16:28:00+00:00 | 恶意WebSocket处理器扫描规则
 | BT-0094 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/4 | 100 USDC | USDC | 100 | new |  |  | 2026-03-15T16:28:00+00:00 | 中文文档翻译编写
+| BT-0095 | 2026-03-15T17:05:00+00:00 | immunefi | zkVerify | https://immunefi.com/bug-bounty/ | up to $50,000 | USD | 50000 | new |  |  | 2026-03-15T17:05:00+00:00 | zkVerify区块链项目bug赏金计划，最高奖励$50,000
+| BT-0096 | 2026-03-15T17:10:00+00:00 | immunefi | Injective | https://immunefi.com/bug-bounty/injective/ | up to $500M+ | USD | 500 | new |  |  | 2026-03-15T17:10:00+00:00 | Injective区块链bug赏金计划，近期有争议但仍开放接受报告，最低赏金$500+
 
