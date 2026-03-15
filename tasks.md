@@ -85,3 +85,5 @@
 | BT-0068 | 2026-03-15T11:54:00+00:00 | 远程工作 | 程序员客栈 | https://www.proginn.com/ | 未公开 | CNY | 0 | new |  |  | 2026-03-15T11:54:00+00:00 | 中高端程序员远程工作平台，项目报酬较高
 | BT-0069 | 2026-03-15T11:54:00+00:00 | 远程工作 | Fiverr | https://www.fiverr.com/ | $5+ | USD | 5 | new |  |  | 2026-03-15T11:54:00+00:00 | 海外技能售卖平台，可出售各类标准化数字服务
 | BT-0070 | 2026-03-15T11:54:00+00:00 | 远程工作 | Toptal | https://www.toptal.com/ | $100+/小时 | USD | 100 | new |  |  | 2026-03-15T11:54:00+00:00 | 高端开发者远程工作平台，对接欧美企业项目，报酬丰厚
+| BT-0071 | 2026-03-15T12:14:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2103 | 1-25 RTC | RTC | 0.1 | open |  |  | 2026-03-15T12:14:00+00:00 | Star仓库+关注账号获得奖励，每个Star1 RTC，最高25 RTC bonus
+| BT-0072 | 2026-03-15T12:14:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/5 | 未公开 | USD | 0 | new |  |  | 2026-03-15T12:14:00+00:00 | 制作Kravral大陆互动地图，赏金待确认
