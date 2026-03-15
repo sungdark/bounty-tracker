@@ -49,3 +49,8 @@
 | BT-0043 | 2026-03-15T08:07:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/697 | 0.5-25 RTC | RTC | 0.05 | new |  |  | 2026-03-15T08:07:00+00:00 | Fork指定仓库，最高可获得25 RTC奖励 |
 | BT-0044 | 2026-03-15T08:07:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/60 | 25 RTC | RTC | 2.5 | new |  |  | 2026-03-15T08:07:00+00:00 | 创建垂直领域专家机器人，每个奖励25 RTC |
 | BT-0045 | 2026-03-15T08:07:00+00:00 | github | PayPol Protocol | https://github.com/PayPol-Foundation/paypol-protocol/issues/2 | Undisclosed | USD | 0 | new |  |  | 2026-03-15T08:07:00+00:00 | 构建代币归属Agent，赏金奖励待确认 |
+| BT-0046 | 2026-03-15T08:16:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2103 | 1-25 RTC | RTC | 0.1 | new |  |  | 2026-03-15T08:16:00+00:00 | Star仓库+关注账号获得奖励，每个Star1 RTC，最高25 RTC bonus |
+| BT-0047 | 2026-03-15T08:17:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2073 | 5-8 RTC | RTC | 0.5 | new |  |  | 2026-03-15T08:17:00+00:00 | 在Minecraft中构建RustChain矿场，奖励5 RTC，优秀作品额外3 RTC |
+| BT-0048 | 2026-03-15T08:17:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2071 | 5-11 RTC | RTC | 0.5 | new |  |  | 2026-03-15T08:17:00+00:00 | 录制60秒以内视频向奶奶解释RustChain，基础奖励5 RTC，最高可获得11 RTC |
+| BT-0049 | 2026-03-15T08:18:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2070 | 1-3 RTC | RTC | 0.1 | new |  |  | 2026-03-15T08:18:00+00:00 | 复古计算/挖矿相关表情包创作，每个采纳1 RTC，前三名3 RTC |
+| BT-0050 | 2026-03-15T08:19:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/2069 | 15-20 RTC | RTC | 1.5 | new |  |  | 2026-03-15T08:19:00+00:00 | 创作并录制RustChain主题曲/水手号子，奖励15 RTC，带MV额外5 RTC |
