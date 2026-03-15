@@ -115,3 +115,7 @@
 | BT-0098 | 2026-03-15T10:52:00+00:00 | bugcrowd | Bugcrowd Programs | https://www.bugcrowd.com/engagements | $50+ | USD | 50 | new |  |  | 2026-03-15T10:52:00+00:00 | Bugcrowd平台各类赏金项目，最低赏金$50 |
 | BT-0099 | 2026-03-15T10:52:00+00:00 | github | Algora | https://github.com/algora-io/algora | 未公开 | USD | 0 | new |  |  | 2026-03-15T10:52:00+00:00 | Algora开源赏金平台，付费解决开源项目问题 |
 | BT-0100 | 2026-03-15T10:52:00+00:00 | github | Bounty Targets Data | https://github.com/arkadiyt/bounty-targets-data | 未公开 | USD | 0 | new |  |  | 2026-03-15T10:52:00+00:00 |  hourly-updated bug bounty platform scopes数据集，可基于此开发扫描工具 |
+| BT-0101 | 2026-03-15T11:20:00+00:00 | github | reconFTW | https://github.com/six2dez/reconftw/issues?q=is%3Aopen+is%3Aissue+label%3Abounty | 未公开 | USD | 0 | new |  |  | 2026-03-15T11:20:00+00:00 | reconFTW自动化侦察工具项目，可能有赏金任务待挖掘 |
+| BT-0102 | 2026-03-15T11:20:00+00:00 | github | reNgine | https://github.com/yogeshojha/rengine/issues?q=is%3Aopen+is%3Aissue+label%3Abounty | 未公开 | USD | 0 | new |  |  | 2026-03-15T11:20:00+00:00 | reNgine侦察框架项目，可能有赏金任务待挖掘 |
+| BT-0103 | 2026-03-15T11:21:00+00:00 | bugcrowd | Recent Bounties | https://bugcrowd.com/engagements?sort=recently_published | $50+ | USD | 50 | new |  |  | 2026-03-15T11:21:00+00:00 | Bugcrowd最新发布的赏金项目，最低$50 |
+| BT-0104 | 2026-03-15T11:21:00+00:00 | intigriti | New Programs | https://www.intigriti.com/programs/new | €50+ | EUR | 54 | new |  |  | 2026-03-15T11:21:00+00:00 | Intigriti新发布的赏金项目，最低€50 |
