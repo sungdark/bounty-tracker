@@ -103,4 +103,6 @@
 | BT-0086 | 2026-03-15T13:25:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | RustChain系列任务4，奖励0.1-5 RTC
 | BT-0087 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务1，奖励0.1-5 RTC
 | BT-0088 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务2，奖励0.1-5 RTC
-| BT-0089 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务3，奖励0.1-5 RTC
+| BT-0089 | 2026-03-15T13:25:00+00:00 | github | BoTTube | https://github.com/Scottcjn/bottube/issues/XXX | 0.1-5 RTC | RTC | 0.1 | new |  |  | 2026-03-15T13:25:00+00:00 | BoTTube系列任务3，奖励0.1-5 RTCBT-0090|2026-03-15T16:14:00Z|github|alt-tab-macos|https://github.com/lwouis/alt-tab-macos/issues/5149|00|USD|200|new|||2026-03-15T16:14:00Z|修复AltTab无法打开Telegram的bug，现金奖励00
+BT-0091|2026-03-15T16:14:00Z|github|code-server|https://github.com/coder/code-server/issues/7198|00|USD|100|new|||2026-03-15T16:14:00Z|提供Windows原生code-server二进制文件，奖励00
+BT-0092|2026-03-15T16:14:00Z|github|poidh-app|https://github.com/picsoritdidnthappen/poidh-app/issues/1216|0|USD|50|new|||2026-03-15T16:14:00Z|修复首页赏金按价值排序不显示的bug，奖励0
