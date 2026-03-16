@@ -130,5 +130,9 @@
 | BT-0119 | 2026-03-16T00:19:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/3 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | 扩展Kaiser Historia文章内容，赏金待确认，今日新增 |
 | BT-0120 | 2026-03-16T00:19:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28633 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | Approval对话框关闭按钮bug修复，赏金待确认，今日新增 |
 | BT-0121 | 2026-03-16T00:19:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28630 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | Approval对话框无障碍标签错误修复，赏金待确认，今日新增 |
+| BT-0122 | 2026-03-16T00:41:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1600 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T00:41:00+00:00 | [BOUNTY] 构建RustChain统计信息web仪表盘，奖励5 RTC，前端开发任务 |
+| BT-0123 | 2026-03-16T00:41:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1618 | 1 RTC | RTC | 0.1 | open |  |  | 2026-03-16T00:41:00+00:00 | [EASY BOUNTY] 报告BoTTube UI中任意可访问性问题，简单任务，奖励1 RTC |
+| BT-0124 | 2026-03-16T00:41:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1613 | 3 RTC | RTC | 0.3 | open |  |  | 2026-03-16T00:41:00+00:00 | [BOUNTY] 为任意Elyan Labs仓库设置Dependabot或Renovate自动更新，奖励3 RTC |
+| BT-0125 | 2026-03-16T00:41:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | 1 RTC | RTC | 0.1 | open |  |  | 2026-03-16T00:41:00+00:00 | [EASY BOUNTY] 为缺少CONTRIBUTING.md的仓库添加该文件，每个仓库奖励1 RTC |
 
 
