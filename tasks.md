@@ -94,7 +94,7 @@
 | BT-0077 | 2026-03-15T12:20:00+00:00 | github | RustChain | https://github.com/Scottcjn/rustchain-bounties/issues/491 | 200 RTC | RTC | 20 | open |  |  | 2026-03-15T12:20:00+00:00 | RIP-201 Fleet Detection Bypass红队任务，奖励200 RTC
 | BT-0078 | 2026-03-15T12:20:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28633 | 未公开 | USD | 0 | open |  |  | 2026-03-15T12:20:00+00:00 | Approval对话框关闭按钮实际触发拒绝操作bug修复任务，赏金待确认
 | BT-0079 | 2026-03-15T12:20:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28630 | 未公开 | USD | 0 | open |  |  | 2026-03-15T12:20:00+00:00 | Approval对话框问号图标无障碍标签错误bug修复任务，赏金待确认
-| BT-0080 | 2026-03-15T16:14:00+00:00 | github | alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | USD | 200 | ready_pr | https://github.com/lwouis/alt-tab-macos/pull/new/fix-telegram-focus-grammarly |  | 2026-03-15T19:35:00+00:00 | 已完成修复方案：针对Grammarly/Telegram这类注入了可访问性组件的应用添加重试激活机制，双层重试+多级API回退，分支已准备好可直接提交PR
+| BT-0080 | 2026-03-15T16:14:00+00:00 | github | alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | $200 | USD | 200 | pr_open |  | https://github.com/lwouis/alt-tab-macos/pull/new/sungdark:fix/issue-5149-telegram-focus | 2026-03-16T01:29:00+00:00 | 已完成修复方案并推送到远程分支：针对Grammarly/Telegram这类注入了可访问性组件的应用添加重试激活机制，双层重试+多级API回退，准备提交PR
 | BT-0081 | 2026-03-15T16:14:00+00:00 | github | code-server | https://github.com/coder/code-server/issues/7198 | $100 | USD | 100 | open |  |  | 2026-03-15T19:35:00+00:00 | 提供Windows原生code-server二进制文件，奖励$100现金，无需WSL/Docker
 | BT-0082 | 2026-03-15T16:14:00+00:00 | github | poidh-app | https://github.com/picsoritdidnthappen/poidh-app/issues/1216 | $50 | USD | 50 | open |  |  | 2026-03-15T19:35:00+00:00 | 修复首页赏金按价值排序不显示的bug，前端问题，容易修复
 | BT-0089 | 2026-03-15T16:28:00+00:00 | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/1 | 1000 USDC | USDC | 1000 | open |  |  | 2026-03-15T19:35:00+00:00 | 检测混淆的凭证泄露模式，高价值赏金项目
@@ -138,5 +138,6 @@
 | BT-0127 | 2026-03-16T01:21:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/872 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T01:21:00+00:00 | [BOUNTY] 为警卫添加身体摄像头，游戏功能开发，赏金未公开 |
 | BT-0128 | 2026-03-16T01:21:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/871 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T01:21:00+00:00 | [BOUNTY] 口红做成唇印/爪印印章，可爱QOL功能开发，赏金未公开 |
 | BT-0129 | 2026-03-16T01:21:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2103 | 1-25 RTC | RTC | 1 | open |  |  | 2026-03-16T01:21:00+00:00 | Star仓库+关注账号即可获得RTC奖励，每个Star1 RTC，最高25 RTC，简单易做 |
+| BT-0130 | 2026-03-16T01:24:09+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2127 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T01:29:00+00:00 | [BOUNTY: 25 RTC] 修复Beacon Atlas自动注册和rustchain.org路由问题，需要nginx配置修改和后端端点修复，中高级任务 |
 
 
