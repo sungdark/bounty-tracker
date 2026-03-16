@@ -115,3 +115,9 @@
 | BT-0098 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/39 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T20:47:00+00:00 | TrashClaw Windows兼容性支持，5 RTC奖励 |
 | BT-0099 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/38 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T20:47:00+00:00 | 独立AMD Mac金属GPU加速支持，15 RTC奖励 |
 | BT-0100 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/37 | 10 RTC | RTC | 1.0 | open |  |  | 2026-03-16T20:47:00+00:00 | 对话历史保存/加载功能，10 RTC奖励 |
+| BT-0101 | 2026-03-16T20:50:00+00:00 | code4rena | Intuition Bug Bounty | https://code4rena.com/audits/2026-03-intuition | $17,500 | USDC | 17500 | closed |  |  | 2026-03-16T20:50:00+00:00 | 竞争审计已在3月9日结束，目前正在评审中，总奖金池$17,500 USDC |
+| BT-0102 | 2026-03-16T20:50:00+00:00 | opencollective | PixiJS Bounties | https://opencollective.com/pixijs/expenses | Varies | USD | 306 | active |  |  | 2026-03-16T20:50:00+00:00 | PixiJS开源项目通过OpenCollective支付赏金，最近已支付$306 Bug修复赏金 |
+| BT-0103 | 2026-03-16T20:50:00+00:00 | hackerone | Basecamp Bug Bounty | https://hackerone.com/basecamp | $100+ | USD | 100 | active |  |  | 2026-03-16T20:50:00+00:00 | Basecamp漏洞赏金计划，最低奖励$100，法币结算 |
+| BT-0104 | 2026-03-16T20:50:00+00:00 | immunefi | Sei Critical Bug Bounty | https://immunefi.com/bug-bounty/sei/information | $50,000+ | USD | 50000 | active |  |  | 2026-03-16T20:50:00+00:00 | Sei网络严重漏洞最低保证$50,000奖励，高价值目标 |
+| BT-0105 | 2026-03-16T20:50:00+00:00 | algora | Algora Public Bounties | https://algora.io/bounties/ | Varies | USD | 20 | active |  |  | 2026-03-16T20:50:00+00:00 | Algora公开赏金平台，整合GitHub上付费任务，最低$20起 |
+| BT-0106 | 2026-03-16T20:50:00+00:00 | github | Intent Solutions Bounties | https://github.com/intent-solutions-io/bounties | Varies | USD | 0 | open |  |  | 2026-03-16T20:50:00+00:00 | Intent Solutions公开赏金库，包含Bug修复和功能需求 |
