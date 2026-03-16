@@ -243,6 +243,8 @@
 | BT-233 | 2026-03-10T10:11:00Z23:49:20Z | github | rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | [EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md to any repo missing one | 未公开 | RTC | 0.0 | open |  |  | 2026-03-16T10:11:00Z | 🆕 今日新发现GitHub公开赏金任务
 | BT-234 | 2026-03-10T10:11:00Z23:48:47Z | github | rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/1603 | [BOUNTY: 3 RTC] Create a Python/JS SDK wrapper for BoTTube API | 未公开 | RTC | 0.0 | open |  |  | 2026-03-16T10:11:00Z | 🆕 今日新发现GitHub公开赏金任务
 | BT-235 | 2026-03-10T10:11:00Z23:48:44Z | github | rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/1601 | [BOUNTY: 15 RTC] Port the RustChain miner to Rust | 未公开 | RTC | 0.0 | open |  |  | 2026-03-16T10:11:00Z | 🆕 今日新发现GitHub公开赏金任务
--e 
 | BT-0206 | 2026-03-16T10:11:00Z | github | peteromallet/desloppify | https://github.com/peteromallet/desloppify/issues/421 | Find the stupidest refactor decision | $1000 SOL | USD | 1000 | open |  |  | 2026-03-16T10:11:00Z | 🆕 高额赏金：找到重构的错误决策，截止3月21日，获胜者得$1000 SOL
+| BT-0207 | 2026-03-16T10:31:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2130 | 实现RustChain挖矿浏览器插件 | 30 RTC | RTC | 3 | open |  |  | 2026-03-16T10:31:00+00:00 | 🆕 今日新增赏金：实现浏览器插件展示当前算力和收益统计，前端开发任务，30 RTC奖励
+| BT-0208 | 2026-03-16T10:31:00+00:00 | github | PlatformNetwork/bounty-challenge | https://github.com/PlatformNetwork/bounty-challenge/issues/29349 | 修复侧边栏Toggle按钮无障碍问题 | 未公开 | USD | 0 | open |  |  | 2026-03-16T10:31:00+00:00 | 🆕 今日新增无障碍bug修复，缺少aria-expanded状态，WCAG违规
+| BT-0209 | 2026-03-16T10:31:00+00:00 | github | PlatformNetwork/bounty-challenge | https://github.com/PlatformNetwork/bounty-challenge/issues/29348 | 修复侧边栏标题语义化问题 | 未公开 | USD | 0 | open |  |  | 2026-03-16T10:31:00+00:00 | 🆕 今日新增无障碍bug修复，主侧边栏标题不是heading元素，屏幕阅读器无法识别
 
