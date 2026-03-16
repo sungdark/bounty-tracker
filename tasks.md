@@ -75,3 +75,5 @@
 | BT-0058 | 2026-03-16T14:48:00+00:00 | algora | gyroflow/gyroflow | https://github.com/gyroflow/gyroflow/issues/150 | $200 | USD | 200 | open |  |  | 2026-03-16T14:48:00+00:00 | Support lensfun database — 高级视频稳定项目，$200赏金 |
 | BT-0059 | 2026-03-16T14:48:00+00:00 | algora | gyroflow/gyroflow | https://github.com/gyroflow/gyroflow/issues/384 | $150 | USD | 150 | open |  |  | 2026-03-16T14:48:00+00:00 | Dynamic zooming correction bug — 高级视频稳定项目，$150赏金 |
 | BT-0060 | 2026-03-16T15:00:00+00:00 | github | MonoGame | https://github.com/MonoGame/MonoGame/issues/8120 | $500-$5000 | USD | 500 | open |  |  | 2026-03-16T15:00:00+00:00 | MonoGame基金会公开付费赏金列表，多个高价值USD任务开放认领 |
+| BT-0061 | 2026-03-16T16:45:00+00:00 | asyncapi | AsyncAPI Bounty Program 2026-03 | https://github.com/asyncapi | $200-$400 | USD | 200 | open |  |  | 2026-03-16T16:45:00+00:00 | AsyncAPI 2026年度赏金计划，每月预算$1600，Medium任务$200，Advanced任务$400，法币结算 |
+| BT-0062 | 2026-03-16T16:45:00+00:00 | bountyhub | BountyHub Open Bounties | https://www.bountyhub.dev/ | $5-$1000+ | USD | 5 | open |  |  | 2026-03-16T16:45:00+00:00 | BountyHub第三方GitHub赏金平台，0开发者手续费，支持120+国家法币支付 |
