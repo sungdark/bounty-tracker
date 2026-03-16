@@ -124,5 +124,11 @@
 | BT-0113 | 2026-03-15T23:18:00+00:00 | up-for-grabs | Up For Grabs | https://up-for-grabs.net/ | 多种 | 多种 | 0 | open |  |  | 2026-03-15T23:18:00+00:00 | 开源项目新手友好任务聚合平台，许多项目带赏金奖励，适合新贡献者入门
 | BT-0114 | 2026-03-15T23:18:00+00:00 | gitpay | Gitpay | https://gitpay.me/ | $5+ | USD | 5 | open |  |  | 2026-03-15T23:18:00+00:00 | GitHub issue赏金平台，解决问题后直接银行账户法币结算，自动验证支付
 | BT-0115 | 2026-03-15T23:35:00+00:00 | bountyhub | BountyHub | https://www.bountyhub.dev/bounties | $10+ | USD | 10 | open |  |  | 2026-03-15T23:35:00+00:00 | 零手续费GitHub Issue赏金平台，支持众筹，开发者0手续费，120+国家支持Stripe/PayPal法币提现 |
+| BT-0116 | 2026-03-16T00:19:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/872 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | [BOUNTY] Suggestion #384，今日新增赏金任务，赏金金额未公开 |
+| BT-0117 | 2026-03-16T00:19:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/871 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | [BOUNTY] Suggestion #428，今日新增赏金任务，赏金金额未公开 |
+| BT-0118 | 2026-03-16T00:19:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/5 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | 制作Kravral大陆互动地图，赏金待确认，今日新增 |
+| BT-0119 | 2026-03-16T00:19:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/3 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | 扩展Kaiser Historia文章内容，赏金待确认，今日新增 |
+| BT-0120 | 2026-03-16T00:19:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28633 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | Approval对话框关闭按钮bug修复，赏金待确认，今日新增 |
+| BT-0121 | 2026-03-16T00:19:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/28630 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | Approval对话框无障碍标签错误修复，赏金待确认，今日新增 |
 
 
