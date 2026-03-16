@@ -141,3 +141,5 @@
 | BT-0130 | 2026-03-16T01:24:09+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2127 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T01:29:00+00:00 | [BOUNTY: 25 RTC] 修复Beacon Atlas自动注册和rustchain.org路由问题，需要nginx配置修改和后端端点修复，中高级任务 |
 
 
+
+| BT-0131 | 2026-03-16T01:35:00+00:00 | github | lwouis/alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | \$200 | USD | 200 | pr_open | https://github.com/lwouis/alt-tab-macos/pull/5507 | https://github.com/lwouis/alt-tab-macos/issues/5149#issuecomment-2074133245 | 2026-03-16T01:35:00+00:00 | 已修复Grammarly/Telegram应用焦点问题，PR已提交，等待审核，奖励\$200 USD
