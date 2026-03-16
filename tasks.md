@@ -253,3 +253,9 @@
 | BT-0213 | 2026-03-16T11:07:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/5 | 添加Git集成工具 | 20 RTC | RTC | 2.0 | open |  |  | 2026-03-16T11:07:00+00:00 | 🆕 今日新增：添加git_status/git_diff/git_commit工具，让Agent可以审查变更再提交，赏金20 RTC
 | BT-0214 | 2026-03-16T11:07:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/1 | 添加流式响应支持 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T11:07:00+00:00 | 🆕 今日新增：实现SSE流式令牌输出，零外部依赖，赏金25 RTC
 
+-e | BT-0215 | 2026-03-16T11:14:00+00:00 | github | Google | https://hackerone.com/google | 00+ | USD | 100 | open |  |  | 2026-03-16T11:14:00+00:00 | 🆕 Google漏洞赏金计划，严重漏洞最高数百万美元奖励，持续开放接受报告
+| BT-0216 | 2026-03-16T11:14:00+00:00 | github | Microsoft | https://hackerone.com/microsoft | 00+ | USD | 500 | open |  |  | 2026-03-16T11:14:00+00:00 | 🆕 Microsoft漏洞赏金计划，关键漏洞奖励数百万美元，持续开放
+| BT-0217 | 2026-03-16T11:14:00+00:00 | github | Coinbase | https://hackerone.com/coinbase | 00+ | USD | 100 | open |  |  | 2026-03-16T11:14:00+00:00 | 🆕 Coinbase公开漏洞赏金，最低00，高危漏洞奖励更高
+| BT-0218 | 2026-03-16T11:14:00+00:00 | github | Dropbox | https://hackerone.com/dropbox | 00+ | USD | 100 | open |  |  | 2026-03-16T11:14:00+00:00 | 🆕 Dropbox漏洞赏金计划，持续开放接受报告
+| BT-0219 | 2026-03-16T11:14:00+00:00 | github | GitHub | https://hackerone.com/github | 00+ | USD | 100 | open |  |  | 2026-03-16T11:14:00+00:00 | 🆕 GitHub官方漏洞赏金计划，法币直接结算
+
