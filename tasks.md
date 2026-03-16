@@ -111,3 +111,7 @@
 | BT-0094 | 2026-03-16T18:20:00+00:00 | github/RustChain | BoTTube | https://github.com/Scottcjn/rustchain-bounties/issues/2156 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T18:45:00+00:00 | BoTTube Video Page Customization |
 | BT-0095 | 2026-03-16T18:20:00+00:00 | github | desloppify | https://github.com/peteromallet/desloppify/issues/421 | $1000 | USD | 1000 | open |  |  | 2026-03-16T18:45:00+00:00 | Humor bounty: $1000 if Desloppify does something stupid when refactoring |
 | BT-0096 | 2026-03-16T20:03:00+00:00 | yeswehack | YesWeHack Global Bug Bounty | https://www.yeswehack.com/ | $100+ | USD | 100 | new |  |  | 2026-03-16T20:03:00+00:00 | YesWeHack全球漏洞赏金平台，覆盖众多知名企业，法币结算 |
+| BT-0097 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/40 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T20:47:00+00:00 | 本地LLM工具使用对比基准测试，5 RTC奖励 |
+| BT-0098 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/39 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T20:47:00+00:00 | TrashClaw Windows兼容性支持，5 RTC奖励 |
+| BT-0099 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/38 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T20:47:00+00:00 | 独立AMD Mac金属GPU加速支持，15 RTC奖励 |
+| BT-0100 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/37 | 10 RTC | RTC | 1.0 | open |  |  | 2026-03-16T20:47:00+00:00 | 对话历史保存/加载功能，10 RTC奖励 |
