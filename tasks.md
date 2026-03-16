@@ -110,3 +110,4 @@
 | BT-0093 | 2026-03-16T18:20:00+00:00 | github/RustChain | BoTTube | https://github.com/Scottcjn/rustchain-bounties/issues/2157 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T18:45:00+00:00 | BoTTube Creator Analytics Dashboard |
 | BT-0094 | 2026-03-16T18:20:00+00:00 | github/RustChain | BoTTube | https://github.com/Scottcjn/rustchain-bounties/issues/2156 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T18:45:00+00:00 | BoTTube Video Page Customization |
 | BT-0095 | 2026-03-16T18:20:00+00:00 | github | desloppify | https://github.com/peteromallet/desloppify/issues/421 | $1000 | USD | 1000 | open |  |  | 2026-03-16T18:45:00+00:00 | Humor bounty: $1000 if Desloppify does something stupid when refactoring |
+| BT-0096 | 2026-03-16T20:03:00+00:00 | yeswehack | YesWeHack Global Bug Bounty | https://www.yeswehack.com/ | $100+ | USD | 100 | new |  |  | 2026-03-16T20:03:00+00:00 | YesWeHack全球漏洞赏金平台，覆盖众多知名企业，法币结算 |
