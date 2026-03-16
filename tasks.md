@@ -181,3 +181,6 @@
 | BT-0171 | 2026-03-16T06:01:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/3 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T06:01:00+00:00 | [BOUNTY: 25 RTC] 网页浏览工具 - 获取和总结URL内容
 | BT-0172 | 2026-03-16T06:01:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/2 | 50 RTC | RTC | 5 | open |  |  | 2026-03-16T06:01:00+00:00 | [BOUNTY: 50 RTC] 双GPU支持 - 使用两块FirePro D500
 | BT-0173 | 2026-03-16T06:01:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/1 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T06:01:00+00:00 | [BOUNTY: 25 RTC] 流式响应支持
+| BT-0174 | 2026-03-16T06:26:00+00:00 | bountyhub | BountyHub | https://www.bountyhub.dev/bounties | $1+ | USD | 1 | open |  |  | 2026-03-16T06:26:00+00:00 | GitHub Issue众筹赏金平台，持续新增用户发布赏金任务，开发者0手续费法币提现
+| BT-0175 | 2026-03-16T06:26:00+00:00 | yeswehack | Thüringer Aufbaubank | https://yeswehack.com/programs | €50-€1500 | EUR | 50 | open |  |  | 2026-03-16T06:26:00+00:00 | 公开漏洞赏金计划，2026年3月最新更新，奖励范围€50-€1500
+| BT-0176 | 2026-03-16T06:26:00+00:00 | oss-fund | OSS.Fund | https://www.oss.fund/categories/bounties/ | $1+ | USD | 1 | open |  |  | 2026-03-16T06:26:00+00:00 | 开源项目赏金聚合平台，聚合多个来源赏金任务，法币结算
