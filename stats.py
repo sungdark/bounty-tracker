@@ -1,45 +1,38 @@
-#!/usr/bin/env python3
-import re
-from datetime import datetime
-
-total_usd = 0
-high_value_open = 0
-merged_pending = 0
-task_count = 0
-
-# RTC -> USD conversion rate: 1 RTC = 0.1 USD
-rtc_rate = 0.1
 
 with open('tasks.md', 'r') as f:
     lines = f.readlines()
 
-for line in lines:
-    if not line.startswith('| BT-'):
-        continue
-    task_count += 1
-    cols = [c.strip() for c in line.split('|')[1:-1]]
-    # Columns: ID, 接受时间, 来源, 项目, 任务链接, 奖励, 货币类型, 奖励价值, 状态, PR链接, 认领链接, 最后更新, 备注
-    # 索引0:ID, 1:接受时间, 2:来源, 3:项目, 4:任务链接, 5:奖励, 6:货币类型, 7:奖励价值, 8:状态, 9:PR链接, 10:认领链接, 11:最后更新, 12:备注
-    if len(cols) >= 8:
-        val = cols[7]  # 奖励价值在第8列
-        try:
-            val_float = float(val)
-            currency = cols[6]
-            # 转换RTC到USD
-            if currency == 'RTC':
-                val_float = val_float * rtc_rate
-            total_usd += val_float
-        except:
-            val_float = 0
-            pass
-        status = cols[8]  # 状态在第9列
-        if status in ['open', 'pr_open', 'pr_open_alt', 'new', 'ready_pr'] and val_float >= 5:
-            high_value_open += 1
-        if status in ['merged'] and val_float > 0:
-            merged_pending += val_float
+usd_pending = 0
+usd_merged = 0
+high_value_pending = []
 
-print(f'📊 Bounty Tracker 统计')
-print(f'总任务数: {task_count}')
-print(f'总待结算 (已合并): ${merged_pending:.2f}')
-print(f'总潜在可获得 (开放任务USD估值): ${total_usd:.2f}')
-print(f'开放高价值任务 (≥$5): {high_value_open}')
+for line in lines:
+    if (line.startswith('| BT-') or line.startswith('| BT-OLD-')) and not 'ID' in line:
+        cols = [c.strip() for c in line.split('|') if c.strip()]
+        # columns: 0=ID, 1=accept time, 2=source, 3=project, 4=url, 5=reward, 6=currency, 7=value, 8=status ...
+        if len(cols) >= 8:
+            currency = cols[5]
+            try:
+                value = float(cols[6])
+                status = cols[7]
+                if currency == 'USD':
+                    if status in ['pr_open', 'open', 'new', 'pr_open_alt']:
+                        if '废弃' not in line:
+                            usd_pending += value
+                            if value >= 5:
+                                task_id = cols[0]
+                                project = cols[3]
+                                url = cols[4]
+                                high_value_pending.append(f'- {task_id}: {project} - ${value} - {status}')
+                    elif status == 'merged':
+                        usd_merged += value
+            except Exception as e:
+                pass
+
+print(f'✅ 核心数据:')
+print(f'总待结算: ${usd_pending:.2f} USD')
+print(f'已合并待结算: ${usd_merged:.2f} USD')
+print()
+print(f'✅ 高价值任务状态 (≥$5):')
+for t in high_value_pending:
+    print(t)
