@@ -267,4 +267,6 @@
 | BT-0227 | 2026-03-16T12:15:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/4 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T12:15:00+00:00 | 🆕 今日新增：项目上下文感知 - 自动检测框架，赏金15 RTC，智能功能
 | BT-0228 | 2026-03-16T12:35:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2131 | 20-40 RTC | RTC | 2 | open |  |  | 2026-03-16T12:35:00+00:00 | 🆕 本轮扫描新增：[BOUNTY] 创建Beacon Skill教程，基础20 RTC，完整视频教程额外+20 RTC，文档/教程任务
 | BT-0229 | 2026-03-16T12:35:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2132 | 5-10 RTC | RTC | 0.5 | open |  |  | 2026-03-16T12:35:00+00:00 | 🆕 本轮扫描新增：[EASY BOUNTY] 修复RustChain官网主页拼写错误，简单任务适合新人
+| BT-0230 | 2026-03-16T12:41:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2135 | 500 RTC Grant | RTC | 50 | open |  |  | 2026-03-16T12:41:00+00:00 | 🆕 本轮扫描新增：The Glassworm Protocol — 500 RTC Grant申请，开发链上PoA反机器人验证机制，高级技术项目
+| BT-0231 | 2026-03-16T12:41:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2127 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T12:41:00+00:00 | [BOUNTY: 25 RTC] 修复Beacon Atlas自动注册和rustchain.org路由问题，需要nginx配置修改和后端端点修复
 
