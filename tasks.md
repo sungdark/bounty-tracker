@@ -149,3 +149,7 @@
 | BT-0135 | 2026-03-16T02:46:00+00:00 | digital-product | Sellfy | https://sellfy.com/blog/digital-products/ | $5+ | USD | 5 | open |  |  | 2026-03-16T02:46:00+00:00 | Sellfy数字产品售卖平台，2026年推荐20款高利润数字产品，含AI提示词、模板、电子书等
 | BT-0136 | 2026-03-16T02:46:00+00:00 | digital-product | Amasty | https://amasty.com/blog/best-digital-products-to-sell/ | $10+ | USD | 10 | open |  |  | 2026-03-16T02:46:00+00:00 | 2026年18款热门数字产品趋势，AI增强产品是新增长点
 | BT-0137 | 2026-03-16T02:46:00+00:00 | github | Catch The Signal | https://catchthesignal.com/github-opportunities | 多种 | 多种 | 0 | open |  |  | 2026-03-16T02:46:00+00:00 | 跟踪GitHub付费issue、good first issue和赏金任务，定期更新机会列表
+| BT-0138 | 2026-03-16T03:12:00+00:00 | bugbounty | Open Bug Bounty | https://www.openbugbounty.org/ | 多种 | 多种 | 0 | open |  |  | 2026-03-16T03:12:00+00:00 | 免费开源漏洞赏金平台，接受公开漏洞报告，部分项目提供奖励
+| BT-0139 | 2026-03-16T03:12:00+00:00 | vercel | Vercel OSS Bug Bounty | https://vercel.com/blog/the-vercel-oss-bug-bounty-program-is-now-available | $100+ | USD | 100 | open |  |  | 2026-03-16T03:12:00+00:00 | Vercel开源项目漏洞赏金计划，在HackerOne公开接受报告
+| BT-0140 | 2026-03-16T03:12:00+00:00 | bbradar | Bug Bounty Radar | https://bbradar.io/ | 多种 | 多种 | 0 | open |  |  | 2026-03-16T03:12:00+00:00 | 最新公开漏洞赏金项目搜索引擎，持续更新新项目，近期有2个新项目加入
+| BT-0141 | 2026-03-16T03:12:00+00:00 | github | disclose/bug-bounty-platforms | https://github.com/disclose/bug-bounty-platforms | 多种 | 多种 | 0 | open |  |  | 2026-03-16T03:12:00+00:00 | 社区维护的所有已知漏洞赏金平台集合，持续更新，发现新项目可以提交PR
