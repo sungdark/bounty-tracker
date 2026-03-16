@@ -284,4 +284,6 @@
 | BT-0239 | 2026-03-16T13:37:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2140 | 5-20 RTC | RTC | 0.5 | open |  |  | 2026-03-16T13:37:00+00:00 | 🆕 本轮扫描新增：[BOUNTY] 创建RustChain介绍视频脚本+短视频，基础5 RTC，发布到YouTube额外+15 RTC，内容创作任务
 | BT-0240 | 2026-03-16T13:44:00+00:00 | github | asyncapi/cli | https://github.com/asyncapi/cli/issues/2039 | 多个issue汇总 | 未公开 | 0 | open |  |  | 2026-03-16T13:44:00+00:00 | 🆕 本轮扫描新增：AsyncAPI 2026-04季度赏金计划汇总issue，包含3个开放bug，有赏金奖励，适合参与
 | BT-0241 | 2026-03-16T14:17:00+00:00 | 印度政府 | UIDAI | https://www.chronicleindia.in/current-affairs/16102-uidai-bug-bounty-programme-for-aadhaar-security | 未公开 | INR | 0 | open |  |  | 2026-03-16T14:17:00+00:00 | 🆕 2026年3月11日全新启动：UIDAI Aadhaar首个结构化漏洞赏金计划，寻找安全漏洞，法币卢比结算，新项目机会
+| BT-0242 | 2026-03-16T14:21:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2141 | 5-15 RTC | RTC | 0.5 | open |  |  | 2026-03-16T14:21:00+00:00 | 🆕 本轮扫描新增：[EASY BOUNTY] 修复Scottcjn/rustchain/README.md链接，简单文档任务，奖励5-15 RTC
+| BT-0243 | 2026-03-16T14:21:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2142 | 3-8 RTC | RTC | 0.3 | open |  |  | 2026-03-16T14:21:00+00:00 | 🆕 本轮扫描新增：[EASY BOUNTY] 为BeaconSkill网站添加favicon，简单前端任务，奖励3-8 RTC
 
