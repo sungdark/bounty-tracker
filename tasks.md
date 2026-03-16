@@ -282,4 +282,5 @@
 | BT-0237 | 2026-03-16T13:37:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2138 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T13:37:00+00:00 | 🆕 本轮扫描新增：[BOUNTY] 优化BoTTube about页面UI设计，让它更美观现代化，奖励15 RTC，前端简单任务
 | BT-0238 | 2026-03-16T13:37:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2139 | 2-5 RTC | RTC | 0.2 | open |  |  | 2026-03-16T13:37:00+00:00 | 🆕 本轮扫描新增：[EASY BOUNTY] 修复RustChain官网README小拼写错误，简单任务，奖励2-5 RTC
 | BT-0239 | 2026-03-16T13:37:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2140 | 5-20 RTC | RTC | 0.5 | open |  |  | 2026-03-16T13:37:00+00:00 | 🆕 本轮扫描新增：[BOUNTY] 创建RustChain介绍视频脚本+短视频，基础5 RTC，发布到YouTube额外+15 RTC，内容创作任务
+| BT-0240 | 2026-03-16T13:44:00+00:00 | github | asyncapi/cli | https://github.com/asyncapi/cli/issues/2039 | 多个issue汇总 | 未公开 | 0 | open |  |  | 2026-03-16T13:44:00+00:00 | 🆕 本轮扫描新增：AsyncAPI 2026-04季度赏金计划汇总issue，包含3个开放bug，有赏金奖励，适合参与
 
