@@ -114,7 +114,7 @@
 | BT-0097 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/40 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T20:47:00+00:00 | 本地LLM工具使用对比基准测试，5 RTC奖励 |
 | BT-0098 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/39 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T20:47:00+00:00 | TrashClaw Windows兼容性支持，5 RTC奖励 |
 | BT-0099 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/38 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T20:47:00+00:00 | 独立AMD Mac金属GPU加速支持，15 RTC奖励 |
-| BT-0100 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/37 | 10 RTC | RTC | 1.0 | open |  |  | 2026-03-16T20:47:00+00:00 | 对话历史保存/加载功能，10 RTC奖励 |
+| BT-0100 | 2026-03-16T20:47:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/37 | 10 RTC | RTC | 1.0 | in_progress |  |  | 2026-03-16T22:59:00+00:00 | 对话历史保存/加载功能，已完成实现，需要token创建PR |
 | BT-0101 | 2026-03-16T20:50:00+00:00 | code4rena | Intuition Bug Bounty | https://code4rena.com/audits/2026-03-intuition | $17,500 | USDC | 17500 | closed |  |  | 2026-03-16T20:50:00+00:00 | 竞争审计已在3月9日结束，目前正在评审中，总奖金池$17,500 USDC |
 | BT-0102 | 2026-03-16T20:50:00+00:00 | opencollective | PixiJS Bounties | https://opencollective.com/pixijs/expenses | Varies | USD | 306 | active |  |  | 2026-03-16T20:50:00+00:00 | PixiJS开源项目通过OpenCollective支付赏金，最近已支付$306 Bug修复赏金 |
 | BT-0103 | 2026-03-16T20:50:00+00:00 | hackerone | Basecamp Bug Bounty | https://hackerone.com/basecamp | $100+ | USD | 100 | active |  |  | 2026-03-16T20:50:00+00:00 | Basecamp漏洞赏金计划，最低奖励$100，法币结算 |
@@ -133,3 +133,6 @@
 | BT-0116 | 2026-03-16T22:52:00+00:00 | huntr | huntr.dev | https://huntr.com/ | CVE bounties | USD | 0 | new |  |  | 2026-03-16T22:52:00+00:00 | 开源漏洞赏金平台，修复CVE并获得奖励，法币支付 |
 | BT-0117 | 2026-03-16T22:52:00+00:00 | github | GitHub Bug Bounty | https://bounty.github.com/ | Up to $30,000+ | USD | 30000 | active |  |  | 2026-03-16T22:52:00+00:00 | GitHub官方漏洞赏金计划，关键漏洞最高$30,000+奖励 |
 | BT-0118 | 2026-03-16T22:52:00+00:00 | openbugbounty | Open Bug Bounty | https://www.openbugbounty.org/ | Varies | USD | 0 | new |  |  | 2026-03-16T22:52:00+00:00 | 公开漏洞协调披露平台，可以发现网站漏洞获得赏金 |
+| BT-0119 | 2026-03-16T22:54:00+00:00 | github/TrashClaw | TrashClaw | https://github.com/Scottcjn/trashclaw/issues/40 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T22:54:00+00:00 | 本地LLM工具使用对比基准测试，测试至少5个模型并生成兼容性表格，5 RTC奖励 |
+| BT-0120 | 2026-03-16T22:54:00+00:00 | github/TrashClaw | TrashClaw | https://github.com/Scottcjn/trashclaw/issues/39 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T22:54:00+00:00 | TrashClaw Windows兼容性支持，修复readline/路径/Shell问题，5 RTC奖励 |
+| BT-0121 | 2026-03-16T22:54:00+00:00 | github/TrashClaw | TrashClaw | https://github.com/Scottcjn/trashclaw/issues/38 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T22:54:00+00:00 | 独立AMD Mac金属GPU加速支持，集成llama.cpp被拒绝的修复补丁，15 RTC奖励 |
