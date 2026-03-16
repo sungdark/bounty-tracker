@@ -262,4 +262,7 @@
 | BT-0222 | 2026-03-16T11:47:00+00:00 | digital-product | Etsy | https://www.etsy.com/ | $5+ | USD | 5 | open |  |  | 2026-03-16T11:47:00+00:00 | Etsy数字产品售卖平台，可售卖设计模板、printable、剪贴画等数字产品，PayPal法币提现
 | BT-0223 | 2026-03-16T11:47:00+00:00 | digital-product | Gumroad | https://gumroad.com/ | $1+ | USD | 1 | open |  |  | 2026-03-16T11:47:00+00:00 | Gumroad创作者平台，适合售卖电子书、课程、软件模板，直接Stripe法币结算
 | BT-0224 | 2026-03-16T11:47:00+00:00 | freelance | Contra | https://contra.com/ | 佣金0% | USD | 100 | open |  |  | 2026-03-16T11:47:00+00:00 | 独立开发者自由职业平台，零佣金，直接法币结算，适合远程技术工作
+| BT-0225 | 2026-03-16T12:15:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/2 | 50 RTC | RTC | 5 | open |  |  | 2026-03-16T12:15:00+00:00 | 🆕 今日新增：双GPU支持 - 使用两块FirePro D500，赏金50 RTC，硬件适配任务
+| BT-0226 | 2026-03-16T12:15:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/3 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T12:15:00+00:00 | 🆕 今日新增：网页浏览工具 - 获取和总结URL内容，赏金25 RTC，核心功能开发
+| BT-0227 | 2026-03-16T12:15:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/4 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T12:15:00+00:00 | 🆕 今日新增：项目上下文感知 - 自动检测框架，赏金15 RTC，智能功能
 
