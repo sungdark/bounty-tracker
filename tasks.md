@@ -269,4 +269,6 @@
 | BT-0229 | 2026-03-16T12:35:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2132 | 5-10 RTC | RTC | 0.5 | open |  |  | 2026-03-16T12:35:00+00:00 | 🆕 本轮扫描新增：[EASY BOUNTY] 修复RustChain官网主页拼写错误，简单任务适合新人
 | BT-0230 | 2026-03-16T12:41:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2135 | 500 RTC Grant | RTC | 50 | open |  |  | 2026-03-16T12:41:00+00:00 | 🆕 本轮扫描新增：The Glassworm Protocol — 500 RTC Grant申请，开发链上PoA反机器人验证机制，高级技术项目
 | BT-0231 | 2026-03-16T12:41:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2127 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T12:41:00+00:00 | [BOUNTY: 25 RTC] 修复Beacon Atlas自动注册和rustchain.org路由问题，需要nginx配置修改和后端端点修复
+| BT-0232 | 2026-03-16T12:49:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/1677 | 2 RTC | RTC | 0.2 | open |  |  | 2026-03-16T12:49:00+00:00 | 🆕 本轮扫描新增：Star Drive三月活动，Star指定6个RustChain生态仓库+分享社交网络可得2 RTC，简单任务适合新人
+| BT-0233 | 2026-03-16T12:49:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/1618 | 1 RTC | RTC | 0.1 | open |  |  | 2026-03-16T12:49:00+00:00 | 🆕 本轮扫描新增：Report any accessibility issue in BoTTube UI，每个有效报告奖励1 RTC，简单易做，适合快速参与
 
