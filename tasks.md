@@ -124,6 +124,7 @@
 | BT-0113 | 2026-03-15T23:18:00+00:00 | up-for-grabs | Up For Grabs | https://up-for-grabs.net/ | 多种 | 多种 | 0 | open |  |  | 2026-03-15T23:18:00+00:00 | 开源项目新手友好任务聚合平台，许多项目带赏金奖励，适合新贡献者入门
 | BT-0114 | 2026-03-15T23:18:00+00:00 | gitpay | Gitpay | https://gitpay.me/ | $5+ | USD | 5 | open |  |  | 2026-03-15T23:18:00+00:00 | GitHub issue赏金平台，解决问题后直接银行账户法币结算，自动验证支付
 | BT-0115 | 2026-03-15T23:35:00+00:00 | bountyhub | BountyHub | https://www.bountyhub.dev/bounties | $10+ | USD | 10 | open |  |  | 2026-03-15T23:35:00+00:00 | 零手续费GitHub Issue赏金平台，支持众筹，开发者0手续费，120+国家支持Stripe/PayPal法币提现 |
+<<<<<<< HEAD
 | BT-0116 | 2026-03-16T00:19:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/872 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | [BOUNTY] Suggestion #384，今日新增赏金任务，赏金金额未公开 |
 | BT-0117 | 2026-03-16T00:19:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/871 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | [BOUNTY] Suggestion #428，今日新增赏金任务，赏金金额未公开 |
 | BT-0118 | 2026-03-16T00:19:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/5 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | 制作Kravral大陆互动地图，赏金待确认，今日新增 |
@@ -139,6 +140,11 @@
 | BT-0128 | 2026-03-16T01:21:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/871 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T01:21:00+00:00 | [BOUNTY] 口红做成唇印/爪印印章，可爱QOL功能开发，赏金未公开 |
 | BT-0129 | 2026-03-16T01:21:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2103 | 1-25 RTC | RTC | 1 | open |  |  | 2026-03-16T01:21:00+00:00 | Star仓库+关注账号即可获得RTC奖励，每个Star1 RTC，最高25 RTC，简单易做 |
 | BT-0130 | 2026-03-16T01:24:09+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2127 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T01:29:00+00:00 | [BOUNTY: 25 RTC] 修复Beacon Atlas自动注册和rustchain.org路由问题，需要nginx配置修改和后端端点修复，中高级任务 |
+| BT-0116 | 2026-03-16T03:45:00+00:00 | zama | Zama Bounty Program Season 8 | https://github.com/zama-ai/bounty-program/issues/142 | €10,000 | EUR | 10800 | open |  |  | 2026-03-16T03:45:00+00:00 | 高额赏金：开发TFHE-rs定点数算术API，总奖金€10,000，前三名分奖金，FHE密码学方向高价值技术项目 |
+| BT-0117 | 2026-03-16T03:45:00+00:00 | zama | Zama Bounty Program Season 8 | https://github.com/zama-ai/bounty-program/issues/143 | €10,000 | EUR | 10800 | open |  |  | 2026-03-16T03:45:00+00:00 | 高额赏金：基于Zama库实现FHE生物年龄和老化速度估计机器学习模型，总奖金€10,000 |
+| BT-0118 | 2026-03-16T03:45:00+00:00 | zama | Zama Bounty Program Season 8 | https://github.com/zama-ai/bounty-program/issues/144 | €10,000 | EUR | 10800 | open |  |  | 2026-03-16T03:45:00+00:00 | 高额赏金：使用fhEVM在链上构建机密基准测试和投票系统，总奖金€10,000 |
+| BT-0119 | 2026-03-16T03:45:00+00:00 | github | MonoGame | https://github.com/MonoGame/MonoGame/issues/8318 | $2000 | USD | 2000 | open |  |  | 2026-03-16T03:45:00+00:00 | 公开高额赏金：创建更好的3D入门教程，奖励$2000现金，适合有教程编写经验的开发者 |
+| BT-0120 | 2026-03-16T03:45:00+00:00 | immunefi | zkVerify | https://immunefi.com/bug-bounty/zkverify | up to $50,000 | USD | 50000 | open |  |  | 2026-03-16T03:45:00+00:00 | zkVerify区块链项目bug赏金计划，最高奖励$50,000，高危漏洞可获高额奖励 |
 
 
 
