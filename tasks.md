@@ -279,4 +279,7 @@
 | BT-0234 | 2026-03-16T13:18:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2136 | 15-50 RTC | RTC | 1.5 | open |  |  | 2026-03-16T13:18:00+00:00 | 🆕 本轮扫描新增：[BOUNTY] 创建ShaprAI Beacon Skill官方教程，基础15 RTC，带截图/视频额外+35 RTC，文档教程任务
 | BT-0235 | 2026-03-16T13:18:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2137 | 10-30 RTC | RTC | 1 | open |  |  | 2026-03-16T13:18:00+00:00 | 🆕 本轮扫描新增：[EASY BOUNTY] 更新BoTTube机器人关于RustChain的常见问题回答，奖励10-30 RTC，简单文档任务
 | BT-0236 | 2026-03-16T13:18:00+00:00 | digital-product | Payhip | https://payhip.com/ | $1+ | USD | 1 | open |  |  | 2026-03-16T13:18:00+00:00 | 🆕 数字产品售卖平台，支持售卖电子书、设计资源、软件，零手续费，Stripe直接法币结算
+| BT-0237 | 2026-03-16T13:37:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2138 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T13:37:00+00:00 | 🆕 本轮扫描新增：[BOUNTY] 优化BoTTube about页面UI设计，让它更美观现代化，奖励15 RTC，前端简单任务
+| BT-0238 | 2026-03-16T13:37:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2139 | 2-5 RTC | RTC | 0.2 | open |  |  | 2026-03-16T13:37:00+00:00 | 🆕 本轮扫描新增：[EASY BOUNTY] 修复RustChain官网README小拼写错误，简单任务，奖励2-5 RTC
+| BT-0239 | 2026-03-16T13:37:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2140 | 5-20 RTC | RTC | 0.5 | open |  |  | 2026-03-16T13:37:00+00:00 | 🆕 本轮扫描新增：[BOUNTY] 创建RustChain介绍视频脚本+短视频，基础5 RTC，发布到YouTube额外+15 RTC，内容创作任务
 
