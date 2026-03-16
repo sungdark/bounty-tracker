@@ -184,3 +184,6 @@
 | BT-0174 | 2026-03-16T06:26:00+00:00 | bountyhub | BountyHub | https://www.bountyhub.dev/bounties | $1+ | USD | 1 | open |  |  | 2026-03-16T06:26:00+00:00 | GitHub Issue众筹赏金平台，持续新增用户发布赏金任务，开发者0手续费法币提现
 | BT-0175 | 2026-03-16T06:26:00+00:00 | yeswehack | Thüringer Aufbaubank | https://yeswehack.com/programs | €50-€1500 | EUR | 50 | open |  |  | 2026-03-16T06:26:00+00:00 | 公开漏洞赏金计划，2026年3月最新更新，奖励范围€50-€1500
 | BT-0176 | 2026-03-16T06:26:00+00:00 | oss-fund | OSS.Fund | https://www.oss.fund/categories/bounties/ | $1+ | USD | 1 | open |  |  | 2026-03-16T06:26:00+00:00 | 开源项目赏金聚合平台，聚合多个来源赏金任务，法币结算
+| BT-0177 | 2026-03-16T06:53:00+00:00 | github | projectdiscovery/public-bugbounty-programs | https://github.com/projectdiscovery/public-bugbounty-programs | 多种 | 多种 | 0 | reference |  |  | 2026-03-16T06:53:00+00:00 | 社区维护的公开漏洞赏金计划列表，持续更新，发现新项目可以参考参与
+| BT-0178 | 2026-03-16T06:53:00+00:00 | github | djadmin/awesome-bug-bounty | https://github.com/djadmin/awesome-bug-bounty | 多种 | 多种 | 0 | reference |  |  | 2026-03-16T06:53:00+00:00 | 全面的公开漏洞赏金计划和披露计划整理列表，包含write-ups参考
+| BT-0179 | 2026-03-16T06:53:00+00:00 | codebounty | Code Bounty | https://www.codebounty.org/ | $1+ | USD | 1 | open |  |  | 2026-03-16T06:53:00+00:00 | GitHub Issue赏金平台，Web3方向，加密货币结算
