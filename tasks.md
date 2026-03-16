@@ -124,7 +124,6 @@
 | BT-0113 | 2026-03-15T23:18:00+00:00 | up-for-grabs | Up For Grabs | https://up-for-grabs.net/ | 多种 | 多种 | 0 | open |  |  | 2026-03-15T23:18:00+00:00 | 开源项目新手友好任务聚合平台，许多项目带赏金奖励，适合新贡献者入门
 | BT-0114 | 2026-03-15T23:18:00+00:00 | gitpay | Gitpay | https://gitpay.me/ | $5+ | USD | 5 | open |  |  | 2026-03-15T23:18:00+00:00 | GitHub issue赏金平台，解决问题后直接银行账户法币结算，自动验证支付
 | BT-0115 | 2026-03-15T23:35:00+00:00 | bountyhub | BountyHub | https://www.bountyhub.dev/bounties | $10+ | USD | 10 | open |  |  | 2026-03-15T23:35:00+00:00 | 零手续费GitHub Issue赏金平台，支持众筹，开发者0手续费，120+国家支持Stripe/PayPal法币提现 |
-<<<<<<< HEAD
 | BT-0116 | 2026-03-16T00:19:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/872 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | [BOUNTY] Suggestion #384，今日新增赏金任务，赏金金额未公开 |
 | BT-0117 | 2026-03-16T00:19:00+00:00 | github | SPLURT-Station/S.P.L.U.R.T-tg | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/871 | 未公开 | 未公开 | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | [BOUNTY] Suggestion #428，今日新增赏金任务，赏金金额未公开 |
 | BT-0120 | 2026-03-16T00:19:00+00:00 | github | Emsloan/aecury | https://github.com/Emsloan/aecury/issues/5 | 未公开 | USD | 0 | open |  |  | 2026-03-16T00:19:00+00:00 | 制作Kravral大陆互动地图，赏金待确认，今日新增 |
@@ -258,4 +257,9 @@
 | BT-0217 | 2026-03-16T11:14:00+00:00 | hackerone | Coinbase | https://hackerone.com/coinbase | $100+ | USD | 100 | open |  |  | 2026-03-16T11:14:00+00:00 | 🆕 Coinbase公开漏洞赏金，最低$100，高危漏洞奖励更高
 | BT-0218 | 2026-03-16T11:14:00+00:00 | hackerone | Dropbox | https://hackerone.com/dropbox | $100+ | USD | 100 | open |  |  | 2026-03-16T11:14:00+00:00 | 🆕 Dropbox漏洞赏金计划，持续开放接受报告
 | BT-0219 | 2026-03-16T11:14:00+00:00 | hackerone | GitHub | https://hackerone.com/github | $100+ | USD | 100 | open |  |  | 2026-03-16T11:14:00+00:00 | 🆕 GitHub官方漏洞赏金计划，法币直接结算
+| BT-0220 | 2026-03-16T11:47:00+00:00 | hackerone | 更多公开漏洞赏金 | https://github.com/arkadiyt/bounty-targets-data | 多种 | 多种 | 0 | reference |  |  | 2026-03-16T11:47:00+00:00 | 🆕 本轮扫描更新：arkadiyt/bounty-targets-data刚刚更新，共233个开放漏洞赏金项目，每小时自动维护
+| BT-0221 | 2026-03-16T11:47:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues | 0.5-200 RTC | RTC | 0.05 | open |  |  | 2026-03-16T11:47:00+00:00 | 🆕 本轮扫描发现：RustChain持续开放各类赏金，从简单Star任务到高级开发任务，RTC可兑换SOL
+| BT-0222 | 2026-03-16T11:47:00+00:00 | digital-product | Etsy | https://www.etsy.com/ | $5+ | USD | 5 | open |  |  | 2026-03-16T11:47:00+00:00 | Etsy数字产品售卖平台，可售卖设计模板、printable、剪贴画等数字产品，PayPal法币提现
+| BT-0223 | 2026-03-16T11:47:00+00:00 | digital-product | Gumroad | https://gumroad.com/ | $1+ | USD | 1 | open |  |  | 2026-03-16T11:47:00+00:00 | Gumroad创作者平台，适合售卖电子书、课程、软件模板，直接Stripe法币结算
+| BT-0224 | 2026-03-16T11:47:00+00:00 | freelance | Contra | https://contra.com/ | 佣金0% | USD | 100 | open |  |  | 2026-03-16T11:47:00+00:00 | 独立开发者自由职业平台，零佣金，直接法币结算，适合远程技术工作
 
