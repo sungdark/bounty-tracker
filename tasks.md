@@ -171,3 +171,7 @@
 | BT-0161 | 2026-03-16T05:17:00+00:00 | upwork | Upwork | https://www.upwork.com/ | $10-$1000+ | USD | 10 | open |  |  | 2026-03-16T05:17:00+00:00 | 全球最大自由职业平台，各类开发/设计项目，直接法币结算到本地支付方式
 | BT-0162 | 2026-03-16T05:17:00+00:00 | fiverr | Fiverr | https://www.fiverr.com/ | $5-$1000+ | USD | 5 | open |  |  | 2026-03-16T05:17:00+00:00 | 数字服务售卖平台，标准化技能服务，从$5起步，PayPal法币提现
 | BT-0163 | 2026-03-16T05:17:00+00:00 | toptal | Toptal | https://www.toptal.com/ | $100+/hour | USD | 100 | open |  |  | 2026-03-16T05:17:00+00:00 | 高端自由职业平台，对接欧美企业项目，时薪$100+，法币直接结算
+| BT-0164 | 2026-03-16T05:51:00+00:00 | bountyhub | BountyHub.dev | https://www.bountyhub.dev/ | $1+ | USD | 1 | open |  |  | 2026-03-16T05:51:00+00:00 | GitHub Issue众筹赏金平台，开发者0手续费，支持120+国家Stripe/PayPal法币提现，无金额门槛
+| BT-0165 | 2026-03-16T05:51:00+00:00 | yeswehack | Thüringer Aufbaubank | https://yeswehack.com/programs | €50-€1500 | EUR | 50 | open |  |  | 2026-03-16T05:51:00+00:00 | 公开漏洞赏金计划，2026-03-09最新更新，奖励范围€50-€1500
+| BT-0166 | 2026-03-16T05:51:00+00:00 | oss-fund | OSS.Fund | https://www.oss.fund/categories/bounties/ | $1+ | USD | 1 | open |  |  | 2026-03-16T05:51:00+00:00 | 开源项目赏金聚合平台，收集Gitpay、Bounties等多个来源的赏金任务
+| BT-0167 | 2026-03-16T05:51:00+00:00 | fiverr | High-Demand Gigs 2026 | https://www.linkedin.com/pulse/10-high-demand-fiverr-gigs-you-can-start-2026-minimal-kashif-nazir-jcosf/ | $5-$1000+ | USD | 5 | open |  |  | 2026-03-16T05:51:00+00:00 | 2026年Fiverr十大高需求gig，AI提示词工程、自动化脚本、数字营销都有机会
