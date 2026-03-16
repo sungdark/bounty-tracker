@@ -247,4 +247,6 @@
 | BT-0207 | 2026-03-16T10:31:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2130 | 实现RustChain挖矿浏览器插件 | 30 RTC | RTC | 3 | open |  |  | 2026-03-16T10:31:00+00:00 | 🆕 今日新增赏金：实现浏览器插件展示当前算力和收益统计，前端开发任务，30 RTC奖励
 | BT-0208 | 2026-03-16T10:31:00+00:00 | github | PlatformNetwork/bounty-challenge | https://github.com/PlatformNetwork/bounty-challenge/issues/29349 | 修复侧边栏Toggle按钮无障碍问题 | 未公开 | USD | 0 | open |  |  | 2026-03-16T10:31:00+00:00 | 🆕 今日新增无障碍bug修复，缺少aria-expanded状态，WCAG违规
 | BT-0209 | 2026-03-16T10:31:00+00:00 | github | PlatformNetwork/bounty-challenge | https://github.com/PlatformNetwork/bounty-challenge/issues/29348 | 修复侧边栏标题语义化问题 | 未公开 | USD | 0 | open |  |  | 2026-03-16T10:31:00+00:00 | 🆕 今日新增无障碍bug修复，主侧边栏标题不是heading元素，屏幕阅读器无法识别
+| BT-0210 | 2026-03-16T10:35:00+00:00 | github | arkadiyt/bounty-targets-data | https://github.com/arkadiyt/bounty-targets-data | 更新公开赏金范围数据 |  |  |  | reference |  |  | 2026-03-16T10:35:00+00:00 | 🆕 今日更新：arkadiyt/bounty-targets-data每小时更新公开漏洞赏金数据，最新拉取显示删除了2548行旧数据增加551行新数据，项目保持活跃更新
+| BT-0211 | 2026-03-16T10:35:00+00:00 | telegram | Bounty Hash Combo | https://t.me/bounty_hash_bot/ | 每日免费奖励 | 40 BNTY | BNTY | 0 | open |  |  | 2026-03-16T10:35:00+00:00 | 🆕 今日Combo密码：BONUS2109，输入即可领取免费40 BNTY，社区超30万用户
 
