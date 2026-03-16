@@ -194,3 +194,5 @@
 | BT-0184 | 2026-03-16T07:21:00+00:00 | github | PlatformNetwork/bounty-challenge | https://github.com/PlatformNetwork/bounty-challenge/issues/29348 | 未公开 | USD | 0 | open |  |  | 2026-03-16T07:21:00+00:00 | [无障碍bug修复] 主侧边栏标题不是heading元素，屏幕阅读器无法识别，今日新增
 | BT-0185 | 2026-03-16T07:21:00+00:00 | hackerone | Google | https://hackerone.com/google | $100+ | USD | 100 | open |  |  | 2026-03-16T07:21:00+00:00 | Google漏洞赏金计划，严重漏洞最高可获数百万美元奖励，持续开放
 | BT-0186 | 2026-03-16T07:21:00+00:00 | hackerone | Microsoft | https://hackerone.com/microsoft | $500+ | USD | 500 | open |  |  | 2026-03-16T07:21:00+00:00 | Microsoft漏洞赏金计划，关键漏洞奖励高达数百万美元
+| BT-0187 | 2026-03-16T07:56:00+00:00 | code4rena | Intuition Bug Bounty | https://github.com/code-423n4/intuition-bug-bounty | 未公开 | USD | 0 | open |  |  | 2026-03-16T07:56:00+00:00 | 2026年3月9日刚刚结束竞赛审计，结果待公布，后续可关注公开结果参与
+| BT-0188 | 2026-03-16T07:56:00+00:00 | issuehunt | IssueHunt | https://oss.issuehunt.io/ | $1+ | USD | 1 | open |  |  | 2026-03-16T07:56:00+00:00 | 开源项目基于issue的赏金平台，社区赞助支持，可发现新的赏金任务
