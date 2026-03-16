@@ -200,3 +200,5 @@
 | BT-0190 | 2026-03-16T08:06:00+00:00 | hackerone | Dropbox | https://hackerone.com/dropbox | $100+ | USD | 100 | open |  |  | 2026-03-16T08:06:00+00:00 | Dropbox漏洞赏金计划，持续开放接受报告
 | BT-0191 | 2026-03-16T08:06:00+00:00 | hackerone | GitHub | https://hackerone.com/github | $100+ | USD | 100 | open |  |  | 2026-03-16T08:06:00+00:00 | GitHub漏洞赏金计划，官方平台，法币结算
 | BT-0192 | 2026-03-16T08:25:00+00:00 | chronicleindia | UIDAI | https://www.chronicleindia.in/current-affairs/16102-uidai-bug-bounty-programme-for-aadhaar-security | 未公开 | INR | 0 | open |  |  | 2026-03-16T08:25:00+00:00 | 🆕 2026年3月11日全新启动：UIDAI Aadhaar首个结构化漏洞赏金计划，寻找安全漏洞，印度政府项目，法币卢比结算
+| BT-0193 | 2026-03-16T09:00:00+00:00 | openclawlog | GitHub Bounties March 2026 | https://openclawlog.com/2026/03/01/github-bounties-march-2026-4395-total/ | $4395 | USD | 4395 | open |  |  | 2026-03-16T09:00:00+00:00 | 🆕 2026年3月汇总：多个活跃赏金任务总计$4395，支付方式USDC可兑换SOL，需要进一步筛选可参与项目
+| BT-0194 | 2026-03-16T09:00:00+00:00 | bountybot | BountyBot | https://bountybot.com/ | $1+ | USD | 1 | open |  |  | 2026-03-16T09:00:00+00:00 | BountyBot付费GitHub任务平台，企业发布任务开发者完成赚钱，法币结算
