@@ -143,3 +143,5 @@
 
 
 | BT-0131 | 2026-03-16T01:35:00+00:00 | github | lwouis/alt-tab-macos | https://github.com/lwouis/alt-tab-macos/issues/5149 | \$200 | USD | 200 | pr_open | https://github.com/lwouis/alt-tab-macos/pull/5507 | https://github.com/lwouis/alt-tab-macos/issues/5149#issuecomment-2074133245 | 2026-03-16T01:35:00+00:00 | 已修复Grammarly/Telegram应用焦点问题，PR已提交，等待审核，奖励\$200 USD
+| BT-0132 | 2026-03-16T02:35:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/29351 | 未公开 | USD | 0 | open |  |  | 2026-03-16T02:35:00+00:00 | [无障碍bug修复] AI Agents面板空状态缺少landmark和aria-label，今日新增赏金任务
+| BT-0133 | 2026-03-16T02:38:00+00:00 | github | Cortex IDE | https://github.com/PlatformNetwork/bounty-challenge/issues/29350 | 未公开 | USD | 0 | open |  |  | 2026-03-16T02:38:00+00:00 | [无障碍bug修复] PreviewToolbar地址栏清除按钮没有title和aria-label，WCAG 4.1.2违规，今日新增赏金任务
