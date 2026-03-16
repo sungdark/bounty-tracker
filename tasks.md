@@ -265,4 +265,6 @@
 | BT-0225 | 2026-03-16T12:15:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/2 | 50 RTC | RTC | 5 | open |  |  | 2026-03-16T12:15:00+00:00 | 🆕 今日新增：双GPU支持 - 使用两块FirePro D500，赏金50 RTC，硬件适配任务
 | BT-0226 | 2026-03-16T12:15:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/3 | 25 RTC | RTC | 2.5 | open |  |  | 2026-03-16T12:15:00+00:00 | 🆕 今日新增：网页浏览工具 - 获取和总结URL内容，赏金25 RTC，核心功能开发
 | BT-0227 | 2026-03-16T12:15:00+00:00 | github | Scottcjn/trashclaw | https://github.com/Scottcjn/trashclaw/issues/4 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T12:15:00+00:00 | 🆕 今日新增：项目上下文感知 - 自动检测框架，赏金15 RTC，智能功能
+| BT-0228 | 2026-03-16T12:35:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2131 | 20-40 RTC | RTC | 2 | open |  |  | 2026-03-16T12:35:00+00:00 | 🆕 本轮扫描新增：[BOUNTY] 创建Beacon Skill教程，基础20 RTC，完整视频教程额外+20 RTC，文档/教程任务
+| BT-0229 | 2026-03-16T12:35:00+00:00 | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/2132 | 5-10 RTC | RTC | 0.5 | open |  |  | 2026-03-16T12:35:00+00:00 | 🆕 本轮扫描新增：[EASY BOUNTY] 修复RustChain官网主页拼写错误，简单任务适合新人
 
