@@ -121,3 +121,11 @@
 | BT-0104 | 2026-03-16T20:50:00+00:00 | immunefi | Sei Critical Bug Bounty | https://immunefi.com/bug-bounty/sei/information | $50,000+ | USD | 50000 | active |  |  | 2026-03-16T20:50:00+00:00 | Sei网络严重漏洞最低保证$50,000奖励，高价值目标 |
 | BT-0105 | 2026-03-16T20:50:00+00:00 | algora | Algora Public Bounties | https://algora.io/bounties/ | Varies | USD | 20 | active |  |  | 2026-03-16T20:50:00+00:00 | Algora公开赏金平台，整合GitHub上付费任务，最低$20起 |
 | BT-0106 | 2026-03-16T20:50:00+00:00 | github | Intent Solutions Bounties | https://github.com/intent-solutions-io/bounties | Varies | USD | 0 | open |  |  | 2026-03-16T20:50:00+00:00 | Intent Solutions公开赏金库，包含Bug修复和功能需求 |
+| BT-0107 | 2026-03-16T21:05:00+00:00 | immunefi | Linea | https://immunefi.com/bug-bounty/linea | Up to $2,000,000 | USD | 2000000 | new |  |  | 2026-03-16T21:05:00+00:00 | Linea最新bug赏金计划，最高$2,000,000，顶级高价值目标 |
+| BT-0108 | 2026-03-16T21:05:00+00:00 | immunefi | zkSync Era | https://immunefi.com/bug-bounty/zksync-era | Up to $2,000,000 | USD | 2000000 | new |  |  | 2026-03-16T21:05:00+00:00 | zkSync Era漏洞赏金计划，最高$2,000,000，顶级高价值目标 |
+| BT-0109 | 2026-03-16T21:05:00+00:00 | sherlock | Arbitrum Challenge | https://audits.sherlock.xyz/contests/1099 | $802,491 | USDC | 802491 | ended |  |  | 2026-03-16T21:05:00+00:00 | Arbitrum安全审计竞赛已结束，总奖金池$802,491，等待结果 |
+| BT-0110 | 2026-03-16T21:05:00+00:00 | codetriage | CodeTriage | https://www.codetriage.com/ |  | Community | 0 | open |  |  | 2026-03-16T21:05:00+00:00 | 开源项目Issue分流平台，可发现带赏金的开源任务 |
+| BT-0111 | 2026-03-16T21:05:00+00:00 | bountyoss | BountyOSS | https://bountyoss.com/ | $10-$1000+ | USD | 10 | new |  |  | 2026-03-16T21:05:00+00:00 | 专注开源项目赏金平台，企业赞助，直接法币支付 |
+| BT-0112 | 2026-03-16T21:05:00+00:00 | issuehunt | Issue Hunt | https://issuehunt.io/ | $10-$5000+ | USD | 10 | new |  |  | 2026-03-16T21:05:00+00:00 | GitHub赏金托管平台，支持团队和开源项目悬赏 |
+| BT-0113 | 2026-03-16T21:05:00+00:00 | code4rena | Code4rena Upcoming | https://code4rena.com/audits | Up to $100,000+ | USDC | 100000 | upcoming |  |  | 2026-03-16T21:05:00+00:00 | Code4rena即将开放审计竞赛，高奖金安全审计机会 |
+| BT-0114 | 2026-03-16T21:05:00+00:00 | hackerone | Google VRP | https://bughunters.google.com/ | Up to $100,000+ | USD | 100000 | active |  |  | 2026-03-16T21:05:00+00:00 | Google漏洞奖励计划，最高$100,000+，顶级奖励 |
