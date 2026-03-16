@@ -1,73 +1,45 @@
-
+#!/usr/bin/env python3
 import re
 from datetime import datetime
 
-with open('tasks.md', 'r') as f:
-    content = f.read()
-
 total_usd = 0
-pr_open = 0
+high_value_open = 0
 merged_pending = 0
-high_value = []
-new_today = 0
-total_tasks = 0
+task_count = 0
 
-lines = content.split('\n')
+# RTC -> USD conversion rate: 1 RTC = 0.1 USD
+rtc_rate = 0.1
+
+with open('tasks.md', 'r') as f:
+    lines = f.readlines()
+
 for line in lines:
-    if '| BT-' in line and not 'ID |' in line and not '----|' in line:
-        total_tasks += 1
-        cols = [c.strip() for c in line.split('|') if c.strip()]
-        if len(cols) >= 8:
-            reward_value = cols[6]
-            status = cols[7]
-            try:
-                val = float(reward_value)
-                total_usd += val
-            except:
-                val = 0
-                pass
-            if status == 'pr_open' or status == 'ready_pr' or status == 'pr_open_alt':
-                pr_open += 1
-            if status == 'merged' and '待结算' in line:
-                merged_pending += 1
-            if val >= 5:
-                currency = cols[5]
-                if currency in ['USD', 'EUR', 'GBP', 'USDC']:
-                    if (currency in ['USD', 'EUR', 'GBP'] and val >= 100) or (currency == 'USDC' and val >= 100):
-                        high_value.append((cols[0], val, status))
-            date_col = cols[1]
-            if '2026-03-15' in date_col:
-                new_today += 1
+    if not line.startswith('| BT-'):
+        continue
+    task_count += 1
+    cols = [c.strip() for c in line.split('|')[1:-1]]
+    # Columns: ID, 接受时间, 来源, 项目, 任务链接, 奖励, 货币类型, 奖励价值, 状态, PR链接, 认领链接, 最后更新, 备注
+    # 索引0:ID, 1:接受时间, 2:来源, 3:项目, 4:任务链接, 5:奖励, 6:货币类型, 7:奖励价值, 8:状态, 9:PR链接, 10:认领链接, 11:最后更新, 12:备注
+    if len(cols) >= 8:
+        val = cols[7]  # 奖励价值在第8列
+        try:
+            val_float = float(val)
+            currency = cols[6]
+            # 转换RTC到USD
+            if currency == 'RTC':
+                val_float = val_float * rtc_rate
+            total_usd += val_float
+        except:
+            val_float = 0
+            pass
+        status = cols[8]  # 状态在第9列
+        if status in ['open', 'pr_open', 'pr_open_alt', 'new', 'ready_pr'] and val_float >= 5:
+            high_value_open += 1
+        if status in ['merged'] and val_float > 0:
+            merged_pending += val_float
 
-output = f"""💰 整点赚钱战报 - {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}
-
-✅ 核心数据：
-- 今日新增赏金机会：{new_today} 个
-- 总任务数：{total_tasks}
-- 累计潜在奖励价值：${total_usd:.2f}
-- PR审核中任务：{pr_open} 个
-- 已合并待结算：{merged_pending} 个
-
-✅ 高价值任务（≥$100）状态：
-"""
-
-if len(high_value) > 8:
-    for hv in high_value[:8]:
-        output += f"• {hv[0]}: ${hv[1]} - {hv[2]}\n"
-    output += f"... 还有 {len(high_value) - 8} 个高价值任务未列出\n"
-else:
-    for hv in high_value:
-        output += f"• {hv[0]}: ${hv[1]} - {hv[2]}\n"
-
-output += """
-✅ 新发现机会：
-• BT-0108: Twilio bug bounty ($100+)
-• BT-0109: DoorDash bug bounty ($100+)
-• 新增参考数据源：arkadiyt/bounty-targets-data（233个开放赏金项目每小时更新）
-
-✅ 风险点：
-• 大量高价值漏洞赏金项目需要安全研究能力，需要安排优先级逐步评估
-• 部分RustChain小额任务还未认领，可快速执行累积奖励
-"""
-
-print(output)
+print(f'📊 Bounty Tracker 统计')
+print(f'总任务数: {task_count}')
+print(f'总待结算 (已合并): ${merged_pending:.2f}')
+print(f'总潜在可获得 (开放任务USD估值): ${total_usd:.2f}')
+print(f'开放高价值任务 (≥$5): {high_value_open}')
