@@ -130,3 +130,6 @@
 | BT-0113 | 2026-03-16T21:05:00+00:00 | code4rena | Code4rena Upcoming | https://code4rena.com/audits | Up to $100,000+ | USDC | 100000 | upcoming |  |  | 2026-03-16T21:05:00+00:00 | Code4rena即将开放审计竞赛，高奖金安全审计机会 |
 | BT-0114 | 2026-03-16T21:05:00+00:00 | hackerone | Google VRP | https://bughunters.google.com/ | Up to $100,000+ | USD | 100000 | active |  |  | 2026-03-16T21:05:00+00:00 | Google漏洞奖励计划，最高$100,000+，顶级奖励 |
 | BT-0115 | 2026-03-16T22:05:00+00:00 | github/RustChain | BoTTube | https://github.com/Scottcjn/rustchain-bounties/issues/2155 | 2 RTC | RTC | 0.2 | open |  |  | 2026-03-16T22:05:00+00:00 | [EASY] 在ToolPilot.ai留下真实评测，简单任务，2 RTC奖励 |
+| BT-0116 | 2026-03-16T22:52:00+00:00 | huntr | huntr.dev | https://huntr.com/ | CVE bounties | USD | 0 | new |  |  | 2026-03-16T22:52:00+00:00 | 开源漏洞赏金平台，修复CVE并获得奖励，法币支付 |
+| BT-0117 | 2026-03-16T22:52:00+00:00 | github | GitHub Bug Bounty | https://bounty.github.com/ | Up to $30,000+ | USD | 30000 | active |  |  | 2026-03-16T22:52:00+00:00 | GitHub官方漏洞赏金计划，关键漏洞最高$30,000+奖励 |
+| BT-0118 | 2026-03-16T22:52:00+00:00 | openbugbounty | Open Bug Bounty | https://www.openbugbounty.org/ | Varies | USD | 0 | new |  |  | 2026-03-16T22:52:00+00:00 | 公开漏洞协调披露平台，可以发现网站漏洞获得赏金 |
