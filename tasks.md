@@ -136,3 +136,4 @@
 | BT-0119 | 2026-03-16T22:54:00+00:00 | github/TrashClaw | TrashClaw | https://github.com/Scottcjn/trashclaw/issues/40 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T22:54:00+00:00 | 本地LLM工具使用对比基准测试，测试至少5个模型并生成兼容性表格，5 RTC奖励 |
 | BT-0120 | 2026-03-16T22:54:00+00:00 | github/TrashClaw | TrashClaw | https://github.com/Scottcjn/trashclaw/issues/39 | 5 RTC | RTC | 0.5 | open |  |  | 2026-03-16T22:54:00+00:00 | TrashClaw Windows兼容性支持，修复readline/路径/Shell问题，5 RTC奖励 |
 | BT-0121 | 2026-03-16T22:54:00+00:00 | github/TrashClaw | TrashClaw | https://github.com/Scottcjn/trashclaw/issues/38 | 15 RTC | RTC | 1.5 | open |  |  | 2026-03-16T22:54:00+00:00 | 独立AMD Mac金属GPU加速支持，集成llama.cpp被拒绝的修复补丁，15 RTC奖励 |
+| BT-0122 | 2026-03-17T00:54:00+00:00 | guru99 | Intel Bug Bounty | https://security-center.intel.com/BugBountyProgram.aspx | $500-$30,000 | USD | 500 | new |  |  | 2026-03-17T00:54:00+00:00 | Intel官方bug赏金计划，2026年3月更新，最低$500，最高$30,000，硬件/固件/软件漏洞均可报告 |
