@@ -56,3 +56,8 @@
 | BT-0050 | 2026-03-18T04:58:00Z | github | asyncapi/cli | https://github.com/asyncapi/cli/issues/2039 | varies | USD | varies | available |  |  | 2026-03-18T04:58:00Z | 2026-04 Bounty Program，多个子issues可认领 |
 
 
+
+| BT-0051 | 2026-03-18T05:05:20Z | hackenproof | NEAR Intents | https://hackenproof.com/programs | varies | USD | varies | available |  |  | 2026-03-18T05:05:20Z | 新推出NEAR Intents跨链基础设施漏洞赏金计划，涵盖MPC网络和桥接协议 |
+| BT-0052 | 2026-03-18T05:05:20Z | attackdefense | Mozilla Firefox | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | varies | USD | varies | available |  |  | 2026-03-18T05:05:20Z | 2026年3月更新，调整奖励结构，最高影响漏洞奖励更高，新增GPU沙箱进程漏洞分类 |
+| BT-0053 | 2026-03-18T05:05:20Z | hackerone | Naver Whale | https://hackerone.com/bug-bounty-programs | varies | USD | varies | available |  |  | 2026-03-18T05:05:20Z | Naver全新推出Whale浏览器漏洞赏金计划，欢迎研究者参与 |
+| BT-0054 | 2026-03-18T05:05:20Z | immunefi | Immunefi Top Bounties | https://immunefi.com/bug-bounty/ | 0+ | USD | 0+ | available |  |  | 2026-03-18T05:05:20Z | 每日更新，2026年3月16日刚更新，Web3漏洞赏金平台，高额奖励可抢 |
