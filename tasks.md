@@ -37,5 +37,7 @@
 | BT-0031 | 2026-03-18T01:57:00Z | bountyhub | BountyHub Toolkitly | https://www.toolkitly.com/bountyhub | 0+ | USD | 0+ | available |  |  | 2026-03-18T01:57:00Z | GitHub众筹赏金平台，支持创建/认领问题，付款后交付 |
 | BT-0032 | 2026-03-18T02:00:00Z | digital | Passive Digital Products | https://travisnicholson.medium.com/14-digital-products-to-sell-for-passive-income-2026-91bb0cbc3293 | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T02:00:00Z | 14种可售卖数字产品思路，包括模板、AI提示词、PLR等被动收入机会 |
 | BT-0033 | 2026-03-18T02:00:00Z | digital | ResellReady Digital Products | https://resellready.co/blogs/news/most-profitable-digital-products-for-passive-income-in-2026 | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T02:00:00Z | 2026最赚钱数字产品指南，包含课程、会员资格等 |
+| BT-0034 | 2026-03-18T02:44:00Z | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/4 | 100 | USDC | 100 | available |  |  | 2026-03-18T02:44:00Z | Chinese language documentation，可执行 |
+| BT-0035 | 2026-03-18T02:44:00Z | github | CloakHQ/CloakBrowser | https://github.com/CloakHQ/CloakBrowser/issues/62 | 2000 | USD | 2000 | available |  |  | 2026-03-18T02:44:00Z | 实现SOCKS5 UDP ASSOCIATE支持，支持QUIC/WebRTC代理，高赏金，支持多种支付方式 |
 
 
