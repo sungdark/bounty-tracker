@@ -26,5 +26,10 @@
 | BT-0020 | 2026-03-18T00:56:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues | 1-150 | RTC | 1-150 | available |  |  | 2026-03-18T00:56:00Z | 300+开放赏金任务，从点赞到开发多种类型 |
 | BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | https://github.com/illbnm/homelab-stack/issues/3 | 150 | USDT | 150 | available |  |  | 2026-03-18T01:44:00Z | 实现存储服务栈 Nextcloud + MinIO + FileBrowser，可执行 |
 | BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | https://github.com/illbnm/homelab-stack/issues/6 | 220 | USDT | 220 | available |  |  | 2026-03-18T01:44:00Z | 实现AI服务栈 Ollama + Open WebUI + Stable Diffusion，可执行 |
+| BT-0023 | 2026-03-18T01:51:00Z | bountyhub | BountyHub | https://www.bountyhub.dev/ | 0+ | USD | 0+ | available |  |  | 2026-03-18T01:51:00Z | GitHub赏金聚合平台，支持众筹，0手续费猎人，121国家支持，可浏览开放任务 |
+| BT-0024 | 2026-03-18T01:51:00Z | yeswehack | KOMOJU | https://yeswehack.com/programs/komoju-public-bug-bounty-program | 50-7000 | USD | 3525 | available |  |  | 2026-03-18T01:51:00Z | 金融公司公开漏洞赏金计划，3个范围，最近更新2026-03-17 |
+| BT-0025 | 2026-03-18T01:51:00Z | yeswehack | Dailymotion | https://yeswehack.com/programs/dailymotion-public-bug-bounty | 50-3300 | EUR | 1675 | available |  |  | 2026-03-18T01:51:00Z | 视频平台公开漏洞赏金，18个范围，最近更新2026-03-16 |
+| BT-0026 | 2026-03-18T01:51:00Z | yeswehack | Sovereign Tech Agency | https://yeswehack.com/programs/systemd-bug-bounty-program | 150-10000 | EUR | 5075 | available |  |  | 2026-03-18T01:51:00Z | systemd漏洞赏金，17个范围，政府项目，最近更新2026-03-11 |
+| BT-0027 | 2026-03-18T01:51:00Z | github | github | https://bounty.github.com/ | 30000+ | USD | 30000 | available |  |  | 2026-03-18T01:51:00Z | GitHub官方漏洞赏金，严重漏洞最高奖励$30000+ |
 
 
