@@ -57,9 +57,12 @@
 | BT-0047 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | https://github.com/illbnm/homelab-stack/issues/1 | $180 | USDT | 180 | available |  |  | 2026-03-18T04:58:00Z | Base Infrastructure — Traefik + Portainer + Watchtower，可执行 |
 | BT-0048 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | https://github.com/illbnm/homelab-stack/issues/10 | $280 | USDT | 280 | available |  |  | 2026-03-18T04:58:00Z | Observability Stack — Prometheus + Grafana + Loki + Alerting + Uptime Kuma，可执行 |
 | BT-0049 | 2026-03-18T04:58:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/747 | 50-75 | RTC | 62 | available |  |  | 2026-03-18T04:58:00Z | Bounty Verification Bot — Auto-Verify Star/Follow Claims，可执行 |
-| BT-0051 | 2026-03-18T05:39:00Z | hackenproof | NEAR Intents | https://hackenproof.com/programs | varies | USD | varies | available |  |  | 2026-03-18T05:39:00Z | 新推出NEAR Intents跨链基础设施漏洞赏金计划，涵盖MPC网络和桥接协议 |
-| BT-0052 | 2026-03-18T05:39:00Z | attackdefense | Mozilla Firefox | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | varies | USD | varies | available |  |  | 2026-03-18T05:39:00Z | 2026年3月更新，调整奖励结构，最高影响漏洞奖励更高，新增GPU沙箱进程漏洞分类 |
-| BT-0053 | 2026-03-18T05:39:00Z | hackerone | Naver Whale | https://hackerone.com/bug-bounty-programs | varies | USD | varies | available |  |  | 2026-03-18T05:39:00Z | Naver全新推出Whale浏览器漏洞赏金计划，欢迎研究者参与 |
+| BT-0051 | 2026-03-18T05:39:00Z | hackenproof | NEAR Intents | https://hackenproof.com/programs | varies | USD | varies | available |  |  | 2026-03-18T06:00:00Z | 新推出NEAR Intents跨链基础设施漏洞赏金计划，涵盖MPC网络和桥接协议 |
+| BT-0052 | 2026-03-18T05:39:00Z | attackdefense | Mozilla Firefox | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | varies | USD | varies | available |  |  | 2026-03-18T06:00:00Z | 2026年3月更新，调整奖励结构，最高影响漏洞奖励更高，新增GPU沙箱进程漏洞分类 |
+| BT-0053 | 2026-03-18T05:39:00Z | hackerone | Naver Whale | https://hackerone.com/bug-bounty-programs | varies | USD | varies | available |  |  | 2026-03-18T06:00:00Z | Naver全新推出Whale浏览器漏洞赏金计划，欢迎研究者参与 |
+| BT-0062 | 2026-03-18T06:00:00Z | bbradar | Bug Bounty Radar | https://bbradar.io/ | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T06:00:00Z | 最新公开漏洞赏金计划聚合平台，当前展示420个活跃项目，持续更新最新机会 |
+| BT-0063 | 2026-03-18T06:00:00Z | intigriti | Intigriti Ambassador | https://www.intigriti.com/ | varies | USD | varies | opportunity |  |  | 2026-03-18T06:00:00Z | 2026年3月4日启动，Intigriti全新全球黑客大使计划，可申请参与 |
+| BT-0064 | 2026-03-18T06:00:00Z | atlassian | Atlassian Security | https://confluence.atlassian.com/security/security-bulletin-march-17-2026-1721271371.html | varies | USD | varies | available |  |  | 2026-03-18T06:00:00Z | 2026年3月17日安全公告，多个漏洞通过赏金计划发现，可研究未公开漏洞 |
 
 
 
