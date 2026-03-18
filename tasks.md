@@ -39,5 +39,8 @@
 | BT-0033 | 2026-03-18T02:00:00Z | digital | ResellReady Digital Products | https://resellready.co/blogs/news/most-profitable-digital-products-for-passive-income-in-2026 | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T02:00:00Z | 2026最赚钱数字产品指南，包含课程、会员资格等 |
 | BT-0034 | 2026-03-18T02:44:00Z | github | counterspec/isnad | https://github.com/counterspec/isnad/issues/4 | 100 | USDC | 100 | available |  |  | 2026-03-18T02:44:00Z | Chinese language documentation，可执行 |
 | BT-0035 | 2026-03-18T02:44:00Z | github | CloakHQ/CloakBrowser | https://github.com/CloakHQ/CloakBrowser/issues/62 | 2000 | USD | 2000 | available |  |  | 2026-03-18T02:44:00Z | 实现SOCKS5 UDP ASSOCIATE支持，支持QUIC/WebRTC代理，高赏金，支持多种支付方式 |
+| BT-0036 | 2026-03-18T03:01:00Z | web | Bug Bounty Radar | https://bbradar.io/ | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T03:01:00Z | 实时更新最新公开漏洞赏金计划，聚合多个平台，持续跟踪新机会 |
+| BT-0037 | 2026-03-18T03:01:00Z | yeswehack | Thüringer Aufbaubank | https://yeswehack.com/programs/thueringer-aufbaubank-bug-bounty-program | 50-1500 | EUR | 775 | available |  |  | 2026-03-18T03:01:00Z | 德国金融机构公开漏洞赏金，5天前更新，三个攻击范围可测试 |
+| BT-0038 | 2026-03-18T03:01:00Z | github | YashKeshari01/OpenSource-Bounty-Chain | https://github.com/YashKeshari01/OpenSource-Bounty-Chain | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T03:01:00Z | 区块链驱动开源赏金平台，跟踪可验证贡献奖励 |
 
 
