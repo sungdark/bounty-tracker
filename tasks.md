@@ -140,3 +140,6 @@
 | BT-0132 | 2026-03-18T21:48:00Z | search | OSS.Fund Bounties | https://www.oss.fund/categories/bounties/ | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T21:48:00Z | 开源赏金平台对比和汇总，发现多个开放付费开源任务平台 |
 | BT-0133 | 2026-03-18T21:48:00Z | search | CatchTheSignal | https://catchthesignal.com/github-opportunities | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T21:48:00Z | 付费GitHub issue追踪网站，实时更新好First Issue和赏金机会 |
 | BT-0134 | 2026-03-18T21:48:00Z | search | IssueHunt | https://oss.issuehunt.io/ | 0+ | USD | 0+ | available |  |  | 2026-03-18T21:48:00Z | 开源问题赏金平台，任何人可以给issue加赏金，特征请求和bug都可以有赏金，可认领 |
+| BT-0135 | 2026-03-18T22:22:00Z | github | kunovsky/paid-open-source | https://github.com/kunovsky/paid-open-source-projects | 10-2000+ | USD | varies | available |  |  | 2026-03-18T22:22:00Z | 付费开源贡献项目大列表，包含多个知名项目明确赏金：RudderStack最高$2000/bounty，Appflowy $500/month，Expensify $250-500/bounty，Trigger.dev $50-200，直接认领 |
+| BT-0136 | 2026-03-18T22:22:00Z | bountyhub | BountyHub | https://www.bountyhub.dev/ | 10-5000 | USD | varies | available |  |  | 2026-03-18T22:22:00Z | GitHub赏金平台，0手续费猎人，支持众筹，121国支持 payout，开放browsing，可发现付费issue |
+| BT-0137 | 2026-03-18T22:22:00Z | github | Lissy93/bug-bounties | https://github.com/Lissy93/bug-bounties | varies | USD | varies | opportunity |  |  | 2026-03-18T22:22:00Z | 独立维护和自运营漏洞赏金计划大列表，最新维护，可发现未上大平台的新项目机会 |
