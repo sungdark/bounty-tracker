@@ -92,4 +92,6 @@
 | BT-0085 | 2026-03-18T09:19:00Z | 1inch | 1inch 5 New Bug Bounties 2026 | https://blog.1inch.com/1inch-bug-bounty-programs/ | varies | USD | varies | available |  |  | 2026-03-18T09:19:00Z | 1inch刚刚推出5个新漏洞赏金计划，覆盖核心产品：Aggregation Protocol、Fusion+、Limits、dApp、Wallet，可参与 |
 | BT-0086 | 2026-03-18T09:19:00Z | bbradar | Bug Bounty Radar 2026 | https://bbradar.io/ | varies | USD | varies | opportunity |  |  | 2026-03-18T09:19:00Z | 实时更新最新公开漏洞赏金计划，聚合多平台，420+公开项目，持续更新 |
 | BT-0087 | 2026-03-18T09:19:00Z | intigriti | Intigriti Ambassador Program 2026 | https://www.intigriti.com/ | program | USD | varies | opportunity |  |  | 2026-03-18T09:19:00Z | 2026年3月4日推出新的全球Hacker Ambassador项目，可申请参与 |
+| BT-0088 | 2026-03-18T10:14:00Z | techpowerup | AMD Refreshed Bug Bounty | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | up to 30000 | USD | 30000 | available |  |  | 2026-03-18T10:14:00Z | AMD 2026年3月更新刷新漏洞赏金计划，合作伙伴Intigriti，最高奖励$30,000，可参与 |
+| BT-0089 | 2026-03-18T10:14:00Z | jenkins | Jenkins New Bug Bounty Program | https://www.jenkins.io/ | varies | USD | varies | available |  |  | 2026-03-18T10:14:00Z | Jenkins推出新漏洞赏金计划，可参与测试寻找漏洞 |
 
