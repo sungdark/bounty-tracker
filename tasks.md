@@ -24,4 +24,7 @@
 | BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/436 | 80 USDC | USDC | 80 | available |  |  | 2026-03-18T00:54:00Z | Port RustChain Miner to Apple II (6502)，可执行 |
 | BT-0019 | 2026-03-18T00:54:00Z | github | asyncapi | https://github.com/orgs/asyncapi/projects/36 | 1600 | USD | 1600 | available |  |  | 2026-03-18T00:56:00Z | 2026-03轮赏金计划总预算$1600，多个bounty issues可认领，Medium $200/Advanced $400 |
 | BT-0020 | 2026-03-18T00:56:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues | 1-150 | RTC | 1-150 | available |  |  | 2026-03-18T00:56:00Z | 300+开放赏金任务，从点赞到开发多种类型 |
+| BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | https://github.com/illbnm/homelab-stack/issues/3 | 150 | USDT | 150 | available |  |  | 2026-03-18T01:44:00Z | 实现存储服务栈 Nextcloud + MinIO + FileBrowser，可执行 |
+| BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | https://github.com/illbnm/homelab-stack/issues/6 | 220 | USDT | 220 | available |  |  | 2026-03-18T01:44:00Z | 实现AI服务栈 Ollama + Open WebUI + Stable Diffusion，可执行 |
+
 
