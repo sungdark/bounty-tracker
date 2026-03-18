@@ -95,4 +95,3 @@
 | BT-0088 | 2026-03-18T10:14:00Z | techpowerup | AMD Refreshed Bug Bounty | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | up to 30000 | USD | 30000 | available |  |  | 2026-03-18T10:14:00Z | AMD 2026年3月更新刷新漏洞赏金计划，合作伙伴Intigriti，最高奖励$30,000，可参与 |
 | BT-0089 | 2026-03-18T10:14:00Z | jenkins | Jenkins New Bug Bounty Program | https://www.jenkins.io/ | varies | USD | varies | available |  |  | 2026-03-18T10:14:00Z | Jenkins推出新漏洞赏金计划，可参与测试寻找漏洞 |
 | BT-0090 | 2026-03-18T10:18:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/553 | 2-8+ RTC | RTC | 0.20-0.80+ USD | available |  |  | 2026-03-18T10:18:00Z | RustChain到500 Stars里程碑赏金，Star即可领2 RTC，分享额外+3 RTC每平台，极低门槛，可立即执行 |
-
