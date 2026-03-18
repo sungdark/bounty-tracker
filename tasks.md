@@ -84,3 +84,5 @@
 | BT-0077 | 2026-03-18T07:14:00Z | hackenproof | NEAR Intents NEW Bug Bounty | https://hackenproof.com/programs | varies | USD | varies | available |  |  | 2026-03-18T07:14:00Z | 新推出NEAR Intents跨链基础设施漏洞赏金，覆盖MPC网络和桥接协议 |
 | BT-0078 | 2026-03-18T07:56:00Z | zdnet | Intel New Bug Bounty | https://www.zdnet.com/article/intel-microsoft-launch-new-bug-bounty-programs/ | thousands | USD | varies | available |  |  | 2026-03-18T07:56:00Z | Intel推出首个漏洞赏金计划，托管在HackerOne，数千美元奖励可参与 |
 | BT-0079 | 2026-03-18T07:56:00Z | zdnet | Microsoft New Bug Bounty | https://www.zdnet.com/article/intel-microsoft-launch-new-bug-bounty-programs/ | thousands | USD | varies | available |  |  | 2026-03-18T07:56:00Z | 同期微软也推出新漏洞赏金项目，高额奖励寻找高危漏洞 |
+| BT-0080 | 2026-03-18T08:09:00Z | zdnet | Intel New Bug Bounty | https://www.zdnet.com/article/intel-microsoft-launch-new-bug-bounty-programs/ | thousands | USD | varies | available |  |  | 2026-03-18T08:09:00Z | Intel推出首个漏洞赏金计划，托管HackerOne，数千美元奖励可参与 |
+
