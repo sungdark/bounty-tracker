@@ -47,5 +47,8 @@
 | BT-0041 | 2026-03-18T03:45:00Z | devsbounty | Devs Bounty | https://www.devsbounty.com/ | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T03:45:00Z | 开发者通过PR获得赏金，连接开源项目和开发者 |
 | BT-0042 | 2026-03-18T03:45:00Z | github | 2026 Upcoming Hackathons | https://github.com/AjitChauhan081/2026-Upcoming-Hackathon-and-Open-Source-Program | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T03:45:00Z | 2026年即将到来的黑客松和开源项目汇总，持续更新 |
 | BT-0043 | 2026-03-18T03:45:00Z | standoff365 | Standoff 365 Bug Bounty | https://bugbounty.standoff365.com/ | 0+ | USD | 0+ | available |  |  | 2026-03-18T03:45:00Z | 俄罗斯知名漏洞赏金平台，多个公开计划可参与 |
+| BT-0044 | 2026-03-18T04:04:00Z | immunefi | Immunefi Web3 Bug Bounty | https://immunefi.com/bug-bounty/ | 0+ | USD | 0+ | available |  |  | 2026-03-18T04:04:00Z | Web3最大漏洞赏金平台，最新2026年项目奖励丰厚，多个开放项目可参与 |
+| BT-0045 | 2026-03-18T04:04:00Z | cloudsek | Best Bug Bounty Platforms 2026 | https://www.cloudsek.com/knowledge-base/best-bug-bounty-platforms | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T04:04:00Z | 2026年顶级漏洞赏金平台汇总，HackerOne评为最佳整体平台，可发现更多机会 |
+| BT-0046 | 2026-03-18T04:06:00Z | google | Google Summer of Code 2026 | https://summerofcode.withgoogle.com/ | stipend | USD | varies | available |  |  | 2026-03-18T04:06:00Z | 2026 GSoC申请已开放，截止3月31日18:00UTC，面向18+学生/新手开发者，提供奖学金和开源贡献机会 |
 
 
