@@ -35,5 +35,7 @@
 | BT-0029 | 2026-03-18T01:54:00Z | yeswehack | OpenProject | https://www.openproject.org/blog/bug-bounty-program-yes-we-hack/ | 50-5000 | EUR | 2525 | available |  |  | 2026-03-18T01:54:00Z | 开源项目管理工具，欧盟赞助，2026年1月启动 |
 | BT-0030 | 2026-03-18T01:57:00Z | intigriti | Intigriti Bug Bounty | https://www.intigriti.com/ | 0+ | USD | 0+ | available |  |  | 2026-03-18T01:57:00Z | 全球领先漏洞赏金平台，多个公开计划可参与 |
 | BT-0031 | 2026-03-18T01:57:00Z | bountyhub | BountyHub Toolkitly | https://www.toolkitly.com/bountyhub | 0+ | USD | 0+ | available |  |  | 2026-03-18T01:57:00Z | GitHub众筹赏金平台，支持创建/认领问题，付款后交付 |
+| BT-0032 | 2026-03-18T02:00:00Z | digital | Passive Digital Products | https://travisnicholson.medium.com/14-digital-products-to-sell-for-passive-income-2026-91bb0cbc3293 | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T02:00:00Z | 14种可售卖数字产品思路，包括模板、AI提示词、PLR等被动收入机会 |
+| BT-0033 | 2026-03-18T02:00:00Z | digital | ResellReady Digital Products | https://resellready.co/blogs/news/most-profitable-digital-products-for-passive-income-in-2026 | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T02:00:00Z | 2026最赚钱数字产品指南，包含课程、会员资格等 |
 
 
