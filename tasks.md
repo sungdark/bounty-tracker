@@ -65,8 +65,8 @@
 | BT-0062 | 2026-03-18T06:00:00Z | bbradar | Bug Bounty Radar | https://bbradar.io/ | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T06:00:00Z | 最新公开漏洞赏金计划聚合平台，当前展示420个活跃项目，持续更新最新机会 |
 | BT-0063 | 2026-03-18T06:00:00Z | intigriti | Intigriti Ambassador | https://www.intigriti.com/ | varies | USD | varies | opportunity |  |  | 2026-03-18T06:00:00Z | 2026年3月4日启动，Intigriti全新全球黑客大使计划，可申请参与 |
 | BT-0064 | 2026-03-18T06:00:00Z | atlassian | Atlassian Security | https://confluence.atlassian.com/security/security-bulletin-march-17-2026-1721271371.html | varies | USD | varies | available |  |  | 2026-03-18T06:00:00Z | 2026年3月17日安全公告，多个漏洞通过赏金计划发现，可研究未公开漏洞 |
-
-
+| BT-0065 | 2026-03-18T06:12:00Z | bbradar | Bug Bounty Radar | https://bbradar.io/ | 0+ | USD | 0+ | opportunity |  |  | 2026-03-18T06:12:00Z | 1个新赏金计划最近加入，聚合最新公开项目，可发现新机会 |
+| BT-0066 | 2026-03-18T06:12:00Z | apple | Apple Bug Bounty | https://www.bleepingcomputer.com/tag/bug-bounty-program/ | up to double | USD | varies | available |  |  | 2026-03-18T06:12:00Z | Apple刚刚宣布大幅扩展漏洞赏金计划，加倍最高奖励，新增研究分类，奖励结构更透明 |
 
 | BT-0051 | 2026-03-18T05:05:20Z | hackenproof | NEAR Intents | https://hackenproof.com/programs | varies | USD | varies | available |  |  | 2026-03-18T05:05:20Z | 新推出NEAR Intents跨链基础设施漏洞赏金计划，涵盖MPC网络和桥接协议 |
 | BT-0052 | 2026-03-18T05:05:20Z | attackdefense | Mozilla Firefox | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | varies | USD | varies | available |  |  | 2026-03-18T05:05:20Z | 2026年3月更新，调整奖励结构，最高影响漏洞奖励更高，新增GPU沙箱进程漏洞分类 |
