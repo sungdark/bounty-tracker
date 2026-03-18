@@ -31,5 +31,7 @@
 | BT-0025 | 2026-03-18T01:51:00Z | yeswehack | Dailymotion | https://yeswehack.com/programs/dailymotion-public-bug-bounty | 50-3300 | EUR | 1675 | available |  |  | 2026-03-18T01:51:00Z | 视频平台公开漏洞赏金，18个范围，最近更新2026-03-16 |
 | BT-0026 | 2026-03-18T01:51:00Z | yeswehack | Sovereign Tech Agency | https://yeswehack.com/programs/systemd-bug-bounty-program | 150-10000 | EUR | 5075 | available |  |  | 2026-03-18T01:51:00Z | systemd漏洞赏金，17个范围，政府项目，最近更新2026-03-11 |
 | BT-0027 | 2026-03-18T01:51:00Z | github | github | https://bounty.github.com/ | 30000+ | USD | 30000 | available |  |  | 2026-03-18T01:51:00Z | GitHub官方漏洞赏金，严重漏洞最高奖励$30000+ |
+| BT-0028 | 2026-03-18T01:54:00Z | yeswehack | Thüringer Aufbaubank | https://yeswehack.com/programs/thueringer-aufbaubank-bug-bounty-program | 50-1500 | EUR | 775 | available |  |  | 2026-03-18T01:54:00Z | 德国金融机构公开漏洞赏金，3个范围，更新于2026-03-09 |
+| BT-0029 | 2026-03-18T01:54:00Z | yeswehack | OpenProject | https://www.openproject.org/blog/bug-bounty-program-yes-we-hack/ | 50-5000 | EUR | 2525 | available |  |  | 2026-03-18T01:54:00Z | 开源项目管理工具，欧盟赞助，2026年1月启动 |
 
 
