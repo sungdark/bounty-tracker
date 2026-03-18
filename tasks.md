@@ -22,5 +22,6 @@
 | BT-0016 | 2026-03-18T00:40:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/478 | 500 USDC | USDC | 500 | available |  |  | 2026-03-18T00:54:00Z | Rustchain 5000星活动，按推广量奖励 |
 | BT-0017 | 2026-03-18T00:54:00Z | github | Scottcjn/Rustchain | https://github.com/Scottcjn/Rustchain/issues/425 | 500 USDC | USDC | 500 | available |  |  | 2026-03-18T00:54:00Z | 5000星推广活动奖励池，可执行 |
 | BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues/436 | 80 USDC | USDC | 80 | available |  |  | 2026-03-18T00:54:00Z | Port RustChain Miner to Apple II (6502)，可执行 |
-| BT-0019 | 2026-03-18T00:54:00Z | github | asyncapi |  | 1600 | USD | 1600 | available |  |  | 2026-03-18T00:54:00Z | 2026-03轮赏金计划总预算$1600，多个bounty issues可认领 |
+| BT-0019 | 2026-03-18T00:54:00Z | github | asyncapi | https://github.com/orgs/asyncapi/projects/36 | 1600 | USD | 1600 | available |  |  | 2026-03-18T00:56:00Z | 2026-03轮赏金计划总预算$1600，多个bounty issues可认领，Medium $200/Advanced $400 |
+| BT-0020 | 2026-03-18T00:56:00Z | github | Scottcjn/rustchain-bounties | https://github.com/Scottcjn/rustchain-bounties/issues | 1-150 | RTC | 1-150 | available |  |  | 2026-03-18T00:56:00Z | 300+开放赏金任务，从点赞到开发多种类型 |
 
