@@ -33,5 +33,7 @@
 | BT-0027 | 2026-03-18T01:51:00Z | github | github | https://bounty.github.com/ | 30000+ | USD | 30000 | available |  |  | 2026-03-18T01:51:00Z | GitHub官方漏洞赏金，严重漏洞最高奖励$30000+ |
 | BT-0028 | 2026-03-18T01:54:00Z | yeswehack | Thüringer Aufbaubank | https://yeswehack.com/programs/thueringer-aufbaubank-bug-bounty-program | 50-1500 | EUR | 775 | available |  |  | 2026-03-18T01:54:00Z | 德国金融机构公开漏洞赏金，3个范围，更新于2026-03-09 |
 | BT-0029 | 2026-03-18T01:54:00Z | yeswehack | OpenProject | https://www.openproject.org/blog/bug-bounty-program-yes-we-hack/ | 50-5000 | EUR | 2525 | available |  |  | 2026-03-18T01:54:00Z | 开源项目管理工具，欧盟赞助，2026年1月启动 |
+| BT-0030 | 2026-03-18T01:57:00Z | intigriti | Intigriti Bug Bounty | https://www.intigriti.com/ | 0+ | USD | 0+ | available |  |  | 2026-03-18T01:57:00Z | 全球领先漏洞赏金平台，多个公开计划可参与 |
+| BT-0031 | 2026-03-18T01:57:00Z | bountyhub | BountyHub Toolkitly | https://www.toolkitly.com/bountyhub | 0+ | USD | 0+ | available |  |  | 2026-03-18T01:57:00Z | GitHub众筹赏金平台，支持创建/认领问题，付款后交付 |
 
 
