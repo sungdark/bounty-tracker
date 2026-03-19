@@ -197,3 +197,4 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
 | BT-0186 | 2026-03-19T12:18:00Z | cron-scan | 本次小时扫描完成 | $0 USD |  | scanned | 2026-03-19T12:18:00Z | 本次12:18小时扫描完成，新增今日(19日)公开新项目2个：Revert Finance Cantina审计、Capital.com公开漏洞赏金 |
 | BT-0187 | 2026-03-19T12:36:00Z | cron-scan | 本次12:36小时扫描完成 | $0 USD |  | scanned | 2026-03-19T12:36:00Z | 本轮扫描确认：今日(19日)新增Capital.com公开漏洞赏金（Intigriti平台）、Revert Finance智能合约赏金审计（Cantina平台），无其他全新发布项目。已有项目维护中 |
 | BT-0188 | 2026-03-19T12:39:00Z | cron-scan | 本次12:39小时扫描完成 | $0 USD |  | scanned | 2026-03-19T12:39:00Z | 本轮扫描无新增今日发布项目，确认已有开放机会：Capital.com公开漏洞赏金（Intigriti）、Revert Finance智能合约审计（Cantina）均已记录，项目状态保持available |
+| BT-0189 | 2026-03-19T13:00:00Z | cron-scan | 本次13:00小时扫描完成 | $0 USD |  | scanned | 2026-03-19T13:00:00Z | 本轮扫描无新增今日发布项目，确认今日已新增两个机会：Capital.com公开漏洞赏金（Intigriti平台）、Revert Finance智能合约赏金审计（Cantina平台）。所有已记录机会状态保持不变。多个高价值赏金机会开放中：Flipcash Reserve最高$25万、Nika Finance最高3万USDC、Blur Busters $2000固定赏金 |
