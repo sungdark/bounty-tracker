@@ -213,3 +213,11 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
 - 确认UIDAI Aadhaar漏洞赏金已于18日发布，已记录
 - 已记录今日新增机会：Capital.com公开漏洞赏金（Intigriti平台）、Revert Finance智能合约审计（Cantina平台）
 - 所有已有项目状态保持不变，高价值机会持续开放中 |
+| BT-0193 | 2026-03-19T13:43:00Z | cron-scan | 本次13:43小时扫描完成 | $0 USD |  | scanned | 2026-03-19T13:43:00Z | 本轮DuckDuckGo搜索完成，今日(19日)13:00后无新增发布项目：
+- Capital.com公开漏洞赏金（Intigriti平台）、Revert Finance智能合约审计（Cantina平台）已记录
+- 所有已有项目状态保持不变，高价值开放机会汇总：
+  • Flipcash Reserve Web3: 最高$250,000 USD
+  • Nika Finance: 最高30,000 USDC
+  • Blur Busters kwin-lowlatency: 固定$2000 USD
+  • Code4rena Chainlink Payment Abstraction V2审计（18日上线）
+已认领PR保持pr_open状态，等待审核合并。 |
