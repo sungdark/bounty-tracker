@@ -197,3 +197,9 @@
 | BT-0186 | 2026-03-19T18:42:00Z | cron-scan | 本次18:42小时扫描完成 | $0 USD |  | scanned | 2026-03-19T18:42:00Z | 本轮Exa搜索完成，Capital.com公开漏洞赏金计划已收录，无其他全新发布的未收录机会，今日所有新发布赏金机会均完整收录 |
 | BT-0187 | 2026-03-19T19:01:00Z | cron-scan | 本次19:01小时扫描完成 | $0 USD |  | scanned | 2026-03-19T19:01:00Z | 本轮DuckDuckGo搜索完成，验证了今日已收录的Monday Trade/Revert Finance/Capital.com等全新发布赏金计划，18:42后无新增3月19日发布的未收录赏金机会，今日所有新发布赏金机会均已完整收录 |
 | BT-0188 | 2026-03-19T19:03:00Z | cron-scan | 本次19:03小时扫描完成 | $0 USD |  | scanned | 2026-03-19T19:03:00Z | 本轮DuckDuckGo搜索完成，未发现19:01后新增3月18-19日发布的未收录赏金机会，本轮扫描所有今日全新发布赏金机会均已完整收录 |
+| BT-0189 | 2026-03-19T19:27:00Z | search | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 2026-03-19T19:27:00Z | 3月19日今日推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞 |
+| BT-0190 | 2026-03-19T19:27:00Z | search | Revert Finance Cantina Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T19:27:00Z | 今日上线Cantina智能合约赏金审计新项目 |
+| BT-0191 | 2026-03-19T19:27:00Z | search | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T19:27:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台 |
+| BT-0192 | 2026-03-19T19:27:00Z | search | Nika Finance Bug Bounty | up to 30000 USDC | https://www.kucoin.com/news/community/USDC/69ad9d0331903800078c6149 | available | 2026-03-19T19:27:00Z | 6小时前上线，最高30,000 USDC奖励critical漏洞 |
+| BT-0193 | 2026-03-19T19:27:00Z | search | Patchstack March 2026 Tournament | $8850 USD | https://vdp.patchstack.com/database/leaderboard/march-2026 | available | 2026-03-19T19:27:00Z | 三月赏金锦标赛总奖金池$8,850，还有14天结束 |
+| BT-0194 | 2026-03-19T19:27:00Z | cron-scan | 本次19:27扫描完成 | $0 USD |  | scanned | 2026-03-19T19:27:00Z | 本轮扫描完成，今日(19日)所有最新发布的全新赏金机会均已完整收录 |
