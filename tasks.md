@@ -217,4 +217,11 @@
 | BT-0206 | 2026-03-19T21:50:00Z | digital | 2026 Top Digital Products to Sell | varies USD | https://techbullion.com/top-digital-products-to-sell-in-2026-high-demand-profitable-and-trending-ideas/ | opportunity | 2026-03-19T21:50:00Z | 2026年高需求赚钱数字产品深度分析，包含多种低投入高利润品类机会 |
 | BT-0207 | 2026-03-19T21:50:00Z | digital | 28 Unique Digital Products 2026 | varies USD | https://wpastra.com/resources/digital-products-to-sell/ | opportunity | 2026-03-19T21:50:00Z | 28种独特可售卖数字产品汇总，适合快速启动被动收入 |
 | BT-0208 | 2026-03-19T21:50:00Z | digital | 7 Best Digital Products 2026 Data-Driven | varies USD | https://www.alibaba.com/product-insights/7-best-digital-products-to-sell-in-2026-data-driven-opportunities.html | opportunity | 2026-03-19T21:50:00Z | 数据驱动分析的7个最赚钱数字产品，包含 adoption 趋势和平台选择 |
-| BT-0209 | 2026-03-19T22:05:00Z | cron-scan | 本次22:05小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:05:00Z | 本轮公开搜索完成，21:50后无新增3月18-19日发布的全新未收录赏金机会。今日(19日)所有最新发布的赏金机会均已完整收录：AMD刷新漏洞赏金最高$30,000、Capital.com公开漏洞赏金、Monday Trade最高$3,000、Revert Finance Cantina合约审计、Nika Finance最高30,000 USDC等。数字产品机会已新增收录3份2026最新指南汇总，本轮扫描完成 |
+| BT-0209 | 2026-03-19T22:05:00Z | cron-scan | 本次22:05小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:05:00Z | 本轮公开搜索完成，21:50后无新增3月18-19日发布的全新未收录赏金机会。今日(19日)所有最新发布的赏金机会均已完整收录：AMD刷新漏洞赏金最高$30,000、Capital.com公开漏洞赏金、Monday Trade最高$3,000、Revert Finance Cantina合约审计、Nika Finance最高30,000 USDC等。数字产品机会已新增收录3份2026最新指南汇总，本轮扫描完成
+| BT-0210 | 2026-03-19T22:07:00Z | cron-scan | 本次22:07小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:07:00Z | 本轮DuckDuckGo搜索完成，22:05后无新增3月18-19日发布的全新未收录赏金机会。今日(19日)所有最新发布的赏金机会均已完整收录，包括：
+  • AMD刷新漏洞赏金计划最高$30,000
+  • Capital.com公开漏洞赏金计划
+  • Monday Trade漏洞赏金最高$3,000
+  • Revert Finance Cantina智能合约赏金审计（今日上线）
+  • Nika Finance漏洞赏金最高30,000 USDC
+  • 新增3份2026最新数字产品售卖赚钱思路汇总。本轮扫描无遗漏新增机会，扫描完成 |
