@@ -61,4 +61,6 @@
 | BT-0055 | 2026-03-18T05:05:20Z | hackenproof | NEAR Intents | https://hackenproof.com/programs | varies | USD | varies | available |  |  | 2026-03-18T05:05:20Z | 新推出NEAR Intents跨链基础设施漏洞赏金计划，涵盖MPC网络和桥接协议 |
 | BT-0056 | 2026-03-18T05:05:20Z | attackdefense | Mozilla Firefox | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | varies | USD | varies | available |  |  | 2026-03-18T05:05:20Z | 2026年3月更新，调整奖励结构，最高影响漏洞奖励更高，新增GPU沙箱进程漏洞分类 |
 | BT-0057 | 2026-03-18T05:05:20Z | hackerone | Naver Whale | https://hackerone.com/bug-bounty-programs | varies | USD | varies | available |  |  | 2026-03-18T05:05:20Z | Naver全新推出Whale浏览器漏洞赏金计划，欢迎研究者参与 |
-| BT-0058 | 2026-03-18T05:05:20Z | immunefi
+| BT-0058 | 2026-03-18T05:05:20Z | immunefi | Flipcash Reserve | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | up to 250000 | USD | 250000 | available |  |  | 2026-03-19T00:41:00Z | Web3最大漏洞赏金项目，Flipcash储备合约漏洞最高奖励$250,000，新开放可参与 |
+| BT-0058 | 2026-03-18T05:05:20Z | immunefi | Immunefi active programs | https://immunefi.com/bug-bounty/ | 0+ | USD | 0+ | available |  |  | 2026-03-18T05:05:20Z | Web3最大漏洞赏金平台，最新2026年项目奖励丰厚，多个开放项目可参与 |
+| BT-0059 | 2026-03-19T00:41:00Z | hackenproof | Flipcash Reserve Contract | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | up to 250000 | USD | 250000 | available |  |  | 2026-03-19T00:41:00Z | 高价值Web3漏洞赏金，Flipcash储备合约漏洞最高奖励25万美元，开放接受提交 |
