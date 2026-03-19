@@ -189,3 +189,5 @@
 | BT-0178 | 2026-03-19T08:48:00Z | search | OtterSource Open Source Funding | https://ottersource.com/the-bold-new-era-of-open-source-funding/ | 0+ | USD | 0+ | opportunity |  |  | 2026-03-19T08:48:00Z | 2026-03-07发布，全新开源赏金市场，公司付费解决问题，开发者认领得报酬，刚启动可抢早期机会 |
 | BT-0179 | 2026-03-19T08:48:00Z | search | CodeBounty Open Source | https://www.codebounty.ai/ | 10-5000 | USD | varies | available |  |  | 2026-03-19T08:48:00Z | 开源问题赏金平台，产品团队创建付费issue，开发者提交PR合并后立即获得报酬 |
 
+| BT-0180 | 2026-03-19T09:07:00Z | intigriti | Capital.com Public Bug Bounty | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | varies | USD | varies | available |  | https://app.intigriti.com/programs/capitalcom/capitalcom-public | 2026-03-19T09:07:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台，按漏洞严重程度给现金奖励，邀请全球研究者提交 |
+
