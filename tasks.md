@@ -272,5 +272,22 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
   • 已合并待结算：共2个（BT-0007: 2000 SATS、BT-0014: 8 RTC）
 
 本次14:48扫描完成，未发现全新发布的额外机会 |
-| BT-0184 | 2026-03-19T14:59:00Z | hackenproof | Monday Trade Bug Bounty Program | https://monday.trade/post/monday-trade-bug-bounty-program | up to 3000 | USD | 3000 | available |  | https://hackenproof.com | 2026-03-19T14:59:00Z | Monday Trade推出全新漏洞赏金计划，最高,000奖励critical漏洞，在HackenProof接受提交，所有研究者均可参与 |
+| BT-0199 | 2026-03-19T14:59:00Z | hackenproof | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 2026-03-19T15:05:00Z | Monday Trade推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞，在HackenProof接受提交，所有研究者均可参与 |
+| BT-0200 | 2026-03-19T15:05:00Z | cron-scan | 本次15:05小时扫描完成 | $0 USD |  | scanned | 2026-03-19T15:05:00Z | 本轮DuckDuckGo搜索完成，今日(19日)14:48后新增1个今日发布新项目：
+- Monday Trade 漏洞赏金计划，最高3,000 USD，已收录BT-0199
+- 确认所有今日新发布机会均完整记录：
+  • Capital.com公开漏洞赏金（今日19日正式发布，Intigriti平台）已收录
+  • Revert Finance智能合约赏金审计（今日19日上线Cantina平台）已收录
+  • Monday Trade漏洞赏金（今日19日上线HackenProof）已收录
+- 高价值开放机会持续开放：
+  • Flipcash Reserve Web3: 最高$250,000 USD
+  • Nika Finance: 最高30,000 USDC
+  • Blur Busters kwin-lowlatency: 固定$2000 USD
+  • Code4rena Chainlink Payment Abstraction V2审计（18日上线）
+  • Sui New VM漏洞赏金（3天前开放，主网四月上线前审计）
+  • UIDAI Aadhaar漏洞赏金（18日发布，印度首个公开计划）
+- 已有已认领PR共35个保持pr_open/comment_submitted状态，等待审核合并
+- 已合并待结算：共2个（BT-0007: 2000 SATS、BT-0014: 8 RTC）
+
+本次15:05扫描完成，无其他全新发布的额外机会 |
 
