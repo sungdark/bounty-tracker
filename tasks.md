@@ -202,3 +202,10 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
 - Capital.com 公开漏洞赏金（Intigriti平台）
 - Revert Finance 智能合约赏金审计（Cantina平台）
 所有已有项目状态保持不变。高价值机会依然开放：Flipcash Reserve最高$250,000 USD、Nika Finance最高30,000 USDC、Blur Busters固定$2000 USD赏金可执行。 |
+| BT-0191 | 2026-03-19T13:29:00Z | cron-scan | 本次13:29小时扫描完成 | $0 USD |  | scanned | 2026-03-19T13:29:00Z | DuckDuckGo搜索完成，今日(19日)无新增发布项目：
+- Revert Finance（19日）和Capital.com（19日）已记录
+- 所有已有机会状态保持不变，多个高价值开放赏金：
+  • Flipcash Reserve Web3: 最高$250,000 USD
+  • Nika Finance: 最高30,000 USDC
+  • Blur Busters kwin-lowlatency: 固定$2000 USD
+已认领PR保持在pr_open状态，等待审核合并。 |
