@@ -190,5 +190,7 @@
 | BT-0179 | 2026-03-19T08:48:00Z | search | CodeBounty Open Source | https://www.codebounty.ai/ | 10-5000 | USD | varies | available |  |  | 2026-03-19T08:48:00Z | 开源问题赏金平台，产品团队创建付费issue，开发者提交PR合并后立即获得报酬 |
 
 | BT-0180 | 2026-03-19T09:07:00Z | intigriti | Capital.com Public Bug Bounty | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | varies | USD | varies | available |  | https://app.intigriti.com/programs/capitalcom/capitalcom-public | 2026-03-19T09:07:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台，按漏洞严重程度给现金奖励，邀请全球研究者提交 |
-| BT-0182 | 2026-03-19T09:28:00Z | cron-scan | 本次小时扫描完成 |  | 0 | USD | 0 | scanned |  |  | 2026-03-19T09:28:00Z | 本次小时扫描完成，新增今日公开新启动项目0个，Capital.com已记录，累计182个机会已跟踪 |
+| BT-0180 | 2026-03-19T09:07:00Z | intigriti | Capital.com Public Bug Bounty | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | varies | USD | varies | available |  | https://app.intigriti.com/programs/capitalcom/capitalcom-public | 2026-03-19T09:07:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台，按漏洞严重程度给现金奖励，邀请全球研究者提交 |
+| BT-0181 | 2026-03-19T09:31:00Z | intigriti | Intigriti March 2026 CTF Challenge | https://app.intigriti.com/programs/intigriti/challenge0326/detail | varies | USD | varies | available |  |  | 2026-03-19T09:31:00Z | 月度CTF挑战已开放，到3月23日截止，可提交flag赢取奖励 |
+| BT-0182 | 2026-03-19T09:31:00Z | cron-scan | 本次小时扫描完成 |  | 0 | USD | 0 | scanned |  |  | 2026-03-19T09:31:00Z | 本次小时扫描完成，新增今日公开新启动项目2个：Capital.com漏洞赏金、Intigriti三月CTF挑战，累计182个机会已跟踪 |
 
