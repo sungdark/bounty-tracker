@@ -240,3 +240,11 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
   • Blur Busters kwin-lowlatency: 固定$2000 USD
   • Code4rena Chainlink Payment Abstraction V2审计（18日上线）
 - 已有已认领PR共34个保持pr_open/comment_submitted状态，等待审核合并；已合并待结算：BT-0007（2000 SATS）、BT-0014（8 RTC）共2个 |
+| BT-0196 | 2026-03-19T14:32:00Z | cron-scan | 本次14:32小时扫描完成 | $0 USD |  | scanned | 2026-03-19T14:32:00Z | 本轮DuckDuckGo搜索完成，今日(19日)14:00后无新增今日发布的全新赏金项目：
+- 确认Capital.com公开漏洞赏金已于今日(19日)正式发布上线，已记录在案
+- 确认Revert Finance智能合约赏金审计今日(19日)在Cantina平台上线，已记录在案
+- 所有已有项目状态保持不变：
+  • 高价值开放机会持续开放：Flipcash Reserve最高$250,000 USD、Nika Finance最高30,000 USDC、Blur Busters固定$2000 USD
+  • 已有已认领PR共34个保持pr_open/comment_submitted状态，等待审核合并
+  • 已合并待结算：共2个（BT-0007: 2000 SATS、BT-0014: 8 RTC）
+本次扫描未发现全新发布的额外机会，所有今日发布机会均已完整记录 |
