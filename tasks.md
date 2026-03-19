@@ -317,4 +317,21 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
 - 高价值开放机会保持开放状态不变，已有35个已认领PR保持pr_open/comment_submitted等待审核，已合并待结算共2个。
 
 本次15:46扫描完成，无新增全新发布机会 |
+| BT-0203 | 2026-03-19T15:53:00Z | cron-scan | 本次15:53小时扫描完成 | $0 USD |  | scanned | 2026-03-19T15:53:00Z | 本轮DuckDuckGo搜索完成，今日(19日)15:46后无新增刚刚发布的全新赏金项目：
+- DuckDuckGo搜索确认：今日15:46后没有3月19日全新发布的赏金计划
+- UIDAI Aadhaar漏洞赏金3月11日宣布、18日开放，已收录BT-0113/BT-0119/BT-0123/BT-0125
+- 所有今日(19日)新发布机会均已完整收录：
+  1. Capital.com 公开漏洞赏金（Intigriti平台）
+  2. Revert Finance 智能合约赏金审计（Cantina平台）
+  3. Monday Trade 漏洞赏金计划（HackenProof，最高$3,000 USD）
+- 高价值开放机会持续开放：
+  • Flipcash Reserve Web3: 最高$250,000 USD
+  • Nika Finance: 最高30,000 USDC
+  • Blur Busters kwin-lowlatency: 固定$2000 USD
+  • Code4rena Chainlink Payment Abstraction V2审计（18日上线）
+  • Sui New VM漏洞赏金（3天前开放，主网四月上线前审计）
+- 已有已认领PR共35个保持pr_open/comment_submitted状态，等待审核合并
+- 已合并待结算：共2个（BT-0007: 2000 SATS、BT-0014: 8 RTC）
+
+本次15:53扫描完成，未发现全新发布的额外机会 |
 
