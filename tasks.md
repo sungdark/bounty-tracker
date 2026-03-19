@@ -66,7 +66,7 @@
 | BT-0060 | 2026-03-18T05:06:00Z | openssf | Open Source Security | $12500000 USD | https://openssf.org/blog/2026/03/17/leading-tech-coalition-invests-12-5-million-through-openssf-and-alpha-omega-to-strengthen-open-source-security/ | opportunity | 2026-03-18T05:06:00Z | 1天前，联合投资1250万美元加强开源安全 |
 | BT-0061 | 2026-03-18T05:06:00Z | digital | 39 Digital Products 2026 | $0+ USD | https://www.pinterest.com/thequietrich/digital-products-that-sell-evergreen/ | opportunity | 2026-03-18T05:06:00Z | 39种常青数字产品售卖思路 |
 | BT-0062 | 2026-03-18T13:07:00Z | github | mrjoelkemp/awesome-paid-open-source | $0+ USD | https://github.com/mrjoelkemp/awesome-paid-open-source | opportunity | 2026-03-18T13:07:00Z | 知名付费开源项目汇总列表 |
-| BT-0063 | 2026-03-18T13:25:00Z | web | Passive Income Ideas 2026 | $0+ USD | https://smartmoneychronicle.com/passive-income-ideas-that-actually-work-in-2026/ | opportunity | 2026-03-18T13:25:00Z | 2026年可行被动收入思路验证 |
+| CT-0063 | 2026-03-18T13:25:00Z | web | Passive Income Ideas 2026 | $0+ USD | https://smartmoneychronicle.com/passive-income-ideas-that-actually-work-in-2026/ | opportunity | 2026-03-18T13:25:00Z | 2026年可行被动收入思路验证 |
 | BT-0064 | 2026-03-18T13:25:00Z | web | 7 Digital Products 2026 | $0+ USD | https://alstongodbolt.com/7-digital-products-for-passive-income-in-2026-that-actually-work/ | opportunity | 2026-03-18T13:25:00Z | 7种2026真实可行被动收入数字产品 |
 | BT-0065 | 2026-03-18T13:25:00Z | web | 15 Profitable Digital Products 2026 | $0+ USD | https://whop.com/blog/selling-digital-products/ | opportunity | 2026-03-18T13:25:00Z | 2026最赚钱数字产品，持续更新，包含多种产品类型思路 |
 | BT-0066 | 2026-03-18T13:34:00Z | github | coder/coder | varies USD | https://github.com/coder/coder/issues/5054 | available | 2026-03-18T13:34:00Z | Coder维护公开的付费开源赏金追踪issue |
@@ -193,4 +193,4 @@
 | BT-0182 | 2026-03-19T11:15:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:15:00Z | Capital.com今日(19日)宣布推出公开漏洞赏金计划，在Intigriti平台 |
 | BT-0183 | 2026-03-19T14:55:00Z | hackenproof | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 2026-03-19T14:55:00Z | Monday Trade推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞 |
 | BT-0184 | 2026-03-19T17:55:00Z | cron-scan | 本次17:55小时扫描完成 | $0 USD |  | scanned | 2026-03-19T17:55:00Z | 本轮DuckDuckGo搜索完成，今日(19日)16:56后无新增3月19日发布的全新赏金机会，所有今日发布机会均已完整收录 |
-| BT-0185 | 2026-03-19T18:01:00Z | cron-scan | 本次18:01小时扫描完成 | $0 USD |  | scanned | 2026-03-19T18:01:00Z | 本轮DuckDuckGo搜索完成，今日(19日)17:55后无新增3月19日发布的全新赏金机会，所有今日发布机会均已完整收录 |
+| BT-0185 | 2026-03-19T18:21:00Z | cron-scan | 本次18:21小时扫描完成 | $0 USD |  | scanned | 2026-03-19T18:21:00Z | 本轮DuckDuckGo搜索完成，今日(19日)17:55后无新增3月19日发布的全新赏金机会，所有今日发布机会均已完整收录 |
