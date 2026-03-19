@@ -23,7 +23,7 @@
 | BT-0017 | 2026-03-18T00:40:00Z | github | Scottcjn/rustchain-bounties | 500 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/478 | comment_submitted | 2026-03-18T13:05:00Z | 已完成star和评论认领 |
 | BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | 80 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/436 | pr_open | 2026-03-18T13:05:00Z | 已完成完整端口apple2-6502-miner，等待PR合并 |
 | BT-0019 | 2026-03-18T00:54:00Z | github | Scottcjn/Rustchain | 500 USDC | https://github.com/Scottcjn/Rustchain/issues/425 | available | 2026-03-18T00:54:00Z | 5000星推广活动奖励池 |
-| BT-0020 | 2026-03-18T00:56:00Z | github | asyncapi | $1600 USD | https://github.com/orgs/asyncapi/projects/36 | available | 2026-03-18T00:56:00Z | 2026-03轮赏金计划总预算 |
+| BT-0020 | 2026-03-18T01:51:00Z | github | asyncapi | $1600 USD | https://github.com/orgs/asyncapi/projects/36 | available | 2026-03-18T01:51:00Z | 2026-03轮赏金计划总预算 |
 | BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 2026-03-18T13:05:00Z | 实现完整存储服务栈，PR已创建 |
 | BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | pr_open | 2026-03-18T22:00:00Z | 实现AI服务栈，PR已创建 |
 | BT-0023 | 2026-03-18T01:51:00Z | bountyhub | BountyHub | $0+ USD | https://www.bountyhub.dev/ | available | 2026-03-18T01:51:00Z | GitHub赏金聚合平台 |
@@ -72,7 +72,7 @@
 | BT-0066 | 2026-03-18T13:34:00Z | github | coder/coder | varies USD | https://github.com/coder/coder/issues/5054 | available | 2026-03-18T13:34:00Z | Coder维护公开的付费开源赏金追踪issue |
 | BT-0067 | 2026-03-18T13:34:00Z | intigriti | Intigriti Ambassador Program | $0+ USD | https://www.intigriti.com/ | available | 2026-03-18T13:34:00Z | Intigriti 2026年3月4日全新推出全球黑客大使计划 |
 | BT-0068 | 2026-03-18T13:34:00Z | apple | Apple Secure Enclave Bounty | up to $100000 USD | https://www.guru99.com/bug-bounty-programs.html | available | 2026-03-18T13:34:00Z | Apple漏洞赏金最高奖励$100,000 |
-| BT-0069 | 2026-03-18T13:34:00Z | mautic | GitHub Secure Open Source Program | varies USD | https://mautic.org/blog/mautic-graduates-from-the-github-secure-open-source-program/ | available | 2026-03-18T13:34:00Z | Mautic刚从GitHub安全开源项目毕业 |
+|  BT-0069 | 2026-03-18T13:34:00Z | mautic | GitHub Secure Open Source Program | varies USD | https://mautic.org/blog/mautic-graduates-from-the-github-secure-open-source-program/ | available | 2026-03-18T13:34:00Z | Mautic刚从GitHub安全开源项目毕业 |
 | BT-0070 | 2026-03-18T13:34:00Z | spigotmc | Phoenix616's Open Source Bounties | varies USD | https://www.spigotmc.org/threads/phoenix616s-open-source-bounties.644551/ | available | 2026-03-18T13:34:00Z | SpigotMC持续开放赏金任务 |
 | BT-0071 | 2026-03-18T14:20:00Z | github | Scottcjn/rustchain-bounties | 200 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1149 | comment_submitted | 2026-03-18T14:45:00Z | RIP-305 Cross-Chain Airdrop Base ERC-20实现已存在，已评论认领 |
 | BT-0072 | 2026-03-18T14:20:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/321 | comment_submitted | 2026-03-18T14:45:00Z | Beacon Dashboard v1.1已全部实现，等待合并 |
@@ -98,7 +98,7 @@
 | BT-0087 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 3 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2177 | available | 2026-03-18T15:40:00Z | Add RustChain README badge to your GitHub profile |
 | BT-0088 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2176 | available | 2026-03-18T15:40:00Z | Write X/Twitter post about any Elyan Labs project |
 | BT-0089 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 1 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2175 | available | 2026-03-18T15:40:00Z | Star 3 Elyan Labs repos and show screenshot proof |
-| BT-0090 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2173 | available | 2026-03-18T15:40:00Z | Follow @Scottcjn on GitHub to push to 100 followers |
+| BT-0090 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2140 | available | 2026-03-18T15:40:00Z | Follow @Scottcjn on GitHub to push to 100 followers |
 | BT-0091 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 25 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2161 | available | 2026-03-18T15:40:00Z | BoTTube Creator Collaboration Features implementation |
 | BT-0092 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 15 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2160 | available | 2026-03-18T15:40:00Z | BoTTube Mobile Responsive Polish |
 | BT-0093 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 20 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2159 | available | 2026-03-18T15:40:00Z | BoTTube Video Discoverability improvements |
@@ -123,9 +123,9 @@
 | BT-0112 | 2026-03-18T18:47:00Z | search | Sui New VM Bug Bounty | varies USD | https://phemex.com/news/article/sui-launches-new-virtual-machine-with-bug-bounty-program-66938 | available | 2026-03-18T18:47:00Z | Sui 2天前发布全新虚拟机，推出公共漏洞赏金计划 |
 | BT-0113 | 2026-03-18T18:47:00Z | search | UIDAI Aadhaar Bug Bounty | varies INR | https://cyberpress.org/uidai-launches-bug-bounty-program/ | available | 2026-03-18T18:47:00Z | 印度UIDAI 18小时前刚推出首个Aadhaar系统漏洞赏金计划 |
 | BT-0114 | 2026-03-18T20:19:00Z | search | Sui New VM Bug Bounty | varies USD | https://phemex.com/news/article/sui-launches-new-virtual-machine-with-bug-bounty-program-66938 | available | 2026-03-18T20:19:00Z | Sui 2天前发布全新Move VM，邀请社区审计 |
-| BT-0115 | 2026-03-18T20:19:00Z | search | Kyiri Bug Bounty | varies USD | https://www.linkedin.com/posts/kyiri_stay-tuned-kyiri-bug-bounty-program-launch-activity-7439634969250975744-4V96 | available | 2026-03-18T20:38:00Z | Kyiri全新漏洞赏金计划今日正式启动，开放注册 |
+| BT-0115 | 2026-03-18T20:38:00Z | search | Kyiri Bug Bounty | varies USD | https://www.linkedin.com/posts/kyiri_stay-tuned-kyiri-bug-bounty-program-launch-activity-7439634969250975744-4V96 | available | 2026-03-18T20:38:00Z | Kyiri全新漏洞赏金计划今日正式启动，开放注册 |
 | BT-0116 | 2026-03-18T20:38:00Z | search | NADRA Bug Bounty Challenge 2026 | varies PKR | https://arynews.tv/nadra-bug-bounty-challenge-2026 | available | 2026-03-18T20:38:00Z | 巴基斯坦国家数据库推出首个Bug Bounty Challenge 2026 |
-| BT-0117 | 2026-03-18T20:38:00Z | search | Sui New VM Bug Bounty | varies USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | available | 2026-03-18T20:38:00Z | Sui 2天前开放全新虚拟机漏洞赏金，在Hackenproof接受提交 |
+| BT-0117 | 2026-03-18T20:38:00Z | search | Sui New VM Bug Bounty | varies USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | available | 2026-03-18T20:38:00Z | Sui 2天前开放全新虚拟机漏洞赏金，主网四月初上线前审计 |
 | BT-0118 | 2026-03-18T20:49:00Z | search | Roblox Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 2026-03-18T20:49:00Z | Roblox今日宣布推出主动漏洞赏金计划 |
 | BT-0119 | 2026-03-18T20:49:00Z | search | UIDAI Aadhaar Bug Bounty | varies INR | https://cybersecuritynews.com/uidai-bug-bounty/ | available | 2026-03-18T20:49:00Z | 印度UIDAI 20小时前正式推出首个Aadhaar结构化漏洞赏金计划 |
 | BT-0120 | 2026-03-18T21:20:00Z | search | Roblox New Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 2026-03-18T21:20:00Z | Roblox今日宣布推出主动漏洞赏金计划，开放提交 |
@@ -149,7 +149,7 @@
 | BT-0138 | 2026-03-19T02:31:00Z | github | Scottcjn/rustchain-bounties | 20 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/794 | comment_submitted | 2026-03-19T02:45:00Z | Already 40+ PRs created in RustChain ecosystem, qualifies for badge |
 | BT-0139 | 2026-03-19T02:31:00Z | github | Scottcjn/rustchain-bounties | 10-50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1158 | comment_submitted | 2026-03-19T02:45:00Z | Complete outlines for 3 quality tutorials |
 | BT-0140 | 2026-03-19T02:31:00Z | github | Scottcjn/rustchain-bounties | 10-50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1156 | comment_submitted | 2026-03-19T02:45:00Z | Complete speed run report: Raspberry Pi Zero W from scratch |
-| BT-0141 | 2026-03-19T04:07:00Z | search | Roblox Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 2026-03-19T04:07:00Z | Roblox今日宣布推出主动漏洞赏金计划，接受提交 |
+| BT-0141 | 2026-03-19T04:07:00Z | search | Roblox Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 2026-03-19T04:07:00Z | Roblox 18日宣布推出主动漏洞赏金计划，接受提交 |
 | BT-0142 | 2026-03-19T04:07:00Z | search | Kyiri Bug Bounty Program | varies USD | https://www.linkedin.com/posts/kyiri_stay-tuned-kyiri-bug-bounty-program-launch-activity-7439634969250975744-4V96 | available | 2026-03-19T04:07:00Z | Kyiri全新漏洞赏金计划今日正式启动，开放注册 |
 | BT-0143 | 2026-03-19T04:07:00Z | search | Sui New VM Bug Bounty | varies USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | available | 2026-03-19T04:07:00Z | 3天前开放，Sui全新升级虚拟机漏洞赏金 |
 | BT-0144 | 2026-03-19T04:07:00Z | search | UIDAI Aadhaar Bug Bounty | varies INR | https://cybersecuritynews.com/uidai-bug-bounty/ | available | 2026-03-19T04:07:00Z | 印度UIDAI全新推出首个Aadhaar结构化漏洞赏金计划 |
@@ -157,7 +157,8 @@
 | BT-0146 | 2026-03-19T04:07:00Z | search | Flipcash Reserve Bug Bounty | up to 250000 USD | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | available | 2026-03-19T04:07:00Z | 高价值Web3漏洞赏金，Flipcash储备合约最高奖励250,000 USD |
 | BT-0147 | 2026-03-19T04:07:00Z | github | Blur Busters kwin-lowlatency | $2000 USD | https://github.com/tildearrow/kwin-lowlatency/issues/56 | available | 2026-03-19T04:07:00Z | Blur Busters公开赏金，成功让Top 5 Linux发行版默认实现无卡顿 |
 | BT-0148 | 2026-03-19T04:07:00Z | search | ProjectDiscovery OSS Bounty | varies USD | https://github.com/projectdiscovery/oss-bounty-program | available | 2026-03-19T04:07:00Z | 2026年1月推出，奖励对ProjectDiscovery项目的有意义社区贡献 |
-| BT-0149 | 2026-03-19T04:07:00Z | vercel | Vercel OSS Bug Bounty | varies USD | https://vercel.com/blog/the-vercel-oss-bounty-program-is-now-available | available | 2026-03-19T04:07:00Z | 2026年2月开放，覆盖Vercel维护的开源项目 |
+| BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies USD | https://ver
+cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies USD | https://vercel.com/blog/the-vercel-oss-bounty-program-is-now-available | available | 2026-03-19T04:07:00Z | 2026年2月开放，覆盖Vercel维护的开源项目 |
 | BT-0150 | 2026-03-19T04:07:00Z | huntr | huntr AI/ML Bug Bounty | varies USD | https://huntr.com/ | available | 2026-03-19T04:07:00Z | 全球首个AI/ML漏洞赏金平台，开源项目漏洞报告可获得奖励 |
 | BT-0151 | 2026-03-19T04:59:00Z | openbugbounty | Blur Busters kwin-lowlatency | $2000 USD | https://github.com/tildearrow/kwin-lowlatency/issues/56 | available | 2026-03-19T04:59:00Z | Blur Busters公开赏金，需求明确可执行，高奖励 |
 | BT-0152 | 2026-03-19T04:59:00Z | web3 | Flipcash Reserve Bug Bounty | up to 250000 USD | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | available | 2026-03-19T04:59:00Z | 高价值Web3漏洞赏金，Flipcash储备合约最高奖励250,000 USD |
@@ -180,7 +181,6 @@
 | BT-0169 | 2026-03-19T07:01:00Z | search | Code4rena Chainlink Audit | varies USD | https://bbradar.io/program/Code4rena:2026-03-chainlink-payment-abstraction-v2 | available | 2026-03-19T07:01:00Z | 3月18日上线，Chainlink Payment Abstraction V2智能合约赏金审计 |
 | BT-0170 | 2026-03-19T07:04:00Z | search | Sui New VM Expanded Bug Bounty | varies USD | https://www.mpost.io/en/sui-launches-upgraded-virtual-machine-and-expands-bug-bounty-program-ahead-of-mainnet-deployment/ | available | 2026-03-19T07:04:00Z | Sui 3月17日宣布升级虚拟机并扩大漏洞赏金计划 |
 | BT-0171 | 2026-03-19T07:04:00Z | search | Mozilla Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 2026-03-19T07:04:00Z | Firefox 2026年3月更新漏洞赏金计划，调整奖励结构 |
-| BT-0171 | 2026-03-19T07:04:00Z | search | Mozilla Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 2026-03-19T07:04:00Z | Firefox 2026年3月更新漏洞赏金计划，调整奖励结构 |
 | BT-0172 | 2026-03-19T08:03:00Z | search | AsyncAPI March 2026 Bounty Round | $1600 USD | https://github.com/orgs/asyncapi/discussions/2279 | available | 2026-03-19T08:03:00Z | 2026-03轮完整预算$1600，多个赏金issue开放认领 |
 | BT-0174 | 2026-03-19T08:03:00Z | search | AI-powered Bounty Hunting System | $0+ USD | https://dev.to/chengyixu/how-i-built-an-ai-powered-bounty-hunting-system-for-github-issues-411i | opportunity | 2026-03-19T08:03:00Z | 自动化发现GitHub付费bounties，Algora/Expensify等平台每周数百issue |
 | BT-0175 | 2026-03-19T08:48:00Z | search | Floatbot Public Bug Bounty | varies USD | https://floatbot.ai/bug-bounty-program | available | 2026-03-19T08:48:00Z | Floatbot AI公开漏洞赏金计划，接受漏洞报告 |
@@ -192,10 +192,6 @@
 | BT-0181 | 2026-03-19T09:31:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies USD | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 2026-03-19T09:31:00Z | 月度CTF挑战已开放，到3月23日截止，可提交flag赢取奖励 |
 | BT-0182 | 2026-03-19T09:52:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T09:52:00Z | Revert Finance智能合约赏金审计，今日刚在Cantina上线 |
 | BT-0183 | 2026-03-19T10:07:00Z | bountyhub | cold-blood-and-mutilate Github Issue Bounty | varies USD | https://www.bountyhub.dev/bounty/view/87cdcd61-e8af-463f-97dc-85c7272a511d/cold-blood-and-mutilate | available | 2026-03-19T10:07:00Z | BountyHub上新开放GitHub issue赏金，众筹奖励模式 |
-| BT-0184 | 2026-03-19T11:15:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T11:15:00Z | 今日刚上线Cantina智能合约赏金审计，Revert Finance项目 |
-| BT-0185 | 2026-03-19T11:15:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:15:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台 |
-| BT-0186 | 2026-03-19T11:15:00Z | cron-scan | 本次小时扫描完成 | $0 USD |  | scanned | 2026-03-19T11:19:00Z | 本次小时扫描完成，新增今日公开新启动项目2个 |
-| BT-0187 | 2026-03-19T11:19:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T11:19:00Z | 今日(19日)刚上线Cantina智能合约赏金审计，Revert Finance新项目 |
-| BT-0188 | 2026-03-19T11:19:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:19:00Z | 今日(19日)Capital.com宣布推出公开漏洞赏金计划，在Intigriti平台 |
-| BT-0189 | 2026-03-19T11:35:00Z | cron-scan | Hourly scan complete | $0 USD |  | scanned | 2026-03-19T11:35:00Z | 本次11:35小时扫描完成，无新增今日公开新项目 |
-| BT-0190 | 2026-03-19T11:37:00Z | cron-scan | 本次小时扫描完成 | $0 USD |  | scanned | 2026-03-19T11:37:00Z | 本次小时扫描完成，无新增今日(19日)公开新项目，已收录全部机会 |
+| BT-0184 | 2026-03-19T11:15:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T11:15:00Z | 今日(19日)刚上线Cantina智能合约赏金审计，Revert Finance新项目 |
+| BT-0185 | 2026-03-19T11:15:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:15:00Z | Capital.com今日(19日)宣布推出公开漏洞赏金计划，在Intigriti平台 |
+| BT-0186 | 2026-03-19T12:18:00Z | cron-scan | 本次小时扫描完成 | $0 USD |  | scanned | 2026-03-19T12:18:00Z | 本次12:18小时扫描完成，新增今日(19日)公开新项目2个：Revert Finance Cantina审计、Capital.com公开漏洞赏金 |
