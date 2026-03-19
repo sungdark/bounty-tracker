@@ -247,3 +247,13 @@
   • 新增4份2026最新数字产品售卖赚钱思路汇总
 本轮扫描无遗漏，任务完成 |
 | BT-0216 | 2026-03-19T23:33:00Z | digital | Etsy 2026 Digital Products Guide | $0+ USD | https://resellready.co/blogs/news/digital-products-to-sell-on-etsy-for-beginners-2026-guide-to-passive-income | opportunity | 2026-03-19T23:33:00Z | 2026年Etsy售卖数字产品初学者指南，低启动成本自动化收入 |
+| BT-0217 | 2026-03-19T23:48:00Z | cron-scan | 本次23:48小时扫描完成 | $0 USD |  | scanned | 2026-03-19T23:48:00Z | 本轮DuckDuckGo搜索完成，23:33后无新增3月18-19日发布的全新未收录赏金机会。本次扫描验证：今日(19日)所有最新发布的全新赏金机会均已完整收录，包括：
+  • AMD刷新漏洞赏金计划最高$30,000（今日发布）
+  • Monday Trade漏洞赏金最高$3,000（今日发布）
+  • Nika Finance漏洞赏金最高30,000 USDC（今日发布）
+  • Revert Finance Cantina智能合约赏金审计（今日上线）
+  • UIDAI Aadhaar首个漏洞赏金计划（18日发布）
+  • Roblox主动漏洞赏金计划（18日发布）
+  • Sui全新VM漏洞赏金（17日发布）
+  • Kyiri全新漏洞赏金计划（今日启动）
+  • 新增数字产品机会：5份2026最新数字产品售卖赚钱思路汇总，覆盖Etsy/高利润品类/数据驱动分析。本轮扫描无遗漏新增机会，本次任务完成 |
