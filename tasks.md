@@ -204,4 +204,5 @@
 | BT-0193 | 2026-03-19T19:27:00Z | search | Patchstack March 2026 Tournament | $8850 USD | https://vdp.patchstack.com/database/leaderboard/march-2026 | available | 2026-03-19T19:27:00Z | 三月赏金锦标赛总奖金池$8,850，还有14天结束 |
 | BT-0194 | 2026-03-19T19:27:00Z | cron-scan | 本次19:27扫描完成 | $0 USD |  | scanned | 2026-03-19T19:27:00Z | 本轮扫描完成，今日(19日)所有最新发布的全新赏金机会均已完整收录 |
 | BT-0195 | 2026-03-19T19:43:00Z | search | AMD Refreshed Bug Bounty 2026 | up to $30000 USD | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | available | 2026-03-19T19:43:00Z | AMD今日宣布刷新漏洞赏金计划，最高奖励提升至$30,000 |
-| BT-0196 | 2026-03-19T19:43:00Z | cron-scan | 本次19:43小时扫描完成 | $0 USD |  | scanned | 2026-03-19T19:43:00Z | 本轮DuckDuckGo搜索完成，新增AMD刷新漏洞赏金计划至最高$30,000，已完整收录所有今日新发布赏金机会 |
+| BT-0196 | 2026-03-19T19:43:00Z | search | AMD Refreshed Bug Bounty 2026 | up to $30000 USD | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | available | 2026-03-19T19:43:00Z | AMD今日宣布刷新漏洞赏金计划，最高奖励提升至$30,000 |
+| BT-0197 | 2026-03-19T20:03:00Z | cron-scan | 本次20:03小时扫描完成 | $0 USD |  | scanned | 2026-03-19T20:03:00Z | 本轮DuckDuckGo搜索完成，未发现19:43后新增3月18-19日发布的未收录赏金机会，今日(19日)所有全新发布赏金机会均已完整收录 |
