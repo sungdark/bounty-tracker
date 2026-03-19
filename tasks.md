@@ -194,4 +194,6 @@
 | BT-0183 | 2026-03-19T10:07:00Z | bountyhub | cold-blood-and-mutilate Github Issue Bounty | varies USD | https://www.bountyhub.dev/bounty/view/87cdcd61-e8af-463f-97dc-85c7272a511d/cold-blood-and-mutilate | available | 2026-03-19T10:07:00Z | BountyHub上新开放GitHub issue赏金，众筹奖励模式 |
 | BT-0184 | 2026-03-19T11:15:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T11:15:00Z | 今日刚上线Cantina智能合约赏金审计，Revert Finance项目 |
 | BT-0185 | 2026-03-19T11:15:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:15:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台 |
-| BT-0186 | 2026-03-19T11:15:00Z | cron-scan | 本次小时扫描完成 | $0 USD |  | scanned | 2026-03-19T11:15:00Z | 本次小时扫描完成，新增今日公开新启动项目2个 |
+| BT-0186 | 2026-03-19T11:15:00Z | cron-scan | 本次小时扫描完成 | $0 USD |  | scanned | 2026-03-19T11:19:00Z | 本次小时扫描完成，新增今日公开新启动项目2个 |
+| BT-0187 | 2026-03-19T11:19:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T11:19:00Z | 今日(19日)刚上线Cantina智能合约赏金审计，Revert Finance新项目 |
+| BT-0188 | 2026-03-19T11:19:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:19:00Z | 今日(19日)Capital.com宣布推出公开漏洞赏金计划，在Intigriti平台 |
