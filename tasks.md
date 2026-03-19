@@ -203,4 +203,5 @@
 | BT-0186 | 2026-03-19T10:31:00Z | oobe | OOBE Developer Bounty Program | https://synapse.oobeprotocol.ai/blog/2026/03/oobe-developer-bounty-program-track-1-improve-the-synapse-client-sdk | varies | USD | varies | available |  |  | 2026-03-19T10:31:00Z | 3月9日启动Track1，开放Synapse Client SDK改进赏金，邀请开发者贡献，奖励丰厚 |
 | BT-0187 | 2026-03-19T10:31:00Z | openssf | Open Source Security $12.5M Fund | https://www.prnewswire.com/news-releases/linux-foundation-announces-12-5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security-302715783.html | 12.5M | USD | 12500000 | opportunity |  |  | 2026-03-19T10:31:00Z | 2天前Anthropic/AWS/GitHub/Google/Microsoft/OpenAI联合投资1250万美元加强开源安全，有资助机会给开源维护者 |
 | BT-0188 | 2026-03-19T10:31:00Z | cron-scan | 本次小时扫描完成 |  | 0 | USD | 0 | scanned |  |  | 2026-03-19T10:31:00Z | 本次小时扫描完成，新增今日公开新机会3个：Intigriti三月CTF挑战、OOBE开发赏金计划、OpenSSF 1250万开源安全基金，累计190个机会已跟踪 |
+| BT-0189 | 2026-03-19T10:35:00Z | cron-scan | 本次小时扫描完成 |  | 0 | USD | 0 | scanned |  |  | 2026-03-19T10:35:00Z | 本次小时扫描完成，本次扫描未发现新增今日公开启动项目，已有190个机会持续跟踪 |
 
