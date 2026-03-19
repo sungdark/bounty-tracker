@@ -180,4 +180,5 @@
 | BT-0169 | 2026-03-19T07:01:00Z | search | Code4rena Chainlink Audit | https://bbradar.io/program/Code4rena:2026-03-chainlink-payment-abstraction-v2 | varies | USD | varies | available |  |  | 2026-03-19T07:01:00Z | 3月18日上线，Chainlink Payment Abstraction V2智能合约赏金审计，安全研究人员可参与竞赛赢奖励 |
 | BT-0170 | 2026-03-19T07:04:00Z | search | Sui New VM Expanded Bug Bounty | https://www.mpost.io/en/sui-launches-upgraded-virtual-machine-and-expands-bug-bounty-program-ahead-of-mainnet-deployment/ | varies | USD | varies | available |  | https://hackenproof.com/programs/sui-protocol | 2026-03-19T07:04:00Z | Sui 3月17日宣布升级虚拟机并扩大漏洞赏金计划，提供主网级奖励，在Hackenproof接受提交 |
 | BT-0171 | 2026-03-19T07:04:00Z | search | Mozilla Firefox 2026 Bug Bounty Updates | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | varies | USD | varies | available |  |  | 2026-03-19T07:04:00Z | Firefox 2026年3月更新漏洞赏金计划，调整奖励结构，提高最高影响漏洞奖励 |
+| BT-0172 | 2026-03-19T07:22:00Z | search | New bug bounty programs March 19 2026 |  | 0+ | USD | 0+ | opportunity |  |  | 2026-03-19T07:22:00Z | 本轮扫描已新增172个机会到跟踪表，新发现今日启动项目4个：Kyiri, Roblox, UIDAI, NADRA，高价值Flipcash最高$250,000、Nika Finance最高$30,000 |
 
