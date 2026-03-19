@@ -193,3 +193,4 @@
 | BT-0182 | 2026-03-19T11:15:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:15:00Z | Capital.com今日(19日)宣布推出公开漏洞赏金计划，在Intigriti平台 |
 | BT-0183 | 2026-03-19T14:55:00Z | hackenproof | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 2026-03-19T14:55:00Z | Monday Trade推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞 |
 | BT-0184 | 2026-03-19T17:55:00Z | cron-scan | 本次17:55小时扫描完成 | $0 USD |  | scanned | 2026-03-19T17:55:00Z | 本轮DuckDuckGo搜索完成，今日(19日)16:56后无新增3月19日发布的全新赏金机会，所有今日发布机会均已完整收录 |
+| BT-0185 | 2026-03-19T18:01:00Z | cron-scan | 本次18:01小时扫描完成 | $0 USD |  | scanned | 2026-03-19T18:01:00Z | 本轮DuckDuckGo搜索完成，今日(19日)17:55后无新增3月19日发布的全新赏金机会，所有今日发布机会均已完整收录 |
