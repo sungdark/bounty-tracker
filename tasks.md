@@ -209,3 +209,7 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
   • Nika Finance: 最高30,000 USDC
   • Blur Busters kwin-lowlatency: 固定$2000 USD
 已认领PR保持在pr_open状态，等待审核合并。 |
+| BT-0192 | 2026-03-19T13:39:00Z | cron-scan | 本次13:39小时扫描完成 | $0 USD |  | scanned | 2026-03-19T13:39:00Z | 本轮DuckDuckGo搜索完成，今日(19日)无新增刚刚发布的新项目：
+- 确认UIDAI Aadhaar漏洞赏金已于18日发布，已记录
+- 已记录今日新增机会：Capital.com公开漏洞赏金（Intigriti平台）、Revert Finance智能合约审计（Cantina平台）
+- 所有已有项目状态保持不变，高价值机会持续开放中 |
