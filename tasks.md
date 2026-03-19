@@ -196,3 +196,7 @@
 | BT-0183 | 2026-03-19T09:52:00Z | cantina | Revert Finance Bug Bounty | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | varies | USD | varies | available |  | https://cantina.xyz/competitions/efb6f308-f13b-4110-aff8-0d67181608dd | 2026-03-19T09:52:00Z | Revert Finance智能合约赏金审计，今日（2026-03-19）刚在Cantina上线，开放参与 |
 | BT-0184 | 2026-03-19T09:52:00Z | cron-scan | 本次小时扫描完成 |  | 0 | USD | 0 | scanned |  |  | 2026-03-19T09:52:00Z | 本次小时扫描完成，新增今日公开新启动项目1个：Revert Finance Cantina智能合约赏金审计，累计184个机会已跟踪 |
 
+| BT-0181 | 2026-03-19T10:07:00Z | bountyhub | cold-blood-and-mutilate Github Issue Bounty | https://www.bountyhub.dev/bounty/view/87cdcd61-e8af-463f-97dc-85c7272a511d/cold-blood-and-mutilate | varies | USD | varies | available |  |  | 2026-03-19T10:07:00Z | BountyHub上新开放GitHub issue赏金，众筹奖励模式，可认领解决issue获取赏金 |
+| BT-0182 | 2026-03-19T10:07:00Z | huntr | Ollama Vulnerability Bounty | https://huntr.com/bounties/d515f43a-c9d9-4e7b-95f6-e05516717f2a | varies | USD | varies | available |  |  | 2026-03-19T10:07:00Z | 已修复漏洞等待维护者确认CVE和奖励，可在huntr关注状态，符合条件研究者可参与类似Ollama漏洞报告 |
+| BT-0183 | 2026-03-19T10:07:00Z | devto | AI-powered Bounty Hunting System | https://dev.to/chengyixu/how-i-built-an-ai-powered-bounty-hunting-system-for-github-issues-411i | 0+ | USD | 0+ | opportunity |  |  | 2026-03-19T10:07:00Z | 今日发布，AI自动化发现GitHub付费bounties，每周数百issue，50-000每个，参考架构可复用 |
+
