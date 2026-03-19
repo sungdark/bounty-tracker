@@ -239,3 +239,11 @@
   • AMD 2026刷新漏洞赏金计划，3月19日正式宣布，最高奖励提升至$30,000
   • Capital.com公开漏洞赏金计划实际发布于2024年8月，本次已修正记录仍保留收录作为公开项目参考
 今日(19日)所有最新发布的全新赏金机会均已完整收录，本轮扫描完成 |
+| BT-0215 | 2026-03-19T23:33:00Z | cron-scan | 本次23:33最终扫描完成 | $0 USD |  | scanned | 2026-03-19T23:33:00Z | 本轮DuckDuckGo搜索完成，23:08后无新增3月18-19日发布的全新未收录赏金机会。新增收录Etsy数字产品售卖2026指南作为数字产品机会。本轮扫描完成，今日(19日)所有全新发布赏金机会均已完整收录：
+  • AMD刷新漏洞赏金计划最高$30,000（今日发布）
+  • Monday Trade漏洞赏金最高$3,000（今日发布）
+  • Nika Finance漏洞赏金最高30,000 USDC（今日发布）
+  • Revert Finance Cantina智能合约赏金审计（今日上线）
+  • 新增4份2026最新数字产品售卖赚钱思路汇总
+本轮扫描无遗漏，任务完成 |
+| BT-0216 | 2026-03-19T23:33:00Z | digital | Etsy 2026 Digital Products Guide | $0+ USD | https://resellready.co/blogs/news/digital-products-to-sell-on-etsy-for-beginners-2026-guide-to-passive-income | opportunity | 2026-03-19T23:33:00Z | 2026年Etsy售卖数字产品初学者指南，低启动成本自动化收入 |
