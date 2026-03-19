@@ -248,13 +248,27 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
   • 已有已认领PR共34个保持pr_open/comment_submitted状态，等待审核合并
   • 已合并待结算：共2个（BT-0007: 2000 SATS、BT-0014: 8 RTC）
 本次扫描未发现全新发布的额外机会，所有今日发布机会均已完整记录 |
--e 
 | BT-0197 | 2026-03-19T14:43:00Z | cron-scan | 本次14:43小时扫描完成 | $0 USD |  | scanned | 2026-03-19T14:43:00Z | 本轮DuckDuckGo搜索完成，今日(19日)14:00后无新增今日发布的全新赏金项目：
 - 确认Capital.com公开漏洞赏金已于今日(19日)正式发布上线，已记录在案
 - 确认Revert Finance智能合约赏金审计今日(19日)在Cantina平台上线，已记录在案
 - 所有已有项目状态保持不变：
-  • 高价值开放机会持续开放：Flipcash Reserve最高(,000 USD、Nika Finance最高30,000 USDC、Blur Busters固定  USD
+  • 高价值开放机会持续开放：Flipcash Reserve最高$250,000 USD、Nika Finance最高30,000 USDC、Blur Busters固定$2000 USD
   • 已有已认领PR共34个保持pr_open/comment_submitted状态，等待审核合并
   • 已合并待结算：共2个（BT-0007: 2000 SATS、BT-0014: 8 RTC）
 
 本次扫描未发现全新发布的额外机会，所有今日发布机会均已完整记录 |
+| BT-0198 | 2026-03-19T14:48:00Z | cron-scan | 本次14:48小时扫描完成 | $0 USD |  | scanned | 2026-03-19T14:48:00Z | 本轮DuckDuckGo搜索完成，今日(19日)14:00后无新增今日发布的全新赏金项目：
+- 已确认所有今日新发布机会均完整记录：
+  • Capital.com公开漏洞赏金（今日19日正式发布，Intigriti平台）BT-0180/BT-0185已收录
+  • Revert Finance智能合约赏金审计（今日19日上线Cantina平台）BT-0182/BT-0184已收录
+- 所有已有项目状态保持不变：
+  • 高价值开放机会持续开放：
+    - Flipcash Reserve Web3: 最高$250,000 USD
+    - Nika Finance: 最高30,000 USDC
+    - Blur Busters kwin-lowlatency: 固定$2000 USD
+    - Code4rena Chainlink Payment Abstraction V2审计（18日上线）
+    - Sui New VM漏洞赏金（3天前开放）
+  • 已有已认领PR共34个保持pr_open/comment_submitted状态，等待审核合并
+  • 已合并待结算：共2个（BT-0007: 2000 SATS、BT-0014: 8 RTC）
+
+本次14:48扫描完成，未发现全新发布的额外机会 |
