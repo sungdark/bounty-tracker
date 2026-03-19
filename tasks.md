@@ -195,3 +195,4 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
 | BT-0184 | 2026-03-19T11:15:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T11:15:00Z | 今日(19日)刚上线Cantina智能合约赏金审计，Revert Finance新项目 |
 | BT-0185 | 2026-03-19T11:15:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:15:00Z | Capital.com今日(19日)宣布推出公开漏洞赏金计划，在Intigriti平台 |
 | BT-0186 | 2026-03-19T12:18:00Z | cron-scan | 本次小时扫描完成 | $0 USD |  | scanned | 2026-03-19T12:18:00Z | 本次12:18小时扫描完成，新增今日(19日)公开新项目2个：Revert Finance Cantina审计、Capital.com公开漏洞赏金 |
+| BT-0187 | 2026-03-19T12:36:00Z | cron-scan | 本次12:36小时扫描完成 | $0 USD |  | scanned | 2026-03-19T12:36:00Z | 本轮扫描确认：今日(19日)新增Capital.com公开漏洞赏金（Intigriti平台）、Revert Finance智能合约赏金审计（Cantina平台），无其他全新发布项目。已有项目维护中 |
