@@ -272,3 +272,5 @@ cel | BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies U
   • 已合并待结算：共2个（BT-0007: 2000 SATS、BT-0014: 8 RTC）
 
 本次14:48扫描完成，未发现全新发布的额外机会 |
+| BT-0184 | 2026-03-19T14:59:00Z | hackenproof | Monday Trade Bug Bounty Program | https://monday.trade/post/monday-trade-bug-bounty-program | up to 3000 | USD | 3000 | available |  | https://hackenproof.com | 2026-03-19T14:59:00Z | Monday Trade推出全新漏洞赏金计划，最高,000奖励critical漏洞，在HackenProof接受提交，所有研究者均可参与 |
+
