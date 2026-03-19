@@ -190,4 +190,5 @@
 | BT-0179 | 2026-03-19T08:48:00Z | search | CodeBounty Open Source | https://www.codebounty.ai/ | 10-5000 | USD | varies | available |  |  | 2026-03-19T08:48:00Z | 开源问题赏金平台，产品团队创建付费issue，开发者提交PR合并后立即获得报酬 |
 
 | BT-0180 | 2026-03-19T09:07:00Z | intigriti | Capital.com Public Bug Bounty | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | varies | USD | varies | available |  | https://app.intigriti.com/programs/capitalcom/capitalcom-public | 2026-03-19T09:07:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台，按漏洞严重程度给现金奖励，邀请全球研究者提交 |
+| BT-0181 | 2026-03-19T09:12:00Z | scan | 本次扫描完成 |  | 0 | USD | 0 | scanned |  |  | 2026-03-19T09:12:00Z | 本次小时扫描完成，新增今日公开新启动项目1个(Capital.com)，已有180个机会已记录 |
 
