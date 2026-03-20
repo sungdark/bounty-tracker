@@ -197,3 +197,7 @@
 | BT-0186 | 2026-03-19T18:42:00Z | cron-scan | 本次18:42小时扫描完成 | $0 USD |  | scanned | 2026-03-19T18:42:00Z | 本轮Exa搜索完成，Capital.com公开漏洞赏金计划已收录，无其他全新发布的未收录机会，今日所有新发布赏金机会均完整收录 |
 | BT-0187 | 2026-03-19T19:01:00Z | cron-scan | 本次19:01小时扫描完成 | $0 USD |  | scanned | 2026-03-19T19:01:00Z | 本轮DuckDuckGo搜索完成，验证了今日已收录的Monday Trade/Revert Finance/Capital.com等全新发布赏金计划，18:42后无新增3月19日发布的未收录赏金机会，今日所有新发布赏金机会均已完整收录 |
 | BT-0188 | 2026-03-19T19:03:00Z | cron-scan | 本次19:03小时扫描完成 | $0 USD |  | scanned | 2026-03-19T19:03:00Z | 本轮DuckDuckGo搜索完成，未发现19:01后新增3月18-19日发布的未收录赏金机会，本轮扫描所有今日全新发布赏金机会均已完整收录 |
+| BT-0189 | 2026-03-20T02:45:00Z | wordpress | Wordfence Bug Bounty Program | up to $31,200 USD | https://www.wordfence.com/threat-intel/bug-bounty-program/ | available | 2026-03-20T02:45:00Z | Wordfence长期运行漏洞赏金计划，覆盖所有WordPress插件和主题，最高可奖励$31,200/漏洞，持续开放接受提交 |
+| BT-0190 | 2026-03-20T02:45:00Z | search | Microsoft Teams Bug Bounty | up to $30,000 USD | https://threatpost.com/microsoft-30k-teams-bugs/165037/ | available | 2026-03-20T02:45:00Z | Microsoft推出全新Teams漏洞赏金计划，最高可奖励$30,000 for能暴露Teams用户数据的高危漏洞 |
+| BT-0191 | 2026-03-20T02:45:00Z | github | Block Open Source Bug Bounty | varies USD | https://bugcrowd.com/engagements/blockopensource | available | 2026-03-20T02:45:00Z | Block在Bugcrowd维护开源项目漏洞赏金计划，仅包含有BUG-BOUNTY.md文件的项目 |
+| BT-0192 | 2026-03-20T02:45:00Z | cron-scan | 本次02:45小时扫描完成 | $0 USD |  | scanned | 2026-03-20T02:45:00Z | 本轮DuckDuckGo搜索完成，发现3个未收录公开漏洞赏金计划，所有今日发布/公开的机会均已完整收录 |
