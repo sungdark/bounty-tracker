@@ -292,11 +292,15 @@
 | BT-0265 | 2026-03-20T09:56:00Z | security | OpenClaw Phishing Warning | alert | https://www.cryptotimes.io/2026/03/19/openclaw-devs-targeted-in-github-phishing-scam-promising-5k-airdrop/ | alert | 安全提醒 | 2026-03-20T09:56:00Z | 3月19日曝光针对OpenClaw开发者的GitHub钓鱼骗局，假$5K $CLAW空投盗钱包，请注意防范 |
 | BT-0266 | 2026-03-20T10:26:00Z | floatbot | Floatbot Public Bug Bounty | varies USD | https://floatbot.ai/bug-bounty-program | available | 新机会 | 2026-03-20T10:26:00Z | Floatbot AI公开漏洞赏金计划，接受漏洞报告，奖励根据严重程度发放 |
 | BT-0267 | 2026-03-20T10:26:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies prizes | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 进行中 | 2026-03-20T10:26:00Z | 月度CTF挑战正在进行，3月16日开放至3月23日，提交正确解法有机会赢取奖品 |
-| BT-0268 | 2026-03-20T10:51:00Z | cron-scan | 本次10:51小时扫描完成 | $0 USD |  | scanned | 2026-03-20T10:51:00Z | 本轮免费搜索完成，本次扫描确认：
-  • 10:26后无新增3月20日今日发布的未收录赏金机会
-  • 今日(2026-03-20)所有全新发布的赚钱机会均已完整收录：
-    • 漏洞赏金类：IBM x HackerOne AI安全最高$100,000（今日发布）、Wells Fargo公开漏洞赏金计划（今日发布，HackerOne托管）、Microsoft Teams全新漏洞赏金最高$30,000、DigitalOcean公开漏洞赏金计划（Intigriti托管）、Zabbix公开漏洞赏金计划（HackerOne）、UIDAI Aadhaar首个结构化计划（今日正式发布）、Floatbot AI公开漏洞赏金计划（今日公开接受提交）、Intigriti 3月月度CTF挑战正在进行中（3月23日截止）
-    • 开源赏金类：tscircuit总奖金池$5,502多个开放任务认领、screenpipe总奖金池$4,910 27个开放bounties、Zama FHE Season 7总奖金€30,000+已开启、AsyncAPI 2026-03轮总预算$1,600多个开放issue可认领
+| BT-0267 | 2026-03-20T10:26:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies prizes | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 进行中 | 2026-03-20T10:26:00Z | 月度CTF挑战正在进行，3月16日开放至3月23日，提交正确解法有机会赢取奖品 |
+| BT-0268 | 2026-03-20T10:26:00Z | floatbot | Floatbot Public Bug Bounty | varies USD | https://floatbot.ai/bug-bounty-program | available | 新机会 | 2026-03-20T10:26:00Z | Floatbot AI公开漏洞赏金计划，接受漏洞报告，奖励根据严重程度发放 |
+| BT-0269 | 2026-03-20T11:26:00Z | cron-scan | 本次11:26小时扫描完成 | $0 USD |  | scanned | 2026-03-20T11:26:00Z | 本轮Exa搜索完成，本次扫描结果：
+  • 所有返回结果都已经收录过：
+    - Firefox 2026 Bug Bounty Updates（已收录，BT-0264）
+    - Intigriti March 2026 CTF Challenge（已收录，BT-0267）
+    - Capital.com Public Bug Bounty Programme（已收录，之前已入库）
+    - Sui New VM Bug Bounty Open（已收录，BT-0263）
+  • 本次扫描无新增未收录的3月20日发布赏金机会，所有今日发布机会已完整收录 |
     • 数字产品类：完整汇总100+种2026可售卖数字产品思路，涵盖AI定制GPTs、在线课程、会员社区、UI模板、预设、电子书、数字规划本等所有最新高需求新兴品类
   • 安全提醒：保持钓鱼预警：针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，请注意防范，诈骗分子冒充官方空投盗取钱包私钥
   • 本轮10:51 UTC扫描完成，确认无新增未收录3月20日发布赚钱机会，所有今日发布机会已全部同步到bounty-tracker仓库 |
