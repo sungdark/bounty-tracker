@@ -237,3 +237,5 @@
 | BT-0221 | 2026-03-20T04:14:00Z | github | zama-ai/bounty-program | varies EUR | https://github.com/zama-ai/bounty-program | available | 新机会 | 2026-03-20T04:14:00Z | Zama Bounty Program Season 7已开启，总奖金€30,000+，针对FHE加密开发挑战 |
 | BT-0222 | 2026-03-20T04:14:00Z | github | arkadiyt/bounty-targets-data | $0+ USD | https://github.com/arkadiyt/bounty-targets-data | available | 新机会 | 2026-03-20T04:14:00Z | 每小时更新漏洞赏金范围数据，包含Hackerone/Bugcrowd/Intigriti等所有主流平台 |
 | BT-0223 | 2026-03-20T04:14:00Z | search | Google Summer of Code 2026 | $6000 USD stipend | https://summerofcode.withgoogle.com/ | available | 新机会 | 2026-03-20T04:14:00Z | 2026 GSoC申请开放中，截止3月31日，获得$6000 USD开发津贴 |
+| BT-0224 | 2026-03-20T04:25:00Z | github | Scottcjn/rustchain-bounties | 10 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2259 | available | 新机会 | 2026-03-20T04:25:00Z | 10 RTC奖励，写一篇关于CVPR 2026接收项目的文章发布在任意平台 |
+| BT-0225 | 2026-03-20T04:25:00Z | github | Scottcjn/rustchain-bounties | varies RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2261 | available | 新机会 | 2026-03-20T04:25:00Z | RIP-306: SophiaCore Attestation Inspector — Sophia Elya验证你的硬件，安全bounty |
