@@ -282,18 +282,10 @@
 | BT-0258 | 2026-03-20T06:54:00Z | github | trickest/inventory | $0+ USD | https://github.com/trickest/inventory | opportunity | 新机会 | 2026-03-20T06:54:00Z | 超过800个公开漏洞赏金计划资产清单，持续更新，适合做范围侦察 |
 | BT-0259 | 2026-03-20T06:54:00Z | github | shuvonsec/claude-bug-bounty | $0+ USD | https://github.com/shuvonsec/claude-bug-bounty | opportunity | 新机会 | 2026-03-20T06:54:00Z | Claude Code AI辅助漏洞狩猎工具，从侦察到报告生成全流程支持 |
 | BT-0260 | 2026-03-20T06:54:00Z | proxies | Best Developer Bounty Programs 2026 | $0+ USD | https://proxies.sx/blog/developer-bounty-programs-crypto-2026 | opportunity | 新机会 | 2026-03-20T06:54:00Z | 2026年最佳开发者赏金计划完整指南，覆盖所有主流平台对比分析 |
-| BT-0261 | 2026-03-20T08:21:00Z | cron-scan | 本次08:21小时扫描完成 | $0 USD |  | scanned | 扫描完成 | 2026-03-20T08:21:00Z | 本轮DuckDuckGo免费搜索完成，本次扫描确认：
-  • 08:16后无新增3月20日今日发布的未收录赏金机会
-  • DuckDuckGo搜索结果验证：UIDAI Aadhaar首个结构化漏洞赏金计划已经完整收录
-  • 所有3月19-20日发布的全新赏金机会均已完整收录：
-    - UIDAI Aadhaar首个结构化漏洞赏金计划（3月18日正式开放）
-    - Microsoft Teams全新漏洞赏金计划最高$30,000已经收录
-    - DigitalOcean全新公开漏洞赏金计划已经收录
-    - Zabbix公开漏洞赏金计划在HackerOne已经收录
-    - AMD 2026刷新漏洞赏金计划最高$30,000已经收录（3月19日发布）
-    - Capital.com公开漏洞赏金计划已经收录（3月19日发布）
-  • 数字产品售卖机会：所有2026最新指南汇总均已完整收录，保持最新状态
-  • 本轮扫描未发现任何全新未收录3月20日发布赏金机会，所有机会已完整收录，本轮赚钱机会扫描完成 |
+| BT-0259 | 2026-03-20T06:54:00Z | github | shuvonsec/claude-bug-bounty | $0+ USD | https://github.com/shuvonsec/claude-bug-bounty | opportunity | 新机会 | 2026-03-20T06:54:00Z | Claude Code AI辅助漏洞狩猎工具，从侦察到报告生成全流程支持 |
+| BT-0260 | 2026-03-20T06:54:00Z | proxies | Best Developer Bounty Programs 2026 | $0+ USD | https://proxies.sx/blog/developer-bounty-programs-crypto-2026 | opportunity | 新机会 | 2026-03-20T06:54:00Z | 2026年最佳开发者赏金计划完整指南，覆盖所有主流平台对比分析 |
+| BT-0261 | 2026-03-20T08:26:00Z | hackerone | IBM x HackerOne AI Bug Bounty | up to $100,000 USD | https://hackerone.com/blog/hackerone-ibm-ai-bug-bounty-granite | available | 新机会 | 2026-03-20T08:26:00Z | IBM Granite AI模型安全赏金计划，寻找越狱和防护漏洞，最高$100,000奖励 |
+| BT-0262 | 2026-03-20T08:26:00Z | wells fargo | Wells Fargo Public Bug Bounty | varies USD | https://www.hackerone.com/blog/introducing-wells-fargo-public-bug-bounty-program | available | 新机会 | 2026-03-20T08:26:00Z | Wells Fargo公开漏洞赏金计划，HackerOne托管，外部应用接受提交 |
 =======
 | ID | 接受时间 | 来源 | 项目 | 奖励 | github项目地址 | 状态 | 最后更新 | 备注 |
 |----|----------|------|------|------|----------------|------|----------|------|
