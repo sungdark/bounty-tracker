@@ -518,4 +518,9 @@
 | BT-0213 | 2026-03-19T22:51:00Z | cron-scan | 本次22:51小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:51:00Z | 本轮DuckDuckGo搜索完成，22:47后无新增3月18-19日发布的未收录赏金机会。UIDAI Aadhaar漏洞赏金计划已在之前收录，今日(19日)所有3月18-19日发布的全新赏金机会均已全部完整收录，本轮扫描完成 |
 | BT-0214 | 2026-03-20T07:12:00Z | search | UIDAI Aadhaar Bug Bounty Program | varies INR | https://teamwin.in/uidai-launches-bug-bounty-programme-to-strengthen-aadhaar-security/ | available | 2026-03-20T07:12:00Z | 印度UIDAI首个结构化Aadhaar漏洞赏金计划今日(3月20日)正式发布，邀请安全研究员寻找漏洞 |
 | BT-0214 | 2026-03-20T07:12:00Z | search | UIDAI Aadhaar Bug Bounty Program | varies INR | https://teamwin.in/uidai-launches-bug-bounty-programme-to-strengthen-aadhaar-security/ | available | 2026-03-20T07:12:00Z | 印度UIDAI首个结构化Aadhaar漏洞赏金计划今日(3月20日)正式发布，邀请安全研究员寻找漏洞 |
-| BT-0215 | 2026-03-20T07:12:00Z | cron-scan | 本次07:12小时扫描完成 | $0 USD |  | scanned | 2026-03-20T07:12:00Z | 本轮免费DuckDuckGo搜索完成，仅发现UIDAI Aadhaar漏洞赏金计划今日发布的公开报道，核心机会已补录。本轮扫描无其他3月20日今日全新发布未收录赏金机会，扫描完成 |
+| BT-0215 | 2026-03-20T07:12:00Z | cron-scan | 本次07:12小时扫描完成 | $0 USD |  | scanned | 2026-03-20T07:12:00Z | 本轮免费DuckDuckGo搜索完成，仅发现UIDAI Aadhaar漏洞赏金计划今日发布的公开报道，核心机会已补录。本轮扫描无其他3月20日今日全新发布未收录赏金机会，扫描完成
+| BT-0216 | 2026-03-20T07:16:00Z | cron-scan | 本次07:16小时扫描完成 | $0 USD |  | scanned | 2026-03-20T07:16:00Z | 本轮DuckDuckGo搜索完成，验证今日(20日)所有全新发布赏金机会均已完整收录：
+  • UIDAI Aadhaar首个结构化漏洞赏金计划今日正式开放提交
+  • 未发现其他3月20日今日全新发布未收录赏金机会
+  • 数字产品机会已保持完整汇总，无新增遗漏机会
+本轮扫描完成，所有今日发布机会均已完整收录 |
