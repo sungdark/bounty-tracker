@@ -290,23 +290,40 @@
 | BT-0264 | 2026-03-20T09:26:00Z | mozilla | Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 新机会 | 2026-03-20T09:26:00Z | 3月更新政策，提高报告质量要求，调整激励结构聚焦高影响力漏洞 |
 | BT-0264 | 2026-03-20T09:26:00Z | mozilla | Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 新机会 | 2026-03-20T09:26:00Z | 3月更新政策，提高报告质量要求，调整激励结构聚焦高影响力漏洞 |
 | BT-0265 | 2026-03-20T09:56:00Z | security | OpenClaw Phishing Warning | alert | https://www.cryptotimes.io/2026/03/19/openclaw-devs-targeted-in-github-phishing-scam-promising-5k-airdrop/ | alert | 安全提醒 | 2026-03-20T09:56:00Z | 3月19日曝光针对OpenClaw开发者的GitHub钓鱼骗局，假$5K $CLAW空投盗钱包，请注意防范 |
-| BT-0265 | 2026-03-20T09:56:00Z | security | OpenClaw Phishing Warning | alert | https://www.cryptotimes.io/2026/03/19/openclaw-devs-targeted-in-github-phishing-scam-promising-5k-airdrop/ | alert | 安全提醒 | 2026-03-20T09:56:00Z | 3月19日曝光针对OpenClaw开发者的GitHub钓鱼骗局，假$5K $CLAW空投盗钱包，请注意防范 |
 | BT-0266 | 2026-03-20T10:26:00Z | floatbot | Floatbot Public Bug Bounty | varies USD | https://floatbot.ai/bug-bounty-program | available | 新机会 | 2026-03-20T10:26:00Z | Floatbot AI公开漏洞赏金计划，接受漏洞报告，奖励根据严重程度发放 |
 | BT-0267 | 2026-03-20T10:26:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies prizes | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 进行中 | 2026-03-20T10:26:00Z | 月度CTF挑战正在进行，3月16日开放至3月23日，提交正确解法有机会赢取奖品 |
-| BT-0268 | 2026-03-20T10:26:00Z | floatbot | Floatbot Public Bug Bounty | varies USD | https://floatbot.ai/bug-bounty-program | available | 新机会 | 2026-03-20T10:26:00Z | Floatbot AI公开漏洞赏金计划，接受漏洞报告，奖励根据严重程度发放 |
-| BT-0269 | 2026-03-20T10:51:00Z | cron-scan | 本次10:51小时扫描完成 | $0 USD |  | scanned | 2026-03-20T10:51:00Z | 本轮免费搜索完成，本次扫描确认：
+| BT-0268 | 2026-03-20T10:51:00Z | cron-scan | 本次10:51小时扫描完成 | $0 USD |  | scanned | 2026-03-20T10:51:00Z | 本轮免费搜索完成，本次扫描确认：
   • 10:26后无新增3月20日今日发布的未收录赏金机会
   • 今日(2026-03-20)所有全新发布的赚钱机会均已完整收录：
     • 漏洞赏金类：IBM x HackerOne AI安全最高$100,000（今日发布）、Wells Fargo公开漏洞赏金计划（今日发布，HackerOne托管）、Microsoft Teams全新漏洞赏金最高$30,000、DigitalOcean公开漏洞赏金计划（Intigriti托管）、Zabbix公开漏洞赏金计划（HackerOne）、UIDAI Aadhaar首个结构化计划（今日正式发布）、Floatbot AI公开漏洞赏金计划（今日公开接受提交）、Intigriti 3月月度CTF挑战正在进行中（3月23日截止）
     • 开源赏金类：tscircuit总奖金池$5,502多个开放任务认领、screenpipe总奖金池$4,910 27个开放bounties、Zama FHE Season 7总奖金€30,000+已开启、AsyncAPI 2026-03轮总预算$1,600多个开放issue可认领
     • 数字产品类：完整汇总100+种2026可售卖数字产品思路，涵盖AI定制GPTs、在线课程、会员社区、UI模板、预设、电子书、数字规划本等所有最新高需求新兴品类
   • 安全提醒：保持钓鱼预警：针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，请注意防范，诈骗分子冒充官方空投盗取钱包私钥
-  • 本轮10:51 UTC扫描完成，确认无新增未收录3月20日发布赚钱机会，所有今日发布机会已全部同步到bounty-tracker仓库，本次扫描任务完成 |
-| BT-0267 | 2026-03-20T10:10:00Z | cron-scan | 本次10:10小时扫描完成 | $0 USD |  | scanned | 2026-03-20T10:10:00Z | 本轮DuckDuckGo搜索完成，本次扫描确认：
-  • 09:56后无新增3月20日今日发布的未收录赏金机会
-  • DuckDuckGo搜索结果验证：UIDAI Aadhaar漏洞赏金计划已经收录，未返回其他3月20日今日全新发布未收录机会
-  • 所有今日(2026-03-20)发布的全新赚钱机会均已完整收录：
-    • 漏洞赏金类：
+  • 本轮10:51 UTC扫描完成，确认无新增未收录3月20日发布赚钱机会，所有今日发布机会已全部同步到bounty-tracker仓库 |
+| BT-0269 | 2026-03-20T11:13:00Z | cron-scan | 本次11:13小时扫描完成 | $0 USD |  | scanned | 2026-03-20T11:13:00Z | 本轮DuckDuckGo免费搜索完成，本次扫描确认：
+  • 10:51后无新增3月20日今日发布的未收录赚钱机会
+  • DuckDuckGo搜索结果验证：仅返回UIDAI Aadhaar已收录机会的重复报道，无新增3月20日今日全新发布未收录机会
+  • 所有2026-03-20今日发布的全新赚钱机会均已完整收录：
+    • **漏洞赏金类**：
+      - IBM x HackerOne AI安全赏金最高$100,000（今日发布，寻找Granite越狱漏洞）
+      - Wells Fargo公开漏洞赏金计划（今日发布，HackerOne托管）
+      - Microsoft Teams全新漏洞赏金最高$30,000（高危漏洞奖励）
+      - DigitalOcean公开漏洞赏金计划（Intigriti托管，今日开放）
+      - Zabbix公开漏洞赏金计划（HackerOne，接受提交）
+      - UIDAI Aadhaar首个结构化漏洞赏金计划（今日正式发布，印度UIDAI）
+      - Floatbot AI公开漏洞赏金计划（今日开放接受提交）
+      - Intigriti 3月月度CTF挑战（进行中，3月23日截止）
+      - AMD 2026刷新漏洞赏金最高$30,000（3月19日发布，已收录）
+      - Capital.com公开漏洞赏金计划（3月19日发布，已收录）
+    • **开源赏金类**：
+      - tscircuit总奖金池$5,502，多个开放任务可认领
+      - screenpipe总奖金池$4,910，27个开放bounties
+      - Zama FHE Season 7总奖金€30,000+已开启
+      - AsyncAPI 2026-03轮总预算$1,600，多个开放issue可认领
+    • **数字产品类**：
+      - 完整汇总100+种2026可售卖数字产品思路，涵盖所有最新趋势：AI定制GPTs、在线课程、会员社区、UI模板、预设、电子书、数字规划本等新兴高需求品类
+  • **安全提醒**：保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范
+  • 本轮11:13 UTC扫描完成，所有今日发布赚钱机会已完整同步，无遗漏新增机会，本次扫描任务完成 |
       - IBM x HackerOne AI安全赏金最高$100,000（今日发布）
       - Wells Fargo公开漏洞赏金计划（今日发布，HackerOne托管）
       - Microsoft Teams全新漏洞赏金最高$30,000
