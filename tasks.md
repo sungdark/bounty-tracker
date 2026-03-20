@@ -269,3 +269,12 @@
   • 所有近日发布的AMD/Monday Trade/Nika Finance/Revert Finance等均已完整收录
 本轮扫描无遗漏，扫描完成 |
 | BT-0225 | 2026-03-20T00:35:00Z | digital | LinkedIn 2026 Digital Products Guide | $0+ USD | https://www.linkedin.com/pulse/digital-products-ultimate-online-income-stream-2026-mostafa-kibbit-n1vgc | opportunity | 2026-03-20T00:35:00Z | 5天前发布，2026年数字产品售卖终极在线收入流深度指南，包含顶级策略和盈利思路 |
+| BT-0226 | 2026-03-20T00:49:00Z | hackathon | Preply x Agora Hackathon 2026 | varies USD | https://github.com/Hackathon-Preply/hackathon-2026-03-20 | available | 2026-03-20T00:49:00Z | Preply x Agora 线下黑客松在巴塞罗那举行，3月20-21日，主题AI Agents for NextGen Language Learning |
+| BT-0227 | 2026-03-20T00:49:00Z | digital | mydesigns.io Digital Products That Sell in 2026 | $0+ USD | https://mydesigns.io/blog/digital-products-that-sell/ | opportunity | 2026-03-20T00:49:00Z | 发现2026最畅销数字产品，从模板到可打印文件，包含需求验证建议 |
+| BT-0228 | 2026-03-20T00:49:00Z | digital | Alibaba 10 Best Products To Sell Online In 2026 | $0+ USD | https://www.alibaba.com/product-insights/10-best-products-to-sell-online-in-2026-verified-data-expert-analysis.html | opportunity | 2026-03-20T00:49:00Z | 数据驱动分析，基于市场趋势和真实卖家数据，10个最高潜力线上销售产品 |
+| BT-0229 | 2026-03-20T00:49:00Z | cron-scan | 本次00:49小时扫描完成 | $0 USD |  | scanned | 2026-03-20T00:49:00Z | 本轮DuckDuckGo搜索完成，3月20日今日凌晨未发现全新发布的漏洞赏金计划：
+  • UIDAI Aadhaar漏洞赏金计划已于3月11日发布，已在之前完整收录
+  • 新增收录今日巴塞罗那Preply x Agora黑客松机会（3月20-21日线下举办）
+  • 新增收录3份最新2026数字产品售卖指南，累计已收录14份高质量赚钱思路汇总
+  • 所有3月18-19日发布的全新赏金机会均已完整收录，包括AMD($30k)/Monday Trade($3k)/Nika Finance(30k USDC)/Revert Finance Cantina等
+本轮扫描无遗漏新增法币赏金机会，扫描完成 |
