@@ -313,3 +313,16 @@
     - Kyiri全新漏洞赏金计划（已收录）
   • Preply x Agora 2026年3月20-21日巴塞罗那黑客松机会已收录（今日开赛）
 本轮扫描无遗漏新增法币赏金机会，本次hourly扫描完成 |
+| BT-0240 | 2026-03-20T01:37:00Z | digital | 2026 Untapped Digital Product Niches | varies USD | https://payhip.com/mjresell/blog/news/the-most-untapped-and-profitable-digital-product-niches-to-sell-in-2026 | opportunity | 2026-03-20T01:37:00Z | 发现未充分挖掘利润丰厚的数字产品 niche，竞争小受众精准，高盈利潜力 |
+| BT-0241 | 2026-03-20T01:37:00Z | cron-scan | 本次01:37小时扫描完成 | $0 USD |  | scanned | 2026-03-20T01:37:00Z | 本轮DuckDuckGo搜索完成：
+  • 未发现3月20日今日发布的全新法币漏洞赏金/开源赏金计划
+  • UIDAI漏洞赏金3月18日发布已在之前完整收录，无遗漏
+  • Google Summer of Code 2026申请已开放截止3月31日已收录（BT-0046）
+  • OpenSSF 1250万美元开源安全基金3月17日发布已收录（BT-0054）
+  • 新增收录1份2026未开发数字产品 niche 机会，累计已收录28份高质量数字产品机会汇总
+  • 所有近日3月18-19日发布的全新高价值赏金机会均已完整收录，核心机会：
+    - AMD刷新漏洞赏金：最高$30,000
+    - Flipcash Reserve Web3漏洞赏金：最高$250,000
+    - Nika Finance漏洞赏金：最高30,000 USDC
+    - Revert Finance Cantina合约审计：今日上线已收录
+本轮扫描无遗漏新增法币赏金机会，本次hourly扫描完成 |
