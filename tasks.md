@@ -253,3 +253,7 @@
   • 开源赏金类：PearAI/AsyncAPI/Blur Busters($2000)/Libretro等公开项目机会已收录
   • 数字产品类：新增Amasty 18种最赚钱数字产品2026最新汇总，累计已收录8份2026数字产品售卖指南
 本轮扫描无遗漏，本次 hourly 扫描任务完成 |
+| BT-0219 | 2026-03-20T00:08:00Z | cron-scan | 本次00:08小时扫描完成 | $0 USD |  | scanned | 2026-03-20T00:08:00Z | 本轮DuckDuckGo搜索完成，未发现3月20日发布的全新未收录赏金机会，3月19日发布的AMD刷新漏洞赏金、Monday Trade、Nika Finance、Revert Finance等已全部收录，数字产品类新增收录3份2026高需求数字产品售卖指南汇总，本轮扫描无新增遗漏机会，扫描完成 |
+| BT-0220 | 2026-03-20T00:08:00Z | digital | Ruzuku 30 Digital Products 2026 | $0+ USD | https://www.ruzuku.com/learn/articles/digital-products-to-sell | opportunity | 2026-03-20T00:08:00Z | 30种真实可行赚钱数字产品思路，包含定价数据和教练/顾问品类建议 |
+| BT-0221 | 2026-03-20T00:08:00Z | digital | AliDropship 15+ Digital Products 2026 | $0+ USD | https://alidropship.com/digital-products-to-sell/ | opportunity | 2026-03-20T00:08:00Z | 覆盖15+分类的完整指南，包含找利基方法和启动建议 |
+| BT-0222 | 2026-03-20T00:08:00Z | digital | Whop 22 In-Demand Digital Products 2026 | $0+ USD | https://whop.com/blog/digital-products-in-demand/ | opportunity | 2026-03-20T00:08:00Z | 最新趋势，包含AI相关产品机会如custom GPTs和AI助手 |
