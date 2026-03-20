@@ -291,3 +291,20 @@
     - Nika Finance漏洞赏金，最高30,000 USDC
     - Revert Finance Cantina智能合约赏金审计
 本轮扫描无遗漏新增法币赏金机会，扫描完成 |
+| BT-0234 | 2026-03-20T01:12:00Z | digital | PayRequest 2026 Best Digital Products | $0+ USD | https://payrequest.io/blog/best-digital-products-to-sell-2026 | opportunity | 2026-03-20T01:12:00Z | 最新发布2026年最佳可售卖数字产品指南，包含从入门到高级的完整案例和思路 |
+| BT-0235 | 2026-03-20T01:12:00Z | digital | Details&Dollars 2026 Digital Products Guide | $0+ USD | https://www.detailsanddollars.com/field-notes-blog/best-digital-products-to-sell-in-2026-beginner-to-advanced | opportunity | 2026-03-20T01:12:00Z | 适合从初学者到进阶卖家的完整2026数字产品售卖指南 |
+| BT-0236 | 2026-03-20T01:12:00Z | digital | Payhip 5 Emerging AI Niches 2026 | $0+ USD | https://payhip.com/mjresell/blog/news/5-emerging-ai-creative-digital-product-niches-to-sell-in-2026 | opportunity | 2026-03-20T01:12:00Z | 5个新兴AI和创意数字产品 niche，2026最新趋势机会 |
+| BT-0237 | 2026-03-20T01:12:00Z | digital | WeDevs 20+ High Profit Digital Products 2026 | $0+ USD | https://wedevs.com/blog/489429/digital-products-to-sell/ | opportunity | 2026-03-20T01:12:00Z | 20+个独家高利润数字产品售卖思路汇总 |
+| BT-0238 | 2026-03-20T01:12:00Z | digital | Sellfy 20 Best Digital Products 2026 | $0+ USD | https://sellfy.com/blog/digital-products/ | opportunity | 2026-03-20T01:12:00Z | Sellfy官方发布的20个2026最佳可售卖数字产品指南 |
+| BT-0239 | 2026-03-20T01:12:00Z | cron-scan | 本次01:12小时扫描完成 | $0 USD |  | scanned | 2026-03-20T01:12:00Z | 本轮DuckDuckGo免费搜索完成：
+  • 未发现3月20日今日发布的全新漏洞赏金/开源赏金计划
+  • Microsoft Teams漏洞赏金已存在，无新增3月20日发布机会
+  • 新增收录5份最新2026数字产品售卖赚钱思路指南，累计已收录22份高质量汇总
+  • 所有近日3月18-19日发布的全新法币赏金机会均已完整收录，包括：
+    - AMD 2026刷新漏洞赏金计划，最高$30,000
+    - Monday Trade漏洞赏金，最高$3,000
+    - Nika Finance漏洞赏金，最高30,000 USDC
+    - Revert Finance Cantina智能合约赏金审计
+    - Kyiri全新漏洞赏金计划今日启动
+  • Preply x Agora 2026年3月20-21日巴塞罗那黑客松机会已收录
+本轮扫描无遗漏新增法币赏金机会，本次hourly扫描完成 |
