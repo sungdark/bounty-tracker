@@ -286,7 +286,9 @@
 | BT-0260 | 2026-03-20T06:54:00Z | proxies | Best Developer Bounty Programs 2026 | $0+ USD | https://proxies.sx/blog/developer-bounty-programs-crypto-2026 | opportunity | 新机会 | 2026-03-20T06:54:00Z | 2026年最佳开发者赏金计划完整指南，覆盖所有主流平台对比分析 |
 | BT-0261 | 2026-03-20T08:26:00Z | hackerone | IBM x HackerOne AI Bug Bounty | up to $100,000 USD | https://hackerone.com/blog/hackerone-ibm-ai-bug-bounty-granite | available | 2026-03-20T08:26:00Z | IBM Granite AI模型安全赏金计划，寻找越狱和防护漏洞，最高$100,000奖励 |
 | BT-0262 | 2026-03-20T08:26:00Z | wells fargo | Wells Fargo Public Bug Bounty | varies USD | https://www.hackerone.com/blog/introducing-wells-fargo-public-bug-bounty-program | available | 2026-03-20T08:26:00Z | Wells Fargo公开漏洞赏金计划，HackerOne托管，外部应用接受提交 |
-| BT-0263 | 2026-03-20T09:02:00Z | cron-scan | 本次09:02小时扫描完成 | $0 USD |  | scanned | 2026-03-20T09:02:00Z | 本轮免费DuckDuckGo搜索完成，本次扫描确认：
+| BT-0263 | 2026-03-20T09:26:00Z | sui | Sui New VM Bug Bounty Open | varies USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | available | 新机会 | 2026-03-20T09:26:00Z | 3月16日开放，Sui全新升级虚拟机，主网四月初上线前公开接受漏洞审计，Mainnet费率支付 |
+| BT-0264 | 2026-03-20T09:26:00Z | mozilla | Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 新机会 | 2026-03-20T09:26:00Z | 3月更新政策，提高报告质量要求，调整激励结构聚焦高影响力漏洞 |
+| BT-0265 | 2026-03-20T09:26:00Z | cron-scan | 本次09:26小时扫描完成 | $0 USD |  | scanned | 2026-03-20T09:26:00Z | 本轮Exa搜索完成，本次扫描确认：
   • 08:44后无新增3月20日今日发布的未收录赏金机会
   • 今日(20日)所有全新发布的赏金机会均已完整收录：
     - IBM x HackerOne AI安全赏金最高$100,000（今日发布）
