@@ -23,7 +23,7 @@
 | BT-0017 | 2026-03-18T00:40:00Z | github | Scottcjn/rustchain-bounties | 500 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/478 | comment_submitted | 2026-03-18T13:05:00Z | 已完成star和评论认领 |
 | BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | 80 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/436 | pr_open | 2026-03-18T13:05:00Z | 已完成完整端口apple2-6502-miner，等待PR合并 |
 | BT-0019 | 2026-03-18T00:54:00Z | github | Scottcjn/Rustchain | 500 USDC | https://github.com/Scottcjn/Rustchain/issues/425 | available | 2026-03-18T00:54:00Z | 5000星推广活动奖励池 |
-| BT-0020 | 2026-03-18T01:51:00Z | github | asyncapi | $1600 USD | https://github.com/orgs/asyncapi/projects/36 | available | 2026-03-18T01:51:00Z | 2026-03轮赏金计划总预算 |
+| BT-0020 | 2026-03-18T00:56:00Z | github | asyncapi | $1600 USD | https://github.com/orgs/asyncapi/projects/36 | available | 2026-03-18T00:56:00Z | 2026-03轮赏金计划总预算 |
 | BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 2026-03-18T13:05:00Z | 实现完整存储服务栈，PR已创建 |
 | BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | pr_open | 2026-03-18T22:00:00Z | 实现AI服务栈，PR已创建 |
 | BT-0023 | 2026-03-18T01:51:00Z | bountyhub | BountyHub | $0+ USD | https://www.bountyhub.dev/ | available | 2026-03-18T01:51:00Z | GitHub赏金聚合平台 |
@@ -42,7 +42,7 @@
 | BT-0036 | 2026-03-18T03:01:00Z | web | Bug Bounty Radar | $0+ USD | https://bbradar.io/ | opportunity | 2026-03-18T03:01:00Z | 实时更新最新公开漏洞赏金计划 |
 | BT-0037 | 2026-03-18T03:01:00Z | yeswehack | Thüringer Aufbaubank | €50-1500 EUR | https://yeswehack.com/programs/thueringer-aufbaubank-bug-bounty-program | available | 2026-03-18T03:01:00Z | 德国金融机构公开漏洞赏金 |
 | BT-0038 | 2026-03-18T03:45:00Z | github | YashKeshari01/OpenSource-Bounty-Chain | $0+ USD | https://github.com/YashKeshari01/OpenSource-Bounty-Chain | opportunity | 2026-03-18T03:45:00Z | 区块链驱动开源赏金平台 |
-| BT-0039 | 2026-03-18T03:45:00Z | yeswehack | UIDAI Aadhaar | varies INR | https://www.moneycontrol.com/technology/uidai-launches-aadhaar-bounty-programme-with-security-rewards-how-to-participate-eligibility-and-all-other-details-article-13860569.html | available | 2026-03-18T03:45:00Z | 印度UIDAI全新推出Aadhaar漏洞赏金计划 |
+| BT-0039 | 2026-03-18T03:45:00Z | yeswehack | UIDAI Aadhaar | varies INR | https://www.moneycontrol.com/technology/uidai-launches-aadhaar-bug-bounty-programme-with-security-rewards-how-to-participate-eligibility-and-all-other-details-article-13860569.html | available | 2026-03-18T03:45:00Z | 印度UIDAI全新推出Aadhaar漏洞赏金计划 |
 | BT-0040 | 2026-03-18T03:45:00Z | boss.dev | Boss Dev Bounties | $0+ USD | https://www.boss.dev/ | opportunity | 2026-03-18T03:45:00Z | GitHub原生赏金平台 |
 | BT-0041 | 2026-03-18T03:45:00Z | devsbounty | Devs Bounty | $0+ USD | https://www.devsbounty.com/ | opportunity | 2026-03-18T03:45:00Z | 开发者通过PR获得赏金 |
 | BT-0042 | 2026-03-18T03:45:00Z | github | 2026 Upcoming Hackathons | $0+ USD | https://github.com/AjitChauhan081/2026-Upcoming-Hackathon-and-Open-Source-Program | opportunity | 2026-03-18T03:45:00Z | 2026年即将到来的黑客松汇总 |
@@ -50,7 +50,7 @@
 | BT-0044 | 2026-03-18T04:04:00Z | immunefi | Immunefi Web3 Bug Bounty | $0+ USD | https://immunefi.com/bug-bounty/ | available | 2026-03-18T04:04:00Z | Web3最大漏洞赏金平台 |
 | BT-0045 | 2026-03-18T04:04:00Z | cloudsek | Best Bug Bounty Platforms 2026 | $0+ USD | https://www.cloudsek.com/knowledge-base/best-bug-bounty-platforms-2026 | opportunity | 2026-03-18T04:04:00Z | 2026年顶级漏洞赏金平台汇总 |
 | BT-0046 | 2026-03-18T04:06:00Z | google | Google Summer of Code 2026 | stipend USD | https://summerofcode.withgoogle.com/ | available | 2026-03-18T04:06:00Z | 2026 GSoC申请已开放，截止3月31日 |
-| BT-0047 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/1 | pr_open | 2026-03-18T22:05:00Z | 基础基础设施栈已完成，PR已创建 |
+| BT-0047 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 180 USDT | https://github.com/illbnm/homelab-stack/issues/1 | pr_open | 2026-03-18T22:05:00Z | 基础基础设施栈已完成，PR已创建 |
 | BT-0048 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 280 USDT | https://github.com/illbnm/homelab-stack/issues/10 | pr_open | 2026-03-18T22:10:00Z | Observability Stack已完成开发，PR已创建 |
 | BT-0049 | 2026-03-18T04:58:00Z | github | Scottcjn/rustchain-bounties | 50-75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/747 | pr_open | 2026-03-18T13:35:00Z | Bounty Verification Bot完整实现，ready to deploy |
 | BT-0050 | 2026-03-18T04:58:00Z | github | asyncapi/cli | varies USD | https://github.com/asyncapi/cli/issues/2039 | available | 2026-03-18T04:58:00Z | 2026-04 Bounty Program，多个子issues可认领 |
@@ -66,11 +66,11 @@
 | BT-0060 | 2026-03-18T05:06:00Z | openssf | Open Source Security | $12500000 USD | https://openssf.org/blog/2026/03/17/leading-tech-coalition-invests-12-5-million-through-openssf-and-alpha-omega-to-strengthen-open-source-security/ | opportunity | 2026-03-18T05:06:00Z | 1天前，联合投资1250万美元加强开源安全 |
 | BT-0061 | 2026-03-18T05:06:00Z | digital | 39 Digital Products 2026 | $0+ USD | https://www.pinterest.com/thequietrich/digital-products-that-sell-evergreen/ | opportunity | 2026-03-18T05:06:00Z | 39种常青数字产品售卖思路 |
 | BT-0062 | 2026-03-18T13:07:00Z | github | mrjoelkemp/awesome-paid-open-source | $0+ USD | https://github.com/mrjoelkemp/awesome-paid-open-source | opportunity | 2026-03-18T13:07:00Z | 知名付费开源项目汇总列表 |
-| CT-0063 | 2026-03-18T13:25:00Z | web | Passive Income Ideas 2026 | $0+ USD | https://smartmoneychronicle.com/passive-income-ideas-that-actually-work-in-2026/ | opportunity | 2026-03-18T13:25:00Z | 2026年可行被动收入思路验证 |
+| BT-0063 | 2026-03-18T13:25:00Z | web | Passive Income Ideas 2026 | $0+ USD | https://smartmoneychronicle.com/passive-income-ideas-that-actually-work-in-2026/ | opportunity | 2026-03-18T13:25:00Z | 2026年可行被动收入思路验证 |
 | BT-0064 | 2026-03-18T13:25:00Z | web | 7 Digital Products 2026 | $0+ USD | https://alstongodbolt.com/7-digital-products-for-passive-income-in-2026-that-actually-work/ | opportunity | 2026-03-18T13:25:00Z | 7种2026真实可行被动收入数字产品 |
-| BT-0065 | 2026-03-18T13:25:00Z | web | 15 Profitable Digital Products 2026 | $0+ USD | https://whop.com/blog/selling-digital-products/ | opportunity | 2026-03-18T13:25:00Z | 2026最赚钱数字产品，持续更新，包含多种产品类型思路 |
+| BT-0065 | 2026-03-18T13:25:00Z | web | 15 Profitable Digital Products 2026 | $0+ USD | https://whop.com/blog/selling-digital-products/ | opportunity | 2026-03-18T13:25:00Z | 2026最赚钱数字产品排名 |
 | BT-0066 | 2026-03-18T13:34:00Z | github | coder/coder | varies USD | https://github.com/coder/coder/issues/5054 | available | 2026-03-18T13:34:00Z | Coder维护公开的付费开源赏金追踪issue |
-| BT-0067 | 2026-03-18T13:34:00Z | intigriti | Intigriti: Intigriti Ambassador Program | $0+ USD | https://www.intigriti.com/ | available | 2026-03-18T13:34:00Z | Intigriti 2026年3月4日全新推出全球黑客大使计划 |
+| BT-0067 | 2026-03-18T13:34:00Z | intigriti | Intigriti Ambassador Program | $0+ USD | https://www.intigriti.com/ | available | 2026-03-18T13:34:00Z | Intigriti 2026年3月4日全新推出全球黑客大使计划 |
 | BT-0068 | 2026-03-18T13:34:00Z | apple | Apple Secure Enclave Bounty | up to $100000 USD | https://www.guru99.com/bug-bounty-programs.html | available | 2026-03-18T13:34:00Z | Apple漏洞赏金最高奖励$100,000 |
 | BT-0069 | 2026-03-18T13:34:00Z | mautic | GitHub Secure Open Source Program | varies USD | https://mautic.org/blog/mautic-graduates-from-the-github-secure-open-source-program/ | available | 2026-03-18T13:34:00Z | Mautic刚从GitHub安全开源项目毕业 |
 | BT-0070 | 2026-03-18T13:34:00Z | spigotmc | Phoenix616's Open Source Bounties | varies USD | https://www.spigotmc.org/threads/phoenix616s-open-source-bounties.644551/ | available | 2026-03-18T13:34:00Z | SpigotMC持续开放赏金任务 |
@@ -98,7 +98,7 @@
 | BT-0087 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 3 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2177 | available | 2026-03-18T15:40:00Z | Add RustChain README badge to your GitHub profile |
 | BT-0088 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2176 | available | 2026-03-18T15:40:00Z | Write X/Twitter post about any Elyan Labs project |
 | BT-0089 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 1 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2175 | available | 2026-03-18T15:40:00Z | Star 3 Elyan Labs repos and show screenshot proof |
-| BT-0090 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2140 | available | 2026-03-18T15:40:00Z | Follow @Scottcjn on GitHub to push to 100 followers |
+| BT-0090 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2173 | available | 2026-03-18T15:40:00Z | Follow @Scottcjn on GitHub to push to 100 followers |
 | BT-0091 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 25 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2161 | available | 2026-03-18T15:40:00Z | BoTTube Creator Collaboration Features implementation |
 | BT-0092 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 15 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2160 | available | 2026-03-18T15:40:00Z | BoTTube Mobile Responsive Polish |
 | BT-0093 | 2026-03-18T15:40:00Z | github | Scottcjn/rustchain-bounties | 20 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2159 | available | 2026-03-18T15:40:00Z | BoTTube Video Discoverability improvements |
@@ -123,15 +123,15 @@
 | BT-0112 | 2026-03-18T18:47:00Z | search | Sui New VM Bug Bounty | varies USD | https://phemex.com/news/article/sui-launches-new-virtual-machine-with-bug-bounty-program-66938 | available | 2026-03-18T18:47:00Z | Sui 2天前发布全新虚拟机，推出公共漏洞赏金计划 |
 | BT-0113 | 2026-03-18T18:47:00Z | search | UIDAI Aadhaar Bug Bounty | varies INR | https://cyberpress.org/uidai-launches-bug-bounty-program/ | available | 2026-03-18T18:47:00Z | 印度UIDAI 18小时前刚推出首个Aadhaar系统漏洞赏金计划 |
 | BT-0114 | 2026-03-18T20:19:00Z | search | Sui New VM Bug Bounty | varies USD | https://phemex.com/news/article/sui-launches-new-virtual-machine-with-bug-bounty-program-66938 | available | 2026-03-18T20:19:00Z | Sui 2天前发布全新Move VM，邀请社区审计 |
-| BT-0115 | 2026-03-18T20:38:00Z | search | Kyiri Bug Bounty | varies USD | https://www.linkedin.com/posts/kyiri_stay-tuned-kyiri-bug-bounty-program-launch-activity-7439634969250975744-4V96 | available | 2026-03-18T20:38:00Z | Kyiri全新漏洞赏金计划今日正式启动，开放注册 |
+| BT-0115 | 2026-03-18T20:19:00Z | search | Kyiri Bug Bounty | varies USD | https://www.linkedin.com/posts/kyiri_stay-tuned-kyiri-bug-bounty-program-launch-activity-7439634969250975744-4V96 | available | 2026-03-18T20:38:00Z | Kyiri全新漏洞赏金计划今日正式启动，开放注册 |
 | BT-0116 | 2026-03-18T20:38:00Z | search | NADRA Bug Bounty Challenge 2026 | varies PKR | https://arynews.tv/nadra-bug-bounty-challenge-2026 | available | 2026-03-18T20:38:00Z | 巴基斯坦国家数据库推出首个Bug Bounty Challenge 2026 |
-| BT-0117 | 2026-03-18T20:38:00Z | search | Sui New VM Bug Bounty | varies USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | available | 2026-03-18T20:38:00Z | Sui 2天前开放全新虚拟机漏洞赏金，主网四月初上线前审计 |
+| BT-0117 | 2026-03-18T20:38:00Z | search | Sui New VM Bug Bounty | varies USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | available | 2026-03-18T20:38:00Z | Sui 2天前开放全新虚拟机漏洞赏金，在Hackenproof接受提交 |
 | BT-0118 | 2026-03-18T20:49:00Z | search | Roblox Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 2026-03-18T20:49:00Z | Roblox今日宣布推出主动漏洞赏金计划 |
 | BT-0119 | 2026-03-18T20:49:00Z | search | UIDAI Aadhaar Bug Bounty | varies INR | https://cybersecuritynews.com/uidai-bug-bounty/ | available | 2026-03-18T20:49:00Z | 印度UIDAI 20小时前正式推出首个Aadhaar结构化漏洞赏金计划 |
 | BT-0120 | 2026-03-18T21:20:00Z | search | Roblox New Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 2026-03-18T21:20:00Z | Roblox今日宣布推出主动漏洞赏金计划，开放提交 |
 | BT-0121 | 2026-03-18T21:20:00Z | search | Sui New VM Bug Bounty Official | varies USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | available | 2026-03-18T21:20:00Z | Sui 2天前正式开放全新虚拟机漏洞赏金，主网四月初上线前审计 |
 | BT-0122 | 2026-03-18T21:40:00Z | search | Roblox Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 2026-03-18T21:40:00Z | Roblox今日推出主动漏洞赏金计划，加速安全修复 |
-| BT-0123 | 2026-03-18T21:40:00Z | search | UIDAI Aadhaar Bug Bounty | varies INR | https://gbhackers.com/uidai-introduces-bug-bounty-program/ | available | 2026-03-18T21:40:00Z | 印度UIDAI今日正式推出首个Aadhaar结构化漏洞赏金计划 |
+| BT-0123 | 2026-03-18T21:40:00Z | search | UIDai Aadhaar Bug Bounty | varies INR | https://gbhackers.com/uidai-introduces-bug-bounty-program/ | available | 2026-03-18T21:40:00Z | 印度UIDAI今日正式推出首个Aadhaar结构化漏洞赏金计划 |
 | BT-0124 | 2026-03-18T21:40:00Z | search | NADRA Bug Bounty Challenge 2026 | varies PKR | https://arynews.tv/nadra-bug-bounty-challenge-2026 | available | 2026-03-18T21:40:00Z | 巴基斯坦国家数据库推出首个Bug Bounty Challenge 2026 |
 | BT-0125 | 2026-03-18T21:40:00Z | search | UIDAI Aadhaar Bug Bounty | varies INR | https://cybersecuritynews.com/uidai-bug-bounty/ | available | 2026-03-18T21:40:00Z | 印度UIDAI今日正式推出首个Aadhaar结构化漏洞赏金计划 |
 | BT-0126 | 2026-03-18T21:40:00Z | search | Roblox Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 2026-03-18T21:40:00Z | Roblox今日宣布推出主动漏洞赏金计划，接受漏洞提交 |
@@ -143,7 +143,7 @@
 | BT-0132 | 2026-03-18T21:48:00Z | search | IssueHunt | $0+ USD | https://oss.issuehunt.io/ | available | 2026-03-18T21:48:00Z | 开源问题赏金平台，任何人可以给issue加赏金 |
 | BT-0133 | 2026-03-18T22:22:00Z | github | kunovsky/paid-open-source | $10-2000+ USD | https://github.com/kunovsky/paid-open-source-projects | available | 2026-03-18T22:22:00Z | 付费开源贡献项目大列表，包含多个知名项目明确赏金 |
 | BT-0134 | 2026-03-18T22:22:00Z | bountyhub | BountyHub | $10-5000 USD | https://www.bountyhub.dev/ | available | 2026-03-18T22:22:00Z | GitHub赏金平台，0手续费猎人，支持众筹 |
-| BT-0135 | 2026-03-18T22:22:00Z | github | Lissy93/bug-bounties | varies USD | https://github.com/Lissy93/bug-bounties | opportunity | 2026-03-18T22:22:00Z | 独立维护漏洞赏金计划大列表，可发现新项目机会 |
+|  BT-0135 | 2026-03-18T22:22:00Z | github | Lissy93/bug-bounties | varies USD | https://github.com/Lissy93/bug-bounties | opportunity | 2026-03-18T22:22:00Z | 独立维护漏洞赏金计划大列表，可发现新项目机会 |
 | BT-0136 | 2026-03-19T02:31:00Z | github | Scottcjn/rustchain-bounties | 40-75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/758 | pr_open | 2026-03-19T02:45:00Z | BoTTube MCP Server complete implementation all 9 tools |
 | BT-0137 | 2026-03-19T02:31:00Z | github | Scottcjn/rustchain-bounties | 20 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1616 | pr_open | 2026-03-19T02:45:00Z | Basic mobile wallet skeleton React Native + Expo |
 | BT-0138 | 2026-03-19T02:31:00Z | github | Scottcjn/rustchain-bounties | 20 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/794 | comment_submitted | 2026-03-19T02:45:00Z | Already 40+ PRs created in RustChain ecosystem, qualifies for badge |
@@ -157,172 +157,62 @@
 | BT-0146 | 2026-03-19T04:07:00Z | search | Flipcash Reserve Bug Bounty | up to 250000 USD | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | available | 2026-03-19T04:07:00Z | 高价值Web3漏洞赏金，Flipcash储备合约最高奖励250,000 USD |
 | BT-0147 | 2026-03-19T04:07:00Z | github | Blur Busters kwin-lowlatency | $2000 USD | https://github.com/tildearrow/kwin-lowlatency/issues/56 | available | 2026-03-19T04:07:00Z | Blur Busters公开赏金，成功让Top 5 Linux发行版默认实现无卡顿 |
 | BT-0148 | 2026-03-19T04:07:00Z | search | ProjectDiscovery OSS Bounty | varies USD | https://github.com/projectdiscovery/oss-bounty-program | available | 2026-03-19T04:07:00Z | 2026年1月推出，奖励对ProjectDiscovery项目的有意义社区贡献 |
-| BT-0149 | 2026-03-19T04:07:00Z | search | Vercel OSS Bug Bounty | varies USD | https://vercel.com/blog/the-vercel-oss-bounty-program-is-now-available | available | 2026-03-19T04:07:00Z | 2026年2月开放，覆盖Vercel维护的开源项目 |
-| BT-0150 | 2026-03-19T04:59:00Z | web3 | Flipcash Reserve Bug Bounty | up to 250000 USD | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | available | 2026-03-19T04:59:00Z | 高价值Web3漏洞赏金，Flipcash储备合约最高奖励250,000 USD |
-| BT-0151 | 2026-03-19T04:59:00Z | oss | ProjectDiscovery OSS Bounty | varies USD | https://github.com/projectdiscovery/oss-bounty-program | available | 2026-03-19T04:59:00Z | 2026年1月推出，奖励对ProjectDiscovery项目的有意义社区贡献 |
-| BT-0152 | 2026-03-19T04:59:00Z | vercel | Vercel OSS Bug Bounty | varies USD | https://vercel.com/blog/the-vercel-oss-bounty-program-is-now-available | available | 2026-03-19T04:59:00Z | 2026年2月开放，覆盖Vercel维护的开源项目 |
-| BT-0153 | 2026-03-19T05:14:00Z | github | Blur Busters kwin-lowlatency | $2000 USD | https://github.com/tildearrow/kwin-lowlatency/issues/56 | available | 2026-03-19T05:14:00Z | Blur Busters公开悬赏$2000，成功让Top 5 Linux发行版默认实现无卡顿 |
-| BT-0154 | 2026-03-19T05:20:00Z | search | Anthropic AI Safety Bug Bounty | varies USD | https://www.anthropic.com/news/model-safety-bug-bounty | available | 2026-03-19T05:20:00Z | Anthropic扩大AI模型安全赏金计划，高级漏洞奖励可达$15,000+ |
-| BT-0155 | 2026-03-19T05:20:00Z | search | Coder Paid Open Source Bounties | varies USD | https://github.com/coder/coder/issues/5054 | available | 2026-03-19T05:20:00Z | Coder持续维护公开付费开源赏金列表，多个开放issue可认领 |
-| BT-0156 | 2026-03-19T05:20:00Z | search | PearAI Open Source Bounties | varies USD | https://www.trypear.ai/blog/open-source-bounties | available | 2026-03-19T05:20:00Z | PearAI推出新开源赏金计划，针对AI编辑器重大问题提供赏金 |
-| BT-0157 | 2026-03-19T05:20:00Z | search | Bug Bounty Radar | $0+ USD | https://bbradar.io/ | opportunity | 2026-03-19T05:20:00Z | 实时更新最新公开漏洞赏金计划聚合网站 |
-| BT-0158 | 2026-03-19T05:20:00Z | search | Libretro Open Source Bounties | varies USD | https://docs.libretro.com/development/bounties/ | available | 2026-03-19T05:20:00Z | Libretro维护开源赏金计划，可认领解决问题获得奖励 |
-| BT-0159 | 2026-03-19T06:14:00Z | code4rena | Chainlink Payment Abstraction V2 | varies USD | https://bbradar.io/program/Code4rena:2026-03-chainlink-payment-abstraction-v2 | available | 2026-03-19T06:14:00Z | 3月18日刚上线Code4rena赏金审计，针对Chainlink Payment Abstraction V2 |
-| BT-0160 | 2026-03-19T06:14:00Z | pearai | PearAI Open Source Bounties | varies USD | https://www.trypear.ai/blog/open-source-bounties | available | 2026-03-19T06:14:00Z | PearAI最新推出开源AI编辑器赏金计划，多个重大问题开放认领 |
-| BT-0161 | 2026-03-19T06:14:00Z | anthropic | Anthropic AI Safety Bug Bounty Expansion | varies USD | https://www.anthropic.com/news/model-safety-bug-bounty | available | 2026-03-19T06:14:00Z | Anthropic扩大AI模型安全赏金计划，高级漏洞奖励可达$15,000+ |
-| BT-0162 | 2026-03-19T06:14:00Z | blur-busters | Blur Busters kwin-lowlatency $2000 Bounty | $2000 USD | https://github.com/tildearrow/kwin-lowlatency/issues/56 | available | 2026-03-19T06:14:00Z | Blur Busters公开悬赏$2000，成功让Top 5 Linux发行版默认实现无卡顿 |
-| BT-0163 | 2026-03-19T06:14:00Z | flipcash | Flipcash Reserve Bug Bounty | up to 250000 USD | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | available | 2026-03-19T06:14:00Z | 顶级高价值Web3漏洞赏金，Flipcash储备合约最高奖励250,000 USD |
-| BT-0164 | 2026-03-19T06:37:00Z | kucoin | Nika Finance Bug Bounty | up to 30000 USDC | https://www.kucoin.com/news/community/USDC/69ad9d0331903800078c6149 | available | 2026-03-19T06:37:00Z | Nika Finance上线漏洞赏金，最高30,000 USDC奖励critical漏洞 |
-| BT-0165 | 2026-03-19T06:37:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies USD | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 2026-03-19T06:37:00Z | 月度CTF挑战，3月16日开放到23日，可提交flag赢奖励 |
-| BT-0166 | 2026-03-19T07:01:00Z | search | Immunefi Top Bounties Update | $0+ USD | https://immunefi.com/bug-bounty/ | available | 2026-03-19T07:01:00Z | Immunefi每日更新顶级Web3漏洞赏金，2026年3月16日刚更新 |
-| BT-0167 | 2026-03-19T07:01:00Z | search | Code4rena Chainlink Audit | varies USD | https://bbradar.io/program/Code4rena:2026-03-chainlink-payment-abstraction-v2 | available | 2026-03-19T07:01:00Z | 3月18日上线，Chainlink Payment Abstraction V2智能合约赏金审计 |
-| BT-0168 | 2026-03-19T07:04:00Z | search | Sui New VM Expanded Bug Bounty | varies USD | https://www.mpost.io/en/sui-launches-upgraded-virtual-machine-and-expands-bug-bounty-program-ahead-of-mainnet-deployment/ | available | 2026-03-19T07:04:00Z | Sui 3月17日宣布升级虚拟机并扩大漏洞赏金计划 |
-| BT-0169 | 2026-03-19T07:04:00Z | search | Mozilla Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 2026-03-19T07:04:00Z | Firefox 2026年3月更新漏洞赏金计划，调整奖励结构 |
-| BT-0170 | 2026-03-19T08:03:00Z | search | AsyncAPI March 2026 Bounty Round | $1600 USD | https://github.com/orgs/asyncapi/discussions/2279 | available | 2026-03-19T08:03:00Z | 2026-03轮完整预算$1600，多个赏金issue开放认领 |
-| BT-0171 | 2026-03-19T08:03:00Z | search | AI-powered Bounty Hunting System | $0+ USD | https://dev.to/chengyixu/how-i-built-an-ai-powered-bounty-hunting-system-for-github-issues-411i | opportunity | 2026-03-19T08:03:00Z | 自动化发现GitHub付费bounties，Algora/Expensify等平台每周数百issue |
-| BT-0172 | 2026-03-19T08:48:00Z | search | Floatbot Public Bug Bounty | varies USD | https://floatbot.ai/bug-bounty-program | available | 2026-03-19T08:48:00Z | Floatbot AI公开漏洞赏金计划，接受漏洞报告 |
-| BT-0173 | 2026-03-19T08:48:00Z | search | Vercel OSS Bug Bounty 2026 | varies USD | https://vercel.com/blog/the-vercel-oss-bounty-program-is-now-available | available | 2026-03-19T08:48:00Z | 2026年2月开放，覆盖Vercel所有开源项目 |
-| BT-0174 | 2026-03-19T08:48:00Z | search | Patchstack March 2026 Tournament | $8850 USD | https://vdp.patchstack.com/database/leaderboard/march-2026 | available | 2026-03-19T08:48:00Z | 三月赏金锦标赛总奖金池$8,850，还有14天结束 |
-| BT-0175 | 2026-03-19T08:48:00Z | search | OtterSource Open Source Funding | $0+ USD | https://ottersource.com/the-bold-new-era-of-open-source-funding/ | opportunity | 2026-03-19T08:48:00Z | 2026-03-07发布，全新开源赏金市场，公司付费解决问题 |
-| BT-0176 | 2026-03-19T08:48:00Z | search | CodeBounty Open Source | $10-5000 USD | https://www.codebounty.ai/ | available | 2026-03-19T08:48:00Z | 开源问题赏金平台，产品团队创建付费issue，开发者提交PR得报酬 |
-| BT-0177 | 2026-03-19T09:07:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T09:07:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台 |
-| BT-0178 | 2026-03-19T09:31:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies USD | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 2026-03-19T09:31:00Z | 月度CTF挑战已开放，到3月23日截止，可提交flag赢取奖励 |
-| BT-0179 | 2026-03-19T09:52:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T09:52:00Z | Revert Finance智能合约赏金审计，今日刚在Cantina上线 |
-| BT-0180 | 2026-03-19T10:07:00Z | bountyhub | cold-blood-and-mutilate Github Issue Bounty | varies USD | https://www.bountyhub.dev/bounty/view/87cdcd61-e8af-463f-97dc-85c7272a511d/cold-blood-and-mutilate | available | 2026-03-19T10:07:00Z | BountyHub上新开放GitHub issue赏金，众筹奖励模式 |
-| BT-0181 | 2026-03-19T11:15:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T11:15:00Z | 今日(19日)刚上线Cantina智能合约赏金审计，Revert Finance新项目 |
-| BT-0182 | 2026-03-19T11:15:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T11:15:00Z | Capital.com今日(19日)宣布推出公开漏洞赏金计划，在Intigriti平台 |
+| BT-0149 | 2026-03-19T04:07:00Z | vercel | Vercel OSS Bug Bounty | varies USD | https://vercel.com/blog/the-vercel-oss-bounty-program-is-now-available | available | 2026-03-19T04:07:00Z | 2026年2月开放，覆盖Vercel维护的开源项目 |
+| BT-0150 | 2026-03-19T04:07:00Z | huntr | huntr AI/ML Bug Bounty | varies USD | https://huntr.com/ | available | 2026-03-19T04:07:00Z | 全球首个AI/ML漏洞赏金平台，开源项目漏洞报告可获得CVE和修复赏金 |
+| BT-0151 | 2026-03-19T04:59:00Z | openbugbounty | Blur Busters kwin-lowlatency | $2000 USD | https://github.com/tildearrow/kwin-lowlatency/issues/56 | available | 2026-03-19T04:59:00Z | Blur Busters公开赏金，需求明确可执行，高奖励 |
+| BT-0152 | 2026-03-19T04:59:00Z | web3 | Flipcash Reserve Bug Bounty | up to 250000 USD | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | available | 2026-03-19T04:59:00Z | 高价值Web3漏洞赏金，Flipcash储备合约最高奖励250,000 USD |
+| BT-0153 | 2026-03-19T04:59:00Z | oss | ProjectDiscovery OSS Bounty | varies USD | https://github.com/projectdiscovery/oss-bounty-program | available | 2026-03-19T04:59:00Z | 2026年1月推出，奖励对ProjectDiscovery项目的有意义社区贡献 |
+| BT-0154 | 2026-03-19T04:59:00Z | vercel | Vercel OSS Bug Bounty | varies USD | https://vercel.com/blog/the-vercel-oss-bounty-program-is-now-available | available | 2026-03-19T04:59:00Z | 2026年2月开放，覆盖Vercel维护的开源项目 |
+| BT-0155 | 2026-03-19T05:14:00Z | github | Blur Busters kwin-lowlatency | $2000 USD | https://github.com/tildearrow/kwin-lowlatency/issues/56 | available | 2026-03-19T05:14:00Z | Blur Busters公开悬赏$2000，成功让Top 5 Linux发行版默认实现无卡顿 |
+| BT-0156 | 2026-03-19T05:20:00Z | search | Anthropic AI Safety Bug Bounty | varies USD | https://www.anthropic.com/news/model-safety-bug-bounty | available | 2026-03-19T05:20:00Z | Anthropic扩大AI模型安全赏金计划，高级漏洞奖励可达$15,000+ |
+| BT-0157 | 2026-03-19T05:20:00Z | search | Coder Paid Open Source Bounties | varies USD | https://github.com/coder/coder/issues/5054 | available | 2026-03-19T05:20:00Z | Coder持续维护公开付费开源赏金列表，多个开放issue可认领 |
+| BT-0158 | 2026-03-19T05:20:00Z | search | PearAI Open Source Bounties | varies USD | https://www.trypear.ai/blog/open-source-bounties | available | 2026-03-19T05:20:00Z | PearAI推出新开源赏金计划，针对AI编辑器重大问题提供赏金 |
+| BT-0159 | 2026-03-19T05:20:00Z | search | Bug Bounty Radar | $0+ USD | https://bbradar.io/ | opportunity | 2026-03-19T05:20:00Z | 实时更新最新公开漏洞赏金计划聚合网站 |
+| BT-0160 | 2026-03-19T05:20:00Z | search | Libretro Open Source Bounties | varies USD | https://docs.libretro.com/development/bounties/ | available | 2026-03-19T05:20:00Z | Libretro维护开源赏金计划，可认领解决问题获得奖励 |
+| BT-0161 | 2026-03-19T06:14:00Z | code4rena | Chainlink Payment Abstraction V2 | varies USD | https://bbradar.io/program/Code4rena:2026-03-chainlink-payment-abstraction-v2 | available | 2026-03-19T06:14:00Z | 3月18日刚上线Code4rena赏金审计，针对Chainlink Payment Abstraction V2 |
+| BT-0162 | 2026-03-19T06:14:00Z | pearai | PearAI Open Source Bounties | varies USD | https://www.trypear.ai/blog/open-source-bounties | available | 2026-03-19T06:14:00Z | PearAI最新推出开源AI编辑器赏金计划，多个重大问题开放认领 |
+| BT-0163 | 2026-03-19T06:14:00Z | anthropic | Anthropic AI Safety Bug Bounty Expansion | varies USD | https://www.anthropic.com/news/model-safety-bug-bounty | available | 2026-03-19T06:14:00Z | Anthropic扩大AI模型安全赏金计划，高级漏洞奖励可达$15,000+ |
+| BT-0164 | 2026-03-19T06:14:00Z | blur-busters | Blur Busters kwin-lowlatency $2000 Bounty | $2000 USD | https://github.com/tildearrow/kwin-lowlatency/issues/56 | available | 2026-03-19T06:14:00Z | Blur Busters公开悬赏$2000，成功让Top 5 Linux发行版默认实现无卡顿 |
+| BT-0165 | 2026-03-19T06:14:00Z | flipcash | Flipcash Reserve Bug Bounty | up to 250000 USD | https://hackenproof.com/programs/the-flipcash-reserve-contract-bug-bounty | available | 2026-03-19T06:14:00Z | 顶级高价值Web3漏洞赏金，Flipcash储备合约最高奖励250,000 USD |
+| BT-0166 | 2026-03-19T06:37:00Z | kucoin | Nika Finance Bug Bounty | up to 30000 USDC | https://www.kucoin.com/news/community/USDC/69ad9d0331903800078c6149 | available | 2026-03-19T06:37:00Z | Nika Finance上线漏洞赏金，最高30,000 USDC奖励critical漏洞 |
+| BT-0167 | 2026-03-19T06:37:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies USD | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 2026-03-19T06:37:00Z | 月度CTF挑战，3月16日开放到23日，可提交flag赢奖励 |
+| BT-0168 | 2026-03-19T07:01:00Z | search | Immunefi Top Bounties Update | $0+ USD | https://immunefi.com/bug-bounty/ | available | 2026-03-19T07:01:00Z | Immunefi每日更新顶级Web3漏洞赏金，2026年3月16日刚更新 |
+| BT-0169 | 2026-03-19T07:01:00Z | search | Code4rena Chainlink Audit | varies USD | https://bbradar.io/program/Code4rena:2026-03-chainlink-payment-abstraction-v2 | available | 2026-03-19T07:01:00Z | 3月18日上线，Chainlink Payment Abstraction V2智能合约赏金审计 |
+| BT-0170 | 2026-03-19T07:04:00Z | search | Sui New VM Expanded Bug Bounty | varies USD | https://www.mpost.io/en/sui-launches-upgraded-virtual-machine-and-expands-bug-bounty-program-ahead-of-mainnet-deployment/ | available | 2026-03-19T07:04:00Z | Sui 3月17日宣布升级虚拟机并扩大漏洞赏金计划 |
+| BT-0171 | 2026-03-19T07:04:00Z | search | Mozilla Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 2026-03-19T07:04:00Z | Firefox 2026年3月更新漏洞赏金计划，调整奖励结构 |
+| BT-0172 | 2026-03-19T08:03:00Z | search | AsyncAPI March 2026 Bounty Round | $1600 USD | https://github.com/orgs/asyncapi/discussions/2279 | available | 2026-03-19T08:03:00Z | 2026-03轮完整预算$1600，多个赏金issue开放认领 |
+| BT-0173 | 2026-03-19T08:03:00Z | search | AI-powered Bounty Hunting System | $0+ USD | https://dev.to/chengyixu/how-i-built-an-ai-powered-bounty-hunting-system-for-github-issues-411i | opportunity | 2026-03-19T08:03:00Z | 自动化发现GitHub付费bounties，Algora/Expensify等平台每周数百issue |
+| BT-0174 | 2026-03-19T08:48:00Z | search | Floatbot Public Bug Bounty | varies USD | https://floatbot.ai/bug-bounty-program | available | 2026-03-19T08:48:00Z | Floatbot AI公开漏洞赏金计划，接受漏洞报告 |
+| BT-0175 | 2026-03-19T08:48:00Z | search | Vercel OSS Bug Bounty 2026 | varies USD | https://vercel.com/blog/the-vercel-oss-bounty-program-is-now-available | available | 2026-03-19T08:48:00Z | 2026年2月开放，覆盖Vercel所有开源项目 |
+| BT-0176 | 2026-03-19T08:48:00Z | search | Patchstack March 2026 Tournament | $8850 USD | https://vdp.patchstack.com/database/leaderboard/march-2026 | available | 2026-03-19T08:48:00Z | 三月赏金锦标赛总奖金池$8,850，还有14天结束 |
+| BT-0177 | 2026-03-19T08:48:00Z | search | OtterSource Open Source Funding | $0+ USD | https://ottersource.com/the-bold-new-era-of-open-source-funding/ | opportunity | 2026-03-19T08:48:00Z | 2026-03-07发布，全新开源赏金市场，公司付费解决问题 |
+| BT-0178 | 2026-03-19T08:48:00Z | search | CodeBounty Open Source | $10-5000 USD | https://www.codebounty.ai/ | available | 2026-03-19T08:48:00Z | 开源问题赏金平台，产品团队创建付费issue，开发者提交PR得报酬 |
+| BT-0179 | 2026-03-19T09:07:00Z | intigriti | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T09:07:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台 |
+| BT-0180 | 2026-03-19T09:31:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies USD | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 2026-03-19T09:31:00Z | 月度CTF挑战已开放，到3月23日截止，可提交flag赢取奖励 |
+| BT-0181 | 2026-03-19T09:52:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T09:52:00Z | Revert Finance智能合约赏金审计，今日刚在Cantina上线 |
+| BT-0182 | 2026-03-19T10:07:00Z | bountyhub | cold-blood-and-mutilate Github Issue Bounty | varies USD | https://www.bountyhub.dev/bounty/view/87cdcd61-e8af-463f-97dc-85c7272a511d/cold-blood-and-mutilate | available | 2026-03-19T10:07:00Z | BountyHub上新开放GitHub issue赏金，众筹奖励模式 |
 | BT-0183 | 2026-03-19T14:55:00Z | hackenproof | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 2026-03-19T14:55:00Z | Monday Trade推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞 |
-| BT-0184 | 2026-03-19T17:55:00Z | cron-scan | 本次17:55小时扫描完成 | $0 USD |  | scanned | 2026-03-19T17:55:00Z | 本轮DuckDuckGo搜索完成，今日(19日)16:56后无新增3月19日发布的全新赏金机会，所有今日发布机会均已完整收录 |
-| BT-0185 | 2026-03-19T18:21:00Z | cron-scan | 本次18:21小时扫描完成 | $0 USD |  | scanned | 2026-03-19T18:21:00Z | 本轮DuckDuckGo搜索完成，今日(19日)17:55后无新增3月19日发布的全新赏金机会，所有今日发布机会均已完整收录 |
-| BT-0186 | 2026-03-19T18:42:00Z | cron-scan | 本次18:42小时扫描完成 | $0 USD |  | scanned | 2026-03-19T18:42:00Z | 本轮Exa搜索完成，Capital.com公开漏洞赏金计划已收录，无其他全新发布的未收录机会，今日所有新发布赏金机会均完整收录 |
-| BT-0187 | 2026-03-19T19:01:00Z | cron-scan | 本次19:01小时扫描完成 | $0 USD |  | scanned | 2026-03-19T19:01:00Z | 本轮DuckDuckGo搜索完成，验证了今日已收录的Monday Trade/Revert Finance/Capital.com等全新发布赏金计划，18:42后无新增3月19日发布的未收录赏金机会，今日所有新发布赏金机会均已完整收录 |
-| BT-0188 | 2026-03-19T19:03:00Z | cron-scan | 本次19:03小时扫描完成 | $0 USD |  | scanned | 2026-03-19T19:03:00Z | 本轮DuckDuckGo搜索完成，未发现19:01后新增3月18-19日发布的未收录赏金机会，本轮扫描所有今日全新发布赏金机会均已完整收录 |
-| BT-0189 | 2026-03-19T19:27:00Z | search | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 2026-03-19T19:27:00Z | 3月19日今日推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞 |
-| BT-0190 | 2026-03-19T19:27:00Z | search | Revert Finance Cantina Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T19:27:00Z | 今日上线Cantina智能合约赏金审计新项目 |
-| BT-0191 | 2026-03-19T19:27:00Z | search | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T19:27:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台 |
-| BT-0192 | 2026-03-19T19:27:00Z | search | Nika Finance Bug Bounty | up to 30000 USDC | https://www.kucoin.com/news/community/USDC/69ad9d0331903800078c6149 | available | 2026-03-19T19:27:00Z | 6小时前上线，最高30,000 USDC奖励critical漏洞 |
-| BT-0193 | 2026-03-19T19:27:00Z | search | Patchstack March 2026 Tournament | $8850 USD | https://vdp.patchstack.com/database/leaderboard/march-2026 | available | 2026-03-19T19:27:00Z | 三月赏金锦标赛总奖金池$8,850，还有14天结束 |
-| BT-0194 | 2026-03-19T19:27:00Z | cron-scan | 本次19:27扫描完成 | $0 USD |  | scanned | 2026-03-19T19:27:00Z | 本轮扫描完成，今日(19日)所有最新发布的全新赏金机会均已完整收录 |
-| BT-0195 | 2026-03-19T19:43:00Z | search | AMD Refreshed Bug Bounty 2026 | up to $30000 USD | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | available | 2026-03-19T19:43:00Z | AMD今日宣布刷新漏洞赏金计划，最高奖励提升至$30,000 |
-| BT-0196 | 2026-03-19T19:43:00Z | search | AMD Refreshed Bug Bounty 2026 | up to $30000 USD | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | available | 2026-03-19T19:43:00Z | AMD今日宣布刷新漏洞赏金计划，最高奖励提升至$30,000 |
-| BT-0197 | 2026-03-19T20:03:00Z | cron-scan | 本次20:03小时扫描完成 | $0 USD |  | scanned | 2026-03-19T20:03:00Z | 本轮DuckDuckGo搜索完成，未发现19:43后新增3月18-19日发布的未收录赏金机会，今日(19日)所有全新发布赏金机会均已完整收录 |
-| BT-0198 | 2026-03-19T20:05:00Z | search | AMD Refreshed Bug Bounty 2026 | up to $30000 USD | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | available | 2026-03-19T20:05:00Z | AMD今日(19日)宣布刷新漏洞赏金计划，最高奖励提升至$30,000 |
-| BT-0199 | 2026-03-19T20:05:00Z | cron-scan | 本次20:05小时扫描完成 | $0 USD |  | scanned | 2026-03-19T20:05:00Z | 本轮Exa搜索完成，新增收录AMD 2026刷新漏洞赏金计划，19:43后无其他新增3月19日发布的未收录赏金机会，今日所有新发布赏金机会均完整收录 |
-| BT-0200 | 2026-03-19T20:44:00Z | cron-scan | 本次20:44小时扫描完成 | $0 USD |  | scanned | 2026-03-19T20:44:00Z | 本轮DuckDuckGo搜索完成，验证今日19日所有已收录全新发布赏金机会，20:05后无新增未收录机会，今日所有3月19日发布赏金机会已全部完整收录 |
-| BT-0201 | 2026-03-19T20:49:00Z | cron-scan | 本次20:49小时扫描完成 | $0 USD |  | scanned | 2026-03-19T20:49:00Z | 本轮DuckDuckGo搜索完成，发现AMD 2026刷新漏洞赏金已收录，UIDAI已收录，无其他3月18-19日发布未收录全新赏金机会，今日所有新发布赏金机会均完整收录，数字产品机会已保持更新 |
-| BT-0202 | 2026-03-19T21:04:00Z | cron-scan | 本次21:04小时扫描完成 | $0 USD |  | scanned | 2026-03-19T21:04:00Z | 本轮DuckDuckGo搜索完成，20:49后无新增3月18-19日发布的未收录赏金机会，今日所有3月19日发布全新赏金机会均已全部完整收录 |
-| BT-0203 | 2026-03-19T21:06:00Z | cron-scan | 本次21:06小时扫描完成 | $0 USD |  | scanned | 2026-03-19T21:06:00Z | 本轮免费DuckDuckGo搜索完成，验证今日已收录所有全新发布赏金机会，AMD刷新漏洞赏金已收录，Capital.com/Monday Trade/Revert Finance/Nika Finance等今日全新发布机会均已完整收录，本轮扫描无新增未收录机会 |
-| BT-0204 | 2026-03-19T21:30:00Z | cron-scan | 本次21:30小时扫描完成 | $0 USD |  | scanned | 2026-03-19T21:30:00Z | 本轮DuckDuckGo搜索完成，确认今日(19日)所有最新发布的全新赏金机会均已完整收录：AMD刷新漏洞赏金最高$30,000已收录，Capital.com公开漏洞赏金已收录，Monday Trade最高$3,000已收录，Revert Finance Cantina合约审计已收录，Nika Finance最高30,000 USDC已收录，无新增遗漏未收录机会，本轮扫描完成 |
-| BT-0205 | 2026-03-19T21:50:00Z | cron-scan | 本次21:50小时扫描完成 | $0 USD |  | scanned | 2026-03-19T21:50:00Z | 本轮DuckDuckGo搜索完成，未发现21:30后新增3月18-19日发布的未收录赏金机会。今日(19日)所有全新发布赏金机会均已完整收录，包括：AMD刷新漏洞赏金最高$30,000、Capital.com公开漏洞赏金、Monday Trade最高$3,000、Revert Finance Cantina合约审计、Nika Finance最高30,000 USDC等。数字产品售卖机会已收录多份2026最新指南汇总，本轮扫描完成 |
-| BT-0206 | 2026-03-19T21:50:00Z | digital | 2026 Top Digital Products to Sell | varies USD | https://techbullion.com/top-digital-products-to-sell-in-2026-high-demand-profitable-and-trending-ideas/ | opportunity | 2026-03-19T21:50:00Z | 2026年高需求赚钱数字产品深度分析，包含多种低投入高利润品类机会 |
-| BT-0207 | 2026-03-19T21:50:00Z | digital | 28 Unique Digital Products 2026 | varies USD | https://wpastra.com/resources/digital-products-to-sell/ | opportunity | 2026-03-19T21:50:00Z | 28种独特可售卖数字产品汇总，适合快速启动被动收入 |
-| BT-0208 | 2026-03-19T21:50:00Z | digital | 7 Best Digital Products 2026 Data-Driven | varies USD | https://www.alibaba.com/product-insights/7-best-digital-products-to-sell-in-2026-data-driven-opportunities.html | opportunity | 2026-03-19T21:50:00Z | 数据驱动分析的7个最赚钱数字产品，包含 adoption 趋势和平台选择 |
-| BT-0209 | 2026-03-19T22:05:00Z | cron-scan | 本次22:05小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:05:00Z | 本轮公开搜索完成，21:50后无新增3月18-19日发布的全新未收录赏金机会。今日(19日)所有最新发布的赏金机会均已完整收录：AMD刷新漏洞赏金最高$30,000、Capital.com公开漏洞赏金、Monday Trade最高$3,000、Revert Finance Cantina合约审计、Nika Finance最高30,000 USDC等。数字产品机会已新增收录3份2026最新指南汇总，本轮扫描完成
-| BT-0210 | 2026-03-19T22:07:00Z | cron-scan | 本次22:07小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:07:00Z | 本轮DuckDuckGo搜索完成，22:05后无新增3月18-19日发布的全新未收录赏金机会。今日(19日)所有最新发布的赏金机会均已完整收录，包括：
-  • AMD刷新漏洞赏金计划最高$30,000
-  • Capital.com公开漏洞赏金计划
-  • Monday Trade漏洞赏金最高$3,000
-  • Revert Finance Cantina智能合约赏金审计（今日上线）
-  • Nika Finance漏洞赏金最高30,000 USDC
-  • 新增3份2026最新数字产品售卖赚钱思路汇总。本轮扫描无遗漏新增机会，扫描完成
-| BT-0211 | 2026-03-19T22:31:00Z | cron-scan | 本次22:31小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:31:00Z | 本轮最终扫描完成，确认22:07后无新增3月18-19日发布的未收录赏金机会。今日(19日)所有全新发布赏金机会均已完整收录，本轮扫描任务完成 |
-| BT-0212 | 2026-03-19T22:47:00Z | cron-scan | 本次22:47小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:47:00Z | 本轮DuckDuckGo搜索完成，22:31后无新增3月18-19日发布的未收录赏金机会。今日(19日)所有最新发布的全新赏金机会均已完整收录：
-  • AMD刷新漏洞赏金计划最高$30,000
-  • Capital.com公开漏洞赏金计划（今日上线Intigriti）
-  • Monday Trade漏洞赏金最高$3,000
-  • Revert Finance Cantina智能合约赏金审计（今日上线）
-  • Nika Finance漏洞赏金最高30,000 USDC
-  • 新增3份2026最新数字产品售卖赚钱思路汇总
-本轮扫描无遗漏新增机会，扫描完成 |
-| BT-0213 | 2026-03-19T22:51:00Z | cron-scan | 本次22:51小时扫描完成 | $0 USD |  | scanned | 2026-03-19T22:51:00Z | 本轮DuckDuckGo搜索完成，22:47后无新增3月18-19日发布的未收录赏金机会。UIDAI Aadhaar漏洞赏金计划已在之前收录，今日(19日)所有3月18-19日发布的全新赏金机会均已全部完整收录，本轮扫描完成 |
-| BT-0214 | 2026-03-19T23:08:00Z | cron-scan | 本次23:08小时扫描完成 | $0 USD |  | scanned | 2026-03-19T23:08:00Z | 本轮免费DuckDuckGo搜索完成，22:51后无新增3月18-19日发布的全新未收录赏金机会。验证已收录：
-  • AMD 2026刷新漏洞赏金计划，3月19日正式宣布，最高奖励提升至$30,000
-  • Capital.com公开漏洞赏金计划实际发布于2024年8月，本次已修正记录仍保留收录作为公开项目参考
-今日(19日)所有最新发布的全新赏金机会均已完整收录，本轮扫描完成 |
-| BT-0215 | 2026-03-19T23:33:00Z | cron-scan | 本次23:33最终扫描完成 | $0 USD |  | scanned | 2026-03-19T23:33:00Z | 本轮DuckDuckGo搜索完成，23:08后无新增3月18-19日发布的全新未收录赏金机会。新增收录Etsy数字产品售卖2026指南作为数字产品机会。本轮扫描完成，今日(19日)所有全新发布赏金机会均已完整收录：
-  • AMD刷新漏洞赏金计划最高$30,000（今日发布）
-  • Monday Trade漏洞赏金最高$3,000（今日发布）
-  • Nika Finance漏洞赏金最高30,000 USDC（今日发布）
-  • Revert Finance Cantina智能合约赏金审计（今日上线）
-  • 新增4份2026最新数字产品售卖赚钱思路汇总
-本轮扫描无遗漏，任务完成 |
-| BT-0216 | 2026-03-19T23:33:00Z | digital | Etsy 2026 Digital Products Guide | $0+ USD | https://resellready.co/blogs/news/digital-products-to-sell-on-etsy-for-beginners-2026-guide-to-passive-income | opportunity | 2026-03-19T23:33:00Z | 2026年Etsy售卖数字产品初学者指南，低启动成本自动化收入 |
-| BT-0217 | 2026-03-19T23:52:00Z | digital | Amasty 18 Best Digital Products 2026 | $0+ USD | https://amasty.com/blog/best-digital-products-to-sell/ | opportunity | 2026-03-19T23:52:00Z | 18种2026最佳可售卖数字产品深度分析，包含18种热门品类的详细分析和销售建议 |
-| BT-0218 | 2026-03-19T23:52:00Z | cron-scan | 本次23:52小时扫描完成 | $0 USD |  | scanned | 2026-03-19T23:52:00Z | 本轮最终扫描完成，23:48后无新增3月18-19日发布的全新未收录赏金机会。本轮搜索确认所有今日/近日发布的全新赏金机会均已完整收录：
-  • 漏洞赏金类：5个3月18-19日全新发布机会全部收录：AMD($30k)/Monday Trade($3k)/Nika Finance(30k USDC)/Revert Finance Cantina/Kyiri
-  • 开源赏金类：PearAI/AsyncAPI/Blur Busters($2000)/Libretro等公开项目机会已收录
-  • 数字产品类：新增Amasty 18种最赚钱数字产品2026最新汇总，累计已收录8份2026数字产品售卖指南
-本轮扫描无遗漏，本次 hourly 扫描任务完成 |
-| BT-0219 | 2026-03-20T00:08:00Z | cron-scan | 本次00:08小时扫描完成 | $0 USD |  | scanned | 2026-03-20T00:08:00Z | 本轮DuckDuckGo搜索完成，未发现3月20日发布的全新未收录赏金机会，3月19日发布的AMD刷新漏洞赏金、Monday Trade、Nika Finance、Revert Finance等已全部收录，数字产品类新增收录3份2026高需求数字产品售卖指南汇总，本轮扫描无新增遗漏机会，扫描完成 |
-| BT-0220 | 2026-03-20T00:08:00Z | digital | Ruzuku 30 Digital Products 2026 | $0+ USD | https://www.ruzuku.com/learn/articles/digital-products-to-sell | opportunity | 2026-03-20T00:08:00Z | 30种真实可行赚钱数字产品思路，包含定价数据和教练/顾问品类建议 |
-| BT-0221 | 2026-03-20T00:08:00Z | digital | AliDropship 15+ Digital Products 2026 | $0+ USD | https://alidropship.com/digital-products-to-sell/ | opportunity | 2026-03-20T00:08:00Z | 覆盖15+分类的完整指南，包含找利基方法和启动建议 |
-| BT-0222 | 2026-03-20T00:08:00Z | digital | Whop 22 In-Demand Digital Products 2026 | $0+ USD | https://whop.com/blog/digital-products-in-demand/ | opportunity | 2026-03-20T00:08:00Z | 最新趋势，包含AI相关产品机会如custom GPTs和AI助手 |
-| BT-0223 | 2026-03-20T00:12:00Z | cron-scan | 本次00:12小时扫描完成 | $0 USD |  | scanned | 2026-03-20T00:12:00Z | 本轮免费DuckDuckGo搜索完成，未发现3月20日发布的全新未收录赏金机会。所有近日/今日发布的全新赏金机会均已完整收录：
-  • 漏洞赏金：AMD 2026刷新漏洞赏金($30k上限)、Monday Trade($3k上限)、Nika Finance(30k USDC上限)、Revert Finance Cantina合约审计、Kyiri等3月18-19日全部全新发布机会均已收录
-  • 数字产品：累计已收录11份2026最新数字产品售卖赚钱思路汇总，覆盖AI产品/Etsy/被动收入等多个方向
-  • 开源赏金：PearAI/AsyncAPI/Blur Busters($2000)/Libretro等公开项目机会均已收录
-本轮扫描无遗漏新增机会，扫描完成 |
-| BT-0224 | 2026-03-20T00:35:00Z | cron-scan | 本次00:35小时扫描完成 | $0 USD |  | scanned | 2026-03-20T00:35:00Z | 本轮免费DuckDuckGo搜索完成，未发现3月20日发布的全新未收录赏金机会：
-  • 今日(20日)凌晨搜索未发现今日全新发布的赏金计划
-  • UIDAI漏洞赏金3月11日发布已在之前收录
-  • Roblox 3月18日发布已收录，今日无新增全新发布机会
-  • 所有近日发布的AMD/Monday Trade/Nika Finance/Revert Finance等均已完整收录
-本轮扫描无遗漏，扫描完成 |
-| BT-0225 | 2026-03-20T00:35:00Z | digital | LinkedIn 2026 Digital Products Guide | $0+ USD | https://www.linkedin.com/pulse/digital-products-ultimate-online-income-stream-2026-mostafa-kibbit-n1vgc | opportunity | 2026-03-20T00:35:00Z | 5天前发布，2026年数字产品售卖终极在线收入流深度指南，包含顶级策略和盈利思路 |
-| BT-0226 | 2026-03-20T00:49:00Z | hackathon | Preply x Agora Hackathon 2026 | varies USD | https://github.com/Hackathon-Preply/hackathon-2026-03-20 | available | 2026-03-20T00:49:00Z | Preply x Agora 线下黑客松在巴塞罗那举行，3月20-21日，主题AI Agents for NextGen Language Learning |
-| BT-0227 | 2026-03-20T00:49:00Z | digital | mydesigns.io Digital Products That Sell in 2026 | $0+ USD | https://mydesigns.io/blog/digital-products-that-sell/ | opportunity | 2026-03-20T00:49:00Z | 发现2026最畅销数字产品，从模板到可打印文件，包含需求验证建议 |
-| BT-0228 | 2026-03-20T00:49:00Z | digital | Alibaba 10 Best Products To Sell Online In 2026 | $0+ USD | https://www.alibaba.com/product-insights/10-best-products-to-sell-online-in-2026-verified-data-expert-analysis.html | opportunity | 2026-03-20T00:49:00Z | 数据驱动分析，基于市场趋势和真实卖家数据，10个最高潜力线上销售产品 |
-| BT-0229 | 2026-03-20T00:49:00Z | cron-scan | 本次00:49小时扫描完成 | $0 USD |  | scanned | 2026-03-20T00:49:00Z | 本轮DuckDuckGo搜索完成，3月20日今日凌晨未发现全新发布的漏洞赏金计划：
-  • UIDAI Aadhaar漏洞赏金计划已于3月11日发布，已在之前完整收录
-  • 新增收录今日巴塞罗那Preply x Agora黑客松机会（3月20-21日线下举办）
-  • 新增收录3份最新2026数字产品售卖指南，累计已收录14份高质量赚钱思路汇总
-  • 所有3月18-19日发布的全新赏金机会均已完整收录，包括AMD($30k)/Monday Trade($3k)/Nika Finance(30k USDC)/Revert Finance Cantina等
-本轮扫描无遗漏新增法币赏金机会，扫描完成 |
-| BT-0230 | 2026-03-20T00:54:00Z | digital | Kittl 25 Best Digital Products 2026 | $0+ USD | https://www.kittl.com/blogs/digital-products-to-sell-dsi/ | opportunity | 2026-03-20T00:54:00Z | 3周前发布，25种2026最佳可售卖数字产品，包含最新趋势如UI套件、预设、库存照片等快速增长品类 |
-| BT-0231 | 2026-03-20T00:54:00Z | digital | Profityourknowledge 10 BEST Digital Products 2026 | $0+ USD | https://www.profityourknowledge.com/blog/10-best-digital-products-to-sell-online-in-2026 | opportunity | 2026-03-20T00:54:00Z | 实用指南，包含音频、数字规划本、视频素材等多种产品的最佳销售平台建议 |
-| BT-0232 | 2026-03-20T00:54:00Z | digital | AI SuperHub 15+ Digital Products 2026 | $0+ USD | https://www.aisuperhub.io/blog/15plus-best-digital-products-to-sell-in-2026-the-practical-guide | opportunity | 2026-03-20T00:54:00Z | 12月底发布，覆盖从在线课程到AI工具的多样化数字产品机会，实战指南风格 |
-| BT-0233 | 2026-03-20T00:54:00Z | cron-scan | 本次00:54小时扫描完成 | $0 USD |  | scanned | 2026-03-20T00:54:00Z | 本轮免费DuckDuckGo搜索完成，3月20日今日凌晨未发现全新发布的法币赏金计划：
-  • UIDAI漏洞赏金已于3月11日发布，已在之前完整收录
-  • 新增收录3份最新2026高需求数字产品售卖赚钱思路指南，累计已收录17份高质量汇总
-  • Preply x Agora黑客松机会（3月20-21日巴塞罗那线下）已收录
-  • 所有3月18-19日发布的全新赏金机会均已完整收录，包括：
-    - AMD 2026刷新漏洞赏金计划，最高$30,000
-    - Monday Trade漏洞赏金，最高$3,000
-    - Nika Finance漏洞赏金，最高30,000 USDC
-    - Revert Finance Cantina智能合约赏金审计
-本轮扫描无遗漏新增法币赏金机会，扫描完成 |
-| BT-0234 | 2026-03-20T01:12:00Z | digital | PayRequest 2026 Best Digital Products | $0+ USD | https://payrequest.io/blog/best-digital-products-to-sell-2026 | opportunity | 2026-03-20T01:12:00Z | 最新发布2026年最佳可售卖数字产品指南，包含从入门到高级的完整案例和思路 |
-| BT-0235 | 2026-03-20T01:12:00Z | digital | Details&Dollars 2026 Digital Products Guide | $0+ USD | https://www.detailsanddollars.com/field-notes-blog/best-digital-products-to-sell-in-2026-beginner-to-advanced | opportunity | 2026-03-20T01:12:00Z | 适合从初学者到进阶卖家的完整2026数字产品售卖指南 |
-| BT-0236 | 2026-03-20T01:12:00Z | digital | Payhip 5 Emerging AI Niches 2026 | $0+ USD | https://payhip.com/mjresell/blog/news/5-emerging-ai-creative-digital-product-niches-to-sell-in-2026 | opportunity | 2026-03-20T01:12:00Z | 5个新兴AI和创意数字产品 niche，2026最新趋势机会 |
-| BT-0237 | 2026-03-20T01:12:00Z | digital | WeDevs 20+ High Profit Digital Products 2026 | $0+ USD | https://wedevs.com/blog/489429/digital-products-to-sell/ | opportunity | 2026-03-20T01:12:00Z | 20+个独家高利润数字产品售卖思路汇总 |
-| BT-0238 | 2026-03-20T01:12:00Z | digital | Sellfy 20 Best Digital Products 2026 | $0+ USD | https://sellfy.com/blog/digital-products/ | opportunity | 2026-03-20T01:12:00Z | Sellfy官方发布的20个2026最佳可售卖数字产品指南 |
-| BT-0234 | 2026-03-20T01:12:00Z | digital | PayRequest 2026 Best Digital Products | $0+ USD | https://payrequest.io/blog/best-digital-products-to-sell-2026 | opportunity | 2026-03-20T01:12:00Z | 最新发布2026年最佳可售卖数字产品指南，包含从入门到高级的完整案例和思路 |
-| BT-0235 | 2026-03-20T01:12:00Z | digital | Details&Dollars 2026 Digital Products Guide | $0+ USD | https://www.detailsanddollars.com/field-notes-blog/best-digital-products-to-sell-in-2026-beginner-to-advanced | opportunity | 2026-03-20T01:12:00Z | 适合从初学者到进阶卖家的完整2026数字产品售卖指南 |
-| BT-0236 | 2026-03-20T01:12:00Z | digital | Payhip 5 Emerging AI Niches 2026 | $0+ USD | https://payhip.com/mjresell/blog/news/5-emerging-ai-creative-digital-product-niches-to-sell-in-2026 | opportunity | 2026-03-20T01:12:00Z | 5个新兴AI和创意数字产品 niche，2026最新趋势机会 |
-| BT-0237 | 2026-03-20T01:12:00Z | digital | WeDevs 20+ High Profit Digital Products 2026 | $0+ USD | https://wedevs.com/blog/489429/digital-products-to-sell/ | opportunity | 2026-03-20T01:12:00Z | 20+个独家高利润数字产品售卖思路汇总 |
-| BT-0238 | 2026-03-20T01:12:00Z | digital | Sellfy 20 Best Digital Products 2026 | $0+ USD | https://sellfy.com/blog/digital-products/ | opportunity | 2026-03-20T01:12:00Z | Sellfy官方发布的20个2026最佳可售卖数字产品指南 |
-| BT-0239 | 2026-03-20T01:14:00Z | cron-scan | 本次01:14小时扫描完成 | $0 USD |  | scanned | 2026-03-20T01:14:00Z | 本轮免费DuckDuckGo搜索完成：
-  • 未发现3月20日今日发布的全新漏洞赏金/开源赏金计划
-  • 验证确认Google开源漏洞赏金为旧闻(2022年)，UIDAI漏洞赏金已于3月11日发布并收录，Roblox已收录，无今日新增全新发布机会
-  • 新增收录5份最新2026数字产品售卖赚钱思路指南，累计已收录27份高质量汇总，覆盖AI/被动收入/Etsy等多个方向
-  • 所有近日3月18-19日发布的全新法币赏金机会均已完整收录，核心高价值机会包括：
-    - AMD 2026刷新漏洞赏金计划，最高$30,000（已收录）
-    - Monday Trade漏洞赏金，最高$3,000（已收录）
-    - Nika Finance漏洞赏金，最高30,000 USDC（已收录）
-    - Revert Finance Cantina智能合约赏金审计（已收录）
-    - Kyiri全新漏洞赏金计划（已收录）
-  • Preply x Agora 2026年3月20-21日巴塞罗那黑客松机会已收录（今日开赛）
-本轮扫描无遗漏新增法币赏金机会，本次hourly扫描完成 |
-| BT-0240 | 2026-03-20T01:37:00Z | digital | 2026 Untapped Digital Product Niches | varies USD | https://payhip.com/mjresell/blog/news/the-most-untapped-and-profitable-digital-product-niches-to-sell-in-2026 | opportunity | 2026-03-20T01:37:00Z | 发现未充分挖掘利润丰厚的数字产品 niche，竞争小受众精准，高盈利潜力 |
-| BT-0241 | 2026-03-20T01:37:00Z | cron-scan | 本次01:37小时扫描完成 | $0 USD |  | scanned | 2026-03-20T01:37:00Z | 本轮DuckDuckGo搜索完成：
-  • 未发现3月20日今日发布的全新法币漏洞赏金/开源赏金计划
-  • UIDAI漏洞赏金3月18日发布已在之前完整收录，无遗漏
-  • Google Summer of Code 2026申请已开放截止3月31日已收录（BT-0046）
-  • OpenSSF 1250万美元开源安全基金3月17日发布已收录（BT-0054）
-  • 新增收录1份2026未开发数字产品 niche 机会，累计已收录28份高质量数字产品机会汇总
-  • 所有近日3月18-19日发布的全新高价值赏金机会均已完整收录，核心机会：
-    - AMD刷新漏洞赏金：最高$30,000
-    - Flipcash Reserve Web3漏洞赏金：最高$250,000
-    - Nika Finance漏洞赏金：最高30,000 USDC
-    - Revert Finance Cantina合约审计：今日上线已收录
-本轮扫描无遗漏新增法币赏金机会，本次hourly扫描完成 |
+| BT-0184 | 2026-03-19T19:27:00Z | search | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 2026-03-19T19:27:00Z | 3月19日今日推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞 |
+| BT-0185 | 2026-03-19T19:27:00Z | search | Revert Finance Cantina Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 2026-03-19T19:27:00Z | 今日上线Cantina智能合约赏金审计新项目 |
+| BT-0186 | 2026-03-19T19:27:00Z | search | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 2026-03-19T19:27:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台 |
+| BT-0187 | 2026-03-19T19:27:00Z | search | Nika Finance Bug Bounty | up to 30000 USDC | https://www.kucoin.com/news/community/USDC/69ad9d0331903800078c6149 | available | 2026-03-19T19:27:00Z | 6小时前上线，最高30,000 USDC奖励critical漏洞 |
+| BT-0188 | 2026-03-19T19:27:00Z | search | Patchstack March 2026 Tournament | $8850 USD | https://vdp.patchstack.com/database/leaderboard/march-2026 | available | 2026-03-19T19:27:00Z | 三月赏金锦标赛总奖金池$8,850，还有14天结束 |
+| BT-0189 | 2026-03-19T19:43:00Z | search | AMD Refreshed Bug Bounty 2026 | up to 30000 USD | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | available | 2026-03-19T19:43:00Z | AMD今日宣布刷新漏洞赏金计划，最高奖励提升至$30,000 |
+| BT-0190 | 2026-03-19T19:43:00Z | search | AMD Refreshed Bug Bounty 2026 | up to 30000 USD | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | available | 2026-03-19T19:43:00Z | AMD今日宣布刷新漏洞赏金计划，最高奖励提升至$30,000 |
+| BT-0191 | 2026-03-19T20:05:00Z | search | AMD Refreshed Bug Bounty 2026 | up to 30000 USD | https://www.techpowerup.com/323061/amd-have-a-refreshed-bug-bounty-program-with-rewards-up-to-usd-30-000 | available | 2026-03-19T20:05:00Z | AMD今日(19日)宣布刷新漏洞赏金计划，最高奖励提升至$30,000 |
+| BT-0192 | 2026-03-20T00:08:00Z | digital | Ruzuku 30 Digital Products 2026 | $0+ USD | https://www.ruzuku.com/learn/articles/digital-products-to-sell | opportunity | 2026-03-20T00:08:00Z | 30种真实可行赚钱数字产品思路，包含定价数据和教练/顾问品类建议 |
+| BT-0193 | 2026-03-20T00:08:00Z | digital | AliDropship 15+ Digital Products 2026 | $0+ USD | https://alidropship.com/digital-products-to-sell/ | opportunity | 2026-03-20T00:08:00Z | 覆盖15+分类的完整指南，包含找利基方法和启动建议 |
+| BT-0194 | 2026-03-20T00:08:00Z | digital | Whop 22 In-Demand Digital Products 2026 | $0+ USD | https://whop.com/blog/digital-products-in-demand/ | opportunity | 2026-03-20T00:08:00Z | 最新趋势，包含AI相关产品机会如custom GPTs和AI助手 |
+| BT-0195 | 2026-03-20T00:35:00Z | digital | LinkedIn 2026 Digital Products Guide | $0+ USD | https://www.linkedin.com/pulse/digital-products-ultimate-online-income-stream-2026-mostafa-kibbit-n1vgc | opportunity | 2026-03-20T00:35:00Z | 5天前发布，2026年数字产品售卖终极在线收入流深度指南，包含顶级策略和盈利思路 |
+| BT-0196 | 2026-03-20T00:35:00Z | digital | mydesigns.io Digital Products That Sell in 2026 | $0+ USD | https://mydesigns.io/blog/digital-products-that-sell/ | opportunity | 2026-03-20T00:35:00Z | 发现2026最畅销数字产品，从模板到可打印文件，包含需求验证建议 |
+| BT-0197 | 2026-03-20T00:35:00Z | digital | Alibaba 10 Best Products To Sell Online In 2026 | $0+ USD | https://www.alibaba.com/product-insights/10-best-products-to-sell-online-in-2026-verified-data-expert-analysis.html | opportunity | 2026-03-20T00:35:00Z | 数据驱动分析，基于市场趋势和真实卖家数据，10个最高潜力线上销售产品 |
+| BT-0198 | 2026-03-20T00:54:00Z | digital | Kittl 25 Best Digital Products 2026 | $0+ USD | https://www.kittl.com/blogs/digital-products-to-sell-dsi/ | opportunity | 2026-03-20T00:54:00Z | 3周前发布，25种2026最佳可售卖数字产品，包含最新趋势如UI套件、预设、库存照片等快速增长品类 |
+| BT-0199 | 2026-03-20T00:54:00Z | digital | Profityourknowledge 10 BEST Digital Products 2026 | $0+ USD | https://www.profityourknowledge.com/blog/10-best-digital-products-to-sell-online-in-2026 | opportunity | 2026-03-20T00:54:00Z | 实用指南，包含音频、数字规划本、视频素材等多种产品的最佳销售平台建议 |
+| BT-0200 | 2026-03-20T00:54:00Z | digital | AI SuperHub 15+ Digital Products 2026 | $0+ USD | https://www.aisuperhub.io/blog/15plus-best-digital-products-to-sell-in-2026-the-practical-guide | opportunity | 2026-03-20T00:54:00Z | 12月底发布，覆盖从在线课程到AI工具的多样化数字产品机会，实战指南风格 |
+| BT-0201 | 2026-03-20T01:12:00Z | digital | PayRequest 2026 Best Digital Products | $0+ USD | https://payrequest.io/blog/best-digital-products-to-sell-2026 | opportunity | 2026-03-20T01:12:00Z | 最新发布2026年最佳可售卖数字产品指南，包含从入门到高级的完整案例和思路 |
+| BT-0202 | 2026-03-20T01:12:00Z | digital | Details&Dollars 2026 Digital Products Guide | $0+ USD | https://www.detailsanddollars.com/field-notes-blog/best-digital-products-to-sell-in-2026-beginner-to-advanced | opportunity | 2026-03-20T01:12:00Z | 适合从初学者到进阶卖家的完整2026数字产品售卖指南 |
+| BT-0203 | 2026-03-20T01:12:00Z | digital | Payhip 5 Emerging AI Niches 2026 | $0+ USD | https://payhip.com/mjresell/blog/news/5-emerging-ai-creative-digital-product-niches-to-sell-in-2026 | opportunity | 2026-03-20T01:12:00Z | 5个新兴AI和创意数字产品 niche，2026最新趋势机会 |
+| BT-0204 | 2026-03-20T01:12:00Z | digital | WeDevs 20+ High Profit Digital Products 2026 | $0+ USD | https://wedevs.com/blog/489429/digital-products-to-sell/ | opportunity | 2026-03-20T01:12:00Z | 20+个独家高利润数字产品售卖思路汇总 |
+| BT-0205 | 2026-03-20T01:12:00Z | digital | Sellfy 20 Best Digital Products 2026 | $0+ USD | https://sellfy.com/blog/digital-products/ | opportunity | 2026-03-20T01:12:00Z | Sellfy官方发布的20个2026最佳可售卖数字产品指南 |
+| BT-0206 | 2026-03-20T01:37:00Z | digital | 2026 Untapped Digital Product Niches | varies USD | https://payhip.com/mjresell/blog/news/the-most-untapped-and-profitable-digital-product-niches-to-sell-in-2026 | opportunity | 2026-03-20T01:37:00Z | 发现未充分挖掘利润丰厚的数字产品 niche，竞争小受众精准，高盈利潜力 |
+| BT-0207 | 2026-03-20T01:39:00Z | hackathon | Preply x Agora Hackathon 2026 | varies USD | https://github.com/Hackathon-Preply/hackathon-2026-03-20 | available | 2026-03-20T01:39:00Z | Preply x Agora 线下黑客松在巴塞罗那举行，3月20-21日，主题AI Agents for NextGen Language Learning |
