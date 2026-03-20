@@ -634,8 +634,17 @@
   • 09:27后无新增3月20日今日发布的未收录赏金机会
   • 搜索结果仅返回UIDAI Aadhaar，该机会已经完整收录，UIDAI的公开报道也仅重复信息，无新增未收录机会
   • 所有今日（2026-03-20）发布的全新赚钱机会均已完整收录：
-    • 漏洞赏金类：IBM x HackerOne AI安全最高$100,000（今日发布）、Wells Fargo公开漏洞赏金计划（今日发布，HackerOne托管）、Microsoft Teams全新漏洞赏金最高$30,000、DigitalOcean公开漏洞赏金计划（Intigriti托管）、Zabbix公开漏洞赏金计划（HackerOne）、UIDAI Aadhaar（今日正式发布首个结构化计划
+    • 漏洞赏金类：IBM x HackerOne AI安全最高$100,000（今日发布）、Wells Fargo公开漏洞赏金计划（今日发布，HackerOne托管）、Microsoft Teams全新漏洞赏金最高$30,000、DigitalOcean公开漏洞赏金计划（Intigriti托管）、Zabbix公开漏洞赏金计划（HackerOne）、UIDAI Aadhaar（今日正式发布首个结构化计划）
     • 开源赏金类：tscircuit总奖金池$5,502多个开放任务、screenpipe总奖金池$4,910 27个开放bounties、Zama FHE Season 7总奖金€30,000+已开启、AsyncAPI 2026-03轮总预算$1,600多个开放issue
-    • 数字产品类：完整汇总100+种2026可售卖数字产品思路，涵盖所有最新趋势（AI定制GPTs、在线课程、会员社区、UI模板、预设、电子书、数字规划本等新兴高需求品类
+    • 数字产品类：完整汇总100+种2026可售卖数字产品思路，涵盖所有最新趋势（AI定制GPTs、在线课程、会员社区、UI模板、预设、电子书、数字规划本等新兴高需求品类）
   • 安全提醒：已收录针对OpenClaw开发者的GitHub钓鱼预警，请注意防范假$CLAW空投诈骗，诈骗分子冒充OpenClaw官方空投盗取钱包私钥
   • 本轮扫描完成，本次10:17 UTC扫描确认没有新增3月20日发布的未收录机会，所有今日发布全新赚钱机会均已同步到仓库，扫描任务完成 |
+| BT-0267 | 2026-03-20T10:30:00Z | cron-scan | 本次10:30小时扫描完成 | $0 USD |  | scanned | 2026-03-20T10:30:00Z | 本轮免费DuckDuckGo搜索完成，本次扫描确认：
+  • 10:17后无新增3月20日今日发布的未收录赏金机会
+  • 最新搜索结果仅返回UIDAI Aadhaar相关重复报道，该机会已完整收录，无新增未收录机会
+  • 所有2026-03-20今日发布的全新赚钱机会均已全部完整收录：
+    • 漏洞赏金类：IBM x HackerOne AI安全最高$100,000（今日发布）、Wells Fargo公开漏洞赏金计划（今日发布，HackerOne托管）、Microsoft Teams全新漏洞赏金最高$30,000、DigitalOcean公开漏洞赏金计划（Intigriti托管）、Zabbix公开漏洞赏金计划（HackerOne）、UIDAI Aadhaar首个结构化计划（今日正式发布）、AMD刷新漏洞赏金最高$30,000（3月19日发布，已收录）、Capital.com公开漏洞赏金计划（3月19日发布，已收录）
+    • 开源赏金类：tscircuit总奖金池$5,502多个开放任务认领、screenpipe总奖金池$4,910 27个开放bounties、Zama FHE Season 7总奖金€30,000+已开启、AsyncAPI 2026-03轮总预算$1,600多个开放issue可认领
+    • 数字产品类：完整汇总100+种2026可售卖数字产品思路，涵盖所有最新趋势包括AI定制GPTs、在线课程、会员社区、UI模板、预设、电子书、数字规划本等新兴高需求品类
+  • 安全提醒：保持钓鱼预警收录：针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，请注意防范，诈骗分子冒充官方空投盗取钱包私钥
+  • 本轮10:30 UTC扫描完成，确认无新增未收录3月20日发布赚钱机会，所有今日发布机会已全部同步到bounty-tracker仓库，本次扫描任务完成 |
