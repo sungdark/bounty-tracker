@@ -271,3 +271,6 @@
 | BT-0256 | 2026-03-20T06:36:00Z | screenpipe | TypeScript/AI Project Bounties | $25-500 USD/issue | https://github.com/intent-solutions-io/bounties | available | 新机会 | 2026-03-20T06:36:00Z | 总奖金池$4,910，27个开放issue，AI项目需求明确 |
 | BT-0257 | 2026-03-20T06:36:00Z | tscircuit | React/TS PCB Design | $25-150 USD | https://github.com/tscircuit/bounties | available | 新机会 | 2026-03-20T06:36:00Z | 总奖金池$5,502，多个开放任务认领 |
 | BT-0255 | 2026-03-20T06:08:00Z | digitalocean | DigitalOcean Paid Bug Bounty | varies USD | https://www.digitalocean.com/blog/digitalocean-bug-bounty-program | available | 新机会 | 2026-03-20T06:08:00Z | DigitalOcean全新推出公开付费漏洞赏金计划，托管在Intigriti平台接受提交 |
+| BT-0258 | 2026-03-20T06:54:00Z | github | trickest/inventory | $0+ USD | https://github.com/trickest/inventory | opportunity | 新机会 | 2026-03-20T06:54:00Z | 超过800个公开漏洞赏金计划资产清单，持续更新，适合做范围侦察 |
+| BT-0259 | 2026-03-20T06:54:00Z | github | shuvonsec/claude-bug-bounty | $0+ USD | https://github.com/shuvonsec/claude-bug-bounty | opportunity | 新机会 | 2026-03-20T06:54:00Z | Claude Code AI辅助漏洞狩猎工具，从侦察到报告生成全流程支持 |
+| BT-0260 | 2026-03-20T06:54:00Z | proxies | Best Developer Bounty Programs 2026 | $0+ USD | https://proxies.sx/blog/developer-bounty-programs-crypto-2026 | opportunity | 新机会 | 2026-03-20T06:54:00Z | 2026年最佳开发者赏金计划完整指南，覆盖所有主流平台对比分析 |
