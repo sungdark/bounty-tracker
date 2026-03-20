@@ -278,3 +278,16 @@
   • 新增收录3份最新2026数字产品售卖指南，累计已收录14份高质量赚钱思路汇总
   • 所有3月18-19日发布的全新赏金机会均已完整收录，包括AMD($30k)/Monday Trade($3k)/Nika Finance(30k USDC)/Revert Finance Cantina等
 本轮扫描无遗漏新增法币赏金机会，扫描完成 |
+| BT-0230 | 2026-03-20T00:54:00Z | digital | Kittl 25 Best Digital Products 2026 | $0+ USD | https://www.kittl.com/blogs/digital-products-to-sell-dsi/ | opportunity | 2026-03-20T00:54:00Z | 3周前发布，25种2026最佳可售卖数字产品，包含最新趋势如UI套件、预设、库存照片等快速增长品类 |
+| BT-0231 | 2026-03-20T00:54:00Z | digital | Profityourknowledge 10 BEST Digital Products 2026 | $0+ USD | https://www.profityourknowledge.com/blog/10-best-digital-products-to-sell-online-in-2026 | opportunity | 2026-03-20T00:54:00Z | 实用指南，包含音频、数字规划本、视频素材等多种产品的最佳销售平台建议 |
+| BT-0232 | 2026-03-20T00:54:00Z | digital | AI SuperHub 15+ Digital Products 2026 | $0+ USD | https://www.aisuperhub.io/blog/15plus-best-digital-products-to-sell-in-2026-the-practical-guide | opportunity | 2026-03-20T00:54:00Z | 12月底发布，覆盖从在线课程到AI工具的多样化数字产品机会，实战指南风格 |
+| BT-0233 | 2026-03-20T00:54:00Z | cron-scan | 本次00:54小时扫描完成 | $0 USD |  | scanned | 2026-03-20T00:54:00Z | 本轮免费DuckDuckGo搜索完成，3月20日今日凌晨未发现全新发布的法币赏金计划：
+  • UIDAI漏洞赏金已于3月11日发布，已在之前完整收录
+  • 新增收录3份最新2026高需求数字产品售卖赚钱思路指南，累计已收录17份高质量汇总
+  • Preply x Agora黑客松机会（3月20-21日巴塞罗那线下）已收录
+  • 所有3月18-19日发布的全新赏金机会均已完整收录，包括：
+    - AMD 2026刷新漏洞赏金计划，最高$30,000
+    - Monday Trade漏洞赏金，最高$3,000
+    - Nika Finance漏洞赏金，最高30,000 USDC
+    - Revert Finance Cantina智能合约赏金审计
+本轮扫描无遗漏新增法币赏金机会，扫描完成 |
