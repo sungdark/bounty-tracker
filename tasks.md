@@ -290,13 +290,15 @@
 | BT-0264 | 2026-03-20T09:26:00Z | mozilla | Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 新机会 | 2026-03-20T09:26:00Z | 3月更新政策，提高报告质量要求，调整激励结构聚焦高影响力漏洞 |
 | BT-0264 | 2026-03-20T09:26:00Z | mozilla | Firefox 2026 Bug Bounty Updates | varies USD | https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html | available | 新机会 | 2026-03-20T09:26:00Z | 3月更新政策，提高报告质量要求，调整激励结构聚焦高影响力漏洞 |
 | BT-0265 | 2026-03-20T09:56:00Z | security | OpenClaw Phishing Warning | alert | https://www.cryptotimes.io/2026/03/19/openclaw-devs-targeted-in-github-phishing-scam-promising-5k-airdrop/ | alert | 安全提醒 | 2026-03-20T09:56:00Z | 3月19日曝光针对OpenClaw开发者的GitHub钓鱼骗局，假$5K $CLAW空投盗钱包，请注意防范 |
-| BT-0266 | 2026-03-20T09:56:00Z | cron-scan | 本次09:56小时扫描完成 | $0 USD |  | scanned | 2026-03-20T09:56:00Z | 本轮Exa搜索完成，本次扫描确认：
-  • 09:26后无新增3月20日今日发布的未收录赏金机会
+| BT-0265 | 2026-03-20T09:56:00Z | security | OpenClaw Phishing Warning | alert | https://www.cryptotimes.io/2026/03/19/openclaw-devs-targeted-in-github-phishing-scam-promising-5k-airdrop/ | alert | 安全提醒 | 2026-03-20T09:56:00Z | 3月19日曝光针对OpenClaw开发者的GitHub钓鱼骗局，假$5K $CLAW空投盗钱包，请注意防范 |
+| BT-0266 | 2026-03-20T10:26:00Z | floatbot | Floatbot Public Bug Bounty | varies USD | https://floatbot.ai/bug-bounty-program | available | 新机会 | 2026-03-20T10:26:00Z | Floatbot AI公开漏洞赏金计划，接受漏洞报告，奖励根据严重程度发放 |
+| BT-0267 | 2026-03-20T10:26:00Z | intigriti | Intigriti March 2026 CTF Challenge | varies prizes | https://app.intigriti.com/programs/intigriti/challenge0326/detail | available | 进行中 | 2026-03-20T10:26:00Z | 月度CTF挑战正在进行，3月16日开放至3月23日，提交正确解法有机会赢取奖品 |
+| BT-0268 | 2026-03-20T10:26:00Z | cron-scan | 本次10:26小时扫描完成 | $0 USD |  | scanned | 2026-03-20T10:26:00Z | 本轮Exa搜索完成，本次扫描确认：
+  • 09:56后无新增3月20日今日发布的未收录赏金机会
   • 今日(20日)所有全新发布的赏金机会均已完整收录：
-    - IBM x HackerOne AI安全赏金最高$100,000
-    - OpenClaw GitHub钓鱼预警提醒开发者注意防范假空投诈骗
-    - Wells Fargo公开漏洞赏金计划（今日发布）
-    - Zama Bounty Program Season 7总奖金€30,000+已开启
+    - Floatbot AI公开漏洞赏金计划已收录
+    - Intigriti 3月月度CTF挑战正在进行中，3月23日截止
+    - Sui New VM Bug Bounty已经收录，3月16日开放接受提交
     - tscircuit总奖金池$5,502多个开放任务已收录
     - screenpipe总奖金池$4,910 27个开放bounties已收录
     - 完整100种2026可售卖数字产品思路已汇总收录
