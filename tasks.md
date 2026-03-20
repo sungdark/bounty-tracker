@@ -5,12 +5,12 @@
 
 | ID | 接受时间 | 来源 | 项目 | 奖励 | github项目地址 | 状态 | 任务进度 | 最后更新 | 备注 |
 |----|----------|------|------|------|----------------|------|----------|----------|------|
-| BT-0001 | 2026-02-26T05:00:00Z | github | Mint-Claw/market-monitor | $15 USD | https://github.com/Mint-Claw/market-monitor/issues/1 | pr_open | 工作中 | 2026-02-27T01:15:00Z | 在途 |
-| BT-0002 | 2026-02-26T07:30:00Z | github | Mint-Claw/content-split | $10 USD | https://github.com/Mint-Claw/content-split/issues/1 | pr_open | 工作中 | 2026-02-27T01:15:00Z | 在途 |
-| BT-0003 | 2026-02-26T11:40:00Z | github | tenstorrent/tt-metal | $2500 USD | https://github.com/tenstorrent/tt-metal/issues/38114 | pr_open | 工作中 | 2026-02-27T01:15:00Z | 在途 |
-| BT-0004 | 2026-02-26T14:20:00Z | github | rohitdash08/FinMind | $50 USD | https://github.com/rohitdash08/FinMind/issues/77 | pr_open | 工作中 | 2026-02-27T01:15:00Z | 在途 |
+| BT-0001 | 2026-02-26T05:00:00Z | github | Mint-Claw/market-monitor | $15 USD | https://github.com/Mint-Claw/market-monitor/issues/1 | pr_open | 已提交 | 2026-02-26T05:00:00Z | PR already open https://github.com/Mint-Claw/market-monitor/pull/6 by sungdark |
+| BT-0002 | 2026-02-26T07:30:00Z | github | Mint-Claw/content-split | $10 USD | https://github.com/Mint-Claw/content-split/issues/1 | pr_open | 已提交 | 2026-02-26T07:30:00Z | PR already open https://github.com/Mint-Claw/content-split/pull/5 by sungdark |
+| BT-0003 | 2026-02-26T11:40:00Z | github | tenstorrent/tt-metal | $2500 USD | https://github.com/tenstorrent/tt-metal/issues/38114 | pr_open | 已提交 | 2026-02-26T11:40:00Z | Stage-1 proposal PR already open https://github.com/tenstorrent/tt-metal/pull/38632 |
+| BT-0004 | 2026-02-26T14:20:00Z | github | rohitdash08/FinMind | $50 USD | https://github.com/rohitdash08/FinMind/issues/77 | pr_open | 已提交 | 2026-02-26T14:20:00Z | PR already open https://github.com/rohitdash08/FinMind/pull/217 by sungdark |
 | BT-0005 | 2026-02-26T16:45:00Z | github | tscircuit/circuitjson.com | $50 USD | https://github.com/tscircuit/circuitjson.com/issues/79 | pr_open | 已提交 | 2026-03-20T05:17:00Z | 依赖更新完成，构建成功，PR已提交等待合并 |
-| BT-0006 | 2026-02-26T16:30:00Z | github | CapSoftware/Cap | $200 USD | https://github.com/CapSoftware/Cap/issues/1540 | pr_open | 工作中 | 2026-02-27T01:15:00Z | 在途 |
+| BT-0006 | 2026-02-26T16:30:00Z | github | CapSoftware/Cap | $200 USD | https://github.com/CapSoftware/Cap/issues/1540 | pr_open | 已提交 | 2026-02-26T16:30:00Z | PR already open https://github.com/CapSoftware/Cap/pull/1633 by sungdark |
 | BT-0007 | 2026-02-26T20:55:00Z | github | cocoa007/x402-nostr-relay | 2000 SATS | https://github.com/cocoa007/x402-nostr-relay/issues/1 | merged | 已采纳 | 2026-03-01T16:27:59Z | 已合并，待结算SATS |
 | BT-0008 | 2026-02-26T20:40:00Z | github | counterspec/isnad | 100 ISNAD | https://github.com/counterspec/isnad/issues/4 | merged | 已采纳 | 2026-03-18T02:44:00Z | 已合并，重复任务(同BT-0034)，翻译已完成 |
 | BT-0009 | 2026-02-26T21:40:00Z | github | Scottcjn/beacon-skill | 8 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/389 | merged | 已采纳 | 2026-02-27T02:00:00Z | 已合并，待结算 |
