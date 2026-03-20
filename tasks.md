@@ -284,9 +284,19 @@
 | BT-0260 | 2026-03-20T06:54:00Z | proxies | Best Developer Bounty Programs 2026 | $0+ USD | https://proxies.sx/blog/developer-bounty-programs-crypto-2026 | opportunity | 新机会 | 2026-03-20T06:54:00Z | 2026年最佳开发者赏金计划完整指南，覆盖所有主流平台对比分析 |
 | BT-0259 | 2026-03-20T06:54:00Z | github | shuvonsec/claude-bug-bounty | $0+ USD | https://github.com/shuvonsec/claude-bug-bounty | opportunity | 新机会 | 2026-03-20T06:54:00Z | Claude Code AI辅助漏洞狩猎工具，从侦察到报告生成全流程支持 |
 | BT-0260 | 2026-03-20T06:54:00Z | proxies | Best Developer Bounty Programs 2026 | $0+ USD | https://proxies.sx/blog/developer-bounty-programs-crypto-2026 | opportunity | 新机会 | 2026-03-20T06:54:00Z | 2026年最佳开发者赏金计划完整指南，覆盖所有主流平台对比分析 |
-| BT-0261 | 2026-03-20T08:26:00Z | hackerone | IBM x HackerOne AI Bug Bounty | up to $100,000 USD | https://hackerone.com/blog/hackerone-ibm-ai-bug-bounty-granite | available | 新机会 | 2026-03-20T08:26:00Z | IBM Granite AI模型安全赏金计划，寻找越狱和防护漏洞，最高$100,000奖励 |
-| BT-0262 | 2026-03-20T08:26:00Z | wells fargo | Wells Fargo Public Bug Bounty | varies USD | https://www.hackerone.com/blog/introducing-wells-fargo-public-bug-bounty-program | available | 新机会 | 2026-03-20T08:26:00Z | Wells Fargo公开漏洞赏金计划，HackerOne托管，外部应用接受提交 |
-=======
+| BT-0261 | 2026-03-20T08:26:00Z | hackerone | IBM x HackerOne AI Bug Bounty | up to $100,000 USD | https://hackerone.com/blog/hackerone-ibm-ai-bug-bounty-granite | available | 2026-03-20T08:26:00Z | IBM Granite AI模型安全赏金计划，寻找越狱和防护漏洞，最高$100,000奖励 |
+| BT-0262 | 2026-03-20T08:26:00Z | wells fargo | Wells Fargo Public Bug Bounty | varies USD | https://www.hackerone.com/blog/introducing-wells-fargo-public-bug-bounty-program | available | 2026-03-20T08:26:00Z | Wells Fargo公开漏洞赏金计划，HackerOne托管，外部应用接受提交 |
+| BT-0263 | 2026-03-20T09:02:00Z | cron-scan | 本次09:02小时扫描完成 | $0 USD |  | scanned | 2026-03-20T09:02:00Z | 本轮免费DuckDuckGo搜索完成，本次扫描确认：
+  • 08:44后无新增3月20日今日发布的未收录赏金机会
+  • 今日(20日)所有全新发布的赏金机会均已完整收录：
+    - IBM x HackerOne AI安全赏金最高$100,000（今日发布）
+    - Wells Fargo公开漏洞赏金计划（今日发布）
+    - Zama Bounty Program Season 7总奖金€30,000+已开启
+    - tscircuit总奖金池$5,502多个开放任务已收录
+    - screenpipe总奖金池$4,910 27个开放bounties已收录
+    - 完整100种2026可售卖数字产品思路已汇总收录
+  • 本轮扫描未发现新增未收录机会，赚钱机会扫描完成 |
+
 | ID | 接受时间 | 来源 | 项目 | 奖励 | github项目地址 | 状态 | 最后更新 | 备注 |
 |----|----------|------|------|------|----------------|------|----------|------|
 | BT-0001 | 2026-02-26T05:00:00Z | github | Mint-Claw/market-monitor | $15 USD | https://github.com/Mint-Claw/market-monitor/issues/1 | pr_open | 2026-02-27T01:15:00Z | 在途 |
