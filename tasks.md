@@ -1450,4 +1450,21 @@
   • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高$250,000 USD，IBM x HackerOne AI赏金最高$100,000 USD，Apple Secure Enclave最高$100,000 USD
   • **安全提醒：** 保持钓鱼预警：针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，请注意防范，诈骗分子冒充官方空投盗取钱包私钥
   • 本轮01:25 UTC扫描完成，确认今日（2026-03-21）凌晨扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成
+| BT-0327 | 2026-03-21T01:57:00Z | cron-scan | 本次01:57小时扫描完成 | $0 USD |  | scanned | 2026-03-21T01:57:00Z | 本轮DuckDuckGo免费搜索完成，本次最新扫描确认：
+  • 今日（2026-03-21）01:57 UTC最新扫描结果：所有搜索返回结果均为3月20日及之前发布的旧项目和重复报道，仅发现一个OpenBugBounty单个漏洞报告（非全新赏金计划）和四个美国政治悬赏（不属于开发者公开可认领赚钱机会）：
+    - 所有搜索关键词验证："new bug bounty program 2026-03-21"、"march 21 2026 new bug bounty"、"new github bounty opportunity"、"2026-03-21 digital product selling opportunity" 均未返回今日全新发布的公开可认领法币赚钱机会
+    - 加密货币红包活动、电竞赛事赏金、政治悬赏均不符合法币优先要求，不收录
+  • 当前所有公开机会状态汇总：
+    • **漏洞赏金类（今日发布）：** 0个全新项目，所有最新项目均为3月20日及之前发布，已全部完整收录，累计今日（3月21）暂无新增
+    • **开源赏金类：** 开放赏金池总计超过$18,000 + €30,000，Google Summer of Code 2026 $6,000申请仍开放（截止3月31日），tscircuit总奖金池$5,502、screenpipe总奖金池$4,910、Zama FHE Season 7总奖金€30,000+等均已完整收录
+    • **数字产品类：** 完整汇总100+种2026可售卖数字产品思路，已覆盖超过30种权威高潜力品类深度分析+选品验证框架，所有核心信息已收录完成
+  • **已提交PR高价值任务（待结算）：**
+    - counterspec/isnad：5个PR共3300 USDC全部提交等待合并
+    - illbnm/homelab-stack：3个PR共650 USDT全部提交等待合并
+    - tscircuit/circuitjson.com：$50 USD PR提交等待合并
+    - 多个RustChain赏金共约300+ RTC已提交等待结算
+    - tenstorrent/tt-metal：$2500 USD proposal PR已提交
+  • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高$250,000 USD，IBM x HackerOne AI赏金最高$100,000 USD，Apple Secure Enclave最高$100,000 USD
+  • **安全提醒：** 保持钓鱼预警：针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，请注意防范，诈骗分子冒充官方空投盗取钱包私钥
+  • 本轮01:57 UTC扫描完成，确认无3月21日今日发布全新未收录赚钱机会，所有公开机会已完整同步到仓库，本次小时扫描任务完成
 
