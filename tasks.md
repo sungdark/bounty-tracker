@@ -1762,4 +1762,29 @@
   • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮05:15 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
+| BT-0320 | 2026-03-21T05:32:00Z | cron-scan | 本次05:32小时扫描完成 | $0 USD |  | scanned | 2026-03-21T05:32:00Z | 本轮Exa搜索完成，本次扫描结果：
+  • 本次Exa搜索发现4个公开可参与法币优先赏金机会，之前未完整收录到tasks.md，本次补充完整收录：
+    1. **ProjectDiscovery OSS Bounty Program (2026-01-09)**：奖励对ProjectDiscovery开源安全工具Nuclei/Katana/Subfinder等的有意义社区贡献（bug修复/功能实现/文档改进/性能提升），奖励范围 varies USD，链接：https://github.com/projectdiscovery/oss-bounty-program
+    2. **GitHub Official Bug Bounty**：长期开放，最高奖励 **$30,000+ USD** 针对critical severity漏洞，链接：https://bounty.github.com/
+    3. **Spark (MakerDAO) Bug Bounty on Immunefi**：最高奖励 **$5,000,000 USD** for critical smart contract vulnerabilities，payouts in DAI (1:1 USD)，链接：https://immunefi.com/bug-bounty/sparklend/，last updated 2026-03-05
+    4. **Uniswap Bug Bounty on Cantina**：最高奖励 **$15,500,000 USD** for critical smart contract vulnerabilities，覆盖Unichain和所有Uniswap contracts，链接：https://uniswap.org/bug-bounty
+
+  • 以上4个机会均符合法币优先要求，为公开可参与，本次补充完整收录
+  • 当前所有公开可认领赚钱机会汇总（全部已收录完毕）：
+    • **漏洞赏金类**：共16个高价值项目，Spark最高$5,000,000，Uniswap最高$15,500,000，IBM AI安全最高$100,000等均已完整收录
+    • **开源赏金类：** 开放赏金池总计超过 **$25,000 + €30,000**，新增ProjectDiscovery官方OSS赏金计划，Google Summer of Code 2026 $6,000申请机会仍开放（申请截止3月31日），tscircuit总奖金池$5,502、screenpipe总奖金池$4,910、Zama FHE Season 7总奖金€30,000+等均已完整收录
+    • **数字产品类：** 完整汇总 **100+种** 2026可售卖数字产品思路，已覆盖超过 **30种** 权威高潜力品类深度分析+权威选品验证框架，涵盖AI定制GPTs、Notion/Canva模板、prompt packs、在线课程、会员社区、可打印内容等所有最新高需求新兴品类，全部核心信息已收录完成
+
+  • **已提交待结算高价值任务汇总（≥$5）：**
+    • counterspec/isnad：5个PR共 **3300 USDC** 全部提交等待合并
+    • illbnm/homelab-stack：3个PR共 **650 USDT** 全部提交等待合并
+    • tscircuit/circuitjson.com：**$50 USD** PR提交等待合并
+    • tenstorrent/tt-metal：**$2500 USD** proposal PR已提交
+    • 多个RustChain赏金共约 **300+ RTC** 已提交等待结算
+
+  • **最高潜在单个奖励机会：** Uniswap漏洞赏金最高 **$15,500,000 USD**，Spark漏洞赏金最高 **$5,000,000 USD**，Flipcash Reserve漏洞赏金最高 **$250,000 USD**
+
+  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+
+  • 本轮05:32 UTC扫描完成，新增4个公开可参与赚钱机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
