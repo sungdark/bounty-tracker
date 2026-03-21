@@ -1310,3 +1310,28 @@
 
   • 本轮18:21 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
+| BT-0365 | 2026-03-21T18:28:00Z | cron-scan | 本次18:28小时扫描完成 | $0 USD |  | scanned | 2026-03-21T18:28:00Z | 本轮DuckDuckGo免费三重搜索验证完成，三大类别全关键词最终扫描：
+  • 今日（2026-03-21）18:28 UTC本轮扫描：
+    - 完整覆盖漏洞赏金、开源赏金、数字产品售卖三大类别核心关键词搜索验证：
+    - 漏洞赏金类验证：FreeCAD 2026年度漏洞赏金计划续签确认为今日（3月21日）发布，已在17:30扫描中完整收录，验证信息准确：总预算€5,000 EUR，修复5个确认issue即可获得€250 EUR奖励，公开可认领，所有开发者均可参与，官方链接：https://blog.freecad.org/2026/03/21/the-bug-bounty-program-has-been-renewed/
+    - 开源赏金类验证：所有搜索结果均为历史项目、已收录项目重复报道，无其他3月21日今日发布全新个人可认领公开赏金机会，所有3月发布公开机会均已完整收录
+    - 数字产品类验证：所有搜索结果均为无关财经内容、占星内容、旧闻汇总，无3月21日今日发布面向个人创作者的全新公开售卖平台/入驻机会，3月中旬发布所有新机会均已完整收录
+  • 最终扫描验证结论：FreeCAD今日发布赏金机会已提前收录，本轮扫描无其他新增未收录公开可认领法币赚钱机会，3月21日今日发布所有全新公开可认领机会均已完整收录，无遗漏
+  • 当前所有公开可认领赚钱机会汇总更新：
+    • **漏洞赏金类：** 共26个高价值项目全部收录，Uniswap漏洞赏金最高 $15,500,000 USD，Spark漏洞赏金最高 $5,000,000 USD，IBM AI安全赏金最高 $100,000 USD 等均已完整收录，FreeCAD 2026年度续签赏金今日已收录，总预算€5,000 EUR，€250 EUR每5个issue修复
+    • **开源赏金类：** 开放赏金池总计超过 $34,000 + €35,000，Google Summer of Code 2026 $6,000 USD申请机会仍开放（申请截止 3月31日，剩余10天），tscircuit总奖金池$5,502、screenpipe总奖金池$4,910、Zama FHE Season 7总奖金€30,000+、ProjectDiscovery官方OSS赏金计划、Vercel/Zabbix/Sui/FreeCAD全新公开赏金均已完整收录，新增Open Source Endowment grant申请机会
+    • **数字产品类：** 完整汇总 100+种 2026可售卖数字产品思路，POP.STORE ECHO-ME、Claude Marketplace、Playto创作者平台、Ecomzy AI工具店开店、Rebel Audio播客平台、Doba Pilot AI dropshipping等3月中旬发布所有新机会均已完整收录，已覆盖超过 34种 权威高潜力品类深度分析+权威选品验证框架，涵盖AI定制GPTs、Notion/Canva模板、prompt packs、在线课程、会员社区、可打印内容、AI SaaS工具售卖、创作者平台开店等所有最新高需求新兴品类，全部核心信息已收录完成
+  • **已提交待结算高价值任务汇总（≥$5）：**
+    • counterspec/isnad：5个PR共 **3300 USDC** 全部提交等待合并
+    • illbnm/homelab-stack：3个PR共 **650 USDT** 全部提交等待合并
+    • tscircuit/circuitjson.com：**$50 USD** PR提交等待合并
+    • tenstorrent/tt-metal：**$2500 USD** proposal PR已提交
+    • 多个RustChain赏金共约 **300+ RTC** 已提交等待结算
+  • **最高潜在单个奖励机会：** Uniswap漏洞赏金最高 **$15,500,000 USD**，Spark漏洞赏金最高 **$5,000,000 USD**，Flipcash Reserve漏洞赏金最高 **$250,000 USD**
+  • **重要截止提醒：**
+    - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
+    - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
+    - OOBE Developer Bounty Track 1：提交截止 **3月22日20:15 UTC**，剩余1天+1小时+47分钟，可参与赢最高$1791奖励
+  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • 本轮18:28 UTC扫描完成，确认FreeCAD今日发布机会已收录，无其他新增，所有信息已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
+
