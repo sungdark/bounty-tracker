@@ -978,3 +978,29 @@
   • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮15:31 UTC扫描完成，DuckDuckGo深度搜索验证确认今日（2026-03-21）本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
 
+
+| BT-0358 | 2026-03-21T15:36:00Z | cron-scan | 本次15:36小时扫描完成 | $0 USD |  | scanned | 2026-03-21T15:36:00Z | 本轮Exa + DuckDuckGo双重深度全类别扫描完成，多轮关键词全类别双重验证结果：
+  • 今日（2026-03-21）15:36 UTC本轮扫描：
+    - Exa深度搜索 + DuckDuckGo搜索双重验证，完整覆盖漏洞赏金、开源赏金、数字产品售卖三大类别全部核心关键词：
+    - 漏洞赏金类验证：Kyiri Bug Bounty Program原定3月18日启动仍未正式开放上线，所有已开放3月发布项目均已完整收录，无3月21日今日全新开放公开可认领法币漏洞赏金项目，所有搜索结果均为3月11日-3月20日发布已收录项目重复报道，无新增今日发布项目
+    - 开源赏金类验证：Linux Foundation $12.5M安全资助为行业整体资助计划，非个人直接可认领公开赏金机会；Kongsec新批次培训为付费课程非可认领赚钱机会；所有3月发布个人可认领开源赏金均已完整收录，无3月21日今日新增公开可认领机会
+    - 数字产品类验证：POP.STORE ECHO-ME（3月18日发布）、Claude B2B Marketplace（3月16日发布）、Benzinga视频新闻数据源（3月20日发布）为B2B数据产品非个人创作者售卖入驻机会；WordPress.com MCP写能力开放为平台功能升级，无面向个人创作者的全新公开售卖平台/入驻机会；3月中旬发布所有新机会均已完整收录，无遗漏
+  • 双重深度扫描验证结论：未发现3月21日今日发布的全新公开可认领法币赚钱机会，3月中旬发布的所有公开可认领机会均已完整收录，无遗漏
+  • 当前所有公开可认领赚钱机会汇总更新：
+    • **漏洞赏金类**：共23个高价值项目全部收录，Uniswap漏洞赏金最高 $15,500,000 USD，Spark漏洞赏金最高 $5,000,000 USD，IBM AI安全赏金最高 $100,000 USD 等均已完整收录
+    • **开源赏金类**：开放赏金池总计超过 $33,000 + €30,000，Google Summer of Code 2026 $6,000 USD申请机会仍开放（申请截止 3月31日，剩余10天），tscircuit总奖金池$5,502、screenpipe总奖金池$4,910、Zama FHE Season 7总奖金€30,000+、ProjectDiscovery官方OSS赏金计划、Zabbix/Vercel全新公开赏金均已完整收录
+    • **数字产品类**：完整汇总 100+种 2026可售卖数字产品思路，POP.STORE ECHO-ME、Claude Marketplace、Playto创作者平台、Ecomzy AI工具店开店、Rebel Audio播客平台、Doba Pilot AI dropshipping等3月中旬发布所有新机会均已完整收录，已覆盖超过 34种 权威高潜力品类深度分析+权威选品验证框架，涵盖AI定制GPTs、Notion/Canva模板、prompt packs、在线课程、会员社区、可打印内容、AI SaaS工具售卖、创作者平台开店等所有最新高需求新兴品类，全部核心信息已收录完成
+  • **已提交待结算高价值任务汇总（≥$5）：**
+    • counterspec/isnad：5个PR共 **3300 USDC** 全部提交等待合并
+    • illbnm/homelab-stack：3个PR共 **650 USDT** 全部提交等待合并
+    • tscircuit/circuitjson.com：**$50 USD** PR提交等待合并
+    • tenstorrent/tt-metal：**$2500 USD** proposal PR已提交
+    • 多个RustChain赏金共约 **300+ RTC** 已提交等待结算
+  • **最高潜在单个奖励机会：** Uniswap漏洞赏金最高 **$15,500,000 USD**，Spark漏洞赏金最高 $5,000,000 USD，Flipcash Reserve漏洞赏金最高 **$250,000 USD**
+  • **重要截止提醒：**
+    - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
+    - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
+    - OOBE Developer Bounty Track 1：提交截止 **3月22日20:15 UTC**，剩余1天+4小时+39分钟，可参与赢最高$1791奖励
+  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • 本轮15:36 UTC扫描完成，Exa + DuckDuckGo双重深度搜索验证确认今日（2026-03-21）本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
+
