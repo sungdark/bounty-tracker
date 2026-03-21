@@ -2094,9 +2094,13 @@
     • tenstorrent/tt-metal：**$2500 USD** proposal PR已提交
     • 多个RustChain赏金共约 **300+ RTC** 已提交等待结算
 
-  • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
+  • **最高潜在单个奖励：** Uniswap漏洞赏金最高 **$15,500,000 USD**，Spark漏洞赏金最高 **$5,000,000 USD**，Flipcash Reserve漏洞赏金最高 **$250,000 USD**
+
+  • **重要截止提醒：**
+    - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
+    - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
 
   • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
-  • 本轮08:11 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
+  • 本轮08:26 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
