@@ -51,8 +51,8 @@
 | BT-0044 | 2026-03-18T04:04:00Z | immunefi | Immunefi Web3 Bug Bounty | $0+ USD | https://immunefi.com/bug-bounty/ | available | 新机会 | 2026-03-18T04:04:00Z | Web3最大漏洞赏金平台 |
 | BT-0045 | 2026-03-18T04:04:00Z | cloudsek | Best Bug Bounty Platforms 2026 | $0+ USD | https://www.cloudsek.com/knowledge-base/best-bug-bounty-platforms-2026 | opportunity | 新机会 | 2026-03-18T04:04:00Z | 2026年顶级漏洞赏金平台汇总 |
 | BT-0046 | 2026-03-18T04:06:00Z | google | Google Summer of Code 2026 | stipend USD | https://summerofcode.withgoogle.com/ | available | 新机会 | 2026-03-18T04:06:00Z | 2026 GSoC申请已开放，截止3月31日 |
-| BT-0047 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 180 USDT | https://github.com/illbnm/homelab-stack/issues/1 | pr_open | 已提交 | 2026-03-18T22:05:00Z | 基础基础设施栈已完成，PR已创建 |
-| BT-0048 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 280 USDT | https://github.com/illbnm/homelab-stack/issues/10 | pr_open | 已提交 | 2026-03-18T22:10:00Z | Observability Stack已完成开发，PR已创建 |
+| BT-0047 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 180 USDT | https://github.com/illbnm/homelab-stack/issues/1 | pr_open | 已提交 | 2026-03-22T10:35:00Z | PR #237：docker-socket-proxy + Traefik安全 + Watchtower通知 |
+| BT-0048 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 280 USDT | https://github.com/illbnm/homelab-stack/issues/10 | pr_open | 已提交 | 2026-03-22T10:35:00Z | PR #238：Grafana OnCall + UptimeKuma + 完整监控栈 |
 | BT-0049 | 2026-03-18T04:58:00Z | github | Scottcjn/rustchain-bounties | 50-75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/747 | pr_open | 已提交 | 2026-03-18T13:35:00Z | Bounty Verification Bot完整实现，ready to deploy |
 | BT-0050 | 2026-03-18T04:58:00Z | github | asyncapi/cli | varies USD | https://github.com/asyncapi/cli/issues/2039 | available | 新机会 | 2026-03-18T04:58:00Z | 2026-04 Bounty Program，多个子issues可认领 |
 | BT-0051 | 2026-03-18T06:39:00Z | hackerone | Apple Bug Bounty Expansion | up to double USD | https://www.bleepingcomputer.com/tag/bug-bounty-program/ | available | 新机会 | 2026-03-18T06:39:00Z | Apple宣布大幅扩展漏洞赏金计划 |
