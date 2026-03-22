@@ -11,8 +11,8 @@
 | BT-0004 | 2026-02-26T14:20:00Z | github | rohitdash08/FinMind | $50 USD | https://github.com/rohitdash08/FinMind/issues/77 | pr_open | 已提交 | 2026-02-26T14:20:00Z | PR already open https://github.com/rohitdash08/FinMind/pull/217 by sungdark |
 | BT-0005 | 2026-02-26T16:45:00Z | github | tscircuit/circuitjson.com | $50 USD | https://github.com/tscircuit/circuitjson.com/issues/79 | pr_open | 已提交 | 2026-03-20T05:17:00Z | 依赖更新完成，构建成功，PR已提交等待合并 |
 | BT-0006 | 2026-02-26T16:30:00Z | github | CapSoftware/Cap | $200 USD | https://github.com/CapSoftware/Cap/issues/1540 | pr_open | 已提交 | 2026-02-26T16:30:00Z | PR already open https://github.com/CapSoftware/Cap/pull/1633 by sungdark |
-| BT-0007 | 2026-02-26T20:55:00Z | github | cocoa007/x402-nostr-relay | 2000 SATS | https://github.com/cocoa007/x402-nostr-relay/issues/1 | merged | 已采纳 | 2026-03-01T16:27:59Z | 已合并，待结算SATS |
-| BT-0008 | 2026-02-26T20:40:00Z | github | counterspec/isnad | 100 ISNAD | https://github.com/counterspec/isnad/issues/4 | merged | 已采纳 | 2026-03-18T02:44:00Z | 已合并，重复任务(同BT-0034)，翻译已完成 |
+| BT-0007 | 2026-02-26T20:55:00Z | github | cocoa007/x402-nostr-relay | 2000 SATS | https://github.com/cocoa007/x402-nostr-relay/issues/1 | merged | 已采纳 | 2026-03-01T16:27:59Z | PR#4已合并，待结算SATS | 已采纳 | 2026-03-01T16:27:59Z | 已合并，待结算SATS |
+| BT-0008 | 2026-02-26T20:40:00Z | github | peteromallet/desloppify | $1000 USD | https://github.com/peteromallet/desloppify/issues/1 | merged | 已采纳 | 2026-02-27T00:00:00Z | PR#234已合并，$1000 USD待结算 | 已采纳 | 2026-03-18T02:44:00Z | 已合并，重复任务(同BT-0034)，翻译已完成 |
 | BT-0009 | 2026-02-26T21:40:00Z | github | Scottcjn/beacon-skill | 8 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/389 | merged | 已采纳 | 2026-02-27T02:00:00Z | 已合并，待结算 |
 | BT-0010 | 2026-02-26T21:55:00Z | github | Scottcjn/Rustchain | 5 RTC | https://github.com/Scottcjn/Rustchain/pull/405 | merged | 已采纳 | 2026-02-27T02:00:00Z | 已合并，待结算 |
 | BT-0011 | 2026-03-18T00:46:00Z | github | counterspec/isnad | 1000 USDC | https://github.com/counterspec/isnad/issues/1 | pr_open | 已提交 | 2026-03-18T07:20:00Z | Detect obfuscated credential exfiltration patterns，已完成开发，PR已创建 |
