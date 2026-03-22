@@ -267,3 +267,5 @@
 | BT-0253 | 2026-03-22T18:42:00Z | github | BasedHardware/omi | $200 USD | https://github.com/BasedHardware/omi/issues/1643 | available | 新机会 | 2026-03-22T18:42:00Z | Mic Mute Toggle，需实现麦克风静音切换功能 |
 | BT-0254 | 2026-03-22T18:42:00Z | github | BasedHardware/omi | $300 USD | https://github.com/BasedHardware/omi/issues/1980 | available | 新机会 | 2026-03-22T18:42:00Z | Google Calendar集成，需实现日历事件同步和管理功能 |
 | BT-0255 | 2026-03-22T18:42:00Z | github | HeyPuter/puter | $50-2000 USD | https://github.com/HeyPuter/puter/blob/main/BUG-BOUNTY.md | available | 新机会 | 2026-03-22T18:42:00Z | Puter安全漏洞赏金，Critical $1000-2000/High $500-1000/Medium $200-500/Low $50-100，需邮件提交漏洞报告到security@puter.com |
+| BT-0256 | 2026-03-22T19:12:00Z | github | BasedHardware/omi | $20000 USD | https://github.com/BasedHardware/omi/issues/1944 | available | 新机会 | 2026-03-22T19:12:00Z | Rebuild app in React Native，重构整个App到React Native，Algora平台$20,000顶级奖励 |
+| BT-0257 | 2026-03-22T19:12:00Z | github | BasedHardware/omi | $20000 USD | https://github.com/BasedHardware/omi/issues/1249 | available | 新机会 | 2026-03-22T19:12:00Z | Transcription on device (phone)，需实现设备端语音转文字能力 |
