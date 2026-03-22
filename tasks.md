@@ -259,3 +259,4 @@
 | BT-0246 | 2026-03-22T15:12:00Z | github | BasedHardware/omi | $500 USD | https://github.com/BasedHardware/omi/issues/2075 | available | 新机会 | 2026-03-22T15:12:00Z | Swift SDK开发，需要为omi实现完整的Swift SDK，支持iOS/macOS集成 |
 | BT-0247 | 2026-03-22T15:12:00Z | github | BasedHardware/omi | $200 USD | https://github.com/BasedHardware/omi/issues/2077 | available | 新机会 | 2026-03-22T15:12:00Z | SDK文档编写，需提供完整的安装说明、使用示例（流音频、电池监控等） |
 | BT-0248 | 2026-03-22T15:12:00Z | github | mediar-ai/screenpipe | $350 USD | https://github.com/mediar-ai/screenpipe/issues/810 | available | 新机会 | 2026-03-22T15:12:00Z | 优化screenpipe onboarding体验，需改进跨平台设置流程和UI，需先提建议方案 |
+| BT-0249 | 2026-03-22T16:12:00Z | github | mediar-ai/screenpipe | $50 USD | https://github.com/screenpipe/screenpipe/issues/682 | available | 新机会 | 2026-03-22T16:12:00Z | Fix embedded AI on Windows，需解决OLLAMA_ORIGINS CORS问题和Tauri网络协议，修复后需截图/视频证明 |
