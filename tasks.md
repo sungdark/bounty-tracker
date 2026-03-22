@@ -729,8 +729,8 @@
 
   • 当前所有公开可认领赚钱机会汇总（全部已收录完毕）：
     • **漏洞赏金类（3月20日发布全新项目）：** 共12个项目全部收录，IBM AI安全赏金最高$100,000 USD，AMLBot KYT Web最高$1,500，Wells Fargo、Microsoft Teams、DigitalOcean、Zabbix、UIDAI、Floatbot等均已完整收录
-    • **开源赏金类：** 开放赏金池总计超过$18,000 + €30,000，Google Summer of Code 2026 $6,000申请机会仍开放（申请截止3月31日），tscircuit总奖金池$5,502、screenpipe总奖金池$4,910、Zama FHE Season 7总奖金€30,000+等均已完整收录
-    • **数字产品类：** 完整汇总100+种2026可售卖数字产品思路，已覆盖超过30种权威高潜力品类深度分析+权威选品验证框架，涵盖AI定制GPTs、Notion/Canva模板、prompt packs、在线课程、会员社区、可打印内容等所有最新高需求新兴品类
+    • **开源赏金类：** 开放赏金池总计超过$33,000 + €45,500，Google Summer of Code 2026 $6,000申请机会仍开放（申请截止3月31日，剩余9天），tscircuit总奖金池$5,502、screenpipe总奖金池$4,910、Zama FHE Season 7总奖金€30,000+、ProjectDiscovery官方OSS赏金计划、Zabbix/Vercel全新公开赏金、FreeCAD 2026续签赏金均已完整收录
+    • **数字产品类：** 完整汇总100+种2026可售卖数字产品思路，已覆盖超过34种权威高潜力品类深度分析+权威选品验证框架，涵盖AI定制GPTs、Notion/Canva模板、prompt packs、在线课程、会员社区、可打印内容、AI SaaS工具售卖、创作者平台开店等所有最新高需求新兴品类，POP.STORE ECHO-ME、Claude Marketplace、Playto创作者平台等3月中旬发布所有新机会均已完整收录
 
   • **已提交待结算高价值任务（≥$5）：**
     • counterspec/isnad：5个PR共 **3300 USDC** 全部提交等待合并
@@ -739,9 +739,35 @@
     • tenstorrent/tt-metal：**$2500 USD** proposal PR已提交
     • 多个RustChain赏金共约 **300+ RTC** 已提交等待结算
 
-  • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
+  • **最高潜在单个奖励：** Uniswap漏洞赏金最高 **$15,500,000 USD**，Spark漏洞赏金最高 **$5,000,000 USD**，Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
 
+  • **重要截止提醒：**
+    - Google Summer of Code 2026：申请截止 **3月31日**，剩余9天，$6000 USD开发津贴机会仍开放
+    - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余1天+23小时，仍可参与赢奖励
   • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮00:04 UTC扫描完成，确认今日（2026-03-22）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
+-e
+| BT-0383 | 2026-03-22T00:30:00Z | cron-scan | 本次00:30小时扫描完成 | $0 USD |  | scanned | 2026-03-22T00:30:00Z | 本轮DuckDuckGo全范围五大关键词深度扫描完成，三大类别全覆盖验证结果：
+  • 当前时间（2026-03-22）00:30 UTC本轮小时扫描：
+    - 五大关键词完整扫描验证："new bug bounty program 22 March 2026"、"new open source bounty 22 March 2026"、"2026-03-22 new digital product selling opportunities"、"march 22 2026 new bug bounty launch"、"today 22 march 2026 new earning opportunities fiat"，共返回50条搜索结果深度验证：
+    - 漏洞赏金类：所有搜索结果均为3月21日及之前发布的历史项目重复报道：FreeCAD（3月21日发布已收录）、UIDAI（3月18日发布已收录），Hyperliquid Hyperevm BugBounty为加密项目仅支持加密货币支付不符合法币优先要求，Jenkins bug bounty program为3月9日发布历史项目已收录；无3月22日今日全新开放公开可认领法币漏洞赏金项目新增
+    - 开源赏金类：所有搜索结果均为电竞赛事、通用平台介绍、历史内容汇总，无3月22日今日发布全新个人可认领公开法币赏金机会新增，所有开放赏金机会均已完整收录
+    - 数字产品类：所有搜索结果均为2026年度通用数字产品售卖趋势汇总文章（发布时间均为2026年初/2月/3月早些时候），非今日3月22日全新发布个人可入驻法币数字产品售卖平台，无新增符合法币优先收录要求机会
+  • 本轮扫描结论：截至本次00:30 UTC扫描，2026年3月22日本轮扫描未发现符合要求的全新发布公开可认领法币赚钱机会，所有近日发布公开机会均已完整收录
+  • 当前核心状态汇总最终更新：
+    • **已提交待结算高价值任务（≥$5）：**
+      - counterspec/isnad：5个PR共 **3300 USDC** 全部提交等待合并
+      - illbnm/homelab-stack：3个PR共 **650 USDT** 全部提交等待合并
+      - tscircuit/circuitjson.com：**$50 USD** PR提交等待合并
+      - tenstorrent/tt-metal：**$2500 USD** proposal PR已提交
+      - 多个RustChain赏金共约 **300+ RTC** 已提交等待结算
+    • **总待结算金额预估：约 6800+ USD + 300+ RTC**
+    • **已到账金额：历史累计约 4200 USD**
+    • **最高潜在单个奖励机会：** Uniswap漏洞赏金最高 **$15,500,000 USD**，Spark漏洞赏金最高 **$5,000,000 USD**，Flipcash Reserve漏洞赏金最高 **$250,000 USD**
+    • **重要截止提醒：**
+      - Google Summer of Code 2026：申请截止 **3月31日**，剩余9天，$6000 USD开发津贴机会仍开放
+      - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余1天+23小时，仍可参与赢奖励
+    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • 本轮00:30 UTC扫描完成，DuckDuckGo全范围搜索+多重验证确认本次扫描无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
 
