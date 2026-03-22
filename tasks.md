@@ -20,8 +20,8 @@
     - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
     - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
     - OOBE Developer Bounty Track 1：提交截止 **3月22日20:15 UTC**，剩余1天+1小时+17分钟，可参与赢最高$1791奖励
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
-  • 本轮18:47 UTC扫描完成，Exa深度搜索双重验证确认今日（2026-03-21）本轮扫描新增1个全新发布未收录赚钱机会，已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |-e 
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • 本轮18:47 UTC扫描完成，Exa深度搜索双重验证确认今日（2026-03-21）本轮扫描新增1个全新发布未收录赚钱机会，已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |-e
 | BT-0337 | 2026-03-21T18:51:00Z | cron-scan | 本次18:51小时扫描完成 | $0 USD |  | scanned | 2026-03-21T18:51:00Z | 本轮DuckDuckGo免费搜索完成，多轮关键词验证扫描：
   • 今日（2026-03-21）18:51 UTC本轮扫描：
     - 搜索关键词覆盖"new bug bounty program 21 March 2026"、"new open source bounty 21 March 2026"、"2026-03-21 new digital product selling opportunities"
@@ -42,12 +42,12 @@
 
   • **最高潜在单个奖励：** Uniswap漏洞赏金最高 **$15,500,000 USD**，Spark漏洞赏金最高 **$5,000,000 USD**，Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
 
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮18:51 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描新增FreeCAD赏金计划1个全新机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 | BT-0364 | 2026-03-21T18:58:00Z | cron-scan | FreeCAD 2026 Bug Bounty Program Renewal | €250 EUR / 5 fixes | https://blog.freecad.org/2026/03/21/the-bug-bounty-program-has-been-renewed/ | open | 2026-03-21T18:58:00Z | FreeCAD项目协会今日续签了2026年度bug赏金计划，总预算€5,000，规则简单：修复FreeCAD GitHub issue tracker上5个已确认issue即可获得€250奖励，公开可认领，法币支付，欢迎开发者参与 |
 
--e 
+-e
 | BT-0338 | 2026-03-21T19:21:00Z | cron-scan | 本次19:21小时扫描完成 | $0 USD |  | scanned | 2026-03-21T19:21:00Z | 本轮DuckDuckGo免费搜索完成，多轮关键词验证扫描：
   • 今日（2026-03-21）19:21 UTC本轮扫描：
     - 搜索关键词覆盖"new bug bounty program 21 March 2026"、"new open source bounty 21 March 2026"、"2026-03-21 new digital product selling opportunities"
@@ -68,7 +68,7 @@
 
   • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
 
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮19:21 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 | BT-0339 | 2026-03-21T19:39:00Z | cron-scan | 本次19:39小时扫描完成 | $0 USD |  | scanned | 2026-03-21T19:39:00Z | 本轮Exa深度全类别扫描完成，多关键词全类别验证结果：
@@ -93,7 +93,7 @@
     - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
     - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
     - OOBE Developer Bounty Track 1：提交截止 **3月22日20:15 UTC**，剩余1天+46分钟，可参与赢最高$1791奖励
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮19:39 UTC扫描完成，Exa深度搜索双重验证确认今日（2026-03-21）本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
 | BT-0340 | 2026-03-21T19:40:00Z | cron-scan | 本次19:40小时扫描完成 | $0 USD |  | scanned | 2026-03-21T19:40:00Z | 本轮Exa+DuckDuckGo双重搜索完成，多关键词全类别验证结果：
   • 今日（2026-03-21）19:40 UTC本轮扫描：
@@ -117,7 +117,7 @@
     - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
     - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
     - OOBE Developer Bounty Track 1：提交截止 **3月22日20:15 UTC**，剩余1天+26分钟，可参与赢最高$1791奖励
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮19:40 UTC扫描完成，Exa+DuckDuckGo双重搜索验证确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
 | BT-0341 | 2026-03-21T19:49:00Z | cron-scan | 本次19:49小时扫描完成 | $0 USD |  | scanned | 2026-03-21T19:49:00Z | 本轮Exa深度搜索+DuckDuckGo免费搜索双重验证完成，多关键词全类别扫描结果：
   • 今日（2026-03-21）19:49 UTC本轮扫描：
@@ -141,7 +141,7 @@
     - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
     - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
     - OOBE Developer Bounty Track 1：提交截止 **3月22日20:15 UTC**，剩余1天+26分钟，可参与赢最高$1791奖励
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮19:49 UTC扫描完成，Exa+DuckDuckGo双重搜索验证确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
 
 | BT-0342 | 2026-03-21T20:01:00Z | cron-scan | 本次20:01小时扫描完成 | $0 USD |  | scanned | 2026-03-21T20:01:00Z | 本轮DuckDuckGo免费搜索完成，三大类别多关键词验证扫描：
@@ -164,9 +164,9 @@
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
       - OOBE Developer Bounty Track 1：提交截止 **3月22日20:15 UTC**，剩余1天+14分钟，可参与赢最高$1791奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，请勿点击未知链接
   • 本轮20:01 UTC扫描完成，DuckDuckGo搜索验证确认今日（2026-03-21）本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
--e 
+-e
 | BT-0339 | 2026-03-21T20:20:00Z | cron-scan | 本次20:20小时扫描完成 | $0 USD |  | scanned | 2026-03-21T20:20:00Z | 本轮DuckDuckGo免费搜索完成，多轮关键词验证扫描：
   • 今日（2026-03-21）20:20 UTC本轮扫描：
     - 搜索关键词覆盖"new bug bounty program 21 March 2026"、"new open source bounty 21 March 2026"、"2026-03-21 new digital product selling opportunities"
@@ -190,7 +190,7 @@
     - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
     - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
     - OOBE Developer Bounty Track 1：提交截止 **3月22日20:15 UTC**，剩余 - 45分钟，可参与赢最高$1791奖励
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮20:30 UTC扫描完成，DuckDuckGo搜索验证确认今日（2026-03-21）本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
 | BT-0365 | 2026-03-21T20:30:00Z | cron-scan | 本次20:30小时扫描完成 | $0 USD |  | scanned | 2026-03-21T20:30:00Z | 本轮DuckDuckGo免费搜索完成，三大类别多关键词双重验证扫描结果：
   • 今日（2026-03-21）20:30 UTC本轮扫描：
@@ -237,7 +237,7 @@
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
       - OOBE Developer Bounty Track 1：已过截止时间（3月22日20:15 UTC）
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮20:40 UTC深度扫描完成，Exa深度搜索+双重验证确认今日全天无新增符合要求全新发布未收录法币赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次扫描任务完成 |
 | BT-0367 | 2026-03-21T20:43:00Z | cron-scan | 本次20:43小时深度全类别扫描完成 | $0 USD |  | scanned | 2026-03-21T20:43:00Z | 本轮Exa深度全类别搜索+多关键词三重验证完成，扫描结果：
   • 今日（2026-03-21）20:43 UTC本轮最终深度扫描：
@@ -260,7 +260,7 @@
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
       - OOBE Developer Bounty Track 1：已过截止时间（3月22日20:15 UTC）
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮20:43 UTC最终深度扫描完成，Exa深度搜索+三重验证确认今日（2026-03-21）全天仅新增FreeCAD 2026赏金计划1个符合要求机会，已收录完成，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 | BT-0368 | 2026-03-21T20:51:00Z | cron-scan | 本次20:51小时扫描完成 | $0 USD |  | scanned | 2026-03-21T20:51:00Z | 本轮DuckDuckGo免费搜索完成，三大类别多关键词三重验证扫描结果：
   • 今日（2026-03-21）20:51 UTC本轮扫描：
@@ -284,10 +284,10 @@
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
       - OOBE Developer Bounty Track 1：已过截止时间（3月22日20:15 UTC）
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮20:51 UTC扫描完成，DuckDuckGo搜索三重验证确认今日（2026-03-21）本轮扫描无新增符合要求全新发布未收录法币赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
--e 
+-e
 | BT-0340 | 2026-03-21T21:14:00Z | cron-scan | 本次21:14小时扫描完成 | $0 USD |  | scanned | 2026-03-21T21:14:00Z | 本轮DuckDuckGo免费搜索完成，多轮关键词验证扫描：
   • 今日（2026-03-21）21:14 UTC本轮扫描：
     - 搜索关键词覆盖"new bug bounty program 21 March 2026"、"new open source bounty 21 March 2026"、"2026-03-21 new digital product selling opportunities"
@@ -308,7 +308,7 @@
 
   • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
 
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮21:14 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 | BT-0369 | 2026-03-21T21:42:00Z | cron-scan | 本次21:42小时扫描完成 | $0 USD |  | scanned | 2026-03-21T21:42:00Z | 本轮DuckDuckGo免费搜索完成，三大类别多关键词三重验证扫描结果：
@@ -333,10 +333,10 @@
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
       - OOBE Developer Bounty Track 1：已过截止时间（3月22日20:15 UTC）
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮21:42 UTC扫描完成，DuckDuckGo搜索三重验证确认今日（2026-03-21）本轮扫描无新增符合要求全新发布未收录法币赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
--e 
+-e
 | BT-0370 | 2026-03-21T21:44:00Z | cron-scan | 本次21:44小时扫描完成 | $0 USD |  | scanned | 2026-03-21T21:44:00Z | 本轮DuckDuckGo免费搜索三重验证完成，三大类别多关键词深度扫描结果：
   • 今日（2026-03-21）21:44 UTC本轮扫描：
     - 三重关键词搜索完整覆盖漏洞赏金、开源赏金、数字产品售卖三大类别3月21日最新发布关键词："new bug bounty program 21 March 2026"、"new open source bounty 21 March 2026"、"2026-03-21 new digital product selling opportunities"
@@ -359,12 +359,12 @@
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
       - OOBE Developer Bounty Track 1：已过截止时间（3月22日20:15 UTC）
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮21:44 UTC扫描完成，DuckDuckGo搜索三重验证确认今日（2026-03-21）全天仅新增FreeCAD 2026赏金计划1个符合要求机会，已收录完成，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
--e 
+-e
 
--e 
+-e
 | BT-0371 | 2026-03-21T21:52:00Z | cron-scan | 本次21:52小时扫描完成 | $0 USD |  | scanned | 2026-03-21T21:52:00Z | 本轮DuckDuckGo免费搜索三重验证完成，三大类别多关键词深度扫描结果：
   • 今日（2026-03-21）21:52 UTC本轮扫描：
     - 三重关键词搜索完整覆盖漏洞赏金、开源赏金、数字产品售卖三大类别3月21日最新发布关键词，再次深度验证：
@@ -386,7 +386,7 @@
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
       - OOBE Developer Bounty Track 1：已过截止时间（3月22日20:15 UTC）
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮21:52 UTC扫描完成，DuckDuckGo搜索三重验证确认今日（2026-03-21）全天无新增符合要求全新发布未收录法币赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
 | BT-0372 | 2026-03-21T22:02:00Z | cron-scan | 本次22:02小时扫描完成 | $0 USD |  | scanned | 2026-03-21T22:02:00Z | 本轮DuckDuckGo免费搜索五组关键词全范围扫描，三大类别深度验证结果：
@@ -409,7 +409,7 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮22:02 UTC扫描完成，DuckDuckGo全范围搜索+多重验证确认今日（2026-03-21）全天无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
 | BT-0373 | 2026-03-21T22:30:00Z | cron-scan | 本次22:30小时扫描完成 | $0 USD |  | scanned | 2026-03-21T22:30:00Z | 本轮DuckDuckGo免费搜索全范围深度扫描，三大类别多重关键词验证结果：
@@ -433,11 +433,11 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮22:30 UTC扫描完成，DuckDuckGo搜索+多重验证确认今日（2026-03-21）本轮扫描无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
--e 
--e 
+-e
+-e
 | BT-0342 | 2026-03-21T22:34:00Z | cron-scan | 本次22:34小时扫描完成 | $0 USD |  | scanned | 2026-03-21T22:34:00Z | 本轮DuckDuckGo免费搜索完成，多轮关键词验证扫描：
   • 今日（2026-03-21）22:34 UTC本轮扫描：
     - 搜索关键词覆盖"new bug bounty program 21 March 2026"、"new open source bounty 21 March 2026"、"2026-03-21 new digital product selling opportunities"
@@ -458,7 +458,7 @@
 
   • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
 
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮22:34 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
@@ -483,7 +483,7 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮22:43 UTC扫描完成，DuckDuckGo搜索+多重验证确认今日（2026-03-21）本轮扫描无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
 | BT-0375 | 2026-03-21T22:45:00Z | cron-scan | 本次22:45小时最终扫描完成 | $0 USD |  | scanned | 2026-03-21T22:45:00Z | 本轮DuckDuckGo全范围5组关键词最终深度扫描验证完成，三大类别全覆盖扫描结果：
@@ -507,12 +507,12 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮22:45 UTC最终扫描完成，DuckDuckGo全范围5组关键词深度验证确认今日（2026-03-21）全天无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
 
 
--e 
+-e
 | BT-0376 | 2026-03-21T22:53:00Z | cron-scan | 本次22:53小时扫描完成 | $0 USD |  | scanned | 2026-03-21T22:53:00Z | 本轮DuckDuckGo全范围关键词深度扫描完成，三大类别全覆盖验证结果：
   • 今日（2026-03-21）22:53 UTC本轮最终扫描：
     - 完整扫描所有最新关键词覆盖三大类别，共50+搜索结果深度验证：
@@ -533,7 +533,7 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮22:53 UTC扫描完成，DuckDuckGo搜索多重验证确认今日（2026-03-21）本轮扫描无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
 | BT-0377 | 2026-03-21T23:02:00Z | cron-scan | 本次23:02小时扫描完成 | $0 USD |  | scanned | 2026-03-21T23:02:00Z | 本轮DuckDuckGo全范围关键词深度扫描完成，三大类别多关键词最终全覆盖验证结果：
@@ -556,10 +556,10 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮23:02 UTC扫描完成，DuckDuckGo全范围搜索+四重验证确认今日（2026-03-21）全天无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
--e 
+-e
 | BT-0343 | 2026-03-21T23:04:00Z | cron-scan | 本次23:04小时扫描完成 | $0 USD |  | scanned | 2026-03-21T23:04:00Z | 本轮DuckDuckGo免费搜索完成，多轮关键词验证扫描：
   • 今日（2026-03-21）23:04 UTC本轮扫描：
     - 搜索关键词覆盖"new bug bounty program 21 March 2026"、"new open source bounty 21 March 2026"、"2026-03-21 new digital product selling opportunities"
@@ -580,7 +580,7 @@
 
   • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
 
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮23:04 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 | BT-0378 | 2026-03-21T23:30:00Z | cron-scan | 本次23:30小时扫描完成 | $0 USD |  | scanned | 2026-03-21T23:30:00Z | 本轮DuckDuckGo免费搜索全范围深度扫描完成，三大类别多关键词最终全覆盖验证结果：
@@ -603,10 +603,10 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮23:30 UTC扫描完成，DuckDuckGo全范围搜索+四重验证确认今日（2026-03-21）全天无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
--e 
+-e
 | BT-0344 | 2026-03-21T23:34:00Z | cron-scan | 本次23:34小时扫描完成 | $0 USD |  | scanned | 2026-03-21T23:34:00Z | 本轮DuckDuckGo免费搜索完成，多轮关键词验证扫描：
   • 今日（2026-03-21）23:34 UTC本轮扫描：
     - 搜索关键词覆盖"new bug bounty program 21 March 2026"、"new open source bounty 21 March 2026"、"2026-03-21 new digital product selling opportunities"
@@ -627,7 +627,7 @@
 
   • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
 
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮23:34 UTC扫描完成，确认今日（2026-03-21）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 | BT-0379 | 2026-03-21T23:44:00Z | cron-scan | 本次23:44小时扫描完成 | $0 USD |  | scanned | 2026-03-21T23:44:00Z | 本轮DuckDuckGo免费搜索全范围深度扫描完成，四大关键词全覆盖验证结果：
@@ -650,7 +650,7 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮23:44 UTC扫描完成，DuckDuckGo全范围搜索+多重验证确认今日（2026-03-21）全天无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 | BT-0380 | 2026-03-21T23:47:00Z | cron-scan | 本次23:47小时扫描完成 | $0 USD |  | scanned | 2026-03-21T23:47:00Z | 本轮DuckDuckGo免费搜索全范围深度扫描完成，三大类别多关键词全覆盖验证结果：
   • 当前时间（2026-03-21）23:47 UTC本轮本次小时扫描：
@@ -672,7 +672,7 @@
     • **重要截止提醒：**
       - Google Summer of Code 2026：申请截止 **3月31日**，剩余10天，$6000 USD开发津贴机会仍开放
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
-    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+    • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮23:47 UTC扫描完成，DuckDuckGo全范围搜索+多重验证确认本次扫描无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 | BT-0381 | 2026-03-21T23:55:00Z | cron-scan | 本次23:55小时扫描完成 | $0 USD |  | scanned | 2026-03-21T23:55:00Z | 本轮DuckDuckGo免费搜索全范围深度扫描完成，五大关键词全覆盖验证结果：
   • 当前时间（2026-03-21）23:55 UTC本轮本次小时扫描：
@@ -696,9 +696,31 @@
       - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余2天，仍可参与赢奖励
     • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
   • 本轮23:55 UTC扫描完成，DuckDuckGo全范围搜索+多重验证确认本次扫描无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
--e
-
 -e 
+| BT-0382 | 2026-03-22T00:02:00Z | cron-scan | 本次00:02小时扫描完成 | $0 USD |  | scanned | 2026-03-22T00:02:00Z | 本轮DuckDuckGo免费搜索全范围深度扫描完成，五大关键词全覆盖验证结果：
+  • 当前时间（2026-03-22）00:02 UTC本轮小时扫描：
+    - 五大类别关键词完整扫描验证："new bug bounty program 22 March 2026"、"new open source bounty 22 March 2026"、"2026-03-22 new digital product selling opportunities"、"march 22 2026 bug bounty launch"、"today new bounty program 2026 fiat"，共返回超过40条搜索结果深度验证：
+    - 漏洞赏金类：所有搜索结果均为3月21日及之前发布的历史项目重复报道：FreeCAD（3月21日发布已收录）、UIDAI（3月18日发布已收录），Jenkins bug bounty program为3月9日发布历史项目已在此前收录；Exponent bug bounty on Immunefi为crypto项目，无3月22日今日全新开放公开可认领法币漏洞赏金项目新增
+    - 开源赏金类：所有搜索结果均为电竞赛事、游戏兑换码、通用科普文章，无3月22日今日发布全新个人可认领公开法币赏金机会新增，所有开放赏金机会均已完整收录
+    - 数字产品类：所有搜索结果均为2026年度通用数字产品售卖趋势汇总文章（发布时间均为2026年初/2月/3月早些时候），非今日3月22日全新发布个人可入驻法币数字产品售卖平台，无新增符合法币优先收录要求机会
+  • 本轮扫描结论：截至本次00:02 UTC扫描，2026年3月22日本轮扫描未发现符合要求的全新发布公开可认领法币赚钱机会，所有近日发布公开机会均已完整收录
+  • 当前核心状态汇总更新：
+    • **已提交待结算高价值任务（≥$5）：**
+      - counterspec/isnad：5个PR共 **3300 USDC** 全部提交等待合并
+      - illbnm/homelab-stack：3个PR共 **650 USDT** 全部提交等待合并
+      - tscircuit/circuitjson.com：**$50 USD** PR提交等待合并
+      - tenstorrent/tt-metal：**$2500 USD** proposal PR已提交
+      - 多个RustChain赏金共约 **300+ RTC** 已提交等待结算
+    • **总待结算金额预估：约 6800+ USD + 300+ RTC**
+    • **已到账金额：历史累计约 4200 USD**
+    • **最高潜在单个奖励机会：** Uniswap漏洞赏金最高 **$15,500,000 USD**，Spark漏洞赏金最高 **$5,000,000 USD**，Flipcash Reserve漏洞赏金最高 **$250,000 USD**
+    • **重要截止提醒：**
+      - Google Summer of Code 2026：申请截止 **3月31日**，剩余9天，$6000 USD开发津贴机会仍开放
+      - Intigriti March 2026 CTF Challenge：提交截止 **3月23日**，剩余1天+23小时，仍可参与赢奖励
+    • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • 本轮00:02 UTC扫描完成，DuckDuckGo全范围搜索+多重验证确认本次扫描无新增符合法币优先要求的全新未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
+
+-e
 | BT-0345 | 2026-03-22T00:04:00Z | cron-scan | 本次00:04小时扫描完成 | $0 USD |  | scanned | 2026-03-22T00:04:00Z | 本轮DuckDuckGo免费搜索完成，多轮关键词验证扫描：
   • 今日（2026-03-22）00:04 UTC本轮扫描：
     - 搜索关键词覆盖"new bug bounty program 22 March 2026"、"new open source bounty 22 March 2026"、"2026-03-22 new digital product selling opportunities"
@@ -719,7 +741,7 @@
 
   • **最高潜在单个奖励：** Flipcash Reserve漏洞赏金最高 **$250,000 USD**，IBM x HackerOne AI赏金最高 **$100,000 USD**，Apple Secure Enclave最高 **$100,000 USD**
 
-  • **安全提醒：** 继续保持钓鱼预警 — 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
+  • **安全提醒：** 继续保持钓鱼预警 - 针对OpenClaw开发者的GitHub假$CLAW空投钓鱼骗局已曝光，诈骗分子冒充官方空投盗取钱包私钥，请注意防范，请勿点击未知链接
 
   • 本轮00:04 UTC扫描完成，确认今日（2026-03-22）截至本轮扫描无新增全新发布未收录赚钱机会，所有公开可认领机会已完整同步到sungdark/bounty-tracker仓库，本次小时扫描任务完成 |
 
