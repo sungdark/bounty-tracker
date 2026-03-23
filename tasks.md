@@ -316,4 +316,4 @@
 
 | BT-0298 | 2026-03-23T12:46:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5906 | pr_open | 开发中 | 2026-03-23T12:46:00Z | Offline sync无音频播放器 - 同步后conversation无法回放录音 |
 | BT-0299 | 2026-03-23T12:46:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5907 | pr_open | 开发中 | 2026-03-23T12:46:00Z | Offline sync无speaker diarization - 只有泛泛的Speaker 1/2标签，直播录音则正常 |
-| BT-0300 | 2026-03-23T12:46:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2545 | pr_open | 开发中 | 2026-03-23T12:46:00Z | overlay shortcut reminder和notification UI不原生，macOS上需点击才能交互 |
+| BT-0300 | 2026-03-23T12:46:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2545 | pr_open | 已提交 | 2026-03-23T12:54:00Z | PR #2578: 修复ShortcutReminderController的ObservableObject conformance，使hover状态正确更新isExpanded | | 2026-03-23T12:46:00Z | overlay shortcut reminder和notification UI不原生，macOS上需点击才能交互 |
