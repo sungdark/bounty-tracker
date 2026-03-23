@@ -253,3 +253,5 @@
 | BT-0240 | 2026-03-22T08:39:00Z | github | vllm-project/vllm | $5000 USD | https://github.com/vllm-project/vllm/issues/9807 | available | 新机会 | 2026-03-22T08:39:00Z | [Feature] Integrate Writing in the Margins inference pattern，需要实现HuggingFace transformers版本的WiM算法集成到vLLM，涉及chunked prefill和batch generation优化 |
 | BT-0241 | 2026-03-22T08:39:00Z | github | oramasearch/orama | $150 USD | https://github.com/oramasearch/orama/issues/866 | available | 新机会 | 2026-03-22T08:39:00Z | Bug: search exact:true不工作，部分匹配也被返回，需要修复Orama 3.0.4中的exact搜索逻辑 |
 | BT-0242 | 2026-03-22T08:39:00Z | github | dmb4086/agentwork-infrastructure | 100 tokens | https://github.com/dmb4086/agentwork-infrastructure/issues/3 | available | 新机会 | 2026-03-22T08:39:00Z | API Documentation + Python SDK，需要创建OpenAPI spec和Python SDK包发布到PyPI |
+
+| BT-0243 | 2026-03-23T00:36:00Z | github | BasedHardware/omi | $500 USD | https://github.com/BasedHardware/omi/issues/3039 | pr_open | 已提交 | 2026-03-23T00:36:00Z | PR #5918：NER Speaker Detection，spaCy PERSON实体识别speaker名称，$500赏金 | 
