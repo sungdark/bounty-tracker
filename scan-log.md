@@ -52,3 +52,16 @@
 
 ### 槽位更新
 - BT-0270 (#2300) 和 BT-0271 (#2303) 已被他人抢占，从可用列表移除
+
+## 2026-03-23 13:47 UTC — 全量扫描（第3次）
+
+### 新增任务 BT-0306~BT-0307
+- Variational (Immunefi) — $10K-$100K，3月16日新上线
+- Ern (Immunefi) — $11K-$50K，3月3日新上线
+
+### PR状态
+- BT-0302~BT-0305：BasedHardware/omi 和 screenpipe PRs 已提交
+
+### GitHub RustChain
+- 近6小时无新 bounty issue
+- 无新合并 PR

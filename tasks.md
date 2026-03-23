@@ -324,3 +324,6 @@
 
 | BT-0304 | 2026-03-23T12:57:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2569 | pr_open | 已提交 | 2026-03-23T13:09:00Z | PR #2578更新: 移除PostHog cloud-sync flag，改为用/api/cloud-sync/subscription基于账户订阅状态 | | 2026-03-23T12:57:00Z | PR #2578更新: 移除PostHog cloud-sync flag，改为用/api/cloud-sync/subscription基于账户订阅状态 |
 | BT-0305 | 2026-03-23T12:57:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5912 | pr_open | 已提交 | 2026-03-23T13:18:00Z | PR #5948更新: deepgram_prerecorded()添加keywords参数，从用户首选项获取vocabulary传递给离线转录 | | 2026-03-23T12:57:00Z | Offline sync custom vocabulary未应用 - 离线转录pipeline缺少vocabulary参数传递 |
+
+| BT-0306 | 2026-03-23T13:48:00Z | immunefi | Variational | $10,000-$100,000 USD | https://immunefi.com/bug-bounty/variational/information/ | available | 新机会 | 2026-03-23T13:48:00Z | 3月16日新上线Immunefi，智能合约+Web范围，最高$100K，需KYC+PoC，10% affected funds |
+| BT-0307 | 2026-03-23T13:48:00Z | immunefi | Ern | $11,000-$50,000 USD | https://immunefi.com/bug-bounty/ern/information/ | available | 新机会 | 2026-03-23T13:48:00Z | 3月3日新上线Immunefi，Yield Aggregator智能合约范围，$11K-$50K，需KYC+PoC+仲裁 |
