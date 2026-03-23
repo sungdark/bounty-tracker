@@ -22,11 +22,11 @@
 | BT-0015 | 2026-03-18T00:46:00Z | github | counterspec/isnad | 750 USDC | https://github.com/counterspec/isnad/issues/5 | pr_open | 已提交 | 2026-03-18T09:25:00Z | GitLab CI integration template 已完成创建，PR已创建 |
 | BT-0016 | 2026-03-18T00:46:00Z | github | counterspec/isnad | 750 USDC | https://github.com/counterspec/isnad/issues/6 | pr_open | 已提交 | 2026-03-18T13:55:00Z | VS Code extension complete implementation，PR已创建 |
 | BT-0017 | 2026-03-18T00:40:00Z | github | Scottcjn/rustchain-bounties | 500 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/478 | comment_submitted | 已提交 | 2026-03-18T13:05:00Z | 已完成star和评论认领 |
-| BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | 80 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/436 | 已提交 | 工作中 | 2026-03-23T00:49:00Z | 代码完成但未提交PR！需立即提交PR！ | 
+| BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | 80 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/436 | 已提交 | 工作中 | 2026-03-23T00:49:00Z | PR #2377已提交：Apple II 6502矿机移植 | 
 | BT-0019 | 2026-03-18T00:54:00Z | github | Scottcjn/Rustchain | 500 USDC | https://github.com/Scottcjn/Rustchain/issues/425 | available | 新机会 | 2026-03-18T00:54:00Z | 5000星推广活动奖励池 |
 | BT-0020 | 2026-03-18T00:56:00Z | github | asyncapi | $1600 USD | https://github.com/orgs/asyncapi/projects/36 | available | 新机会 | 2026-03-18T00:56:00Z | 2026-03轮赏金计划总预算 |
 | BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-18T13:05:00Z | 实现完整存储服务栈，PR已创建 |
-| BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | 已提交 | 工作中 | 2026-03-23T00:49:00Z | AI服务栈代码完成但未提交PR！需立即提交PR！ | 
+| BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | 已提交 | 工作中 | 2026-03-23T00:49:00Z | PR #263已提交：AI Stack (Ollama+OpenWebUI+StableDiffusion+Perplexica) | 
 | BT-0023 | 2026-03-18T01:51:00Z | bountyhub | BountyHub | $0+ USD | https://www.bountyhub.dev/ | available | 新机会 | 2026-03-18T01:51:00Z | GitHub赏金聚合平台 |
 | BT-0024 | 2026-03-18T01:51:00Z | yeswehack | KOMOJU | $50-7000 USD | https://yeswehack.com/programs/komoju-public-bug-bounty-program | available | 新机会 | 2026-03-18T01:51:00Z | 金融公司公开漏洞赏金计划 |
 | BT-0025 | 2026-03-18T01:51:00Z | yeswehack | Dailymotion | €50-3300 EUR | https://yeswehack.com/programs/dailymotion-public-bug-bounty | available | 新机会 | 2026-03-18T01:51:00Z | 视频平台公开漏洞赏金 |
@@ -53,7 +53,7 @@
 | BT-0046 | 2026-03-18T04:06:00Z | google | Google Summer of Code 2026 | stipend USD | https://summerofcode.withgoogle.com/ | available | 新机会 | 2026-03-18T04:06:00Z | 2026 GSoC申请已开放，截止3月31日 |
 | BT-0047 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 180 USDT | https://github.com/illbnm/homelab-stack/issues/1 | pr_open | 已提交 | 2026-03-22T10:35:00Z | PR #237：docker-socket-proxy + Traefik安全 + Watchtower通知 |
 | BT-0048 | 2026-03-18T04:58:00Z | github | illbnm/homelab-stack | 280 USDT | https://github.com/illbnm/homelab-stack/issues/10 | pr_open | 已提交 | 2026-03-22T10:35:00Z | PR #238：Grafana OnCall + UptimeKuma + 完整监控栈 |
-| BT-0049 | 2026-03-18T04:58:00Z | github | Scottcjn/rustchain-bounties | 50-75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/747 | 已提交 | 工作中 | 2026-03-23T00:49:00Z | Bounty Verification Bot代码完成但未提交PR！需立即提交！ | 
+| BT-0049 | 2026-03-18T04:58:00Z | github | Scottcjn/rustchain-bounties | 50-75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/747 | 已提交 | 工作中 | 2026-03-23T00:49:00Z | PR #2378已提交：Bounty验证机器人 | 
 | BT-0050 | 2026-03-18T04:58:00Z | github | asyncapi/cli | varies USD | https://github.com/asyncapi/cli/issues/2039 | available | 新机会 | 2026-03-18T04:58:00Z | 2026-04 Bounty Program，多个子issues可认领 |
 | BT-0051 | 2026-03-18T06:39:00Z | hackerone | Apple Bug Bounty Expansion | up to double USD | https://www.bleepingcomputer.com/tag/bug-bounty-program/ | available | 新机会 | 2026-03-18T06:39:00Z | Apple宣布大幅扩展漏洞赏金计划 |
 | BT-0052 | 2026-03-18T06:39:00Z | google | Google AI Bug Bounty | up to $30000 USD | https://www.techbuzz.ai/articles/google-launches-ai-bug-bounty-program-with-30k-top-rewards | available | 新机会 | 2026-03-18T06:39:00Z | Google全新推出AI专门漏洞赏金计划 |
