@@ -333,3 +333,5 @@
 | BT-0308 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2571 | pr_open | 开发中 | 2026-03-23T13:55:00Z | MacOS memory leaks - 需排查和修复内存泄漏 |
 | BT-0309 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2568 | pr_open | 开发中 | 2026-03-23T13:55:00Z | screenpipe与Netflix不兼容 - 需修复DRM或capture相关问题 |
 | BT-0310 | 2026-03-23T13:55:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5917 | pr_open | 已提交 | 2026-03-23T14:04:00Z | PR #5948更新: 恢复Device Settings页面，修复.naviGateToDeviceSettings和SidebarView条件隐藏 |
+
+| BT-0311 | 2026-03-23T14:04:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5941 | pr_open | 开发中 | 2026-03-23T14:04:00Z | sync-local-files 504超时 - 大payload超过120s限制，需增加TimeoutMiddleware超时或改为后台处理 |
