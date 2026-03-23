@@ -291,7 +291,7 @@
 
 | BT-0275 | 2026-03-23T08:33:00Z | github | Scottcjn/rustchain-bounties | 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2297 | available | 新机会 | 2026-03-23T08:33:00Z | RustChain Python SDK，100 RTC，完整封装钱包/链交互/合约，发布到PyPI，可独立完成 |
 | BT-0276 | 2026-03-23T08:33:00Z | github | Scottcjn/rustchain-bounties | 250 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2277 | available | 新机会 | 2026-03-23T08:33:00Z | NUMA-Aware Model Sharding for POWER8 llama.cpp (250 RTC)，C++/NUMA/POWER8开发 |
-| BT-0277 | 2026-03-23T08:33:00Z | github | Scottcjn/rustchain-bounties | 200 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2275 | available | 新机会 | 2026-03-23T08:33:00Z | Formal Verification of Epoch Settlement Logic (200 RTC)，形式化验证专家 |
+| BT-0277 | 2026-03-23T08:33:00Z | github | Scottcjn/Rustchain | 200 RTC | https://github.com/Scottcjn/Rustchain/pull/1734 | merged | 已采纳 | 2026-03-23T11:00:00Z | PR #1734 已合并，200 RTC 待结算 |
 | BT-0278 | 2026-03-23T08:33:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2276 | available | 新机会 | 2026-03-23T08:33:00Z | Red Team: Hardware Fingerprint Replay Attack Defense (150 RTC)，安全研究 |
 | BT-0279 | 2026-03-23T08:33:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2312 | available | 新机会 | 2026-03-23T08:33:00Z | Rent-a-Relic Market — Book Authenticated Vintage Compute (150 RTC)，前端+后端完整实现 |
 | BT-0280 | 2026-03-23T08:33:00Z | github | Scottcjn/rustchain-bounties | 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2278 | available | 新机会 | 2026-03-23T08:33:00Z | Ergo Anchor Chain Proof Verifier — Independent Audit Tool (100 RTC) |
