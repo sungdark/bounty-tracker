@@ -319,7 +319,7 @@
 | BT-0300 | 2026-03-23T12:46:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2545 | pr_open | 已提交 | 2026-03-23T12:54:00Z | PR #2578: 修复ShortcutReminderController的ObservableObject conformance，使hover状态正确更新isExpanded | | 2026-03-23T12:46:00Z | overlay shortcut reminder和notification UI不原生，macOS上需点击才能交互 |
 
 | BT-0301 | 2026-03-23T12:57:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2547 | pr_open | 开发中 | 2026-03-23T12:57:00Z | Dead code cleanup - cargo check修复所有dead_code/unused_imports/unused_variables警告 |
-| BT-0302 | 2026-03-23T12:57:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5900 | pr_open | 开发中 | 2026-03-23T12:57:00Z | Two way tasks sync - 实现任务双向同步功能 |
+| BT-0302 | 2026-03-23T12:57:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5900 | pr_open | 已提交 | 2026-03-23T13:09:00Z | PR #5948: 实现双向任务同步，添加从外部平台拉取任务+更新已导入任务状态 | | 2026-03-23T12:57:00Z | Two way tasks sync - 实现任务双向同步功能 |
 | BT-0303 | 2026-03-23T12:57:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5904 | pr_open | 已提交 | 2026-03-23T13:04:00Z | PR #5947: 新增UnsubscribeReasonDialog组件，6个原因选项+可选详情，API和backend同步记录原因 | | 2026-03-23T12:57:00Z | Add unsubscribing reason option - 取消订阅前添加原因选择对话框 |
 
 | BT-0304 | 2026-03-23T12:57:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2569 | available | 待开工 | 2026-03-23T12:57:00Z | Cloud sync toggle多设备不可用 - PostHog feature flag按device而非account分配，需改为基于订阅状态 |
