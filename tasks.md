@@ -308,7 +308,7 @@
 | BT-0291 | 2026-03-23T08:33:00Z | github | Scottcjn/rustchain-bounties | 50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2274 | available | 新机会 | 2026-03-23T08:33:00Z | CVPR 2026 Paper Human Evaluation — 2AFC Video Quality Assessment (50 RTC) |
 | BT-0292 | 2026-03-23T08:33:00Z | github | Scottcjn/rustchain-bounties | 30 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2299 | pr_open | 已提交 | 2026-03-23T08:33:00Z | BoTTube Telegram Bot — PR #2385已提交，30 RTC待审核 |
 
-| BT-0293 | 2026-03-23T12:37:00Z | github | illbnm/homelab-stack | $80 USDT | https://github.com/illbnm/homelab-stack/issues/13 | pr_open | 开发中 | 2026-03-23T12:37:00Z | Notifications Stack - ntfy+Gotify统一通知中心，enhance docker-compose + notify.sh + Alertmanager配置 + README |
+| BT-0293 | 2026-03-23T12:37:00Z | github | illbnm/homelab-stack | $80 USDT | https://github.com/illbnm/homelab-stack/issues/13 | pr_open | 已提交 | 2026-03-23T12:43:00Z | PR #269已提交: Notifications Stack增强完成，ntfy+notify.sh+Alertmanager配置+README |
 | BT-0294 | 2026-03-23T12:37:00Z | github | illbnm/homelab-stack | $130 USDT | https://github.com/illbnm/homelab-stack/issues/11 | pr_open | 开发中 | 2026-03-23T12:37:00Z | Database Layer - PostgreSQL多租户+Redis多数据库+pgAdmin+MariaDB，幂等init脚本 |
 | BT-0295 | 2026-03-23T12:37:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/12 | pr_open | 开发中 | 2026-03-23T12:37:00Z | Backup & DR - 完善backup.sh + disaster-recovery.md + Restic REST Server集成 |
 | BT-0296 | 2026-03-23T12:37:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2548 | pr_open | 开发中 | 2026-03-23T12:37:00Z | Meeting Detector fast end - 检测Leave/End点击信号，5s短超时+进程退出立即结束 |
