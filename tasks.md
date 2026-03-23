@@ -273,3 +273,4 @@
 | BT-0259 | 2026-03-22T19:42:00Z | github | BasedHardware/omi | $2000 USD | https://github.com/BasedHardware/omi/issues/1812 | available | 新机会 | 2026-03-22T19:42:00Z | Design omi recording from mobile app，需设计移动端录音UI/UX |
 | BT-0260 | 2026-03-22T19:42:00Z | github | BasedHardware/omi | $2000 USD | https://github.com/BasedHardware/omi/issues/619 | available | 新机会 | 2026-03-22T19:42:00Z | Apple Watch integration，需实现Apple Watch应用与omi的连接和功能，Algora平台 |
 | BT-0261 | 2026-03-22T22:42:00Z | github | calcom/cal.com | $500 USD | https://github.com/calcom/cal.com/issues/21050 | available | 新机会 | 2026-03-22T22:42:00Z | Outlook Cache优化，需实现Microsoft Graph Outlook change notifications减少日历查询次数，Bounty-to-Hire可转全职 |
+| BT-0262 | 2026-03-23T00:36:00Z | github | BasedHardware/omi | $500 USD | https://github.com/BasedHardware/omi/issues/3039 | pr_open | 已提交 | 2026-03-23T00:36:00Z | PR #5918：NER Speaker Detection，spaCy PERSON实体识别speaker名称，$500赏金 |
