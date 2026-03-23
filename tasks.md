@@ -321,3 +321,6 @@
 | BT-0301 | 2026-03-23T12:57:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2547 | pr_open | 开发中 | 2026-03-23T12:57:00Z | Dead code cleanup - cargo check修复所有dead_code/unused_imports/unused_variables警告 |
 | BT-0302 | 2026-03-23T12:57:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5900 | pr_open | 开发中 | 2026-03-23T12:57:00Z | Two way tasks sync - 实现任务双向同步功能 |
 | BT-0303 | 2026-03-23T12:57:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5904 | pr_open | 开发中 | 2026-03-23T12:57:00Z | Add unsubscribing reason option - 取消订阅前添加原因选择对话框 |
+
+| BT-0304 | 2026-03-23T12:57:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2569 | available | 待开工 | 2026-03-23T12:57:00Z | Cloud sync toggle多设备不可用 - PostHog feature flag按device而非account分配，需改为基于订阅状态 |
+| BT-0305 | 2026-03-23T12:57:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5912 | available | 待开工 | 2026-03-23T12:57:00Z | Offline sync custom vocabulary未应用 - 离线转录pipeline缺少vocabulary参数传递 |
