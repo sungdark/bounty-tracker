@@ -274,3 +274,8 @@
 | BT-0260 | 2026-03-22T19:42:00Z | github | BasedHardware/omi | $2000 USD | https://github.com/BasedHardware/omi/issues/619 | available | 新机会 | 2026-03-22T19:42:00Z | Apple Watch integration，需实现Apple Watch应用与omi的连接和功能，Algora平台 |
 | BT-0261 | 2026-03-22T22:42:00Z | github | calcom/cal.com | $500 USD | https://github.com/calcom/cal.com/issues/21050 | available | 新机会 | 2026-03-22T22:42:00Z | Outlook Cache优化，需实现Microsoft Graph Outlook change notifications减少日历查询次数，Bounty-to-Hire可转全职 |
 | BT-0262 | 2026-03-23T00:30:00Z | github | godotengine/godot | ~$1600+ USD (Opire) | https://github.com/godotengine/godot/issues/70796 | already_claimed | 已认领-核心团队开发中 | 2026-03-23T00:30:00Z | Issue #70796 C# .NET web exports - 已有DRAFT PR #106125 by raulsntos(Godot核心团队)实现中，Opire赏金$100起已增至$1600+；Issue #117145 C# ALC reload delegate cleanup bug - 已报告待修复；fork已创建 https://github.com/sungdark/godot |
+
+| BT-0263 | 2026-03-23T04:15:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2540 | pr_open | 已提交 | 2026-03-23T04:15:00Z | PR #2577: fix get_media_file path validation，返回清晰错误信息 |
+| BT-0264 | 2026-03-23T04:20:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2533 | available | 新机会 | 2026-03-23T04:20:00Z | Bug: 改端口后前端hardcode 3030，需找到所有hardcoded引用 |
+| BT-0265 | 2026-03-23T04:20:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2553 | available | 新机会 | 2026-03-23T04:20:00Z | Bug: MP4实时转录发path string而非binary，根因清晰 |
+| BT-0266 | 2026-03-23T04:20:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2549 | available | 新机会 | 2026-03-23T04:20:00Z | Bug: paired_capture()传空slice给perform_ocr_apple，--language参数失效 |
