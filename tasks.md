@@ -331,7 +331,7 @@
 | BT-0306 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2553 | pr_open | 开发中 | 2026-03-23T13:55:00Z | MP4/M4A转录失败 - real playback发送path string而非binary，需改为multipart binary upload |
 | BT-0307 | 2026-03-23T13:55:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5914 | pr_open | 开发中 | 2026-03-23T13:55:00Z | Notification tap不导航 - deep-linking损坏，通知点击无响应 |
 | BT-0308 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2571 | pr_open | 开发中 | 2026-03-23T13:55:00Z | MacOS memory leaks - 需排查和修复内存泄漏 |
-| BT-0309 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2568 | pr_open | 开发中 | 2026-03-23T13:55:00Z | screenpipe与Netflix不兼容 - 需修复DRM或capture相关问题 |
+| BT-0309 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2568 | comment_submitted | 待人工PR | 2026-03-24T00:55:00Z | 修复完成: pause_on_drm_content=true启用，screenpipe-fix[bot]被封需人工创建PR |
 | BT-0310 | 2026-03-23T13:55:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5917 | pr_open | 已提交 | 2026-03-23T14:04:00Z | PR #5948更新: 恢复Device Settings页面，修复.naviGateToDeviceSettings和SidebarView条件隐藏 |
 
 | BT-0311 | 2026-03-23T14:04:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5941 | pr_open | 已提交 | 2026-03-24T00:53:00Z | PR #5962: 为TimeoutMiddleware添加paths_timeout参数，/v1/sync-local-files设300s超时 |
