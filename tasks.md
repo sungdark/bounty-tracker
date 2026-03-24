@@ -340,3 +340,9 @@
 | BT-0313 | 2026-03-24T00:48:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2581 | available | 新机会 | 2026-03-24T00:48:00Z | ability to enable/disable pipe per computer - pipes多设备共享但应可单独启用/禁用 |
 | BT-0314 | 2026-03-24T00:48:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5961 | pr_open | 已提交 | 2026-03-24T01:17:00Z | PR #5964: 新增Note数据模型+API+Provider+Pages，添加Notes标签，Triple-tap触发录制 |
 | BT-0315 | 2026-03-24T00:48:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5955 | available | 新机会 | 2026-03-24T00:48:00Z | omi chat tool to create feedback post from within chat |
+
+| BT-0316 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5949 | pr_open | 开发中 | 2026-03-24T01:17:00Z | P0: TestFlight builds在WS重连时会话分散到prod/staging两个后端 |
+| BT-0317 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5913 | pr_open | 开发中 | 2026-03-24T01:17:00Z | CRITICAL: 离线录音失败，破坏核心承诺"捕获一切" |
+| BT-0318 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5909 | pr_open | 开发中 | 2026-03-24T01:17:00Z | CRITICAL: 离线录音UI显示在录音但连接断开时音频丢失 |
+| BT-0319 | 2026-03-24T01:17:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2569 | pr_open | 开发中 | 2026-03-24T01:17:00Z | cloud archive损坏 - 云存档功能不可用 |
+| BT-0320 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5955 | pr_open | 开发中 | 2026-03-24T01:17:00Z | 用户聊天中给出反馈时创建feedback post的工具 |
