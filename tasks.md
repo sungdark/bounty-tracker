@@ -343,3 +343,13 @@
 
 
 
+
+| BT-0321 | 2026-03-24T05:50:00Z | github | Jmtdw57/openclaw-test-bounty | $75 USD | https://github.com/Jmtdw57/openclaw-test-bounty/issues/1 | pr_open | 已提交 | 2026-03-24T05:50:00Z | RateLimiter off-by-one + refill unbounded fix，PR#16已创建 | 
+| BT-0322 | 2026-03-24T05:55:00Z | github | bounty.new | $500 USD | https://github.com/bountydotnew/bounty.new/issues/42 | available | 新机会 | 2026-03-24T05:55:00Z | Add OAuth integration for Google + GitHub，$500 bounty |
+| BT-0323 | 2026-03-24T05:55:00Z | github | bounty.new | $750 USD | https://github.com/bountydotnew/bounty.new/issues | available | 新机会 | 2026-03-24T05:55:00Z | Fix Stripe webhook retry idempotency，$750 bounty |
+| BT-0324 | 2026-03-24T05:55:00Z | github | bounty.new | $350 USD | https://github.com/bountydotnew/bounty.new/issues | available | 新机会 | 2026-03-24T05:55:00Z | Implement virtual scrolling for bounty list，$350 bounty |
+| BT-0325 | 2026-03-24T05:55:00Z | github | bounty.new | $200 USD | https://github.com/bountydotnew/bounty.new/issues | available | 新机会 | 2026-03-24T05:55:00Z | Ship dark mode for settings pages，$200 bounty |
+| BT-0326 | 2026-03-24T05:56:00Z | github | atharvnaik1/GraciasAi | ₹2000 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | available | 新机会 | 2026-03-24T05:56:00Z | PDF Report Improvements + iOS compliance fix，₹2000 |
+| BT-0327 | 2026-03-24T05:56:00Z | github | atharvnaik1/GraciasAi | ₹2000 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/12 | available | 新机会 | 2026-03-24T05:56:00Z | Android Play Store Auditor模块，₹2000 |
+| BT-0328 | 2026-03-24T05:56:00Z | github | atharvnaik1/GraciasAi | ₹800 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/11 | available | 新机会 | 2026-03-24T05:56:00Z | Fine tune AI prompts，₹800 |
+| BT-0329 | 2026-03-24T05:56:00Z | github | dmb4086/agentwork-infrastructure | 100 tokens | https://github.com/dmb4086/agentwork-infrastructure/issues/3 | available | 新机会 | 2026-03-24T05:56:00Z | API Documentation + Python SDK创建，100 tokens |
