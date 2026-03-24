@@ -329,8 +329,9 @@
 | BT-0313 | 2026-03-24T00:48:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2581 | available | 新机会 | 2026-03-24T00:48:00Z | ability to enable/disable pipe per computer - pipes多设备共享但应可单独启用/禁用 |
 | BT-0314 | 2026-03-24T00:48:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5961 | pr_open | 已提交 | 2026-03-24T01:17:00Z | PR #5964: 新增Note数据模型+API+Provider+Pages，添加Notes标签，Triple-tap触发录制 |
 | BT-0315 | 2026-03-24T00:48:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5955 | available | 新机会 | 2026-03-24T00:48:00Z | omi chat tool to create feedback post from within chat |
-| BT-0316 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5949 | pr_open | 开发中 | 2026-03-24T01:17:00Z | P0: TestFlight builds在WS重连时会话分散到prod/staging两个后端 |
+| BT-0316 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5949 | pr_open | 已提交 | 2026-03-24T01:37:00Z | PR #5964更新: 修复cachedApiBaseUrl防止WS重连时prod/staging后端分裂 |
 | BT-0317 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5913 | pr_open | 已提交 | 2026-03-24T01:31:00Z | PR #5964更新: 修复streamAudioToWs/streamRecording/_flushSystemAudioBuffer离线缓冲逻辑 |
 | BT-0318 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5909 | pr_open | 已提交 | 2026-03-24T01:30:00Z | PR #5964更新: WebSocket断开时buffer音频到tmp文件，重连后flush发送 |
 | BT-0319 | 2026-03-24T01:17:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2569 | comment_submitted | 待人工PR | 2026-03-24T01:22:00Z | 同BT-0304: PostHog flag→订阅状态检查，screenpipe-fix[bot]被封需人工PR |
 | BT-0320 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5955 | pr_open | 已提交 | 2026-03-24T01:31:00Z | PR #5964更新: create_feedback_post聊天工具实现，POST到feedback.omi.me API |
+
