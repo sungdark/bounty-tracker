@@ -345,4 +345,4 @@
 | BT-0317 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5913 | pr_open | 已提交 | 2026-03-24T01:31:00Z | PR #5964更新: 修复streamAudioToWs/streamRecording/_flushSystemAudioBuffer离线缓冲逻辑 |
 | BT-0318 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5909 | pr_open | 已提交 | 2026-03-24T01:30:00Z | PR #5964更新: WebSocket断开时buffer音频到tmp文件，重连后flush发送 |
 | BT-0319 | 2026-03-24T01:17:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2569 | comment_submitted | 待人工PR | 2026-03-24T01:22:00Z | 同BT-0304: PostHog flag→订阅状态检查，screenpipe-fix[bot]被封需人工PR |
-| BT-0320 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5955 | pr_open | 开发中 | 2026-03-24T01:17:00Z | 用户聊天中给出反馈时创建feedback post的工具 |
+| BT-0320 | 2026-03-24T01:17:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5955 | pr_open | 已提交 | 2026-03-24T01:31:00Z | PR #5964更新: create_feedback_post聊天工具实现，POST到feedback.omi.me API |
