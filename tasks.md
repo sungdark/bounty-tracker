@@ -338,5 +338,5 @@
 
 | BT-0312 | 2026-03-24T00:48:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2584 | available | 新机会 | 2026-03-24T00:48:00Z | Google Sheets integration - 需实现pipe将screenpipe数据导出到Google Sheets |
 | BT-0313 | 2026-03-24T00:48:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2581 | available | 新机会 | 2026-03-24T00:48:00Z | ability to enable/disable pipe per computer - pipes多设备共享但应可单独启用/禁用 |
-| BT-0314 | 2026-03-24T00:48:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5961 | pr_open | 开发中 | 2026-03-24T00:48:00Z | Voice Notes feature - 三击按钮录制独立语音笔记，与Conversation/Task区分 |
+| BT-0314 | 2026-03-24T00:48:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5961 | pr_open | 已提交 | 2026-03-24T01:17:00Z | PR #5964: 新增Note数据模型+API+Provider+Pages，添加Notes标签，Triple-tap触发录制 |
 | BT-0315 | 2026-03-24T00:48:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5955 | available | 新机会 | 2026-03-24T00:48:00Z | omi chat tool to create feedback post from within chat |
