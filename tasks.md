@@ -274,3 +274,30 @@
 | BT-0260 | 2026-03-22T19:42:00Z | github | BasedHardware/omi | $2000 USD | https://github.com/BasedHardware/omi/issues/619 | available | 新机会 | 2026-03-22T19:42:00Z | Apple Watch integration，需实现Apple Watch应用与omi的连接和功能，Algora平台 |
 | BT-0261 | 2026-03-22T22:42:00Z | github | calcom/cal.com | $500 USD | https://github.com/calcom/cal.com/issues/21050 | available | 新机会 | 2026-03-22T22:42:00Z | Outlook Cache优化，需实现Microsoft Graph Outlook change notifications减少日历查询次数，Bounty-to-Hire可转全职 |
 | BT-0262 | 2026-03-23T00:30:00Z | github | godotengine/godot | ~$1600+ USD (Opire) | https://github.com/godotengine/godot/issues/70796 | already_claimed | 已认领-核心团队开发中 | 2026-03-23T00:30:00Z | Issue #70796 C# .NET web exports - 已有DRAFT PR #106125 by raulsntos(Godot核心团队)实现中，Opire赏金$100起已增至$1600+；Issue #117145 C# ALC reload delegate cleanup bug - 已报告待修复；fork已创建 https://github.com/sungdark/godot |
+
+## 扫描会话 - 2026-03-24
+
+### illbnm/homelab-stack 当前状态
+
+**已提交PR (5个)**:
+- #237: BT-0047: Base Infrastructure ($180 USDT) - sungdark
+- #238: BT-0048: Observability Stack ($280 USDT) - sungdark
+- #263: BT-0022: AI Stack ($220 USDT) - sungdark
+- #269: feat: notifications #13 ($80 USDT) - sungdark
+- #270: feat: backup #12 ($150 USDT) - sungdark
+
+**新开工任务 (待提交PR)**:
+- BT-0049: illbnm/homelab-stack #9 SSO ($300 USDT) - sungdark分支 feature/BT-0049-sso 已创建
+- BT-0050: illbnm/homelab-stack #8 Robustness ($250 USDT) - sungdark分支 feature/BT-0050-robustness
+- BT-0051: illbnm/homelab-stack #5 Productivity ($170 USDT)
+- BT-0052: illbnm/homelab-stack #2 Media ($160 USDT)
+- BT-0053: illbnm/homelab-stack #4 Network ($140 USDT)
+- BT-0054: illbnm/homelab-stack #7 Home Automation ($130 USDT)
+- BT-0055: illbnm/homelab-stack #11 Database ($130 USDT)
+- BT-0056: illbnm/homelab-stack #3 Storage ($150 USDT)
+
+### 其他新机会
+- BT-0261: calcom/cal.com #21050 - Outlook Cache ($500 USD)
+- BT-0252: BasedHardware/omi #2315 - Send emails app ($300 USD)
+- BT-0254: BasedHardware/omi #1980 - Google Calendar ($300 USD)
+- BT-0248: mediar-ai/screenpipe #810 - Onboarding ($350 USD)
