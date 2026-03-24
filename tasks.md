@@ -326,10 +326,10 @@
 | BT-0305 | 2026-03-23T12:57:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5912 | pr_open | 已提交 | 2026-03-23T13:18:00Z | PR #5948更新: deepgram_prerecorded()添加keywords参数，从用户首选项获取vocabulary传递给离线转录 | | 2026-03-23T12:57:00Z | Offline sync custom vocabulary未应用 - 离线转录pipeline缺少vocabulary参数传递 |
 
 | BT-0306 | 2026-03-23T13:48:00Z | immunefi | Variational | $10,000-$100,000 USD | https://immunefi.com/bug-bounty/variational/information/ | available | 新机会 | 2026-03-23T13:48:00Z | 3月16日新上线Immunefi，智能合约+Web范围，最高$100K，需KYC+PoC，10% affected funds |
-| BT-0307 | 2026-03-23T13:48:00Z | immunefi | Ern | $11,000-$50,000 USD | https://immunefi.com/bug-bounty/ern/information/ | available | 新机会 | 2026-03-23T13:48:00Z | 3月3日新上线Immunefi，Yield Aggregator智能合约范围，$11K-$50K，需KYC+PoC+仲裁 |
+| BT-0307 | 2026-03-23T13:55:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5914 | pr_open | 已提交 | 2026-03-24T01:08:00Z | PR #5962更新: Desktop(Swift导航)+Web(firebase+navigate Promise)+Mobile(Flutter pushAndRemoveUntil)修复通知导航 |
 
 | BT-0306 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2553 | pr_open | 开发中 | 2026-03-23T13:55:00Z | MP4/M4A转录失败 - real playback发送path string而非binary，需改为multipart binary upload |
-| BT-0307 | 2026-03-23T13:55:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5914 | pr_open | 开发中 | 2026-03-23T13:55:00Z | Notification tap不导航 - deep-linking损坏，通知点击无响应 |
+| BT-0307 | 2026-03-23T13:55:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5914 | pr_open | 已提交 | 2026-03-24T01:08:00Z | PR #5962更新: Desktop(Swift导航)+Web(firebase+navigate Promise)+Mobile(Flutter pushAndRemoveUntil)修复通知导航 |
 | BT-0308 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2571 | comment_submitted | 待人工PR | 2026-03-24T01:00:00Z | Box::leak→Box::from_raw显式清理，修复macOS TapState内存泄漏 |
 | BT-0309 | 2026-03-23T13:55:00Z | github | screenpipe/screenpipe | $0 | https://github.com/screenpipe/screenpipe/issues/2568 | comment_submitted | 待人工PR | 2026-03-24T00:55:00Z | 修复完成: pause_on_drm_content=true启用，screenpipe-fix[bot]被封需人工创建PR |
 | BT-0310 | 2026-03-23T13:55:00Z | github | BasedHardware/omi | $0 | https://github.com/BasedHardware/omi/issues/5917 | pr_open | 已提交 | 2026-03-23T14:04:00Z | PR #5948更新: 恢复Device Settings页面，修复.naviGateToDeviceSettings和SidebarView条件隐藏 |
