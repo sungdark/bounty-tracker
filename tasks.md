@@ -553,3 +553,14 @@
 | BT-0536 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:16:00Z | New bounty scan AT2 |
 
 | BT-0537 | 2026-03-27T22:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:21:00Z | New bounty scan AU1 |
+
+| BT-0541 | 2026-03-27T22:55:00Z | github | swapcoffee/openclaw-ton-skill | TON | https://github.com/swapcoffee/openclaw-ton-skill/issues/18 | pr_open | 已提交 | 2026-03-27T22:55:00Z | Policy engine with dry-run, audit trail, safety gates PR#26 |
+| BT-0542 | 2026-03-27T22:55:00Z | github | FreezingMoon/AncientBeast | 16 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2711 | pr_open | 已提交 | 2026-03-27T22:55:00Z | Landscape orientation lock, PR#2926, Vercel deployed |
+| BT-0543 | 2026-03-27T22:55:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2850 | pr_open | 已提交 | 2026-03-27T22:55:00Z | Gumble Gooey Body flying movement upgrade, PR#2930 |
+
+| BT-0544 | 2026-03-27T23:30:00Z | github | rohitdash08/FinMind | $50 USD | https://github.com/rohitdash08/FinMind/issues/77 | pr_open | 已提交 | 2026-03-27T23:30:00Z | Signed Webhook Event System: HMAC-SHA256 signed delivery, retry with exp backoff, event docs. PR#652 (+991 lines), wallet: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0545 | 2026-03-27T23:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交 | 2026-03-27T23:30:00Z | n8n + Claude API weekly dev summary workflow. PR#128 (240 lines), all acceptance criteria met, 5-step README |
+| BT-0546 | 2026-03-27T23:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-27T23:30:00Z | Claude Code PR review agent CLI + GitHub Action. PR#126 (220 lines), structured Markdown review comments |
+| BT-0547 | 2026-03-27T23:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T23:30:00Z | CLAUDE.md template for Next.js 15 + SQLite SaaS. PR#127 (139 lines), opinionated 13 anti-patterns |
+| BT-0548 | 2026-03-27T23:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | pr_open | 已提交 | 2026-03-27T23:30:00Z | CHANGELOG generator skill from git history. PR#125, structured changelog output |
+| BT-0549 | 2026-03-27T23:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-27T23:30:00Z | Pre-tool-use hook blocking destructive bash commands. PR#124, 16 patterns blocked, ~/.claude/hooks/
