@@ -540,3 +540,11 @@
 
 | BT-0533 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE PRs MERGEABLE | 2026-03-27T22:05:00Z | New bounty scan AS1 |
 | BT-0534 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:05:00Z | New bounty scan AS2 |
+
+| BT-0535 | 2026-03-27T22:05:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-27T22:05:00Z | pre-tool-use hook PR#107 (1202 additions), also PR#98 alternative, 0 reviews yet, competing with PR#111,PR#112 |
+| BT-0536 | 2026-03-27T22:05:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T22:05:00Z | CLAUDE.md template PR#113 (571 additions), also PR#99 alternative, 0 reviews yet, competing with PR#105,PR#108 |
+| BT-0537 | 2026-03-27T22:05:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-27T22:05:00Z | PR review agent PR#103 (1202 additions), 0 reviews yet, competing with PR#106,PR#114 |
+| BT-0538 | 2026-03-27T22:05:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交 | 2026-03-27T22:05:00Z | n8n workflow PR#100 (658 additions), 0 reviews yet, competing with PR#87,PR#91,PR#109 |
+
+| BT-0539 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:05:00Z | 所有CLAUDE赏金已被认领，PR均已提交待审核 |
+| BT-0540 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:05:00Z | OpenClaw悬赏(fengking-li/group-buying-data-monitor)已有PR#6提交 |
