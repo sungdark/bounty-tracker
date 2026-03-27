@@ -432,13 +432,124 @@
 | BT-0465 | 2026-03-26T23:16:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit失败 | 2026-03-26T23:27:00Z | rate_limit失败 |
 | BT-0466 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T06:19:00Z | 2026-03-27T06:14:00Z |
 | BT-0467 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T06:14:00Z | AncientBeast scan A2：子agent处理中 |
-| BT-0468 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-27T16:34:00Z | PR review agent CLI + GitHub Action，已创建 PR #103 |
 
-| BT-0468 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | pr_open | 已提交 | 2026-03-27T16:34:00Z | CHANGELOG generator skill, PR#94 |
-| BT-0469 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T16:34:00Z | CLAUDE.md template Next.js+SQLite, PR#99 |
-| BT-0470 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-27T16:34:00Z | pre-tool-use hook blocking destructive commands, PR#98 |
-| BT-0471 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-27T16:34:00Z | Claude PR review agent (clean), PR#102 |
-| BT-0472 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交 | 2026-03-27T16:34:00Z | n8n weekly dev summary workflow (clean), PR#100 |
-| BT-0473 | 2026-03-27T16:34:00Z | github | dextonai/agent-browser | 1 DXTN | https://github.com/dextonai/agent-browser/issues/1 | pr_open | 已提交 | 2026-03-27T16:34:00Z | README badge + CONTRIBUTING.md, PR#35 |
-| BT-0474 | 2026-03-27T17:20:00Z | github | zio/zio | $250 USD | https://github.com/zio/zio/issues/9810 | pr_open | 已提交 | 2026-03-27T17:20:00Z | Fix buffer(1) buffering 2 elements, PR #10656 |
-| BT-0475 | 2026-03-27T17:25:00Z | github | Scottcjn/rustchain-bounties | 25 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/426 | pr_open | 已提交 | 2026-03-27T17:30:00Z | clawrtc integration test suite (29 tests, miner.py 48%), PR#2599 |
+| BT-0467 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | 222 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2704 | pr_open | 已提交 | 2026-03-27T06:32:00Z | Undo Move (PR #2885)：222 XTR |
+| BT-0468 | 2026-03-27T06:33:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2617 | pr_open | 已提交 | 2026-03-27T06:43:00Z | X-Ray improvements (PR #2886)：30 XTR | X-Ray PR overwritten by BT-0469, PR now hex coords |
+
+| BT-0470 | 2026-03-27T06:50:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2617 | pr_open | 已提交 | 2026-03-27T06:53:00Z | 2026-03-27T06:50:00Z | X-Ray improvements re-attempt (30 XTR)：子agent处理中 |
+| BT-0471 | 2026-03-27T06:50:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 已认领无需新PR | 2026-03-27T06:50:00Z | AncientBeast scan C1：子agent处理中 |
+
+| BT-0472 | 2026-03-27T06:53:00Z | github | FreezingMoon/AncientBeast | 20 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2161 | pr_open | 已提交 | 2026-03-27T07:12:00Z | Instant Replay (PR #2889)：20 XTR |
+| BT-0473 | 2026-03-27T06:53:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2850 | pr_open | 已提交 | 2026-03-27T07:00:00Z | Goey Body #2850 (PR #2888)：30 XTR |
+
+| BT-0474 | 2026-03-27T07:13:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T07:24:00Z | 2026-03-27T07:13:00Z | AncientBeast scan F1：子agent处理中 |
+| BT-0475 | 2026-03-27T07:13:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复PR(#2891==#2876) | 2026-03-27T07:13:00Z | AncientBeast scan F2：子agent处理中 |
+
+| BT-0476 | 2026-03-27T07:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T07:38:00Z | 2026-03-27T07:26:00Z | AncientBeast scan H1：子agent处理中 |
+| BT-0477 | 2026-03-27T07:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 全重复 | 2026-03-27T07:26:00Z | AncientBeast scan H2：子agent处理中 |
+
+| BT-0478 | 2026-03-27T07:37:00Z | github | FreezingMoon/AncientBeast | 8 XTR | https://github.com/FreezingMoon/AncientBeast/issues/1773 | pr_open | 已提交 | 2026-03-27T07:47:00Z | materialization versatility (PR #2895)：8 XTR |
+| BT-0479 | 2026-03-27T07:37:00Z | github | FreezingMoon/AncientBeast | 8 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2092 | pr_open | 已提交 | 2026-03-27T07:54:00Z | less distracting HUD (PR #2896)：8 XTR |
+| BT-0480 | 2026-03-27T07:43:00Z | github | FreezingMoon/AncientBeast | 8 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2092 | pr_open | 已提交 | 2026-03-27T07:55:00Z | AncientBeast #2092 less distracting HUD - PR #2896 |
+
+| BT-0481 | 2026-03-27T07:54:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2897==#2877) | 2026-03-27T07:54:00Z | AncientBeast scan K1：子agent处理中 |
+| BT-0482 | 2026-03-27T07:54:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2898==#2876) | 2026-03-27T07:54:00Z | AncientBeast scan K2：子agent处理中 |
+
+| BT-0483 | 2026-03-27T08:02:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T08:10:00Z | 2026-03-27T08:02:00Z | AncientBeast scan M1：子agent处理中 |
+| BT-0484 | 2026-03-27T08:02:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2900==#2877) | 2026-03-27T08:02:00Z | AncientBeast scan M2：子agent处理中 |
+
+| BT-0485 | 2026-03-27T08:12:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T08:30:00Z | 2026-03-27T08:12:00Z | AncientBeast scan O1：子agent处理中 |
+| BT-0486 | 2026-03-27T08:12:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T08:36:00Z | 2026-03-27T08:12:00Z | AncientBeast scan O2：子agent处理中 |
+
+| BT-0487 | 2026-03-27T08:36:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T08:47:00Z | 2026-03-27T08:36:00Z | AncientBeast scan Q1：子agent处理中 |
+| BT-0488 | 2026-03-27T08:36:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2903==#2877) | 2026-03-27T08:36:00Z | AncientBeast scan Q2：子agent处理中 |
+
+| BT-0489 | 2026-03-27T08:47:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2906==#2864) | 2026-03-27T08:47:00Z | AncientBeast scan S1：子agent处理中 |
+| BT-0490 | 2026-03-27T08:47:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2905==#2872) | 2026-03-27T08:47:00Z | AncientBeast scan S2：子agent处理中 |
+
+| BT-0491 | 2026-03-27T09:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit失败 | 2026-03-27T09:14:00Z | AncientBeast scan U1：子agent处理中 |
+| BT-0492 | 2026-03-27T09:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit失败 | 2026-03-27T09:14:00Z | AncientBeast scan U2：子agent处理中 |
+
+| BT-0493 | 2026-03-27T12:15:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T12:22:00Z | 2026-03-27T12:15:00Z | AncientBeast scan V1：子agent处理中 |
+| BT-0494 | 2026-03-27T12:15:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T12:26:00Z | 2026-03-27T12:15:00Z | AncientBeast scan V2：子agent处理中 |
+
+| BT-0495 | 2026-03-27T12:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T12:40:00Z | 2026-03-27T12:26:00Z | AncientBeast scan X1：子agent处理中 |
+| BT-0496 | 2026-03-27T12:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2909==#2907) | 2026-03-27T12:26:00Z | AncientBeast scan X2：子agent处理中 |
+
+| BT-0497 | 2026-03-27T12:40:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T12:44:00Z | 2026-03-27T12:40:00Z | AncientBeast scan Z1：子agent处理中 |
+| BT-0498 | 2026-03-27T12:40:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2912==#2886) | 2026-03-27T12:40:00Z | AncientBeast scan Z2：子agent处理中 |
+
+| BT-0499 | 2026-03-27T12:54:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T12:54:00Z | AncientBeast scan AB1：子agent处理中 |
+| BT-0500 | 2026-03-27T12:54:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2913==#2886) | 2026-03-27T12:54:00Z | AncientBeast scan AB2：子agent处理中 |
+
+| BT-0501 | 2026-03-27T13:03:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T13:03:00Z | 2026-03-27T13:03:00Z | AncientBeast scan AC1：子agent处理中 |
+| BT-0502 | 2026-03-27T13:03:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T13:10:00Z | 2026-03-27T13:03:00Z | AncientBeast scan AC2：子agent处理中 |
+
+| BT-0503 | available | 重复(#2917==#2878) |
+| BT-0504 | 2026-03-27T13:10:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 全部已被认领 | 2026-03-27T13:10:00Z | AncientBeast scan AE2：子agent处理中 |
+
+| BT-0505 | 2026-03-27T13:20:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2918==#2878) | 2026-03-27T13:20:00Z | AncientBeast scan AF1：子agent处理中 |
+| BT-0506 | 2026-03-27T13:20:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T13:40:00Z | 2026-03-27T13:20:00Z | AncientBeast scan AF2：子agent处理中 |
+
+| BT-0507 | 2026-03-27T13:40:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T13:51:00Z | 2026-03-27T13:40:00Z | AncientBeast scan AG1：子agent处理中 |
+| BT-0508 | 2026-03-27T13:40:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2920==#2876) | 2026-03-27T13:40:00Z | AncientBeast scan AG2：子agent处理中 |
+
+| BT-0509 | 2026-03-27T13:51:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T14:06:00Z | 2026-03-27T13:51:00Z | AncientBeast scan AH1：子agent处理中 |
+| BT-0510 | 2026-03-27T13:51:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T14:11:00Z | 2026-03-27T13:51:00Z | AncientBeast scan AH2：子agent处理中 |
+
+| BT-0511 | 2026-03-27T14:11:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2924==#2876) | 2026-03-27T14:11:00Z | AncientBeast scan AI1：子agent处理中 |
+| BT-0512 | 2026-03-27T14:11:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T14:26:00Z | 2026-03-27T14:11:00Z | AncientBeast scan AI2：子agent处理中 |
+
+| BT-0513 | 2026-03-27T14:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit | 2026-03-27T14:26:00Z | AncientBeast scan AJ1：子agent处理中 |
+| BT-0514 | 2026-03-27T14:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2926==#2878) | 2026-03-27T14:26:00Z | AncientBeast scan AJ2：子agent处理中 |
+
+| BT-0515 | 2026-03-27T16:01:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2927==#2864) | 2026-03-27T16:01:00Z | AncientBeast scan AK1：子agent处理中 |
+| BT-0516 | 2026-03-27T16:01:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | duplicate #2926 already exists | 2026-03-27T16:01:00Z | AncientBeast scan AK2：子agent处理中 |
+
+| BT-0517 | 2026-03-27T16:05:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2928==#2874) | 2026-03-27T16:05:00Z | AncientBeast scan AL1：子agent处理中 |
+
+| BT-0518 | 2026-03-27T16:07:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 全部已被认领 | 2026-03-27T16:07:00Z | AncientBeast scan AM1：子agent处理中 |
+| BT-0519 | 2026-03-27T16:07:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T16:25:00Z | 2026-03-27T16:07:00Z | AncientBeast scan AM2：子agent处理中 |
+
+| BT-0520 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T16:22:00Z | 2026-03-27T16:17:00Z | New bounty scan 1 |
+| BT-0521 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会(CLAUDE已被抢) | 2026-03-27T16:17:00Z | New bounty scan 2 |
+| BT-0522 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | 重复(BT-0520已覆盖) | 2026-03-27T16:17:00Z | New bounty scan 3 |
+| BT-0523 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T16:29:00Z | 2026-03-27T16:17:00Z | New bounty scan 4 |
+
+| BT-0524 | 2026-03-27T16:22:00Z | github | new-bounty-scan | XTR | https://github.com | available | 重复(#103==#102) | 2026-03-27T16:22:00Z | New bounty scan 5 |
+| BT-0525 | 2026-03-27T16:22:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T16:38:00Z | 2026-03-27T16:22:00Z | New bounty scan 6 |
+
+| BT-0526 | 2026-03-27T16:18:00Z | github | dextonai/agent-browser | 1 DXTN | https://github.com/dextonai/agent-browser/issues/1 | pr_open | 已提交 | 2026-03-27T16:22:00Z | README badge + CONTRIBUTING.md, PR: https://github.com/sungdark/agent-browser/pull/1 |
+
+| BT-0526 | 2026-03-27T16:25:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(BT-0525已覆盖) | 2026-03-27T16:25:00Z | AncientBeast scan AN1：子agent处理中 |
+| BT-0527 | 2026-03-27T16:25:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T17:18:00Z | 2026-03-27T16:25:00Z | AncientBeast scan AN2：子agent处理中 |
+
+| BT-0528 | 2026-03-27T16:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | pr_open | 已提交 | 2026-03-27T16:30:00Z | CHANGELOG generator skill, PR#94 |
+| BT-0529 | 2026-03-27T16:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-27T16:30:00Z | pre-tool-use hook blocking destructive commands, PR#98 |
+| BT-0530 | 2026-03-27T16:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T16:30:00Z | CLAUDE.md template for Next.js+SQLite SaaS, PR#99 |
+| BT-0531 | 2026-03-27T16:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交 | 2026-03-27T16:30:00Z | n8n weekly dev summary workflow, PR#100 |
+| BT-0532 | 2026-03-27T16:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-27T16:30:00Z | Claude PR review agent, PR#101 |
+
+| BT-0528 | 2026-03-27T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T17:37:00Z | 2026-03-27T17:18:00Z | New bounty scan AO1 |
+| BT-0529 | 2026-03-27T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T17:46:00Z | 2026-03-27T17:18:00Z | New bounty scan AO2 |
+
+| BT-0530 | 2026-03-27T17:37:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit | 2026-03-27T17:37:00Z | New bounty scan AP1 |
+| BT-0531 | 2026-03-27T17:37:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit | 2026-03-27T17:37:00Z | New bounty scan AP2 |
+
+| BT-0532 | 2026-03-27T21:02:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T21:02:00Z | CLAUDE.md template for Next.js 15+SQLite SaaS, PR #113, comprehensive opinionated template with 13 anti-patterns |
+
+| BT-0533 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE PRs MERGEABLE | 2026-03-27T22:05:00Z | New bounty scan AS1 |
+| BT-0534 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE MERGEABLE | 2026-03-27T22:05:00Z | New bounty scan AS2 |
+
+| BT-0535 | 2026-03-27T22:05:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-27T22:05:00Z | pre-tool-use hook PR#107 (1202 additions), also PR#98 alternative, 0 reviews yet, competing with PR#111,PR#112 |
+| BT-0536 | 2026-03-27T22:05:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T22:05:00Z | CLAUDE.md template PR#113 (571 additions), also PR#99 alternative, 0 reviews yet, competing with PR#105,PR#108 |
+| BT-0537 | 2026-03-27T22:05:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-27T22:05:00Z | PR review agent PR#103 (1202 additions), 0 reviews yet, competing with PR#106,PR#114 |
+| BT-0538 | 2026-03-27T22:05:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交 | 2026-03-27T22:05:00Z | n8n workflow PR#100 (658 additions), 0 reviews yet, competing with PR#87,PR#91,PR#109 |
+
+| BT-0539 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:05:00Z | 所有CLAUDE赏金已被认领，PR均已提交待审核 |
+| BT-0540 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:05:00Z | OpenClaw悬赏(fengking-li/group-buying-data-monitor)已有PR#6提交 |
+
+| BT-0535 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | PR#116 duplicate of #107 | 2026-03-27T22:16:00Z | New bounty scan AT1 |
+| BT-0536 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:16:00Z | New bounty scan AT2 |
+
+| BT-0537 | 2026-03-27T22:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:21:00Z | New bounty scan AU1 |
