@@ -432,6 +432,7 @@
 | BT-0465 | 2026-03-26T23:16:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit失败 | 2026-03-26T23:27:00Z | rate_limit失败 |
 | BT-0466 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T06:19:00Z | 2026-03-27T06:14:00Z |
 | BT-0467 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T06:14:00Z | AncientBeast scan A2：子agent处理中 |
+| BT-0468 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-27T16:34:00Z | PR review agent CLI + GitHub Action，已创建 PR #103 |
 
 | BT-0468 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | pr_open | 已提交 | 2026-03-27T16:34:00Z | CHANGELOG generator skill, PR#94 |
 | BT-0469 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T16:34:00Z | CLAUDE.md template Next.js+SQLite, PR#99 |
