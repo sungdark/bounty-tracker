@@ -441,3 +441,4 @@
 | BT-0472 | 2026-03-27T16:34:00Z | github | claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交 | 2026-03-27T16:34:00Z | n8n weekly dev summary workflow (clean), PR#100 |
 | BT-0473 | 2026-03-27T16:34:00Z | github | dextonai/agent-browser | 1 DXTN | https://github.com/dextonai/agent-browser/issues/1 | pr_open | 已提交 | 2026-03-27T16:34:00Z | README badge + CONTRIBUTING.md, PR#35 |
 | BT-0474 | 2026-03-27T17:20:00Z | github | zio/zio | $250 USD | https://github.com/zio/zio/issues/9810 | pr_open | 已提交 | 2026-03-27T17:20:00Z | Fix buffer(1) buffering 2 elements, PR #10656 |
+| BT-0475 | 2026-03-27T17:25:00Z | github | Scottcjn/rustchain-bounties | 25 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/426 | pr_open | 已提交 | 2026-03-27T17:30:00Z | clawrtc integration test suite (29 tests, miner.py 48%), PR#2599 |
