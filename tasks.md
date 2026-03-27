@@ -549,5 +549,5 @@
 | BT-0539 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:05:00Z | 所有CLAUDE赏金已被认领，PR均已提交待审核 |
 | BT-0540 | 2026-03-27T22:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:05:00Z | OpenClaw悬赏(fengking-li/group-buying-data-monitor)已有PR#6提交 |
 
-| BT-0535 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:16:00Z | New bounty scan AT1 |
+| BT-0535 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | PR#116 duplicate of #107 | 2026-03-27T22:16:00Z | New bounty scan AT1 |
 | BT-0536 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:16:00Z | New bounty scan AT2 |
