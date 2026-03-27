@@ -564,6 +564,6 @@
 | BT-0543 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T23:16:00Z | New bounty scan AX2 |
 
 | BT-0544 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 new CLAUDE PRs #124-#128 | 2026-03-27T23:16:00Z | New bounty scan AY1 |
-| BT-0545 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T23:16:00Z | New bounty scan AY2 |
+| BT-0545 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T23:25:00Z | 2026-03-27T23:16:00Z | New bounty scan AY2 |
 
 | BT-0546 | 2026-03-27T23:20:00Z | github | BasedHardware/omi | $500 USD | https://github.com/BasedHardware/omi/issues/3039 | pr_open | 已提交 | 2026-03-27T23:24:00Z | NER speaker detection using spaCy PERSON entities, PR#6088, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
