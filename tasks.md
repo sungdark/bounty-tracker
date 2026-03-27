@@ -450,3 +450,4 @@
 
 | BT-0478 | 2026-03-27T07:37:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T07:47:00Z | 2026-03-27T07:37:00Z | AncientBeast scan I1：子agent处理中 |
 | BT-0479 | 2026-03-27T07:37:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T07:37:00Z | AncientBeast scan I2：子agent处理中 |
+| BT-0480 | 2026-03-27T07:43:00Z | github | FreezingMoon/AncientBeast | 8 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2092 | pr_open | 已提交 | 2026-03-27T07:55:00Z | AncientBeast #2092 less distracting HUD - PR #2896 |
