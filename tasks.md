@@ -432,3 +432,6 @@
 | BT-0465 | 2026-03-26T23:16:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit失败 | 2026-03-26T23:27:00Z | rate_limit失败 |
 | BT-0466 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T06:19:00Z | 2026-03-27T06:14:00Z |
 | BT-0467 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T06:14:00Z | AncientBeast scan A2：子agent处理中 |
+
+| BT-0467 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | 222 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2704 | pr_open | 已提交 | 2026-03-27T06:32:00Z | Undo Move (PR #2885)：222 XTR |
+| BT-0468 | 2026-03-27T06:33:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2617 | pr_open | 已提交 | 2026-03-27T06:43:00Z | X-Ray improvements (PR #2886)：30 XTR |
