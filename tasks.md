@@ -567,3 +567,4 @@
 | BT-0545 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T23:25:00Z | 2026-03-27T23:16:00Z | New bounty scan AY2 |
 
 | BT-0546 | 2026-03-27T23:20:00Z | github | BasedHardware/omi | $500 USD | https://github.com/BasedHardware/omi/issues/3039 | pr_open | 已提交 | 2026-03-27T23:24:00Z | NER speaker detection using spaCy PERSON entities, PR#6088, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0547 | 2026-03-27T23:35:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-27T23:36:00Z | Pre-tool-use hook blocking destructive bash commands, PR#131, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
