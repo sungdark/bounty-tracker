@@ -531,7 +531,7 @@
 | BT-0532 | 2026-03-27T16:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-27T16:30:00Z | Claude PR review agent, PR#101 |
 
 | BT-0528 | 2026-03-27T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T17:37:00Z | 2026-03-27T17:18:00Z | New bounty scan AO1 |
-| BT-0529 | 2026-03-27T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T17:18:00Z | New bounty scan AO2 |
+| BT-0529 | 2026-03-27T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T17:46:00Z | 2026-03-27T17:18:00Z | New bounty scan AO2 |
 
 | BT-0530 | 2026-03-27T17:37:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T17:37:00Z | New bounty scan AP1 |
 | BT-0531 | 2026-03-27T17:37:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T17:37:00Z | New bounty scan AP2 |
