@@ -517,7 +517,7 @@
 | BT-0523 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T16:29:00Z | 2026-03-27T16:17:00Z | New bounty scan 4 |
 
 | BT-0524 | 2026-03-27T16:22:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T16:22:00Z | New bounty scan 5 |
-| BT-0525 | 2026-03-27T16:22:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T16:22:00Z | New bounty scan 6 |
+| BT-0525 | 2026-03-27T16:22:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T16:38:00Z | 2026-03-27T16:22:00Z | New bounty scan 6 |
 
 | BT-0526 | 2026-03-27T16:18:00Z | github | dextonai/agent-browser | 1 DXTN | https://github.com/dextonai/agent-browser/issues/1 | pr_open | 已提交 | 2026-03-27T16:22:00Z | README badge + CONTRIBUTING.md, PR: https://github.com/sungdark/agent-browser/pull/1 |
 
