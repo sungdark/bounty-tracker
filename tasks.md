@@ -503,7 +503,7 @@
 | BT-0513 | 2026-03-27T14:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit | 2026-03-27T14:26:00Z | AncientBeast scan AJ1：子agent处理中 |
 | BT-0514 | 2026-03-27T14:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2926==#2878) | 2026-03-27T14:26:00Z | AncientBeast scan AJ2：子agent处理中 |
 
-| BT-0515 | 2026-03-27T16:01:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T16:01:00Z | AncientBeast scan AK1：子agent处理中 |
+| BT-0515 | 2026-03-27T16:01:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复(#2927==#2864) | 2026-03-27T16:01:00Z | AncientBeast scan AK1：子agent处理中 |
 | BT-0516 | 2026-03-27T16:01:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | duplicate #2926 already exists | 2026-03-27T16:01:00Z | AncientBeast scan AK2：子agent处理中 |
 
 | BT-0517 | 2026-03-27T16:05:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T16:05:00Z | AncientBeast scan AL1：子agent处理中 |
