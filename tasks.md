@@ -512,7 +512,7 @@
 | BT-0519 | 2026-03-27T16:07:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T16:25:00Z | 2026-03-27T16:07:00Z | AncientBeast scan AM2：子agent处理中 |
 
 | BT-0520 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T16:22:00Z | 2026-03-27T16:17:00Z | New bounty scan 1 |
-| BT-0521 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T16:17:00Z | New bounty scan 2 |
+| BT-0521 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会(CLAUDE已被抢) | 2026-03-27T16:17:00Z | New bounty scan 2 |
 | BT-0522 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | 重复(BT-0520已覆盖) | 2026-03-27T16:17:00Z | New bounty scan 3 |
 | BT-0523 | 2026-03-27T16:17:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T16:29:00Z | 2026-03-27T16:17:00Z | New bounty scan 4 |
 
