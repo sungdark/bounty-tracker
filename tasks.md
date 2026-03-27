@@ -1,8 +1,6 @@
 # Bounty Tracker - 已参与赚钱任务跟踪表
-
 > 只展示实际参与、有机会拿到奖励的任务，专注执行能拿到结果的机会
 > 任务进度定义：新机会 → 工作中 → 已提交 → 已采纳 → 已支付
-
 | ID | 接受时间 | 来源 | 项目 | 奖励 | github项目地址 | 状态 | 任务进度 | 最后更新 | 备注 |
 |----|----------|------|------|------|----------------|------|----------|----------|------|
 | BT-0001 | 2026-02-26T05:00:00Z | github | Mint-Claw/market-monitor | $15 USD | https://github.com/Mint-Claw/market-monitor/issues/1 | pr_open | 已提交 | 2026-02-26T05:00:00Z | PR already open https://github.com/Mint-Claw/market-monitor/pull/6 by sungdark |
@@ -79,7 +77,6 @@
 | BT-0073 | 2026-03-18T14:45:00Z | github | Scottcjn/rustchain-bounties | 113 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/474 | comment_submitted | 已提交 | 2026-03-18T14:55:00Z | Epoch Determinism Simulator完整实现，所有测试通过 |
 | BT-0074 | 2026-03-18T14:45:00Z | github | Scottcjn/rustchain-bounties | 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/248 | comment_submitted | 已提交 | 2026-03-18T15:05:00Z | Red Team: Hardware Fingerprint Replay & Spoofing研究报告完成 |
 | BT-0075 | 2026-03-18T14:45:00Z | github | Scottcjn/rustchain-bounties | 75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/247 | comment_submitted | 已提交 | 2026-03-18T15:15:00Z | Red Team: BoTTube Vote Manipulation & CSRF安全审计完成 |
-| BT-0127 | 2026-03-18T14:46:00Z | github | Scottcjn/rustchain-bounties | 18 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1491 | pr_open | 已提交 | 2026-03-18T15:30:00Z | beacon-skill install cleanup已修复，PR已创建 |
 | BT-0076 | 2026-03-18T14:46:00Z | github | Scottcjn/rustchain-bounties | 75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/501 | comment_submitted | 已提交 | 2026-03-18T15:30:00Z | Miner Dashboard已完全实现，符合验收标准 |
 | BT-0077 | 2026-03-18T14:46:00Z | github | Scottcjn/rustchain-bounties | 10 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1112 | comment_submitted | 已提交 | 2026-03-18T15:30:00Z | Fuzz /attest/submit endpoint测试完成，报告生成 |
 | BT-0080 | 2026-03-18T15:35:00Z | github | Scottcjn/rustchain-bounties | 200 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/491 | comment_submitted | 已提交 | 2026-03-18T23:50:00Z | [RED TEAM] RIP-201 Fleet Detection Bypass method verified |
@@ -129,6 +126,7 @@
 | BT-0124 | 2026-03-18T21:40:00Z | search | NADRA Bug Bounty Challenge 2026 | varies PKR | https://arynews.tv/nadra-bug-bounty-challenge-2026 | available | 新机会 | 2026-03-18T21:40:00Z | 巴基斯坦国家数据库推出首个Bug Bounty Challenge 2026 |
 | BT-0125 | 2026-03-18T21:40:00Z | search | UIDAI Aadhaar Bug Bounty | varies INR | https://cybersecuritynews.com/uidai-bug-bounty/ | available | 新机会 | 2026-03-18T21:40:00Z | 印度UIDAI今日正式推出首个Aadhaar结构化漏洞赏金计划 |
 | BT-0126 | 2026-03-18T21:40:00Z | search | Roblox Proactive Bug Bounty | varies USD | https://rblx.news/daily/roblox-news-03-18-2026-ea83 | available | 新机会 | 2026-03-18T21:40:00Z | Roblox今日宣布推出主动漏洞赏金计划，接受漏洞提交 |
+| BT-0127 | 2026-03-18T14:46:00Z | github | Scottcjn/rustchain-bounties | 18 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1491 | pr_open | 已提交 | 2026-03-18T15:30:00Z | beacon-skill install cleanup已修复，PR已创建 |
 | BT-0128 | 2026-03-18T21:40:00Z | search | Sui New VM Bug Bounty | varies USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | available | 新机会 | 2026-03-18T21:40:00Z | Sui 2天前开放全新虚拟机漏洞赏金，主网四月初上线前审计 |
 | BT-0129 | 2026-03-18T21:48:00Z | search | Opire.dev Bounty Platform | $0+ USD | https://opire.dev/home | available | 新机会 | 2026-03-18T21:48:00Z | 开源问题众筹赏金平台，可浏览开放付费问题 |
 | BT-0130 | 2026-03-18T21:48:00Z | search | OSS.Fund Bounties | $0+ USD | https://www.oss.fund/categories/bounties/ | opportunity | 新机会 | 2026-03-18T21:48:00Z | 开源赏金平台对比汇总，发现多个开放付费任务 |
@@ -184,14 +182,14 @@
 | BT-0181 | 2026-03-19T09:52:00Z | cantina | Revert Finance Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 新机会 | 2026-03-19T09:52:00Z | Revert Finance智能合约赏金审计，今日刚在Cantina上线 |
 | BT-0182 | 2026-03-19T10:07:00Z | bountyhub | cold-blood-and-mutilate Github Issue Bounty | varies USD | https://www.bountyhub.dev/bounty/view/87cdcd61-e8af-463f-97dc-85c7272a511d/cold-blood-and-mutilate | available | 新机会 | 2026-03-19T10:07:00Z | BountyHub上新开放GitHub issue赏金，众筹奖励模式 |
 | BT-0183 | 2026-03-19T14:55:00Z | hackenproof | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 新机会 | 2026-03-19T14:55:00Z | Monday Trade推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞 |
-| BT-0189 | 2026-03-20T02:45:00Z | wordpress | Wordfence Bug Bounty Program | up to $31,200 USD | https://www.wordfence.com/threat-intel/bug-bounty-program/ | available | 新机会 | 2026-03-20T02:45:00Z | Wordfence长期运行漏洞赏金计划，覆盖所有WordPress插件和主题，最高可奖励$31,200/漏洞，持续开放接受提交 |
-| BT-0190 | 2026-03-20T02:45:00Z | search | Microsoft Teams Bug Bounty | up to $30,000 USD | https://threatpost.com/microsoft-30k-teams-bugs/165037/ | available | 新机会 | 2026-03-20T02:45:00Z | Microsoft推出全新Teams漏洞赏金计划，最高可奖励$30,000 for能暴露Teams用户数据的高危漏洞 |
-| BT-0191 | 2026-03-20T02:45:00Z | github | Block Open Source Bug Bounty | varies USD | https://bugcrowd.com/engagements/blockopensource | available | 新机会 | 2026-03-20T02:45:00Z | Block在Bugcrowd维护开源项目漏洞赏金计划，仅包含有BUG-BOUNTY.md文件的项目 |
 | BT-0184 | 2026-03-19T19:27:00Z | search | Monday Trade Bug Bounty Program | up to 3000 USD | https://monday.trade/post/monday-trade-bug-bounty-program | available | 新机会 | 2026-03-19T19:27:00Z | 3月19日今日推出全新漏洞赏金计划，最高3,000 USD奖励critical漏洞 |
 | BT-0185 | 2026-03-19T19:27:00Z | search | Revert Finance Cantina Bug Bounty | varies USD | https://bbradar.io/program/Cantina:efb6f308-f13b-4110-aff8-0d67181608dd | available | 新机会 | 2026-03-19T19:27:00Z | 今日上线Cantina智能合约赏金审计新项目 |
 | BT-0186 | 2026-03-19T19:27:00Z | search | Capital.com Public Bug Bounty | varies USD | https://www.globalsecuritymag.com/capital-com-launches-public-bug-bounty-programme.html | available | 新机会 | 2026-03-19T19:27:00Z | Capital.com今日宣布推出公开漏洞赏金计划，在Intigriti平台 |
 | BT-0187 | 2026-03-19T19:27:00Z | search | Nika Finance Bug Bounty | up to 30000 USDC | https://www.kucoin.com/news/community/USDC/69ad9d0331903800078c6149 | available | 新机会 | 2026-03-19T19:27:00Z | 6小时前上线，最高30,000 USDC奖励critical漏洞 |
 | BT-0188 | 2026-03-19T19:27:00Z | search | Patchstack March 2026 Tournament | $8850 USD | https://vdp.patchstack.com/database/leaderboard/march-2026 | available | 新机会 | 2026-03-19T19:27:00Z | 三月赏金锦标赛总奖金池$8,850，还有14天结束 |
+| BT-0189 | 2026-03-20T02:45:00Z | wordpress | Wordfence Bug Bounty Program | up to $31,200 USD | https://www.wordfence.com/threat-intel/bug-bounty-program/ | available | 新机会 | 2026-03-20T02:45:00Z | Wordfence长期运行漏洞赏金计划，覆盖所有WordPress插件和主题，最高可奖励$31,200/漏洞，持续开放接受提交 |
+| BT-0190 | 2026-03-20T02:45:00Z | search | Microsoft Teams Bug Bounty | up to $30,000 USD | https://threatpost.com/microsoft-30k-teams-bugs/165037/ | available | 新机会 | 2026-03-20T02:45:00Z | Microsoft推出全新Teams漏洞赏金计划，最高可奖励$30,000 for能暴露Teams用户数据的高危漏洞 |
+| BT-0191 | 2026-03-20T02:45:00Z | github | Block Open Source Bug Bounty | varies USD | https://bugcrowd.com/engagements/blockopensource | available | 新机会 | 2026-03-20T02:45:00Z | Block在Bugcrowd维护开源项目漏洞赏金计划，仅包含有BUG-BOUNTY.md文件的项目 |
 | BT-0192 | 2026-03-20T00:08:00Z | digital | Ruzuku 30 Digital Products 2026 | $0+ USD | https://www.ruzuku.com/learn/articles/digital-products-to-sell | opportunity | 新机会 | 2026-03-20T00:08:00Z | 30种真实可行赚钱数字产品思路，包含定价数据和教练/顾问品类建议 |
 | BT-0193 | 2026-03-20T00:08:00Z | digital | AliDropship 15+ Digital Products 2026 | $0+ USD | https://alidropship.com/digital-products-to-sell/ | opportunity | 新机会 | 2026-03-20T00:08:00Z | 覆盖15+分类的完整指南，包含找利基方法和启动建议 |
 | BT-0194 | 2026-03-20T00:08:00Z | digital | Whop 22 In-Demand Digital Products 2026 | $0+ USD | https://whop.com/blog/digital-products-in-demand/ | opportunity | 新机会 | 2026-03-20T00:08:00Z | 最新趋势，包含AI相关产品机会如custom GPTs和AI助手 |
@@ -290,16 +288,6 @@
 | BT-0293 | 2026-03-23T12:37:00Z | github | illbnm/homelab-stack | $80 USDT | https://github.com/illbnm/homelab-stack/issues/13 | pr_open | 已提交 | 2026-03-23T12:43:00Z | PR #269已提交: Notifications Stack增强完成，ntfy+notify.sh+Alertmanager配置+README |
 | BT-0294 | 2026-03-23T12:37:00Z | github | illbnm/homelab-stack | $130 USDT | https://github.com/illbnm/homelab-stack/issues/11 | pr_open | 已提交 | 2026-03-23T12:44:00Z | 同PR #269: PostgreSQL多租户+Redis多DB+pgAdmin+幂等init脚本+README | |
 | BT-0295 | 2026-03-23T12:42:00Z | github | illbnm/homelab-stack | $50 USD | https://github.com/illbnm/homelab-stack/issues/10 | pr_open | 已提交 | 2026-03-23T12:49:00Z | PR #270: backup.sh完全重写(CLI参数+多后端)+disaster-recovery.md+Restic REST Server | |
-
-
-
-
-
-
-
-
-
-
 | BT-0322 | 2026-03-24T05:55:00Z | github | bounty.new | $500 USD | https://github.com/bountydotnew/bounty.new/issues/42 | not_found | ❌不存在 | 2026-03-25T20:42:00Z | Issue #42返回404 NOT FOUND，实际bounty issues列表不含此issue，验证失败 |
 | BT-0323 | 2026-03-24T05:55:00Z | github | bounty.new | $750 USD | https://github.com/bountydotnew/bounty.new/issues | closed | ❌已关闭 | 2026-03-25T21:42:00Z | Fix Stripe webhook retry idempotency：API验证bountydotnew/bounty.new仅1个open bounty issue(#231)，其他已关闭或合并 |
 | BT-0324 | 2026-03-24T05:55:00Z | github | bounty.new | $350 USD | https://github.com/bountydotnew/bounty.new/issues | closed | ❌已关闭 | 2026-03-25T21:42:00Z | Implement virtual scrolling for bounty list：API验证bountydotnew/bounty.new仅1个open bounty issue(#231)，其他已关闭或合并 |
@@ -312,7 +300,6 @@
 | BT-0332 | 2026-03-24T08:33:00Z | github | WattCoin-Org/wattcoin | 1500 WATT | https://github.com/WattCoin-Org/wattcoin/issues/214 | available | 新机会 | 2026-03-24T08:33:00Z | AI agent framework integration guide: LangChain/CrewAI/AutoGPT/OpenAI Assistants API - docs/agent-integration-guide.md with code examples |
 | BT-0333 | 2026-03-24T08:33:00Z | github | EasyWebApp/KoAJAX | $45 USD | https://github.com/EasyWebApp/KoAJAX/issues/18 | available | 新机会 | 2026-03-24T08:33:00Z | HTTPClient mock HEAD request support - TypeScript/Kotlin Multiplatform |
 | BT-0334 | 2026-03-24T08:33:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | available | 新机会-需验证 | 2026-03-24T08:33:00Z | Bodymorpher preset system: Unreal Engine game mod - BYOND code, tabs, naming, add/delete/load - $100+ via PayPal contact spam on Discord |
-
 | BT-0335 | 2026-03-24T14:00:00Z | hackenproof | Sui VM Bug Bounty | $1,000-$10,000+ USD | https://blog.sui.io/new-sui-vm-bug-bounty-open/ | in_progress | 开发中 | 2026-03-24T14:00:00Z | Sui新型VM升级赏金已开放，主网部署4月初，Hackenproof提交，VM漏洞赏金按主网全价结算，发现关键漏洞可达$10,000+，新代码已公开 |
 | BT-0336 | 2026-03-24T14:00:00Z | google | Google Summer of Code 2026 | $6,000 USD | https://summerofcode.withgoogle.com/ | in_progress | 开发中 | 2026-03-24T14:00:00Z | GSoC 2026申请截止3月31日！$6,000津贴，185个开源组织，12周编码项目，需学生身份或新贡献者，剩余7天紧急准备提案 |
 | BT-0337 | 2026-03-24T14:00:00Z | github | ProjectDiscovery OSS Bounty | $500-$30,000 USD | https://github.com/projectdiscovery/oss-bounty-program | in_progress | 开发中 | 2026-03-24T14:00:00Z | ProjectDiscovery官方OSS赏金：Nuclei/Katana/Subfinder等10+仓库，bounty标签issue直接认领，修复confirmed bug获奖励，1次只能认领1个，2周完成 |
@@ -320,7 +307,6 @@
 | BT-0339 | 2026-03-24T14:00:00Z | github | bountydotnew/bounty.new | $750 USD | https://github.com/bountydotnew/bounty.new/issues?q=is%3Aissue+is%3Aopen+label%3Abounty | in_progress | 开发中 | 2026-03-24T14:00:00Z | bounty.new平台开源赏金：Stripe webhook retry idempotency修复，$750，Node.js项目，直接认领issue开工 |
 | BT-0340 | 2026-03-24T14:00:00Z | github | bountydotnew/bounty.new | $500 USD | https://github.com/bountydotnew/bounty.new/issues?q=is%3Aissue+is%3Aopen+label%3Abounty | in_progress | 开发中 | 2026-03-24T14:00:00Z | bounty.new平台开源赏金：Add OAuth integration for Google + GitHub，$500，Node.js/TypeScript，API集成任务 |
 | BT-0341 | 2026-03-24T14:00:00Z | github | BasedHardware/omi | $0+ | https://github.com/BasedHardware/omi/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-desc | in_progress | 开发中 | 2026-03-24T14:00:00Z | BasedHardware/omi开源项目：多设备协同/AI可穿戴固件/WS音频流，issue池丰富，可认领多个任务，平台生态活跃 |
-
 | BT-0342 | 2026-03-25T12:46:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/14 | pr_open | 已提交-竞争 | 2026-03-25T12:50:00Z | Integration Testing套件：PR #318 by zhuzhushiwojia，NOT merged，$280 USDT高优先级。自动化测试：容器状态/健康检查/HTTP端点/服务互通 |
 | BT-0343 | 2026-03-25T12:46:00Z | github | illbnm/homelab-stack | $300 USDT | https://github.com/illbnm/homelab-stack/issues/9 | pr_open | 已提交-竞争 | 2026-03-25T12:50:00Z | SSO Authentik OIDC/SAML统一认证：PRs by zhuzhushiwojia/HuiNeng6/jay77721多人都提交，$300 USDT最高赏金 |
 | BT-0344 | 2026-03-25T12:46:00Z | github | illbnm/homelab-stack | $250 USDT | https://github.com/illbnm/homelab-stack/issues/8 | available | 新机会 | 2026-03-25T12:50:00Z | Robustness CN网络适配：脚本setup-cn-mirrors.sh+localize-images.sh，PRs by zhuzhushiwojia/ansomeck/jay77721/Problemsolver0070多人提交，$250 USDT |
@@ -328,7 +314,6 @@
 | BT-0346 | 2026-03-25T12:46:00Z | github | Scottcjn Rustchain PR#2419 | 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2419 | pr_open | 已提交-竞争3个PR | 2026-03-25T14:00:00Z | RustChain Python SDK：pip install rustchain，38测试/Explorer子客户端/CLI/async方法，vs PR#1831(kuanglaodi2) PR#1841(Aliaksandr) |
 | BT-0347 | 2026-03-25T12:46:00Z | github | Scottcjn/Rustchain PR#1755 | 75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2295 | pr_open | 已提交-竞争 | 2026-03-25T12:50:00Z | Block Explorer WebSocket：PR#1755 by createkr已提交，75 RTC |
 | BT-0348 | 2026-03-25T12:46:00Z | github | Scottcjn/rustchain-mcp PR#30 | 75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2302 | pr_open | 已提交-竞争 | 2026-03-25T12:50:00Z | MCP Wallet：PR#30 by B1tor已提交，75 RTC |
-
 | BT-0349 | 2026-03-25T14:16:00Z | github | Jagadeeshftw/grainlify | 200 pts | https://github.com/Jagadeeshftw/grainlify/issues/782 | in_progress | Drips Wave申请中 | 2026-03-25T14:16:00Z | Stellar Wave: Bounty escrow: reentrancy guard (bounty_escrow/escrow) - Rust/Soroban合约，200 Points via Drips Wave，需要互斥锁防止重入攻击 |
 | BT-0350 | 2026-03-25T13:46:00Z | github | Jagadeeshftw/grainlify | 200 pts | https://github.com/Jagadeeshftw/grainlify/issues/759 | available | 已认领-zhaog100 | 2026-03-25T13:46:00Z | Stellar Wave: Bounty escrow: refund flows - Rust/Soroban合约退款流程，200 Points via Drips Wave，已被zhaog100认领 |
 | BT-0351 | 2026-03-25T13:30:00Z | github | Jagadeeshftw/grainlify | 200 pts | https://github.com/Jagadeeshftw/grainlify/issues/789 | available | 已认领-zhaog100 | 2026-03-25T13:30:00Z | Stellar Wave: Bounty escrow: query filters - Rust/Soroban合约查询过滤器，200 Points via Drips Wave，已被zhaog100认领 |
@@ -349,14 +334,12 @@
 | BT-0366 | 2026-03-25T16:55:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/93 | pr_open | 已提交 | 2026-03-25T16:55:00Z | Stellar Wave: Notifications Service - 多渠道通知(InApp/Email/Webhook)/队列系统/重试逻辑/模板引擎，PR #117已提交，200 Points via Drips Wave |
 | BT-0367 | 2026-03-25T17:10:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/85 | pr_open | 已提交 | 2026-03-25T17:10:00Z | Stellar Wave: Graceful Shutdown - 4 workers + 30s drain + keep-alive配置，PR #118已提交，200 Points via Drips Wave |
 | BT-0368 | 2026-03-25T17:20:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/87 | pr_open | 已提交 | 2026-03-25T17:20:00Z | Stellar Wave: Enhanced Health Check - DB延迟/连接池状态/数据库大小/运行时间/详细checks，PR #119已提交，200 Points via Drips Wave |
-
 | BT-0369 | 2026-03-25T17:30:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/47 | pr_open | 已提交 | 2026-03-25T17:30:00Z | Stellar Wave: CORS Configuration - actix-cors中间件配置，支持所有来源/方法/头部，OPTIONS预检缓存3600秒，PR #120已提交，200 Points via Drips Wave |
 | BT-0370 | 2026-03-25T17:35:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/97 | pr_open | 已提交 | 2026-03-25T17:35:00Z | Stellar Wave: Input Validation - validator crate实现，BountyRequest/BountyApplication/FreelancerRegistration验证，budget/deadline/title非空检查，返回400+错误消息，PR #121已提交，200 Points via Drips Wave |
 | BT-0371 | 2026-03-25T17:40:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/88 | pr_open | 已提交 | 2026-03-25T17:40:00Z | Stellar Wave: Request Logging - AtomicU64请求ID追踪，structured tracing::info!调用含user_action/entity_type/entity_id字段，所有8个端点日志，PR #122已提交，200 Points via Drips Wave |
 | BT-0372 | 2026-03-25T17:45:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/53 | pr_open | 已提交 | 2026-03-25T17:45:00Z | Stellar Wave: Docker Health Checks - docker-compose.yml API/Indexer healthcheck配置(curl /health)，Indexer Actix-web HTTP /health端点，PR #123已提交，200 Points via Drips Wave |
 | BT-0373 | 2026-03-25T17:50:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/70 | pr_open | 已提交 | 2026-03-25T17:50:00Z | Stellar Wave: Sorting Options - list_bounties/list_freelancers sort_by(sort_by: created_at/budget/deadline/title; sort_order: asc/desc)参数，validate_sort_params()函数，4个单元测试，PR #124已提交，200 Points via Drips Wave |
 | BT-0374 | 2026-03-25T17:55:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/71 | pr_open | 已提交 | 2026-03-25T17:55:00Z | Stellar Wave: Filtering Implementation - BountyListParams/FreelancerListParams过滤器(status/budget范围/creator/discipline/rating/verified/search)，validate函数，8个单元测试，PR #125已提交，200 Points via Drips Wave |
-
 | BT-0375 | 2026-03-25T18:00:00Z | github | yosemite01/stellar-creator-portfolio | 200 pts | https://github.com/yosemite01/stellar-creator-portfolio/issues/82 | pr_open | 已提交 | 2026-03-25T18:00:00Z | Stellar Wave: Prometheus Metrics - /metrics端点(stellar_api_requests_total/errors_total/active_requests/response_time_avg/endpoint_counts)，Metrics struct原子计数器，4个单元测试，PR #126已提交，200 Points via Drips Wave |
 | BT-0376 | 2026-03-25T18:35:00Z | github | Scottcjn/rustchain-bounties | up to 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2451 | available | 新机会 | 2026-03-25T18:35:00Z | Founding 100 Antiquity Miners — 5,000 RTC Program: 今日新发布，每个新miner最多获75-100 RTC（需真实硬件+30天在线），首10个早期用户额外+25 RTC；参考汇率1 RTC=$0.10 |
 | BT-0377 | 2026-03-25T18:35:00Z | github | vllm-project/vllm | $5000 USD | https://github.com/vllm-project/vllm/issues/9807 | closed | ❌已关闭 | 2026-03-25T20:42:00Z | Issue #9807 state=closed，验证失败：已关闭，无法认领 |
@@ -375,16 +358,77 @@
 | BT-0390 | 2026-03-25T21:43:00Z | github | illbnm/homelab-stack | $120 USDT | https://github.com/illbnm/homelab-stack/issues/4 | pr_open | 已提交 | 2026-03-25T21:44:00Z | Network Stack完成：WireGuard Easy(wg-easy:14)+Cloudflare DDNS(favonia:1.14.0)+Unbound递归DNS+完整AdGuard/NPM配置，PR #338已提交；包含DNS端口修复脚本支持 |
 | BT-0391 | 2026-03-25T21:43:00Z | github | illbnm/homelab-stack | $160 USDT | https://github.com/illbnm/homelab-stack/issues/5 | pr_open | 已提交 | 2026-03-25T21:44:00Z | Productivity Stack完成：Stirling PDF 0.30.2+Excalidraw新增+Gitea 1.22.2升级，完整生产力套件(Gitea/Vaultwarden/Outline/BookStack/StirlingPDF/Excalidraw)，PR #338已提交 |
 | BT-0392 | 2026-03-25T21:43:00Z | github | illbnm/homelab-stack | $130 USDT | https://github.com/illbnm/homelab-stack/issues/7 | pr_open | 已提交 | 2026-03-25T21:44:00Z | Home Automation Stack完成：镜像版本升级(HA 2024.9.3/Node-RED 4.0.3/Mosquitto 2.0.19/Zigbee2MQTT 1.40.2)+新增ESPHome 2024.9.3+MQTT TLS配置，PR #338已提交 |
-
 | BT-0393 | 2026-03-26T01:44:00Z | github | BasedHardware/omi | $1000 USD | https://github.com/BasedHardware/omi/issues/3040 | available | ⚠️有竞争-PR#4650活跃review | 2026-03-26T02:00:00Z | Share speech profile ($1000, Algora): PR #4650 by dluffy56已提交(59 commits, 42 review comments)，有竞争但未合并 |
 | BT-0394 | 2026-03-26T01:44:00Z | github | BasedHardware/omi | $300 USD | https://github.com/BasedHardware/omi/issues/3919 | available | ⚠️已认领-PR#4009活跃 | 2026-03-26T02:00:00Z | one-click deployment ($300, Algora): PR #4009已提交(59 commits)，PR #4006/#4732已关闭，有竞争 |
 | BT-0395 | 2026-03-26T01:44:00Z | github | BasedHardware/omi | $200 USD | https://github.com/BasedHardware/omi/issues/3215 | available | ⚠️已认领-PR#5417活跃 | 2026-03-26T02:00:00Z | Private Cloud Sync ($200, Algora): PR #5417已提交，有竞争但未合并 |
 | BT-0396 | 2026-03-26T01:44:00Z | github | calcom/cal.com | $200 USD | https://github.com/calcom/cal.com/issues/16378 | available | ⚠️高竞争-3个PR#28581/#24127/#26811 | 2026-03-26T02:00:00Z | Guest availability rescheduling ($200, Algora): 3个PR竞争，未合并，高难度Cal.com feature开发 |
 | BT-0397 | 2026-03-26T01:44:00Z | github | calcom/cal.com | $50 USD | https://github.com/calcom/cal.com/issues/18987 | available | ⚠️有竞争-PR#28145活跃 | 2026-03-26T02:00:00Z | Booking questions in routing forms ($50, Algora): PR #28145已提交(#28520/#28370已关闭)，有竞争 |
-
 | BT-0398 | 2026-03-26T02:05:00Z | github | BasedHardware/omi | $300 USD | https://github.com/BasedHardware/omi/issues/3858 | available | 新机会 | 2026-03-26T02:05:00Z | omi mobile app performance tests ($300, Algora): PRs #4734已关闭，可重新提交 |
 | BT-0399 | 2026-03-26T02:05:00Z | github | BasedHardware/omi | $300 USD | https://github.com/BasedHardware/omi/issues/3857 | available | 新机会 | 2026-03-26T02:05:00Z | omi mobile app functional tests ($300, Algora): PRs #4733/#1238已关闭，可重新提交 |
 | BT-0400 | 2026-03-26T02:05:00Z | github | BasedHardware/omi | $300 USD | https://github.com/BasedHardware/omi/issues/3810 | available | 新机会 | 2026-03-26T02:05:00Z | genui for omi chat ($300, Algora): PRs #4357/#3656/#358全部已关闭，可重新提交 |
 | BT-0401 | 2026-03-26T02:05:00Z | github | BasedHardware/omi | $100 USD | https://github.com/BasedHardware/omi/issues/3244 | available | 新机会 | 2026-03-26T02:05:00Z | fix double recording when both device and macOS app is on ($100, Algora): PRs #4352/#3537已关闭，可重新提交 |
 | BT-0402 | 2026-03-26T02:05:00Z | github | BasedHardware/omi | $500 USD | https://github.com/BasedHardware/omi/issues/2825 | available | 新机会 | 2026-03-26T02:05:00Z | increased button functionality + customizable buttons ($500, Algora): PR #3876已关闭，可重新提交
-BT-0403 | 2026-03-26T03:20:00Z | github | BasedHardware/omi | $500 USD | https://github.com/BasedHardware/omi/issues/3039 | pr_open | 已提交 | 2026-03-26T03:20:00Z | NER speaker detection ($500, Algora): PR #5918由sungdark提交(2026-03-23)，spaCy NER方案，8个单元测试，open状态待合并 |
+| BT-0404 | 2026-03-26T08:40:00Z | github | Scottcjn/rustchain-bounties | 100-125 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2297 | closed | PR被关闭 | 2026-03-26T13:02:00Z | RustChain Python SDK：pip install rustchain，PR #1867 |
+| BT-0405 | 2026-03-26T08:40:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/14 | pr_open | 已提交 | 2026-03-26T14:28:00Z | Integration Testing：PR #353 |
+| BT-0406 | 2026-03-26T08:40:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2312 | closed | 代码完成PR未推送 | 2026-03-26T15:16:00Z | 2026-03-26T14:28:00Z wRTC Reservation (MCP+Beacon+Escrow)：子agent 代码完成待PR推送（token缺workflow权限）；分支relic-market-clean已推送 |
+| BT-0407 | 2026-03-26T13:02:00Z | github | illbnm/homelab-stack | $300 USDT | https://github.com/illbnm/homelab-stack/issues/9 | pr_open | 已提交 | 2026-03-26T13:32:00Z | SSO Stack (Authentik)：PR #346 |
+| BT-0408 | 2026-03-26T13:02:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/10 | pr_open | 已提交 | 2026-03-26T14:00:00Z | Observability Stack：PR #238 |
+| BT-0409 | 2026-03-26T13:02:00Z | github | illbnm/homelab-stack | $250 USDT | https://github.com/illbnm/homelab-stack/issues/8 | pr_open | 已提交 | 2026-03-26T14:32:00Z | Robustness CN Network：PR #354 |
+| BT-0410 | 2026-03-26T13:02:00Z | github | illbnm/homelab-stack | $100 USDT | https://github.com/illbnm/homelab-stack/issues/11 | pr_open | 已提交 | 2026-03-26T14:15:00Z | Databases Stack：PR #350 |
+| BT-0411 | 2026-03-26T13:02:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/12 | pr_open | 已提交 | 2026-03-26T14:14:00Z | Backup Recovery：PR #352 |
+| BT-0412 | 2026-03-26T13:02:00Z | github | illbnm/homelab-stack | $80 USDT | https://github.com/illbnm/homelab-stack/issues/13 | pr_open | 已提交 | 2026-03-26T14:14:00Z | Notifications Stack：PR #349 |
+| BT-0413 | 2026-03-26T13:32:00Z | github | illbnm/homelab-stack | $120 USDT | https://github.com/illbnm/homelab-stack/issues/4 | pr_open | 已提交 | 2026-03-26T14:00:00Z | Network Stack：PR #347 |
+| BT-0414 | 2026-03-26T13:32:00Z | github | illbnm/homelab-stack | $160 USDT | https://github.com/illbnm/homelab-stack/issues/5 | pr_open | 已提交 | 2026-03-26T14:00:00Z | Productivity Stack：PR #348 |
+| BT-0415 | 2026-03-26T13:32:00Z | github | illbnm/homelab-stack | $130 USDT | https://github.com/illbnm/homelab-stack/issues/7 | pr_open | 已提交 | 2026-03-26T14:14:00Z | Home Automation Stack：PR #351 |
+| BT-0416 | 2026-03-26T14:32:00Z | github | FreezingMoon/AncientBeast | 9 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2858 | pr_open | 已提交 | 2026-03-26T14:37:00Z | AncientBeast webpack fix：PR #2859 |
+| BT-0417 | 2026-03-26T14:32:00Z | github | Scottcjn/rustchain-bounties | X RTC | https://github.com/Scottcjn/rustchain-bounties/issues/426 | closed | PR被关闭 | 2026-03-26T14:41:00Z | clawrtc test suite (73 tests)：PR #2545 |
+| BT-0418 | 2026-03-26T14:32:00Z | github | Scottcjn/legend-of-elya-n64 | 100 RTC | https://github.com/Scottcjn/legend-of-elya-n64/issues/7 | available | 待确认 | 2026-03-26T16:28:00Z | N64 Reference Runner：子agent运行1h+，最后消息"adding debug"，PR未确认 2026-03-26T14:32:00Z N64 Reference Runner：子agent |
+| BT-0419 | 2026-03-26T14:35:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/75 | pr_open | 已提交 | 2026-03-26T14:54:00Z | FinMind Bank Integrations ($500)：PR #663 |
+| BT-0420 | 2026-03-26T14:37:00Z | github | rohitdash08/FinMind | $50 USD | https://github.com/rohitdash08/FinMind/issues/77 | pr_open | 已提交 | 2026-03-26T14:45:00Z | FinMind Signed Webhooks ($50)：PR #664 |
+| BT-0421 | 2026-03-26T14:41:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast/issues | available | 已放弃 | 2026-03-26T16:28:00Z | AncientBeast new bounty：无合适任务，已放弃 |
+| BT-0422 | 2026-03-26T14:45:00Z | github | rohitdash08/FinMind | USD | https://github.com/rohitdash08/FinMind/issues/115 | pr_open | 已提交 | 2026-03-26T14:55:00Z | FinMind Import Refresh：子agent处理中 |
+| BT-0423 | 2026-03-26T14:55:00Z | github | github | USD | https://github.com | pr_open | 已提交 | 2026-03-26T15:07:00Z | New bounty scan & claim：子agent处理中 |
+| BT-0424 | 2026-03-26T14:55:00Z | github | Scottcjn/rustchain-bounties | RTC | https://github.com/Scottcjn/rustchain-bounties | pr_open | 已提交 | 2026-03-26T15:16:00Z | 2026-03-26T14:55:00Z |
+| BT-0425 | 2026-03-26T16:28:00Z | github | illbnm/homelab-stack | $220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | pr_open | 已提交 | 2026-03-26T16:36:00Z | 2026-03-26T16:28:00Z |
+| BT-0426 | 2026-03-26T16:57:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/422 | closed | PR被关闭 | 2026-03-26T17:05:00Z | Beacon Atlas Agent Registration (PR #2552)：5 RTC 2026-03-26T16:57:00Z Rustchain bounty scan & claim #2：子agent处理中 |
+| BT-0427 | 2026-03-26T17:11:00Z | github | Scottcjn/rustchain-bounties | 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2278 | closed | PR被关闭 | 2026-03-26T17:18:00Z | 2026-03-26T17:11:00Z |
+| BT-0428 | 2026-03-26T17:11:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2314 | closed | PR被关闭 | 2026-03-26T17:16:00Z | Ghost in the Machine (PR #2553)：SPARCstation IPX挖矿，150 RTC 2026-03-26T17:11:00Z Ghost in the Machine - Pre-2000 Hardware Mining (100 RTC)：子agent处理中 |
+| BT-0429 | 2026-03-26T17:11:00Z | github | Scottcjn/rustchain-bounties | 140 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2310 | closed | PR被关闭 | 2026-03-26T17:19:00Z | 2026-03-26T17:11:00Z |
+| BT-0430 | 2026-03-26T17:16:00Z | github | Scottcjn/rustchain-bounties | 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/66 | closed | PR被关闭 | 2026-03-26T17:20:00Z | 2026-03-26T17:16:00Z |
+| BT-0431 | 2026-03-26T17:16:00Z | github | Scottcjn/rustchain-bounties | 10 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1585 | closed | PR被关闭 | 2026-03-26T17:20:00Z | 2026-03-26T17:16:00Z |
+| BT-0432 | 2026-03-26T17:27:00Z | github | Scottcjn/rustchain-bounties | 250 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2277 | closed | PR被关闭 | 2026-03-26T17:37:00Z | 2026-03-26T17:27:00Z |
+| BT-0433 | 2026-03-26T17:27:00Z | github | Scottcjn/rustchain-bounties | 10 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2316 | closed | PR被关闭 | 2026-03-26T17:36:00Z | 2026-03-26T17:27:00Z |
+| BT-0434 | 2026-03-26T17:27:00Z | github | Scottcjn/rustchain-bounties | 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2321 | closed | PR被关闭 | 2026-03-26T17:31:00Z | 2026-03-26T17:27:00Z |
+| BT-0435 | 2026-03-26T17:27:00Z | github | Scottcjn/rustchain-bounties | 3 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2271 | closed | PR被关闭 | 2026-03-26T17:30:00Z | 2026-03-26T17:27:00Z |
+| BT-0436 | 2026-03-26T17:27:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1575 | pr_open | 已提交 | 2026-03-26T17:32:00Z | 2026-03-26T17:27:00Z |
+| BT-0437 | 2026-03-26T17:31:00Z | github | Scottcjn/rustchain-bounties | RTC | https://github.com/Scottcjn/rustchain-bounties | closed | PR被关闭 | 2026-03-26T17:41:00Z | 2026-03-26T17:31:00Z |
+| BT-0438 | 2026-03-26T17:31:00Z | github | Scottcjn/rustchain-bounties | RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2311 | closed | PR被关闭 | 2026-03-26T17:38:00Z | 2026-03-26T17:31:00Z |
+| BT-0439 | 2026-03-26T17:38:00Z | github | Scottcjn/rustchain-bounties | RTC | https://github.com/Scottcjn/rustchain-bounties | developing | 工作中 | 2026-03-26T17:38:00Z | Rustchain bounty D scan & claim：子agent处理中 |
+| BT-0440 | 2026-03-26T19:00:00Z | github | FreezingMoon/AncientBeast | 60 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2852 | available | 被抢占 | 2026-03-26T19:00:00Z | buffs/debuffs for stats and masteries (60 XTR)：子agent处理中 |
+| BT-0441 | 2026-03-26T19:00:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2850 | pr_open | 已提交 | 2026-03-26T19:07:00Z | 2026-03-26T19:00:00Z |
+| BT-0442 | 2026-03-26T19:00:00Z | github | FreezingMoon/AncientBeast | 44 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2775 | available | 被抢占 | 2026-03-26T19:00:00Z | Godlet Printer inactive (44 XTR)：子agent处理中 |
+| BT-0443 | 2026-03-26T19:00:00Z | github | FreezingMoon/AncientBeast | 40 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2761 | available | 被抢占 | 2026-03-26T19:00:00Z | move UI at bottom (40 XTR)：子agent处理中 |
+| BT-0444 | 2026-03-26T19:00:00Z | github | FreezingMoon/AncientBeast | 16 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2711 | available | 放弃 | 2026-03-26T19:00:00Z | landscape orientation lock (16 XTR)：子agent处理中 |
+| BT-0445 | 2026-03-26T20:13:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit失败 | 2026-03-26T20:13:00Z | AncientBeast more bounties scan：子agent处理中 |
+| BT-0446 | 2026-03-26T20:13:00Z | github | FreezingMoon/AncientBeast | 100 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2547 | failed | rate_limit失败 | 2026-03-26T20:13:00Z | Gumble advanced ability revamp (100 XTR)：子agent处理中 |
+| BT-0447 | 2026-03-26T20:13:00Z | github | FreezingMoon/AncientBeast | 8 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2539 | pr_open | 已提交 | 2026-03-26T20:20:00Z | flicker (PR #2862)：8 XTR |
+| BT-0448 | 2026-03-26T21:13:00Z | github | FreezingMoon/AncientBeast | 14 XTR | https://github.com/FreezingMoon/AncientBeast/issues/1470 | pr_open | 已提交 | 2026-03-26T21:13:00Z | show unit delay preview on hover (PR #2863)：14 XTR |
+| BT-0449 | 2026-03-26T21:15:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T21:17:00Z | 2026-03-26T21:15:00Z |
+| BT-0450 | 2026-03-26T21:15:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T21:23:00Z | 2026-03-26T21:15:00Z |
+| BT-0451 | 2026-03-26T21:25:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T21:42:00Z | 2026-03-26T21:25:00Z |
+| BT-0452 | 2026-03-26T21:25:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T21:35:00Z | 2026-03-26T21:25:00Z |
+| BT-0453 | 2026-03-26T21:35:00Z | github | FreezingMoon/AncientBeast | 14 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2544 | pr_open | 已提交 | 2026-03-26T21:35:00Z | duplicated Dark Priests (PR #2867)：14 XTR |
+| BT-0454 | 2026-03-26T21:43:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T21:54:00Z | 2026-03-26T21:43:00Z |
+| BT-0455 | 2026-03-26T21:43:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 放弃(重复PR) | 2026-03-26T21:43:00Z | AncientBeast scan K：子agent处理中 |
+| BT-0456 | 2026-03-26T22:00:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T22:07:00Z | 2026-03-26T22:00:00Z |
+| BT-0457 | 2026-03-26T22:00:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | PR被覆盖 | 2026-03-26T22:05:00Z | 2026-03-26T22:00:00Z |
+| BT-0458 | 2026-03-26T22:10:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T22:16:00Z | 2026-03-26T22:10:00Z |
+| BT-0459 | 2026-03-26T22:10:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T22:29:00Z | 2026-03-26T22:10:00Z |
+| BT-0460 | 2026-03-26T22:16:00Z | github | FreezingMoon/AncientBeast | 4 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2234 | pr_open | 已提交 | 2026-03-26T22:16:00Z | Chilling Spit命中反馈 (PR #2872)：4 XTR |
+| BT-0461 | 2026-03-26T22:30:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T22:41:00Z | 2026-03-26T22:30:00Z |
+| BT-0462 | 2026-03-26T22:30:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T22:37:00Z | 2026-03-26T22:30:00Z |
+| BT-0463 | 2026-03-26T22:42:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-26T23:15:00Z | 2026-03-26T22:42:00Z |
+| BT-0464 | 2026-03-26T23:16:00Z | github | FreezingMoon/AncientBeast | 16 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2711 | pr_open | 已提交 | 2026-03-26T23:27:00Z | landscape #2881(duplicate of #2878)：16 XTR |
+| BT-0465 | 2026-03-26T23:16:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit失败 | 2026-03-26T23:27:00Z | rate_limit失败 |
+| BT-0466 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T06:19:00Z | 2026-03-27T06:14:00Z |
+| BT-0467 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T06:14:00Z | AncientBeast scan A2：子agent处理中 |
