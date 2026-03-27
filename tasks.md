@@ -435,3 +435,6 @@
 
 | BT-0467 | 2026-03-27T06:14:00Z | github | FreezingMoon/AncientBeast | 222 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2704 | pr_open | 已提交 | 2026-03-27T06:32:00Z | Undo Move (PR #2885)：222 XTR |
 | BT-0468 | 2026-03-27T06:33:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2617 | pr_open | 已提交 | 2026-03-27T06:43:00Z | X-Ray improvements (PR #2886)：30 XTR | X-Ray PR overwritten by BT-0469, PR now hex coords |
+
+| BT-0470 | 2026-03-27T06:50:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2617 | developing | 工作中 | 2026-03-27T06:50:00Z | X-Ray improvements re-attempt (30 XTR)：子agent处理中 |
+| BT-0471 | 2026-03-27T06:50:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T06:50:00Z | AncientBeast scan C1：子agent处理中 |
