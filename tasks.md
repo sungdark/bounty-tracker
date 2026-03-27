@@ -556,3 +556,6 @@
 
 | BT-0538 | 2026-03-27T22:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:45:00Z | New bounty scan AV1 |
 | BT-0539 | 2026-03-27T22:45:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T22:55:00Z | 2026-03-27T22:45:00Z | New bounty scan AV2 |
+
+| BT-0540 | 2026-03-27T22:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:55:00Z | New bounty scan AW1 |
+| BT-0541 | 2026-03-27T22:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:55:00Z | New bounty scan AW2 |
