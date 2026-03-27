@@ -471,4 +471,4 @@
 | BT-0492 | 2026-03-27T09:14:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | failed | rate_limit失败 | 2026-03-27T09:14:00Z | AncientBeast scan U2：子agent处理中 |
 
 | BT-0493 | 2026-03-27T12:15:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T12:22:00Z | 2026-03-27T12:15:00Z | AncientBeast scan V1：子agent处理中 |
-| BT-0494 | 2026-03-27T12:15:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T12:15:00Z | AncientBeast scan V2：子agent处理中 |
+| BT-0494 | 2026-03-27T12:15:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T12:26:00Z | 2026-03-27T12:15:00Z | AncientBeast scan V2：子agent处理中 |
