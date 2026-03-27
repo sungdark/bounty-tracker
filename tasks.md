@@ -563,5 +563,5 @@
 | BT-0542 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new, keep existing PRs | 2026-03-27T23:16:00Z | New bounty scan AX1 |
 | BT-0543 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T23:16:00Z | New bounty scan AX2 |
 
-| BT-0544 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T23:16:00Z | New bounty scan AY1 |
+| BT-0544 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 new CLAUDE PRs #124-#128 | 2026-03-27T23:16:00Z | New bounty scan AY1 |
 | BT-0545 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T23:16:00Z | New bounty scan AY2 |
