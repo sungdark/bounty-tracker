@@ -535,3 +535,5 @@
 
 | BT-0530 | 2026-03-27T17:37:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit | 2026-03-27T17:37:00Z | New bounty scan AP1 |
 | BT-0531 | 2026-03-27T17:37:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit | 2026-03-27T17:37:00Z | New bounty scan AP2 |
+
+| BT-0532 | 2026-03-27T21:02:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T21:02:00Z | CLAUDE.md template for Next.js 15+SQLite SaaS, PR #113, comprehensive opinionated template with 13 anti-patterns |
