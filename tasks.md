@@ -443,4 +443,4 @@
 | BT-0473 | 2026-03-27T06:53:00Z | github | FreezingMoon/AncientBeast | 30 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2850 | pr_open | 已提交 | 2026-03-27T07:00:00Z | Goey Body #2850 (PR #2888)：30 XTR |
 
 | BT-0474 | 2026-03-27T07:13:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T07:24:00Z | 2026-03-27T07:13:00Z | AncientBeast scan F1：子agent处理中 |
-| BT-0475 | 2026-03-27T07:13:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T07:13:00Z | AncientBeast scan F2：子agent处理中 |
+| BT-0475 | 2026-03-27T07:13:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 重复PR(#2891==#2876) | 2026-03-27T07:13:00Z | AncientBeast scan F2：子agent处理中 |
