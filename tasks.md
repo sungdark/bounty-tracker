@@ -448,6 +448,6 @@
 | BT-0476 | 2026-03-27T07:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T07:38:00Z | 2026-03-27T07:26:00Z | AncientBeast scan H1：子agent处理中 |
 | BT-0477 | 2026-03-27T07:26:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | available | 全重复 | 2026-03-27T07:26:00Z | AncientBeast scan H2：子agent处理中 |
 
-| BT-0478 | 2026-03-27T07:37:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | pr_open | 已提交 | 2026-03-27T07:47:00Z | 2026-03-27T07:37:00Z | AncientBeast scan I1：子agent处理中 |
-| BT-0479 | 2026-03-27T07:37:00Z | github | FreezingMoon/AncientBeast | XTR | https://github.com/FreezingMoon/AncientBeast | developing | 工作中 | 2026-03-27T07:37:00Z | AncientBeast scan I2：子agent处理中 |
+| BT-0478 | 2026-03-27T07:37:00Z | github | FreezingMoon/AncientBeast | 8 XTR | https://github.com/FreezingMoon/AncientBeast/issues/1773 | pr_open | 已提交 | 2026-03-27T07:47:00Z | materialization versatility (PR #2895)：8 XTR |
+| BT-0479 | 2026-03-27T07:37:00Z | github | FreezingMoon/AncientBeast | 8 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2092 | pr_open | 已提交 | 2026-03-27T07:54:00Z | less distracting HUD (PR #2896)：8 XTR |
 | BT-0480 | 2026-03-27T07:43:00Z | github | FreezingMoon/AncientBeast | 8 XTR | https://github.com/FreezingMoon/AncientBeast/issues/2092 | pr_open | 已提交 | 2026-03-27T07:55:00Z | AncientBeast #2092 less distracting HUD - PR #2896 |
