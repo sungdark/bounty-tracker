@@ -559,3 +559,6 @@
 
 | BT-0540 | 2026-03-27T22:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | 9 PRs(omi+$200, PrivacyLayer USDC) | 2026-03-27T22:55:00Z | New bounty scan AW1 |
 | BT-0541 | 2026-03-27T22:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:55:00Z | New bounty scan AW2 |
+
+| BT-0542 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T23:16:00Z | New bounty scan AX1 |
+| BT-0543 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T23:16:00Z | New bounty scan AX2 |
