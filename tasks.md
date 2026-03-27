@@ -552,4 +552,4 @@
 | BT-0535 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | PR#116 duplicate of #107 | 2026-03-27T22:16:00Z | New bounty scan AT1 |
 | BT-0536 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:16:00Z | New bounty scan AT2 |
 
-| BT-0537 | 2026-03-27T22:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:21:00Z | New bounty scan AU1 |
+| BT-0537 | 2026-03-27T22:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | Issue #3 merged, $100 claimed | 2026-03-27T22:21:00Z | New bounty scan AU1 |
