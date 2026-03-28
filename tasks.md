@@ -596,5 +596,5 @@
 
 | BT-0570 | 2026-03-28T03:15:00Z | github | asyncapi/cli | $200-400 USD | https://github.com/asyncapi/cli/issues/2027 | pr_open | 已提交 | 2026-03-28T03:15:00Z | asyncapi CLI timeout fix, AbortController 5s, meaningful error messages, PR#2087 |
 
-| BT-0571 | 2026-03-28T03:11:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T03:11:00Z | New bounty scan BI1 |
+| BT-0571 | 2026-03-28T03:11:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE claimed | 2026-03-28T03:11:00Z | New bounty scan BI1 |
 | BT-0572 | 2026-03-28T03:11:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T03:11:00Z | New bounty scan BI2 |
