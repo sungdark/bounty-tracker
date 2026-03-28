@@ -655,3 +655,11 @@
 
 | BT-0614 | 2026-03-28T13:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T13:31:00Z | New bounty scan BY1 |
 | BT-0615 | 2026-03-28T13:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T13:31:00Z | New bounty scan BY2 |
+| BT-0616 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $100] HOOK: Pre-tool-use hook blocking destructive bash commands, PR#173, 969 additions |
+| BT-0617 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $200] WORKFLOW: n8n + Claude Code weekly dev summary, PR#174, 944 additions |
+| BT-0618 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $75] TEMPLATE: CLAUDE.md for Next.js + SQLite SaaS, PR#175, 823 additions |
+| BT-0619 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $150] AGENT: Claude Code PR reviewer agent, PR#176, 858 additions |
+| BT-0620 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $50] SKILL: Generate CHANGELOG from git history, PR#180, 249 additions |
+| BT-0621 | 2026-03-28T13:32:00Z | web | task.niuma.works | NIUMA token | https://task.niuma.works | opportunity | 新机会-需配置钱包 | 2026-03-28T13:32:00Z | 发现Niuma Bounty Platform (XLayer链上赏金平台)，42+任务，含编程/社交/链上任务；需配置NIUMA_WALLET_SECRET |
+| BT-0622 | 2026-03-28T13:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-28T13:45:00Z | scan-by2完成: claude-builders-bounty 5 PRs (#173-176/#180) 已提交全部MERGEABLE；Niuma平台需钱包配置；其他平台无新机会 |
+
