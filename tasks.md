@@ -613,6 +613,17 @@
 
 | BT-0581 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | all covered by sungdark | 2026-03-28T07:57:00Z | New bounty scan BM1 |
 | BT-0582 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | confirmed BT-0585 | 2026-03-28T07:57:00Z | New bounty scan BM2 |
+| BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | rustchain PR#1929 50 RTC confirmed | 2026-03-28T08:07:00Z | New bounty scan BN1 |
+| BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PR Review Agent PR#162 confirmed | 2026-03-28T08:07:00Z | New bounty scan BN2 |
+
+| BT-0585 | 2026-03-28T08:14:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-28T08:14:00Z | CLAUDE PR Review Agent PR#162, claude-review CLI + GitHub Action |
+
+| BT-0586 | 2026-03-28T08:14:00Z | github | new-bounty-scan | XTR | https://github.com | failed | fast_fail_8s | 2026-03-28T08:14:00Z | New bounty scan BO1 |
+| BT-0587 | 2026-03-28T08:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | confirmed BT-0588 | 2026-03-28T08:14:00Z | New bounty scan BO2 |
+
+| BT-0588 | 2026-03-28T08:28:00Z | github | Scottcjn/rustchain-bounties | 50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2640 | pr_open | 已提交 | 2026-03-28T08:28:00Z | rustchain replay defense fix PR#1929, 14 tests pass, 50 RTC (~$5) |
+
+| BT-0589 | 2026-03-28T08:35:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/121 | pr_open | 已提交 | 2026-03-28T08:35:00Z | Weekly financial summary PR#676, /claim #121, MERGEABLE, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
 | BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | rustchain PR#1929 50 RTC confirmed | 2026-03-28T08:07:00Z | New bounty scan BN1 |
 | BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PR Review Agent PR#162 confirmed | 2026-03-28T08:07:00Z | New bounty scan BN2 |
@@ -640,4 +651,3 @@
 | BT-0605 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:43:00Z | New bounty scan BV2 |
 
 | BT-0606 | 2026-03-28T12:50:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | pr_open | 已提交 | 2026-03-28T12:50:00Z | SPLURT Bodymorpher Presets PR#919, JSON persistence, 397 lines |
-
