@@ -615,4 +615,6 @@
 | BT-0582 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:57:00Z | New bounty scan BM2 |
 
 | BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T08:07:00Z | New bounty scan BN1 |
-| BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T08:07:00Z | New bounty scan BN2 |
+| BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PR Review Agent PR#162 confirmed | 2026-03-28T08:07:00Z | New bounty scan BN2 |
+
+| BT-0585 | 2026-03-28T08:14:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-28T08:14:00Z | CLAUDE PR Review Agent PR#162, claude-review CLI + GitHub Action |
