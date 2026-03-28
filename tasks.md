@@ -602,28 +602,42 @@
 | BT-0573 | 2026-03-28T03:16:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit_03:34-07:14 | 2026-03-28T03:16:00Z | New bounty scan BJ1 |
 | BT-0574 | 2026-03-28T03:16:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit_03:34-07:14 | 2026-03-28T03:16:00Z | New bounty scan BJ2 |
 
-| BT-0575 | 2026-03-28T07:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:14:00Z | New bounty scan BK1 |
+| BT-0575 | 2026-03-28T07:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | liquid-labs #4 + CLAUDE hook improved | 2026-03-28T07:14:00Z | New bounty scan BK1 |
 | BT-0576 | 2026-03-28T07:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE all open, homelab 10 open, rustchain most reliable | 2026-03-28T07:14:00Z | New bounty scan BK2 |
 
-| BT-0577 | 2026-03-28T07:15:00Z | github | claude-builders-bounty/claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | pr_open | 已提交 | 2026-03-28T07:15:00Z | SKILL: Generate CHANGELOG from git history, PR#125, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9, 已认领评论 |
-| BT-0578 | 2026-03-28T07:15:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-28T07:15:00Z | TEMPLATE: CLAUDE.md for Next.js + SQLite SaaS, PR#113/#127, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9, 已认领评论 |
-| BT-0579 | 2026-03-28T07:15:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-28T07:15:00Z | HOOK: Pre-tool-use hook blocking destructive bash, PR#131已更新(修正stdin JSON格式), 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0580 | 2026-03-28T07:20:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-28T07:20:00Z | AGENT: Claude Code PR review agent, PR#126, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0581 | 2026-03-28T07:20:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交 | 2026-03-28T07:20:00Z | WORKFLOW: n8n + Claude Code weekly dev summary, PR#128, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0577 | 2026-03-28T07:41:00Z | github | liquid-labs/policy-vendors-google | $50 USD | https://github.com/liquid-labs/policy-vendors-google/issues/2 | pr_open | 已提交 | 2026-03-28T07:41:00Z | liquid-labs Google Workspace docs PR#4 |
+| BT-0578 | 2026-03-28T07:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-28T07:41:00Z | CLAUDE hook improved stdin JSON format, 8 dangerous commands, PR#131 |
 
-| BT-0582 | 2026-03-28T07:22:00Z | github | illbnm/homelab-stack | $300 USDT | https://github.com/illbnm/homelab-stack/issues/9 | pr_open | 已提交 | 2026-03-28T07:22:00Z | SSO Stack - Authentik统一身份认证, PR#346已提交, 已认领评论 |
-| BT-0583 | 2026-03-28T07:22:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/10 | pr_open | 已提交 | 2026-03-28T07:22:00Z | Observability Stack - Prometheus+Grafana+Loki, PR#238已提交, 已认领评论 |
-| BT-0584 | 2026-03-28T07:22:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/14 | pr_open | 已提交 | 2026-03-28T07:22:00Z | Integration Testing Stack, PR#353已提交, 已认领评论 |
-| BT-0585 | 2026-03-28T07:22:00Z | github | illbnm/homelab-stack | $100 USDT | https://github.com/illbnm/homelab-stack/issues/11 | pr_open | 已提交 | 2026-03-28T07:22:00Z | Database Stack - PostgreSQL+Redis+MariaDB, PR#350已提交, 已认领评论 |
+| BT-0579 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new, all contested | 2026-03-28T07:41:00Z | New bounty scan BL1 |
+| BT-0580 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new >$50 | 2026-03-28T07:41:00Z | New bounty scan BL2 |
 
-| BT-0586 | 2026-03-28T07:30:00Z | github | bitcoin-dot-org/Bitcoin.org | ~$250 USD | https://github.com/bitcoin-dot-org/Bitcoin.org/issues/1837 | available | 新机会 | 2026-03-28T07:30:00Z | Add Bitcoin error codes section to developer-examples, 已认领评论, 待实现 |
-| BT-0587 | 2026-03-28T07:35:00Z | github | liquid-labs/policy-vendors-google | $50 USD | https://github.com/liquid-labs/policy-vendors-google/issues/2 | pr_open | 已提交 | 2026-03-28T07:35:00Z | Google Workspace User Management procedures文档, PR#4已提交, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0588 | 2026-03-28T07:40:00Z | github | shanalikhan/code-settings-sync | $200 USD | https://github.com/shanalikhan/code-settings-sync/issues/413 | available | 新机会 | 2026-03-28T07:40:00Z | IssueHunt $200: Allow upload to repository (git sync feature), 已认领评论, 待实现 |
-| BT-0589 | 2026-03-28T07:40:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/75 | available | 新机会 | 2026-03-28T07:40:00Z | Bank Sync Connector Architecture, $500 bounty, 已认领评论, 待实现 |
+| BT-0581 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | all covered by sungdark | 2026-03-28T07:57:00Z | New bounty scan BM1 |
+| BT-0582 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | confirmed BT-0585 | 2026-03-28T07:57:00Z | New bounty scan BM2 |
 
-| BT-0590 | 2026-03-28T07:45:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-28T07:45:00Z | BK scan完成: claude-builders-bounty 5个已认领+PR全部提交; illbnm 5个已认领评论+PR已存在; liquid-labs PR#4新提交; bitcoin.org/shanalikhan/rohitdash08新认领待实现 |
-| BT-0591 | 2026-03-28T08:20:00Z | github | PlatformNetwork/bounty-challenge | bounty USD | https://github.com/PlatformNetwork/bounty-challenge/issues/3920 | pr_open | 已提交 | 2026-03-28T08:20:00Z | Fix 3x UTF-8 char boundary panics in cortex-cli agent_cmd handlers. PR: https://github.com/CortexLM/cortex-cli/pull/573. 已评论认领+收款地址 |
-| BT-0592 | 2026-03-28T08:30:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/121 | pr_open | 已提交 | 2026-03-28T08:30:00Z | Weekly Financial Digest: GET /insights/weekly-summary, 6 test cases, heuristic+Gemini fallback, unusual spend detection, PR#676, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0593 | 2026-03-28T08:30:00Z | github | rohitdash08/FinMind | $250 USD | https://github.com/rohitdash08/FinMind/issues/133 | comment_submitted | 已认领 | 2026-03-28T08:30:00Z | Goal-based savings tracking & milestones, 已评论认领，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0594 | 2026-03-28T08:30:00Z | github | rohitdash08/FinMind | $250 USD | https://github.com/rohitdash08/FinMind/issues/130 | comment_submitted | 已认领 | 2026-03-28T08:30:00Z | Resilient background job retry & monitoring, 已评论认领，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0595 | 2026-03-28T08:30:00Z | github | rohitdash08/FinMind | $200 USD | https://github.com/rohitdash08/FinMind/issues/132 | comment_submitted | 已认领 | 2026-03-28T08:30:00Z | Multi-account financial overview dashboard, 已评论认领，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | rustchain PR#1929 50 RTC confirmed | 2026-03-28T08:07:00Z | New bounty scan BN1 |
+| BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PR Review Agent PR#162 confirmed | 2026-03-28T08:07:00Z | New bounty scan BN2 |
+
+| BT-0585 | 2026-03-28T08:14:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-28T08:14:00Z | CLAUDE PR Review Agent PR#162, claude-review CLI + GitHub Action |
+
+| BT-0586 | 2026-03-28T08:14:00Z | github | new-bounty-scan | XTR | https://github.com | failed | fast_fail_8s | 2026-03-28T08:14:00Z | New bounty scan BO1 |
+| BT-0587 | 2026-03-28T08:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | confirmed BT-0588 | 2026-03-28T08:14:00Z | New bounty scan BO2 |
+
+| BT-0588 | 2026-03-28T08:28:00Z | github | Scottcjn/rustchain-bounties | 50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2640 | pr_open | 已提交 | 2026-03-28T08:28:00Z | rustchain replay defense fix PR#1929, 14 tests pass, 50 RTC (~$5) |
+
+| BT-0589 | 2026-03-28T08:35:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/121 | pr_open | 已提交 | 2026-03-28T08:35:00Z | Weekly financial summary PR#676, /claim #121, MERGEABLE, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0597 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo PR#6 $500 | 2026-03-28T12:15:00Z | New bounty scan BS1 |
+| BT-0598 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo PR#5 MERGEABLE | 2026-03-28T12:15:00Z | New bounty scan BS2 |
+
+| BT-0599 | 2026-03-28T12:29:00Z | github | labmain/ai-agent-pay-demo | $500 USD | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T12:29:00Z | ai-agent-pay-demo PR#6, BountyPay README branding fix, $500 USD |
+
+| BT-0600 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new high-value opportunities | 2026-03-28T12:15:00Z | New bounty scan BT1 |
+| BT-0601 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT Bodymorpher PR#919 $100+ | 2026-03-28T12:15:00Z | New bounty scan BT2 |
+
+| BT-0602 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs #173-176/#180 confirmed | 2026-03-28T12:33:00Z | New bounty scan BU1 |
+| BT-0603 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE claimed, no new | 2026-03-28T12:33:00Z | New bounty scan BU2 |
+
+| BT-0604 | 2026-03-28T12:43:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 (~$24) | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T12:50:00Z | iOS PDF export fix PR#56: html2canvas+jsPDF replaces broken window.print(), TypeScript编译通过, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0605 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:43:00Z | New bounty scan BV2 |
+
+| BT-0606 | 2026-03-28T12:50:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | pr_open | 已提交 | 2026-03-28T12:50:00Z | SPLURT Bodymorpher Presets PR#919, JSON persistence, 397 lines |
+
