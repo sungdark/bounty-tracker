@@ -613,3 +613,6 @@
 
 | BT-0581 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | all covered by sungdark | 2026-03-28T07:57:00Z | New bounty scan BM1 |
 | BT-0582 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:57:00Z | New bounty scan BM2 |
+
+| BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T08:07:00Z | New bounty scan BN1 |
+| BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T08:07:00Z | New bounty scan BN2 |
