@@ -674,5 +674,5 @@
 
 | BT-0627 | 2026-03-28T16:16:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/14 | pr_open | 已提交 | 2026-03-28T16:16:00Z | homelab-stack PR#384, integration test suite, 20 files |
 
-| BT-0628 | 2026-03-28T16:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T16:16:00Z | New bounty scan CB1 |
+| BT-0628 | 2026-03-28T16:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs CLEAN/MERGEABLE | 2026-03-28T16:16:00Z | New bounty scan CB1 |
 | BT-0629 | 2026-03-28T16:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T16:16:00Z | New bounty scan CB2 |
