@@ -744,7 +744,9 @@
 
 | BT-0670 | 2026-03-28T23:02:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3 | pr_open | 已提交 | 2026-03-28T23:02:00Z | mergefund PR#72, Discovery Algorithm, multi-factor ranking system, 5 scoring dimensions |
 
-| BT-0671 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:02:00Z | New bounty scan CS1 |
+| BT-0671 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | available | homelab-stack PR#385 $150 USDT confirmed | 2026-03-28T23:02:00Z | New bounty scan CS1 |
 | BT-0672 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:02:00Z | New bounty scan CS2 |
 
 | BT-0673 | 2026-03-28T23:06:00Z | github | storacha/upload-service | $4000 USD | https://github.com/storacha/upload-service/issues/96 | opportunity | 极高价值! Telegram Mini App, 需要去中心化存储集成专业知识 | 2026-03-28T23:06:00Z | storacha/upload-service #96, $4000 USD bounty, Telegram Mini App, extremely complex, decentralized storage |
+
+| BT-0674 | 2026-03-28T23:13:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-28T23:13:00Z | homelab-stack PR#385, Storage Stack, Nextcloud+PostgreSQL+Redis+MinIO+Syncthing, Traefik HTTPS |
