@@ -615,3 +615,8 @@
 | BT-0583 | 2026-03-28T07:22:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/10 | pr_open | 已提交 | 2026-03-28T07:22:00Z | Observability Stack - Prometheus+Grafana+Loki, PR#238已提交, 已认领评论 |
 | BT-0584 | 2026-03-28T07:22:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/14 | pr_open | 已提交 | 2026-03-28T07:22:00Z | Integration Testing Stack, PR#353已提交, 已认领评论 |
 | BT-0585 | 2026-03-28T07:22:00Z | github | illbnm/homelab-stack | $100 USDT | https://github.com/illbnm/homelab-stack/issues/11 | pr_open | 已提交 | 2026-03-28T07:22:00Z | Database Stack - PostgreSQL+Redis+MariaDB, PR#350已提交, 已认领评论 |
+
+| BT-0586 | 2026-03-28T07:30:00Z | github | bitcoin-dot-org/Bitcoin.org | ~$250 USD | https://github.com/bitcoin-dot-org/Bitcoin.org/issues/1837 | available | 新机会 | 2026-03-28T07:30:00Z | Add Bitcoin error codes section to developer-examples, 已认领评论, 待实现 |
+| BT-0587 | 2026-03-28T07:35:00Z | github | liquid-labs/policy-vendors-google | $50 USD | https://github.com/liquid-labs/policy-vendors-google/issues/2 | pr_open | 已提交 | 2026-03-28T07:35:00Z | Google Workspace User Management procedures文档, PR#4已提交, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0588 | 2026-03-28T07:40:00Z | github | shanalikhan/code-settings-sync | $200 USD | https://github.com/shanalikhan/code-settings-sync/issues/413 | available | 新机会 | 2026-03-28T07:40:00Z | IssueHunt $200: Allow upload to repository (git sync feature), 已认领评论, 待实现 |
+| BT-0589 | 2026-03-28T07:40:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/75 | available | 新机会 | 2026-03-28T07:40:00Z | Bank Sync Connector Architecture, $500 bounty, 已认领评论, 待实现 |
