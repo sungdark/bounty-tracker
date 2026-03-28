@@ -705,3 +705,4 @@
 
 | BT-0647 | 2026-03-28T18:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:20:00Z | New bounty scan CJ1 |
 | BT-0648 | 2026-03-28T18:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:20:00Z | New bounty scan CJ2 |
+| BT-0649 | 2026-03-28T18:25:00Z | github | labmain/ai-agent-pay-demo | $500 USD1 | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T18:25:00Z | PR #8: fix README bounty label format from 'bounty:$XXX' to 'bounty:XXX (e.g., bounty:500USD1)' |
