@@ -599,5 +599,5 @@
 | BT-0571 | 2026-03-28T03:11:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE claimed | 2026-03-28T03:11:00Z | New bounty scan BI1 |
 | BT-0572 | 2026-03-28T03:11:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE claimed | 2026-03-28T03:11:00Z | New bounty scan BI2 |
 
-| BT-0573 | 2026-03-28T03:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T03:16:00Z | New bounty scan BJ1 |
-| BT-0574 | 2026-03-28T03:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T03:16:00Z | New bounty scan BJ2 |
+| BT-0573 | 2026-03-28T03:16:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit_03:34-07:14 | 2026-03-28T03:16:00Z | New bounty scan BJ1 |
+| BT-0574 | 2026-03-28T03:16:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit_03:34-07:14 | 2026-03-28T03:16:00Z | New bounty scan BJ2 |
