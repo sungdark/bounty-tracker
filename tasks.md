@@ -727,3 +727,6 @@
 | BT-0660 | 2026-03-28T22:30:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/15 | pr_open | 已提交 | 2026-03-28T22:30:00Z | PrivacyLayer PR#192, Emergency Pause Mechanism, Soroban合约, 56 tests passed |
 
 | BT-0661 | 2026-03-28T22:35:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ~$24 USD | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T22:35:00Z | GraciasAi PR#63, PDF export fix, html2canvas+jsPDF, iOS Safari compatible |
+
+| BT-0662 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:37:00Z | New bounty scan CP1 |
+| BT-0663 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:37:00Z | New bounty scan CP2 |
