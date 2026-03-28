@@ -571,3 +571,6 @@
 
 | BT-0548 | 2026-03-27T23:38:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit | 2026-03-27T23:38:00Z | New bounty scan BA1 |
 | BT-0549 | 2026-03-27T23:38:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit | 2026-03-27T23:38:00Z | New bounty scan BA2 |
+
+| BT-0550 | 2026-03-28T02:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T02:10:00Z | New bounty scan BB1 |
+| BT-0551 | 2026-03-28T02:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T02:10:00Z | New bounty scan BB2 |
