@@ -609,7 +609,7 @@
 | BT-0578 | 2026-03-28T07:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-28T07:41:00Z | CLAUDE hook improved stdin JSON format, 8 dangerous commands, PR#131 |
 
 | BT-0579 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new, all contested | 2026-03-28T07:41:00Z | New bounty scan BL1 |
-| BT-0580 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:41:00Z | New bounty scan BL2 |
+| BT-0580 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new >$50 | 2026-03-28T07:41:00Z | New bounty scan BL2 |
 
 | BT-0581 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:57:00Z | New bounty scan BM1 |
 | BT-0582 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:57:00Z | New bounty scan BM2 |
