@@ -589,3 +589,5 @@
 | BT-0550 | 2026-03-28T02:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T02:10:00Z | New bounty scan BB1 |
 | BT-0551 | 2026-03-28T02:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T02:10:00Z | New bounty scan BB2 |
 | BT-0552 | 2026-03-28T02:11:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/41 | pr_open | 已提交 | 2026-03-28T02:11:00Z | SEO optimization PR#187: sitemap.xml, robots.txt, docs/FAQ.md, docs/ARCHITECTURE.md, docs/SECURITY.md, README.md enhanced, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+
+| BT-0553 | 2026-03-28T02:25:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-28T02:25:00Z | CLAUDE.md template PR#127 improved to 449 lines, comprehensive Next.js 15+SQLite SaaS template with 13 anti-patterns, security rules, SQLite gotchas |
