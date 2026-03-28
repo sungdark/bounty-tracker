@@ -630,7 +630,7 @@
 
 | BT-0599 | 2026-03-28T12:29:00Z | github | labmain/ai-agent-pay-demo | $500 USD | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T12:29:00Z | ai-agent-pay-demo PR#6, BountyPay README branding fix, $500 USD |
 
-| BT-0600 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:15:00Z | New bounty scan BT1 |
+| BT-0600 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new high-value opportunities | 2026-03-28T12:15:00Z | New bounty scan BT1 |
 | BT-0601 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:15:00Z | New bounty scan BT2 |
 
 | BT-0602 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs #173-176/#180 confirmed | 2026-03-28T12:33:00Z | New bounty scan BU1 |
