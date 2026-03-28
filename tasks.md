@@ -689,10 +689,13 @@
 | BT-0636 | 2026-03-28T17:26:00Z | github | new-bounty-scan | XTR | https://github.com | available | mergefund PR#71 confirmed | 2026-03-28T17:26:00Z | New bounty scan CF1 |
 | BT-0637 | 2026-03-28T17:26:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs $575 all open | 2026-03-28T17:26:00Z | New bounty scan CF2 |
 
-| BT-0638 | 2026-03-28T17:30:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:30:00Z | New bounty scan CG1 |
+| BT-0638 | 2026-03-28T17:30:00Z | github | new-bounty-scan | XTR | https://github.com | available | denoland/deno $70无人认领, baozi-openclaw新SOL平台 | 2026-03-28T17:30:00Z | New bounty scan CG1 |
 | BT-0639 | 2026-03-28T17:30:00Z | github | new-bounty-scan | XTR | https://github.com | available | omi=0 open, claude=30+ PRs, no actionable | 2026-03-28T17:30:00Z | New bounty scan CG2 |
 
 | BT-0640 | 2026-03-28T17:32:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/1 | pr_open | 已提交 | 2026-03-28T17:32:00Z | mergefund-hackathon-kit PR#71, BountyCard component, hover effects, brand colors, difficulty icons |
 
 | BT-0641 | 2026-03-28T17:41:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:41:00Z | New bounty scan CH1 |
 | BT-0642 | 2026-03-28T17:41:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:41:00Z | New bounty scan CH2 |
+
+| BT-0643 | 2026-03-28T17:45:00Z | web | denoland/deno | $70 USD | https://github.com/denoland/deno/issues/18147 | opportunity | 无人认领! Rust LSP测试覆盖, Opire API | 2026-03-28T17:45:00Z | denoland/deno $70 Rust LSP test coverage, 0 claims via Opire API |
+| BT-0644 | 2026-03-28T17:45:00Z | web | bolivian-peru/baozi-openclaw | 1-2.5 SOL | https://github.com/bolivian-peru/baozi-openclaw | opportunity | 新平台! OpenClaw技能赏金以SOL计费 | 2026-03-28T17:45:00Z | bolivian-peru/baozi-openclaw OpenClaw skill bounties in SOL |
