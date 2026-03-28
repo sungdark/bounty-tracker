@@ -709,8 +709,8 @@
 
 | BT-0649 | 2026-03-28T18:31:00Z | github | labmain/ai-agent-pay-demo | $500 USD1 | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T18:31:00Z | ai-agent-pay-demo PR#8, README typo fix, $500 USD1 |
 
-| BT-0650 | 2026-03-28T18:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:31:00Z | New bounty scan CK1 |
-| BT-0651 | 2026-03-28T18:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:31:00Z | New bounty scan CK2 |
+| BT-0650 | 2026-03-28T18:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:31:00Z | New bounty scan CK1 |
+| BT-0651 | 2026-03-28T18:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:31:00Z | New bounty scan CK2 |
 
-| BT-0652 | 2026-03-28T18:33:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:33:00Z | New bounty scan CL1 |
-| BT-0653 | 2026-03-28T18:33:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:33:00Z | New bounty scan CL2 |
+| BT-0652 | 2026-03-28T18:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:33:00Z | New bounty scan CL1 |
+| BT-0653 | 2026-03-28T18:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:33:00Z | New bounty scan CL2 |
