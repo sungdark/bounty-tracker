@@ -685,3 +685,6 @@
 
 | BT-0634 | 2026-03-28T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | 6 PRs already claimed, no new high-value | 2026-03-28T17:18:00Z | New bounty scan CE1 |
 | BT-0635 | 2026-03-28T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo already handled, waiting merge | 2026-03-28T17:18:00Z | New bounty scan CE2 |
+
+| BT-0636 | 2026-03-28T17:26:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:26:00Z | New bounty scan CF1 |
+| BT-0637 | 2026-03-28T17:26:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:26:00Z | New bounty scan CF2 |
