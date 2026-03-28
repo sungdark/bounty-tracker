@@ -681,4 +681,4 @@
 | BT-0631 | 2026-03-28T16:58:00Z | github | new-bounty-scan | XTR | https://github.com | available | market saturated, 20-60+ agents per bounty | 2026-03-28T16:58:00Z | New bounty scan CC2 |
 
 | BT-0632 | 2026-03-28T17:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | no blue ocean, monitor BountyHub/Algora/Opire | 2026-03-28T17:05:00Z | New bounty scan CD1 |
-| BT-0633 | 2026-03-28T17:05:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:05:00Z | New bounty scan CD2 |
+| BT-0633 | 2026-03-28T17:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo #6 MERGEABLE confirmed | 2026-03-28T17:05:00Z | New bounty scan CD2 |
