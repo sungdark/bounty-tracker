@@ -647,7 +647,7 @@
 | BT-0602 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs #173-176/#180 confirmed | 2026-03-28T12:33:00Z | New bounty scan BU1 |
 | BT-0603 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE claimed, no new | 2026-03-28T12:33:00Z | New bounty scan BU2 |
 
-| BT-0604 | 2026-03-28T12:43:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 (~$24) | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T12:50:00Z | iOS PDF export fix PR#56: html2canvas+jsPDF replaces broken window.print(), TypeScript编译通过, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0604 | 2026-03-28T12:43:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 (~$24) | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T22:32:31Z | iOS PDF export fix PR#63: html2canvas+jsPDF replaces broken window.print(), supports iOS Safari, dynamic imports, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0605 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:43:00Z | New bounty scan BV2 |
 
 | BT-0606 | 2026-03-28T12:50:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | pr_open | 已提交 | 2026-03-28T12:50:00Z | SPLURT Bodymorpher Presets PR#919, JSON persistence, 397 lines |
