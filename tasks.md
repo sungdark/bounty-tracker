@@ -647,3 +647,6 @@
 | BT-0609 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new, all CLAUDE claimed | 2026-03-28T12:58:00Z | New bounty scan BW2 |
 
 | BT-0610 | 2026-03-28T13:01:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ~$24 USD | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T13:01:00Z | GraciasAi PDF fix PR#56, html2canvas+jsPDF, iOS Safari fix |
+
+| BT-0611 | 2026-03-28T13:15:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T13:15:00Z | New bounty scan BX1 |
+| BT-0612 | 2026-03-28T13:15:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T13:15:00Z | New bounty scan BX2 |
