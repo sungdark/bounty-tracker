@@ -607,3 +607,6 @@
 
 | BT-0577 | 2026-03-28T07:41:00Z | github | liquid-labs/policy-vendors-google | $50 USD | https://github.com/liquid-labs/policy-vendors-google/issues/2 | pr_open | 已提交 | 2026-03-28T07:41:00Z | liquid-labs Google Workspace docs PR#4 |
 | BT-0578 | 2026-03-28T07:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-28T07:41:00Z | CLAUDE hook improved stdin JSON format, 8 dangerous commands, PR#131 |
+
+| BT-0579 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:41:00Z | New bounty scan BL1 |
+| BT-0580 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:41:00Z | New bounty scan BL2 |
