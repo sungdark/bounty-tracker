@@ -743,3 +743,6 @@
 | BT-0670 | 2026-03-28T23:00:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3 | pr_open | 已提交 | 2026-03-28T23:00:00Z | Discovery Algorithm增强版多因素评分系统，PR #72已创建，收款地址eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
 | BT-0670 | 2026-03-28T23:02:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3 | pr_open | 已提交 | 2026-03-28T23:02:00Z | mergefund PR#72, Discovery Algorithm, multi-factor ranking system, 5 scoring dimensions |
+
+| BT-0671 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:02:00Z | New bounty scan CS1 |
+| BT-0672 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:02:00Z | New bounty scan CS2 |
