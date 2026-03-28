@@ -737,3 +737,6 @@
 | BT-0666 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:50:00Z | New bounty scan CQ2 |
 
 | BT-0667 | 2026-03-28T22:56:00Z | github | windoliver/grove | bounty USD | https://github.com/windoliver/grove/issues/169 | pr_open | 已提交 | 2026-03-28T22:56:00Z | grove PR#170, MCP tools refactoring, 177 tests passed, grove_submit_work/review |
+
+| BT-0668 | 2026-03-28T22:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:57:00Z | New bounty scan CR1 |
+| BT-0669 | 2026-03-28T22:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:57:00Z | New bounty scan CR2 |
