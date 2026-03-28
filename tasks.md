@@ -715,7 +715,7 @@
 | BT-0652 | 2026-03-28T18:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:33:00Z | New bounty scan CL1 |
 | BT-0653 | 2026-03-28T18:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:33:00Z | New bounty scan CL2 |
 
-| BT-0654 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T21:04:00Z | New bounty scan CM1 |
+| BT-0654 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#192 confirmed | 2026-03-28T21:04:00Z | New bounty scan CM1 |
 | BT-0655 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | zero merges, maintainers overwhelmed, all AI-competed | 2026-03-28T21:04:00Z | New bounty scan CM2 |
 
 | BT-0656 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:13:00Z | New bounty scan CN1 |
@@ -723,3 +723,5 @@
 
 | BT-0658 | 2026-03-28T22:27:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:27:00Z | New bounty scan CO1 |
 | BT-0659 | 2026-03-28T22:27:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:27:00Z | New bounty scan CO2 |
+
+| BT-0660 | 2026-03-28T22:30:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/15 | pr_open | 已提交 | 2026-03-28T22:30:00Z | PrivacyLayer PR#192, Emergency Pause Mechanism, Soroban合约, 56 tests passed |
