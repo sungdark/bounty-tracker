@@ -644,6 +644,6 @@
 | BT-0607 | 2026-03-28T12:58:00Z | github | CortexLM/cortex-ide | bounty USD | https://github.com/PlatformNetwork/bounty-challenge/issues/39619 | pr_open | 已提交 | 2026-03-28T12:58:00Z | cortex-ide PR#72, 3 fixes: TerminalSettingsPanel + CloneRepositoryDialog + GitSettingsPanel |
 
 | BT-0608 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:58:00Z | New bounty scan BW1 |
-| BT-0609 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:58:00Z | New bounty scan BW2 |
+| BT-0609 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new, all CLAUDE claimed | 2026-03-28T12:58:00Z | New bounty scan BW2 |
 
 | BT-0610 | 2026-03-28T13:01:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ~$24 USD | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T13:01:00Z | GraciasAi PDF fix PR#56, html2canvas+jsPDF, iOS Safari fix |
