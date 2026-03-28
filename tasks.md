@@ -653,7 +653,7 @@
 
 | BT-0613 | 2026-03-28T13:25:00Z | github | bitcoin-dot-org/Bitcoin.org | ~$250 USD | https://github.com/bitcoin-dot-org/Bitcoin.org/issues/1837 | pr_open | 已提交 | 2026-03-28T13:25:00Z | developer.bitcoin.org PR#315, Add error codes section to regtest-mode docs, 25,000 bits bounty, 收款: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
-| BT-0614 | 2026-03-28T13:31:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | stellar Event Emissions PR#233 | 2026-03-28T13:56:00Z | 2026-03-28T13:31:00Z | New bounty scan BY1 |
+| BT-0614 | 2026-03-28T13:31:00Z | github | new-bounty-scan | XTR | https://github.com | merged | 2026-03-28T14:16:23Z | stellar Event Emissions PR#233 | 2026-03-28T13:31:00Z | New bounty scan BY1 |
 | BT-0615 | 2026-03-28T13:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs MERGEABLE $575 | 2026-03-28T13:31:00Z | New bounty scan BY2 |
 | BT-0616 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $100] HOOK: Pre-tool-use hook blocking destructive bash commands, PR#173, 969 additions |
 | BT-0617 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $200] WORKFLOW: n8n + Claude Code weekly dev summary, PR#174, 944 additions |
