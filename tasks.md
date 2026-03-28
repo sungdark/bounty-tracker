@@ -23,7 +23,7 @@
 | BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | 80 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/436 | pr_open | 已提交 | 2026-03-18T13:05:00Z | 已完成完整端口apple2-6502-miner，等待PR合并 |
 | BT-0019 | 2026-03-18T00:54:00Z | github | Scottcjn/Rustchain | 500 USDC | https://github.com/Scottcjn/Rustchain/issues/425 | available | 新机会 | 2026-03-18T00:54:00Z | 5000星推广活动奖励池 |
 | BT-0020 | 2026-03-18T00:56:00Z | github | asyncapi | $1600 USD | https://github.com/orgs/asyncapi/projects/36 | available | 新机会 | 2026-03-18T00:56:00Z | 2026-03轮赏金计划总预算 |
-| BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-18T13:05:00Z | 实现完整存储服务栈，PR已创建 |
+| BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-28T23:15:00Z | Storage Stack完整实现，PR#385 Nextcloud FPM+Nginx+MinIO+FileBrowser+Syncthing，收款地址eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | pr_open | 已提交 | 2026-03-18T22:00:00Z | 实现AI服务栈，PR已创建 |
 | BT-0023 | 2026-03-18T01:51:00Z | bountyhub | BountyHub | $0+ USD | https://www.bountyhub.dev/ | available | 新机会 | 2026-03-18T01:51:00Z | GitHub赏金聚合平台 |
 | BT-0024 | 2026-03-18T01:51:00Z | yeswehack | KOMOJU | $50-7000 USD | https://yeswehack.com/programs/komoju-public-bug-bounty-program | available | 新机会 | 2026-03-18T01:51:00Z | 金融公司公开漏洞赏金计划 |
