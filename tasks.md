@@ -683,5 +683,5 @@
 | BT-0632 | 2026-03-28T17:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | no blue ocean, monitor BountyHub/Algora/Opire | 2026-03-28T17:05:00Z | New bounty scan CD1 |
 | BT-0633 | 2026-03-28T17:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo #6 MERGEABLE confirmed | 2026-03-28T17:05:00Z | New bounty scan CD2 |
 
-| BT-0634 | 2026-03-28T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:18:00Z | New bounty scan CE1 |
+| BT-0634 | 2026-03-28T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | 6 PRs already claimed, no new high-value | 2026-03-28T17:18:00Z | New bounty scan CE1 |
 | BT-0635 | 2026-03-28T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo already handled, waiting merge | 2026-03-28T17:18:00Z | New bounty scan CE2 |
