@@ -636,7 +636,7 @@
 | BT-0602 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs #173-176/#180 confirmed | 2026-03-28T12:33:00Z | New bounty scan BU1 |
 | BT-0603 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE claimed, no new | 2026-03-28T12:33:00Z | New bounty scan BU2 |
 
-| BT-0604 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:43:00Z | New bounty scan BV1 |
+| BT-0604 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | available | GraciasAi PR#56 confirmed | 2026-03-28T12:43:00Z | New bounty scan BV1 |
 | BT-0605 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | available | cortex-ide PR#72 confirmed | 2026-03-28T12:43:00Z | New bounty scan BV2 |
 
 | BT-0606 | 2026-03-28T12:50:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | pr_open | 已提交 | 2026-03-28T12:50:00Z | SPLURT Bodymorpher Presets PR#919, JSON persistence, 397 lines |
@@ -645,3 +645,5 @@
 
 | BT-0608 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:58:00Z | New bounty scan BW1 |
 | BT-0609 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:58:00Z | New bounty scan BW2 |
+
+| BT-0610 | 2026-03-28T13:01:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ~$24 USD | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T13:01:00Z | GraciasAi PDF fix PR#56, html2canvas+jsPDF, iOS Safari fix |
