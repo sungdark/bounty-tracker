@@ -676,3 +676,6 @@
 
 | BT-0628 | 2026-03-28T16:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs CLEAN/MERGEABLE | 2026-03-28T16:16:00Z | New bounty scan CB1 |
 | BT-0629 | 2026-03-28T16:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T16:16:00Z | New bounty scan CB2 |
+
+| BT-0630 | 2026-03-28T16:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T16:58:00Z | New bounty scan CC1 |
+| BT-0631 | 2026-03-28T16:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T16:58:00Z | New bounty scan CC2 |
