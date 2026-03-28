@@ -738,7 +738,7 @@
 
 | BT-0667 | 2026-03-28T22:56:00Z | github | windoliver/grove | bounty USD | https://github.com/windoliver/grove/issues/169 | pr_open | 已提交 | 2026-03-28T22:56:00Z | grove PR#170, MCP tools refactoring, 177 tests passed, grove_submit_work/review |
 
-| BT-0668 | 2026-03-28T22:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:57:00Z | New bounty scan CR1 |
+| BT-0668 | 2026-03-28T22:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | storacha $4000 found, extremely complex | 2026-03-28T22:57:00Z | New bounty scan CR1 |
 | BT-0669 | 2026-03-28T22:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | market saturated, all >$50 claimed | 2026-03-28T22:57:00Z | New bounty scan CR2 |
 | BT-0670 | 2026-03-28T23:00:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3 | pr_open | 已提交 | 2026-03-28T23:00:00Z | Discovery Algorithm增强版多因素评分系统，PR #72已创建，收款地址eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
@@ -746,3 +746,5 @@
 
 | BT-0671 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:02:00Z | New bounty scan CS1 |
 | BT-0672 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:02:00Z | New bounty scan CS2 |
+
+| BT-0673 | 2026-03-28T23:06:00Z | github | storacha/upload-service | $4000 USD | https://github.com/storacha/upload-service/issues/96 | opportunity | 极高价值! Telegram Mini App, 需要去中心化存储集成专业知识 | 2026-03-28T23:06:00Z | storacha/upload-service #96, $4000 USD bounty, Telegram Mini App, extremely complex, decentralized storage |
