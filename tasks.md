@@ -721,7 +721,7 @@
 | BT-0656 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:13:00Z | New bounty scan CN1 |
 | BT-0657 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | available | GraciasAi PR#63 confirmed | 2026-03-28T22:13:00Z | New bounty scan CN2 |
 
-| BT-0658 | 2026-03-28T22:27:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:27:00Z | New bounty scan CO1 |
+| BT-0658 | 2026-03-28T22:27:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#193 confirmed | 2026-03-28T22:27:00Z | New bounty scan CO1 |
 | BT-0659 | 2026-03-28T22:27:00Z | github | new-bounty-scan | XTR | https://github.com | available | all major claimed, waiting for merges | 2026-03-28T22:27:00Z | New bounty scan CO2 |
 
 | BT-0660 | 2026-03-28T22:30:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/15 | pr_open | 已提交 | 2026-03-28T22:30:00Z | PrivacyLayer PR#192, Emergency Pause Mechanism, Soroban合约, 56 tests passed |
@@ -730,3 +730,5 @@
 
 | BT-0662 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:37:00Z | New bounty scan CP1 |
 | BT-0663 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:37:00Z | New bounty scan CP2 |
+
+| BT-0664 | 2026-03-28T22:42:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/24 | pr_open | 已提交 | 2026-03-28T22:42:00Z | PrivacyLayer PR#193, Freighter Wallet Integration, Zustand store, 4 UI components |
