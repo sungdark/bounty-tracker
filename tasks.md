@@ -700,7 +700,7 @@
 | BT-0643 | 2026-03-28T17:45:00Z | web | denoland/deno | $70 USD | https://github.com/denoland/deno/issues/18147 | opportunity | 无人认领! Rust LSP测试覆盖, Opire API | 2026-03-28T17:45:00Z | denoland/deno $70 Rust LSP test coverage, 0 claims via Opire API |
 | BT-0644 | 2026-03-28T17:45:00Z | web | bolivian-peru/baozi-openclaw | 1-2.5 SOL | https://github.com/bolivian-peru/baozi-openclaw | opportunity | 新平台! OpenClaw技能赏金以SOL计费 | 2026-03-28T17:45:00Z | bolivian-peru/baozi-openclaw OpenClaw skill bounties in SOL |
 
-| BT-0645 | 2026-03-28T18:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:16:00Z | New bounty scan CI1 |
+| BT-0645 | 2026-03-28T18:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #891 already closed, asyncapi/cli 2026-04 program | 2026-03-28T18:16:00Z | New bounty scan CI1 |
 | BT-0646 | 2026-03-28T18:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:16:00Z | New bounty scan CI2 |
 
 | BT-0647 | 2026-03-28T18:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T18:20:00Z | New bounty scan CJ1 |
