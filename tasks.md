@@ -717,3 +717,6 @@
 
 | BT-0654 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T21:04:00Z | New bounty scan CM1 |
 | BT-0655 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T21:04:00Z | New bounty scan CM2 |
+
+| BT-0656 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:13:00Z | New bounty scan CN1 |
+| BT-0657 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:13:00Z | New bounty scan CN2 |
