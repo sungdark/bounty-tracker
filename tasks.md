@@ -732,3 +732,6 @@
 | BT-0663 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:37:00Z | New bounty scan CP2 |
 
 | BT-0664 | 2026-03-28T22:42:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/24 | pr_open | 已提交 | 2026-03-28T22:42:00Z | PrivacyLayer PR#193, Freighter Wallet Integration, Zustand store, 4 UI components |
+
+| BT-0665 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:50:00Z | New bounty scan CQ1 |
+| BT-0666 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:50:00Z | New bounty scan CQ2 |
