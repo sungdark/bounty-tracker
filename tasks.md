@@ -552,6 +552,7 @@
 | BT-0535 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | PR#116 duplicate of #107 | 2026-03-27T22:16:00Z | New bounty scan AT1 |
 | BT-0536 | 2026-03-27T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-27T22:16:00Z | New bounty scan AT2 |
 
+<<<<<<< HEAD
 | BT-0537 | 2026-03-27T22:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-27T22:21:00Z | New bounty scan AU1 |
 
 | BT-0541 | 2026-03-27T22:55:00Z | github | swapcoffee/openclaw-ton-skill | TON | https://github.com/swapcoffee/openclaw-ton-skill/issues/18 | pr_open | 已提交 | 2026-03-27T22:55:00Z | Policy engine with dry-run, audit trail, safety gates PR#26 |
@@ -564,3 +565,27 @@
 | BT-0547 | 2026-03-27T23:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交 | 2026-03-27T23:30:00Z | CLAUDE.md template for Next.js 15 + SQLite SaaS. PR#127 (139 lines), opinionated 13 anti-patterns |
 | BT-0548 | 2026-03-27T23:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | pr_open | 已提交 | 2026-03-27T23:30:00Z | CHANGELOG generator skill from git history. PR#125, structured changelog output |
 | BT-0549 | 2026-03-27T23:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-27T23:30:00Z | Pre-tool-use hook blocking destructive bash commands. PR#124, 16 patterns blocked, ~/.claude/hooks/
+=======
+| BT-0537 | 2026-03-27T22:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | Issue #3 merged, $100 claimed | 2026-03-27T22:21:00Z | New bounty scan AU1 |
+
+| BT-0538 | 2026-03-27T22:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | 8 CLAUDE PRs MERGEABLE | 2026-03-27T22:45:00Z | New bounty scan AV1 |
+| BT-0539 | 2026-03-27T22:45:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T22:55:00Z | 2026-03-27T22:45:00Z | New bounty scan AV2 |
+
+| BT-0540 | 2026-03-27T22:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | 9 PRs(omi+$200, PrivacyLayer USDC) | 2026-03-27T22:55:00Z | New bounty scan AW1 |
+| BT-0541 | 2026-03-27T22:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | openclaw-ton-skill TON policy engine PR#26 | 2026-03-27T22:55:00Z | New bounty scan AW2 |
+
+| BT-0542 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new, keep existing PRs | 2026-03-27T23:16:00Z | New bounty scan AX1 |
+| BT-0543 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new opportunities | 2026-03-27T23:16:00Z | New bounty scan AX2 |
+
+| BT-0544 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 new CLAUDE PRs #124-#128 | 2026-03-27T23:16:00Z | New bounty scan AY1 |
+| BT-0545 | 2026-03-27T23:16:00Z | github | new-bounty-scan | XTR | https://github.com | pr_open | 已提交 | 2026-03-27T23:25:00Z | 2026-03-27T23:16:00Z | New bounty scan AY2 |
+
+| BT-0546 | 2026-03-27T23:20:00Z | github | BasedHardware/omi | $500 USD | https://github.com/BasedHardware/omi/issues/3039 | pr_open | 已提交 | 2026-03-27T23:24:00Z | NER speaker detection using spaCy PERSON entities, PR#6088, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0547 | 2026-03-27T23:35:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-27T23:36:00Z | Pre-tool-use hook blocking destructive bash commands, PR#131, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+
+| BT-0548 | 2026-03-27T23:38:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit | 2026-03-27T23:38:00Z | New bounty scan BA1 |
+| BT-0549 | 2026-03-27T23:38:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit | 2026-03-27T23:38:00Z | New bounty scan BA2 |
+
+| BT-0550 | 2026-03-28T02:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T02:10:00Z | New bounty scan BB1 |
+| BT-0551 | 2026-03-28T02:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T02:10:00Z | New bounty scan BB2 |
+>>>>>>> a4af47999c5999c66ab23f2523223880db738ced
