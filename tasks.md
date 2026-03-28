@@ -625,3 +625,5 @@
 | BT-0588 | 2026-03-28T08:28:00Z | github | Scottcjn/rustchain-bounties | 50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2640 | pr_open | 已提交 | 2026-03-28T08:28:00Z | rustchain replay defense fix PR#1929, 14 tests pass, 50 RTC (~$5) |
 
 | BT-0589 | 2026-03-28T08:35:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/121 | pr_open | 已提交 | 2026-03-28T08:35:00Z | Weekly financial summary PR#676, /claim #121, MERGEABLE, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0597 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:15:00Z | New bounty scan BS1 |
+| BT-0598 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:15:00Z | New bounty scan BS2 |
