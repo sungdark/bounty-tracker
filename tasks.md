@@ -602,5 +602,8 @@
 | BT-0573 | 2026-03-28T03:16:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit_03:34-07:14 | 2026-03-28T03:16:00Z | New bounty scan BJ1 |
 | BT-0574 | 2026-03-28T03:16:00Z | github | new-bounty-scan | XTR | https://github.com | failed | rate_limit_03:34-07:14 | 2026-03-28T03:16:00Z | New bounty scan BJ2 |
 
-| BT-0575 | 2026-03-28T07:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:14:00Z | New bounty scan BK1 |
+| BT-0575 | 2026-03-28T07:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | liquid-labs #4 + CLAUDE hook improved | 2026-03-28T07:14:00Z | New bounty scan BK1 |
 | BT-0576 | 2026-03-28T07:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE all open, homelab 10 open, rustchain most reliable | 2026-03-28T07:14:00Z | New bounty scan BK2 |
+
+| BT-0577 | 2026-03-28T07:41:00Z | github | liquid-labs/policy-vendors-google | $50 USD | https://github.com/liquid-labs/policy-vendors-google/issues/2 | pr_open | 已提交 | 2026-03-28T07:41:00Z | liquid-labs Google Workspace docs PR#4 |
+| BT-0578 | 2026-03-28T07:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-28T07:41:00Z | CLAUDE hook improved stdin JSON format, 8 dangerous commands, PR#131 |
