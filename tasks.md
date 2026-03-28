@@ -620,3 +620,5 @@
 | BT-0587 | 2026-03-28T07:35:00Z | github | liquid-labs/policy-vendors-google | $50 USD | https://github.com/liquid-labs/policy-vendors-google/issues/2 | pr_open | 已提交 | 2026-03-28T07:35:00Z | Google Workspace User Management procedures文档, PR#4已提交, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0588 | 2026-03-28T07:40:00Z | github | shanalikhan/code-settings-sync | $200 USD | https://github.com/shanalikhan/code-settings-sync/issues/413 | available | 新机会 | 2026-03-28T07:40:00Z | IssueHunt $200: Allow upload to repository (git sync feature), 已认领评论, 待实现 |
 | BT-0589 | 2026-03-28T07:40:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/75 | available | 新机会 | 2026-03-28T07:40:00Z | Bank Sync Connector Architecture, $500 bounty, 已认领评论, 待实现 |
+
+| BT-0590 | 2026-03-28T07:45:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-28T07:45:00Z | BK scan完成: claude-builders-bounty 5个已认领+PR全部提交; illbnm 5个已认领评论+PR已存在; liquid-labs PR#4新提交; bitcoin.org/shanalikhan/rohitdash08新认领待实现 |
