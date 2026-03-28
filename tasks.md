@@ -622,3 +622,4 @@
 | BT-0589 | 2026-03-28T07:40:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/75 | available | 新机会 | 2026-03-28T07:40:00Z | Bank Sync Connector Architecture, $500 bounty, 已认领评论, 待实现 |
 
 | BT-0590 | 2026-03-28T07:45:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-28T07:45:00Z | BK scan完成: claude-builders-bounty 5个已认领+PR全部提交; illbnm 5个已认领评论+PR已存在; liquid-labs PR#4新提交; bitcoin.org/shanalikhan/rohitdash08新认领待实现 |
+| BT-0591 | 2026-03-28T08:20:00Z | github | PlatformNetwork/bounty-challenge | bounty USD | https://github.com/PlatformNetwork/bounty-challenge/issues/3920 | pr_open | 已提交 | 2026-03-28T08:20:00Z | Fix 3x UTF-8 char boundary panics in cortex-cli agent_cmd handlers. PR: https://github.com/CortexLM/cortex-cli/pull/573. 已评论认领+收款地址 |
