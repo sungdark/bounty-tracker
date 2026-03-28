@@ -718,7 +718,7 @@
 | BT-0654 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#192 confirmed | 2026-03-28T21:04:00Z | New bounty scan CM1 |
 | BT-0655 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | zero merges, maintainers overwhelmed, all AI-competed | 2026-03-28T21:04:00Z | New bounty scan CM2 |
 
-| BT-0656 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:13:00Z | New bounty scan CN1 |
+| BT-0656 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | available | grove PR#170 confirmed | 2026-03-28T22:13:00Z | New bounty scan CN1 |
 | BT-0657 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | available | GraciasAi PR#63 confirmed | 2026-03-28T22:13:00Z | New bounty scan CN2 |
 
 | BT-0658 | 2026-03-28T22:27:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#193 confirmed | 2026-03-28T22:27:00Z | New bounty scan CO1 |
@@ -735,3 +735,5 @@
 
 | BT-0665 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:50:00Z | New bounty scan CQ1 |
 | BT-0666 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:50:00Z | New bounty scan CQ2 |
+
+| BT-0667 | 2026-03-28T22:56:00Z | github | windoliver/grove | bounty USD | https://github.com/windoliver/grove/issues/169 | pr_open | 已提交 | 2026-03-28T22:56:00Z | grove PR#170, MCP tools refactoring, 177 tests passed, grove_submit_work/review |
