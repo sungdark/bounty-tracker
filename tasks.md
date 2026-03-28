@@ -610,3 +610,6 @@
 
 | BT-0579 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new, all contested | 2026-03-28T07:41:00Z | New bounty scan BL1 |
 | BT-0580 | 2026-03-28T07:41:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:41:00Z | New bounty scan BL2 |
+
+| BT-0581 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:57:00Z | New bounty scan BM1 |
+| BT-0582 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T07:57:00Z | New bounty scan BM2 |
