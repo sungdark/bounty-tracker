@@ -592,3 +592,4 @@
 | BT-0560 | 2026-03-28T02:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新高价值机会 | 2026-03-28T02:45:00Z | SPLURT-Station/S.P.L.U.R.T-tg #915 游戏模组赏金无明确金额; AncientBeach #2850 30 XTR; 竞争激烈无新CLAUDE OPIRE机会 |
 
 | BT-0561 | 2026-03-28T02:52:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/12 | pr_open | 已提交 | 2026-03-28T02:52:00Z | Backup & DR完整实现: scripts/backup.sh(全CLI)+docs/disaster-recovery.md+Restic REST Server+Duplicati+ntfy通知+crontab+stacks/backup/docker-compose.yml，PR #270已提交+更新，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0562 | 2026-03-28T03:10:00Z | github | skridlevsky/openchaos | $100 USD | https://github.com/skridlevsky/openchaos/issues/154 | pr_open | 已提交 | 2026-03-28T03:10:00Z | PR #227: ASCII Typing Speed Test，标题含押韵词(FAST/CAST)，CI已通过(clean)，已认领+投票1次；收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
