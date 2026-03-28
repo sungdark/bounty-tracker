@@ -648,7 +648,7 @@
 
 | BT-0610 | 2026-03-28T13:01:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ~$24 USD | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T13:01:00Z | GraciasAi PDF fix PR#56, html2canvas+jsPDF, iOS Safari fix |
 
-| BT-0611 | 2026-03-28T13:15:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T13:15:00Z | New bounty scan BX1 |
+| BT-0611 | 2026-03-28T13:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | Bitcoin.org PR#315 ~$250 confirmed | 2026-03-28T13:15:00Z | New bounty scan BX1 |
 | BT-0612 | 2026-03-28T13:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | FinMind #676/#653 MERGEABLE, 3-20+ PRs competition | 2026-03-28T13:15:00Z | New bounty scan BX2 |
 
 | BT-0613 | 2026-03-28T13:25:00Z | github | bitcoin-dot-org/Bitcoin.org | ~$250 USD | https://github.com/bitcoin-dot-org/Bitcoin.org/issues/1837 | pr_open | 已提交 | 2026-03-28T13:25:00Z | developer.bitcoin.org PR#315, Add error codes section to regtest-mode docs, 25,000 bits bounty, 收款: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
