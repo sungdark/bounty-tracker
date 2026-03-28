@@ -642,3 +642,6 @@
 | BT-0606 | 2026-03-28T12:50:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | pr_open | 已提交 | 2026-03-28T12:50:00Z | SPLURT Bodymorpher Presets PR#919, JSON persistence, 397 lines |
 
 | BT-0607 | 2026-03-28T12:58:00Z | github | CortexLM/cortex-ide | bounty USD | https://github.com/PlatformNetwork/bounty-challenge/issues/39619 | pr_open | 已提交 | 2026-03-28T12:58:00Z | cortex-ide PR#72, 3 fixes: TerminalSettingsPanel + CloneRepositoryDialog + GitSettingsPanel |
+
+| BT-0608 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:58:00Z | New bounty scan BW1 |
+| BT-0609 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:58:00Z | New bounty scan BW2 |
