@@ -635,3 +635,6 @@
 
 | BT-0602 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs #173-176/#180 confirmed | 2026-03-28T12:33:00Z | New bounty scan BU1 |
 | BT-0603 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:33:00Z | New bounty scan BU2 |
+
+| BT-0604 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:43:00Z | New bounty scan BV1 |
+| BT-0605 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:43:00Z | New bounty scan BV2 |
