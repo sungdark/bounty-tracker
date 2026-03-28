@@ -729,7 +729,7 @@
 | BT-0661 | 2026-03-28T22:35:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ~$24 USD | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T22:35:00Z | GraciasAi PR#63, PDF export fix, html2canvas+jsPDF, iOS Safari compatible |
 
 | BT-0662 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | available | zero merges, maintainers overwhelmed | 2026-03-28T22:37:00Z | New bounty scan CP1 |
-| BT-0663 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:37:00Z | New bounty scan CP2 |
+| BT-0663 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | available | dextonai PR#35 MERGEABLE | 2026-03-28T22:37:00Z | New bounty scan CP2 |
 
 | BT-0664 | 2026-03-28T22:42:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/24 | pr_open | 已提交 | 2026-03-28T22:42:00Z | PrivacyLayer PR#193, Freighter Wallet Integration, Zustand store, 4 UI components |
 
