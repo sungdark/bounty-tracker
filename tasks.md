@@ -665,3 +665,6 @@
 
 
 | BT-0616 | 2026-03-28T13:52:00Z | github | Niuma/task.niuma.works | NIUMA | https://task.niuma.works | available | 新平台! XLayer链上赏金, 需要NIUMA_WALLET_SECRET | 2026-03-28T13:52:00Z | Niuma bounty platform discovered, 42+ tasks, MACD $800 NIUMA, 龙虾deploy $100 NIUMA |
+
+| BT-0623 | 2026-03-28T13:52:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T13:52:00Z | New bounty scan BZ1 |
+| BT-0624 | 2026-03-28T13:52:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T13:52:00Z | New bounty scan BZ2 |
