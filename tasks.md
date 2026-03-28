@@ -750,3 +750,6 @@
 | BT-0673 | 2026-03-28T23:06:00Z | github | storacha/upload-service | $4000 USD | https://github.com/storacha/upload-service/issues/96 | opportunity | 极高价值! Telegram Mini App, 需要去中心化存储集成专业知识 | 2026-03-28T23:06:00Z | storacha/upload-service #96, $4000 USD bounty, Telegram Mini App, extremely complex, decentralized storage |
 
 | BT-0674 | 2026-03-28T23:13:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-28T23:13:00Z | homelab-stack PR#385, Storage Stack, Nextcloud+PostgreSQL+Redis+MinIO+Syncthing, Traefik HTTPS |
+
+| BT-0675 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:17:00Z | New bounty scan CT1 |
+| BT-0676 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:17:00Z | New bounty scan CT2 |
