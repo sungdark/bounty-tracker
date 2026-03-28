@@ -593,3 +593,8 @@
 
 | BT-0561 | 2026-03-28T02:52:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/12 | pr_open | 已提交 | 2026-03-28T02:52:00Z | Backup & DR完整实现: scripts/backup.sh(全CLI)+docs/disaster-recovery.md+Restic REST Server+Duplicati+ntfy通知+crontab+stacks/backup/docker-compose.yml，PR #270已提交+更新，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0562 | 2026-03-28T03:10:00Z | github | skridlevsky/openchaos | $100 USD | https://github.com/skridlevsky/openchaos/issues/154 | pr_open | 已提交 | 2026-03-28T03:10:00Z | PR #227: ASCII Typing Speed Test，标题含押韵词(FAST/CAST)，CI已通过(clean)，已认领+投票1次；收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+
+| BT-0570 | 2026-03-28T03:15:00Z | github | asyncapi/cli | $200-400 USD | https://github.com/asyncapi/cli/issues/2027 | pr_open | 已提交 | 2026-03-28T03:15:00Z | asyncapi CLI timeout fix, AbortController 5s, meaningful error messages, PR#2087 |
+
+| BT-0571 | 2026-03-28T03:11:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T03:11:00Z | New bounty scan BI1 |
+| BT-0572 | 2026-03-28T03:11:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T03:11:00Z | New bounty scan BI2 |
