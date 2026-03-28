@@ -690,6 +690,6 @@
 | BT-0637 | 2026-03-28T17:26:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs $575 all open | 2026-03-28T17:26:00Z | New bounty scan CF2 |
 
 | BT-0638 | 2026-03-28T17:30:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:30:00Z | New bounty scan CG1 |
-| BT-0639 | 2026-03-28T17:30:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T17:30:00Z | New bounty scan CG2 |
+| BT-0639 | 2026-03-28T17:30:00Z | github | new-bounty-scan | XTR | https://github.com | available | omi=0 open, claude=30+ PRs, no actionable | 2026-03-28T17:30:00Z | New bounty scan CG2 |
 
 | BT-0640 | 2026-03-28T17:32:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/1 | pr_open | 已提交 | 2026-03-28T17:32:00Z | mergefund-hackathon-kit PR#71, BountyCard component, hover effects, brand colors, difficulty icons |
