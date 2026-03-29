@@ -871,5 +871,5 @@
 
 | BT-0788 | 2026-03-29T21:33:00Z | github | asyncapi/cli | $100+ USD | https://github.com/asyncapi/cli/pull/2091 | pr_open | 已提交 | 2026-03-29T21:33:00Z | asyncapi CLI PR#2091, fix registry URL hang, $100+ |
 
-| BT-0789 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:33:00Z | New bounty scan EJ1 |
+| BT-0789 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | covered by main agent | 2026-03-29T21:33:00Z | New bounty scan EJ1 |
 | BT-0790 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:33:00Z | New bounty scan EJ2 |
