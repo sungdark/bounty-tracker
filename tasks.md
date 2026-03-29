@@ -738,7 +738,7 @@
 
 | BT-0712 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PR#245 $75 | 2026-03-29T11:10:00Z | New bounty scan DH1 |
 | BT-0713 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PR#246 $300 (#1+#3+#4) | 2026-03-29T11:10:00Z | New bounty scan DH2 |
-| BT-0714 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | available | completed, no new | 2026-03-29T11:10:00Z | New bounty scan DI1 |
+| BT-0714 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | available | FinMind PR#684 $500 | | 2026-03-29T11:10:00Z | New bounty scan DI1 |
 
 | BT-0715 | 2026-03-29T11:16:00Z | github | claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/245 | pr_open | 已提交 | 2026-03-29T11:16:00Z | claude-builders PR#245, CLAUDE.md Next.js template, $75 |
 
@@ -749,3 +749,5 @@
 | BT-0719 | 2026-03-29T11:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:20:00Z | New bounty scan DJ1 |
 | BT-0720 | 2026-03-29T11:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:20:00Z | New bounty scan DJ2 |
 | BT-0721 | 2026-03-29T11:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:20:00Z | New bounty scan DK1 |
+
+| BT-0722 | 2026-03-29T11:20:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/pull/684 | pr_open | 已提交 | 2026-03-29T11:20:00Z | FinMind PR#684, weekly financial summary #121, $500 |
