@@ -828,10 +828,10 @@
 
 | BT-0767 | 2026-03-29T18:31:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/289 | pr_open | 已提交 | 2026-03-29T18:31:00Z | claude PR#289 CHANGELOG $50 + PR#291 HOOK $100 |
 
-| BT-0768 | 2026-03-29T19:07:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T19:07:00Z | New bounty scan EC1 |
-| BT-0769 | 2026-03-29T19:07:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T19:07:00Z | New bounty scan EC2 |
+| BT-0768 | 2026-03-29T19:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | timed out killed | 2026-03-29T19:07:00Z | New bounty scan EC1 |
+| BT-0769 | 2026-03-29T19:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | timed out killed | 2026-03-29T19:07:00Z | New bounty scan EC2 |
 
-| BT-0770 | 2026-03-29T19:28:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T19:28:00Z | New bounty scan ED1 |
+| BT-0770 | 2026-03-29T19:28:00Z | github | new-bounty-scan | XTR | https://github.com | available | timed out killed | 2026-03-29T19:28:00Z | New bounty scan ED1 |
 
 | BT-0771 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | available | Bitcoin API PR#82 $300 | 2026-03-29T20:35:00Z | New bounty scan EE1 |
 | BT-0772 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T20:35:00Z | New bounty scan EE2 |
