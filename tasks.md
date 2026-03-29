@@ -898,5 +898,7 @@
 | BT-0808 | 2026-03-29T22:00:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100 USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | available | 新机会 | 2026-03-29T22:00:00Z | Bodymorpher presets，$100，BYOND/DM代码，Space Station 13功能，Niche语言 |
 
 | BT-0809 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EM1 |
-| BT-0810 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EM2 |
+| BT-0810 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#197 SEO USDC | 2026-03-29T22:16:00Z | New bounty scan EM2 |
 | BT-0811 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EN1 |
+
+| BT-0812 | 2026-03-29T22:24:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/pull/197 | pr_open | 已提交 | 2026-03-29T22:24:00Z | PrivacyLayer PR#197, SEO optimization, meta/OG/Twitter cards |
