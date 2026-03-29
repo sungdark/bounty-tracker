@@ -768,7 +768,7 @@
 
 | BT-0731 | 2026-03-29T12:42:00Z | github | AncientBeast | 222 XTR | https://github.com/FreezingMoon/AncientBeast/pull/2868 | pr_open | 已提交 | 2026-03-29T12:42:00Z | AncientBeast PR#2868, Undo Move #2704, 222 XTR |
 
-| BT-0732 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:56:00Z | New bounty scan DO1 |
+| BT-0732 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | available | Opire API found, deno $70 esp-hal $100 | 2026-03-29T12:56:00Z | New bounty scan DO1 |
 | BT-0733 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | available | FreeCAD PR#28824 €250 | 2026-03-29T12:56:00Z | New bounty scan DO2 |
 | BT-0734 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | available | GraciasAi PR#68 ₹2000 | 2026-03-29T12:56:00Z | New bounty scan DP1 |
 
@@ -782,3 +782,6 @@
 
 | BT-0737 | 2026-03-29T13:27:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #891 best opportunity | 2026-03-29T13:27:00Z | New bounty scan DQ1 |
 | BT-0738 | 2026-03-29T13:27:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T13:27:00Z | New bounty scan DQ2 |
+
+| BT-0739 | 2026-03-29T14:00:00Z | github | deno | $70 | https://github.com/denoland/deno/issues/18147 | opportunity | 0 claims | 2026-03-29T14:00:00Z | deno #18147, test coverage editor, $70, 0 claims |
+| BT-0740 | 2026-03-29T14:00:00Z | github | esp-hal | $100 | https://github.com/esp-rs/esp-hal/issues/4163 | opportunity | 1 claim | 2026-03-29T14:00:00Z | esp-hal #4163, ESP32 ethernet support, $100, 1 claim |
