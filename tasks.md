@@ -689,3 +689,5 @@
 
 | BT-0686 | 2026-03-29T05:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | 2757+ bounty scanned, no new high-value | 2026-03-29T05:21:00Z | New bounty scan CY1 |
 | BT-0687 | 2026-03-29T05:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T05:21:00Z | New bounty scan CY2 |
+
+| BT-0688 | 2026-03-29T06:20:00Z | github | PlatformNetwork/bounty-challenge | bounty USD | https://github.com/PlatformNetwork/bounty-challenge/issues/40176 | pr_open | 已提交 | 2026-03-29T06:20:00Z | CortexLM/cortex model_picker.rs fix: (A) legend/help overlap guard + (B) UTF-8 caret uses UnicodeWidthStr, PR #222 https://github.com/CortexLM/cortex/pull/222 |
