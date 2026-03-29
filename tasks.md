@@ -735,3 +735,7 @@
 | BT-0710 | 2026-03-29T10:35:00Z | github | formbricks/formbricks | $60 USD | https://github.com/formbricks/formbricks/issues/3302 | pr_open | 已提交 | 2026-03-29T10:35:00Z | Survey copy action serverError toast fix, PR#7616, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
 | BT-0711 | 2026-03-29T10:43:00Z | github | formbricks/formbricks | $60 Opire | https://github.com/formbricks/formbricks/pull/7616 | pr_open | 已提交 | 2026-03-29T10:43:00Z | formbricks PR#7616, survey copy serverError toast fix, $60 |
+
+| BT-0712 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:10:00Z | New bounty scan DH1 |
+| BT-0713 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:10:00Z | New bounty scan DH2 |
+| BT-0714 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:10:00Z | New bounty scan DI1 |
