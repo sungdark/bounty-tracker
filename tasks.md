@@ -733,7 +733,7 @@
 
 | BT-0664 | 2026-03-28T22:42:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/24 | pr_open | 已提交 | 2026-03-28T22:42:00Z | PrivacyLayer PR#193, Freighter Wallet Integration, Zustand store, 4 UI components |
 
-| BT-0665 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T22:50:00Z | New bounty scan CQ1 |
+| BT-0665 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 23:20 UTC | 2026-03-28T22:50:00Z | New bounty scan CQ1 |
 | BT-0666 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | available | mergefund PR#72 confirmed | 2026-03-28T22:50:00Z | New bounty scan CQ2 |
 
 | BT-0667 | 2026-03-28T22:56:00Z | github | windoliver/grove | bounty USD | https://github.com/windoliver/grove/issues/169 | pr_open | 已提交 | 2026-03-28T22:56:00Z | grove PR#170, MCP tools refactoring, 177 tests passed, grove_submit_work/review |
@@ -751,5 +751,5 @@
 
 | BT-0674 | 2026-03-28T23:13:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-28T23:13:00Z | homelab-stack PR#385, Storage Stack, Nextcloud+PostgreSQL+Redis+MinIO+Syncthing, Traefik HTTPS |
 
-| BT-0675 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:17:00Z | New bounty scan CT1 |
-| BT-0676 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T23:17:00Z | New bounty scan CT2 |
+| BT-0675 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 23:20 UTC | 2026-03-28T23:17:00Z | New bounty scan CT1 |
+| BT-0676 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 23:20 UTC | 2026-03-28T23:17:00Z | New bounty scan CT2 |
