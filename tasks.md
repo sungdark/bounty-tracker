@@ -853,7 +853,7 @@
 | BT-0776 | 2026-03-29T21:01:00Z | github | tscircuit/matchpack | $300 | https://github.com/tscircuit/matchpack/issues/15 | opportunity | new | 2026-03-29T21:01:00Z | tscircuit/matchpack #15, EDA/PCB domain, $300 |
 
 | BT-0777 | 2026-03-29T21:01:00Z | github | new-bounty-scan | XTR | https://github.com | available | no result | 2026-03-29T21:01:00Z | New bounty scan EF1 |
-| BT-0778 | 2026-03-29T21:01:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:01:00Z | New bounty scan EF2 |
+| BT-0778 | 2026-03-29T21:01:00Z | github | new-bounty-scan | XTR | https://github.com | available | Expensify merged pending, ROS2/esp-hal found | 2026-03-29T21:01:00Z | New bounty scan EF2 |
 
 | BT-0779 | 2026-03-29T21:02:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PR#292 $50 MERGEABLE | 2026-03-29T21:02:00Z | New bounty scan EG1 |
 | BT-0780 | 2026-03-29T21:02:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-gitops $225 PRs | 2026-03-29T21:02:00Z | New bounty scan EG2 |
@@ -864,3 +864,7 @@
 
 | BT-0783 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:14:00Z | New bounty scan EH1 |
 | BT-0784 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:14:00Z | New bounty scan EH2 |
+
+| BT-0785 | 2026-03-29T21:19:00Z | github | Expensify/App | $250 | https://github.com/Expensify/App/pull/85513 | merged | 待打款04-03 | 2026-03-29T21:19:00Z | Expensify #80287 merged, payment 2026-04-03 |
+| BT-0786 | 2026-03-29T21:19:00Z | github | mini_pupper_ros | $100 | https://github.com/mangdangroboticsclub/mini_pupper_ros/issues/125 | opportunity | new ROS2 | 2026-03-29T21:19:00Z | mini_pupper_ros #125, ROS2 upgrade, $100 |
+| BT-0787 | 2026-03-29T21:19:00Z | github | esp-rs/esp-hal | $100 | https://github.com/esp-rs/esp-hal/issues/4163 | opportunity | embedded Rust | 2026-03-29T21:19:00Z | esp-hal #4163, ESP32 embedded Rust, $100 |
