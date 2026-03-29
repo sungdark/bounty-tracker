@@ -851,3 +851,6 @@
 | BT-0774 | 2026-03-29T21:01:00Z | github | coollabsio/coolify | $50 | https://github.com/coollabsio/coolify/issues/8042 | opportunity | new | 2026-03-29T21:01:00Z | coolify #8042, OAuth enhancement, $50 |
 | BT-0775 | 2026-03-29T21:01:00Z | github | Expensify/App | $250 | https://github.com/Expensify/App/issues/80287 | opportunity | new | 2026-03-29T21:01:00Z | Expensify #80287, bug fix, $250 |
 | BT-0776 | 2026-03-29T21:01:00Z | github | tscircuit/matchpack | $300 | https://github.com/tscircuit/matchpack/issues/15 | opportunity | new | 2026-03-29T21:01:00Z | tscircuit/matchpack #15, EDA/PCB domain, $300 |
+
+| BT-0777 | 2026-03-29T21:01:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:01:00Z | New bounty scan EF1 |
+| BT-0778 | 2026-03-29T21:01:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:01:00Z | New bounty scan EF2 |
