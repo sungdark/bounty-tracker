@@ -683,3 +683,6 @@
 | BT-0683 | 2026-03-29T03:32:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T04:15:00Z | Scan CW2完成: 扫描20+ bounty repos; 新机会: boligian-peru/marketplace-service-template(X-Intelligence 00,已claim); SPLURT-S13(#299 00pregnancy;#775 50races)需BYOND技能; 主要机会为claude-builders-bounty待merge |
 | BT-0684 | 2026-03-29T04:15:00Z | github | claude-builders-bounty/claude-builders-bounty | 75+ USD | https://github.com/claude-builders-bounty/claude-builders-bounty | pr_open | 已提交-MERGEABLE | 2026-03-29T04:15:00Z | 5个PR全部CLEAN等待merge: #1800,#17650,#1755,#17400,#17300; 收款:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0685 | 2026-03-29T04:15:00Z | github | ANAVHEOBA/PrivacyLayer | TBD | https://github.com/ANAVHEOBA/PrivacyLayer/issues/24 | pr_open | 已提交 | 2026-03-29T04:15:00Z | Freighter Wallet集成PR#193, wallet.ts+store.ts+Zustand+UI组件, 收款:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+
+| BT-0684 | 2026-03-29T04:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T04:31:00Z | New bounty scan CX1 |
+| BT-0685 | 2026-03-29T04:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T04:31:00Z | New bounty scan CX2 |
