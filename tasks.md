@@ -715,4 +715,8 @@
 | BT-0698 | 2026-03-29T09:12:00Z | github | illbnm/homelab-stack | $160 USDT | https://github.com/illbnm/homelab-stack/issues/5 | pr_open | 已提交 | 2026-03-29T09:12:00Z | Productivity Stack完整实现: Gitea+Vaultwarden+Outline+Stirling PDF+BookStack，PR #387，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
 | BT-0699 | 2026-03-29T09:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude $575 MERGEABLE, homelab #5 done | 2026-03-29T09:18:00Z | New bounty scan DE1 |
-| BT-0700 | 2026-03-29T09:18:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T09:18:00Z | New bounty scan DE2 |
+| BT-0700 | 2026-03-29T09:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | aPort PR#67/#68 $70 confirmed | 2026-03-29T09:18:00Z | New bounty scan DE2 |
+
+| BT-0701 | 2026-03-29T09:35:00Z | github | aporthq/aport-integrations | $50 USD | https://github.com/aporthq/aport-integrations/pull/67 | pr_open | 已提交 | 2026-03-29T09:35:00Z | WooCommerce APort插件 PR#67, 7个文件941行 |
+| BT-0702 | 2026-03-29T09:35:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/pull/68 | pr_open | 已提交 | 2026-03-29T09:35:00Z | Discord Bot PR#68, $10 |
+| BT-0703 | 2026-03-29T09:35:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/pull/68 | pr_open | 已提交 | 2026-03-29T09:35:00Z | n8n Node PR#68, $10 |
