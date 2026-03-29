@@ -862,7 +862,7 @@
 
 | BT-0782 | 2026-03-29T21:14:00Z | github | ApexOpsStudio/ai-gitops-test-target | $225 USD | https://github.com/ApexOpsStudio/ai-gitops-test-target/pull/45 | pr_open | 已提交 | 2026-03-29T21:14:00Z | ai-gitops PR#45/46/47, $75+$100+$50 config/validation/json |
 
-| BT-0783 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:14:00Z | New bounty scan EH1 |
+| BT-0783 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | shipli-ai PR#6 React Native ₹500 | 2026-03-29T21:14:00Z | New bounty scan EH1 |
 | BT-0784 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | asyncapi CLI $100+ PR#2091 | 2026-03-29T21:14:00Z | New bounty scan EH2 |
 
 | BT-0785 | 2026-03-29T21:19:00Z | github | Expensify/App | $250 | https://github.com/Expensify/App/pull/85513 | merged | 待打款04-03 | 2026-03-29T21:19:00Z | Expensify #80287 merged, payment 2026-04-03 |
