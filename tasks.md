@@ -817,8 +817,8 @@
 | BT-0759 | 2026-03-29T17:45:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $10+ | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | claimed | 已认领 | 2026-03-29T17:45:00Z | SPLURT #891, Bodymorpher presets |
 | BT-0760 | 2026-03-29T17:24:00Z | github | INDIGOAZUL/la-tanda-web | 25 LTD | https://github.com/INDIGOAZUL/la-tanda-web/issues/154 | pr_open | 已提交 | 2026-03-29T17:24:00Z | aria-labels icon-only buttons (mobile-drawer-close, lottery-modal-close), PR#223, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
-| BT-0761 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T17:45:00Z | New bounty scan DX1 |
-| BT-0762 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T17:45:00Z | New bounty scan DX2 |
+| BT-0761 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PRs done | 2026-03-29T17:45:00Z | New bounty scan DX1 |
+| BT-0762 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | done | 2026-03-29T17:45:00Z | New bounty scan DX2 |
 | BT-0763 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T17:45:00Z | New bounty scan DY1 |
 
 | BT-0764 | 2026-03-29T17:51:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/288 | pr_open | 已提交 | 2026-03-29T17:51:00Z | claude-builders PR#288, pre-tool-use hook, $100 |
