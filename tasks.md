@@ -833,5 +833,7 @@
 
 | BT-0770 | 2026-03-29T19:28:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T19:28:00Z | New bounty scan ED1 |
 
-| BT-0771 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T20:35:00Z | New bounty scan EE1 |
+| BT-0771 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | available | Bitcoin API PR#82 $300 | 2026-03-29T20:35:00Z | New bounty scan EE1 |
 | BT-0772 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T20:35:00Z | New bounty scan EE2 |
+
+| BT-0773 | 2026-03-29T20:48:00Z | github | LennyMalcolm0/bitcoin | $300 USD | https://github.com/LennyMalcolm0/bitcoin/pull/82 | pr_open | 已提交 | 2026-03-29T20:48:00Z | Bitcoin API docs PR#82, complete API documentation, $300 |
