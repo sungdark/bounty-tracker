@@ -878,3 +878,6 @@
 
 | BT-0793 | 2026-03-29T21:42:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:42:00Z | New bounty scan EK1 |
 | BT-0792 | 2026-03-29T21:42:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new actionable bounties | 2026-03-29T21:42:00Z | New bounty scan EK2 |
+
+| BT-0794 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:55:00Z | New bounty scan EL1 |
+| BT-0795 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:55:00Z | New bounty scan EL2 |
