@@ -711,5 +711,5 @@
 | BT-0695 | 2026-03-29T07:44:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T07:44:00Z | New bounty scan DC1 |
 
 | BT-0696 | 2026-03-29T08:48:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new exec bounty | 2026-03-29T08:48:00Z | New bounty scan DD1 |
-| BT-0697 | 2026-03-29T08:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T08:48:00Z | New bounty scan DD2 |
+| BT-0697 | 2026-03-29T08:48:00Z | github | new-bounty-scan | XTR | https://github.com | available | homelab-stack PR#387 $160 USDT | 2026-03-29T08:48:00Z | New bounty scan DD2 |
 | BT-0698 | 2026-03-29T09:12:00Z | github | illbnm/homelab-stack | $160 USDT | https://github.com/illbnm/homelab-stack/issues/5 | pr_open | 已提交 | 2026-03-29T09:12:00Z | Productivity Stack完整实现: Gitea+Vaultwarden+Outline+Stirling PDF+BookStack，PR #387，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
