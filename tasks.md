@@ -758,7 +758,7 @@
 | BT-0678 | 2026-03-29T01:42:00Z | github | new-bounty-scan | XTR | https://github.com | available | web search only, no new | 2026-03-29T01:42:00Z | New bounty scan CU2 |
 
 | BT-0679 | 2026-03-29T02:06:00Z | github | new-bounty-scan | XTR | https://github.com | available | asyncapi PR#2081 MERGEABLE | 2026-03-29T02:06:00Z | New bounty scan CV1 |
-| BT-0680 | 2026-03-29T02:06:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T02:06:00Z | New bounty scan CV2 |
+| BT-0680 | 2026-03-29T02:06:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT explored, no new | 2026-03-29T02:06:00Z | New bounty scan CV2 |
 
 | BT-0681 | 2026-03-29T03:15:00Z | github | javelin-anticheat/py-workedtask | $100 USD | https://github.com/javelin-anticheat/py-workedtask/issues/4 | pr_open | 已提交 | 2026-03-29T03:15:00Z | javelin PR#12, $100 bounty |
 
