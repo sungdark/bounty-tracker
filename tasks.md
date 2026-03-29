@@ -695,7 +695,7 @@
 | BT-0688 | 2026-03-29T06:51:00Z | github | CortexLM/cortex | bounty USD | https://github.com/CortexLM/cortex/pull/222 | pr_open | 已提交 | 2026-03-29T06:51:00Z | cortex PR#222, 2 bug fixes: help bar overlap + CJK cursor width |
 
 | BT-0689 | 2026-03-29T06:51:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T06:51:00Z | New bounty scan DA1 |
-| BT-0690 | 2026-03-29T06:51:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T06:51:00Z | New bounty scan DA2 |
+| BT-0690 | 2026-03-29T06:51:00Z | github | new-bounty-scan | XTR | https://github.com | available | tenstorrent HW-locked, counterspec covered | 2026-03-29T06:51:00Z | New bounty scan DA2 |
 
 | BT-0691 | 2026-03-29T06:56:00Z | github | BasedHardware/omi | $300-500 USD | https://github.com/BasedHardware/omi/issues | opportunity | Flutter/hardware tasks, $300-$500 each | 2026-03-29T06:56:00Z | BasedHardware/omi: #3919 one-click deploy $300, #3858 perf tests $300, #3810 genui chat $300, #2825 button $500 |
 
