@@ -762,3 +762,6 @@
 | BT-0727 | 2026-03-29T12:21:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | opportunity | 已认领待实现 | 2026-03-29T12:21:00Z | SPLURT #891 bodymorpher presets, $100+, 已评论认领 |
 
 | BT-0728 | 2026-03-29T12:31:00Z | github | claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/253 | pr_open | 已提交 | 2026-03-29T12:31:00Z | claude-builders PR#253, CLAUDE.md Next.js template #2, $75 |
+
+| BT-0729 | 2026-03-29T12:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:31:00Z | New bounty scan DN1 |
+| BT-0730 | 2026-03-29T12:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:31:00Z | New bounty scan DN2 |
