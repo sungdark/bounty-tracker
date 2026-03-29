@@ -651,3 +651,7 @@
 | BT-0605 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:43:00Z | New bounty scan BV2 |
 
 | BT-0606 | 2026-03-28T12:50:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | pr_open | 已提交 | 2026-03-28T12:50:00Z | SPLURT Bodymorpher Presets PR#919, JSON persistence, 397 lines |
+
+| BT-0701 | 2026-03-29T09:18:00Z | github | aporthq/aport-integrations | $50 USD | https://github.com/aporthq/aport-integrations/issues/8 | pr_open | 已提交 | 2026-03-29T09:18:00Z | WooCommerce APort verification plugin, PR #67, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0702 | 2026-03-29T09:18:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/issues/29 | pr_open | 已提交 | 2026-03-29T09:18:00Z | Discord bot for team verification, PR #68, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0703 | 2026-03-29T09:18:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/issues/31 | comment_submitted | 已认领 | 2026-03-29T09:18:00Z | n8n workflow node for APort, commented claim, 待实现 |
