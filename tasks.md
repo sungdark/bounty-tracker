@@ -796,8 +796,11 @@
 | BT-0745 | 2026-03-29T14:44:00Z | github | new-bounty-scan | XTR | https://github.com | available | all claimed, no new | 2026-03-29T14:44:00Z | New bounty scan DS1 |
 | BT-0746 | 2026-03-29T14:44:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #915, illbnm #10, all saturated | 2026-03-29T14:44:00Z | New bounty scan DS2 |
 
-| BT-0747 | 2026-03-29T15:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T15:45:00Z | New bounty scan DT1 |
+| BT-0747 | 2026-03-29T15:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | zio $4000 microg $14999 found | 2026-03-29T15:45:00Z | New bounty scan DT1 |
 | BT-0748 | 2026-03-29T15:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T15:45:00Z | New bounty scan DT2 |
 
 | BT-0749 | 2026-03-29T16:09:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T16:09:00Z | Scan DT1完成: 全量扫描bounty标签，今日新机会已饱和；zio Schema $4000/microg RCS $14999为高价值但需专家级技能 |
 | BT-0750 | 2026-03-29T16:09:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T16:09:00Z | 无新发现的明确金额机会；opire平台有deno($70)/esp-hal($100)但已有竞争者或复杂嵌入式Rust |
+
+| BT-0751 | 2026-03-29T16:35:00Z | github | zio/zio-blocks | $4000 | https://github.com/zio/zio-blocks/issues/519 | opportunity | expert level | 2026-03-29T16:35:00Z | zio/zio-blocks #519, ZIO Schema2 migration, $4000, Scala/ZIO expert |
+| BT-0752 | 2026-03-29T16:35:00Z | github | microg/GmsCore | $14999 | https://github.com/microg/GmsCore/issues/2994 | opportunity | extremely complex | 2026-03-29T16:35:00Z | microg/GmsCore #2994, Android RCS support, $14999, protocol-level expertise |
