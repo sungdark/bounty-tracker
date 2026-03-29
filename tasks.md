@@ -727,9 +727,11 @@
 | BT-0706 | 2026-03-29T10:07:00Z | github | fredldotme/ISODriveUT | $50 USD | https://github.com/fredldotme/ISODriveUT/pull/21 | pr_open | 已提交 | 2026-03-29T10:07:00Z | ISODriveUT PR#21, USB mass storage status visualization, $50 |
 
 | BT-0707 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | homelab PR#389 $170 USDT | 2026-03-29T10:18:00Z | New bounty scan DG1 |
-| BT-0708 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T10:18:00Z | New bounty scan DG2 |
+| BT-0708 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | formbricks PR#7616 $60 Opire | 2026-03-29T10:18:00Z | New bounty scan DG2 |
 | BT-0709 | 2026-03-29T10:29:00Z | github | illbnm/homelab-stack | $170 USDT | https://github.com/illbnm/homelab-stack/issues/5 | pr_open | 已提交 | 2026-03-29T10:29:00Z | PR#389 Stirling PDF + Excalidraw productivity stack, $170 USDT |
 
 | BT-0709 | 2026-03-29T10:31:00Z | github | illbnm/homelab-stack | $170 USDT | https://github.com/illbnm/homelab-stack/pull/389 | pr_open | 已提交 | 2026-03-29T10:31:00Z | homelab PR#389, Stirling PDF + Excalidraw, $170 USDT |
 
 | BT-0710 | 2026-03-29T10:35:00Z | github | formbricks/formbricks | $60 USD | https://github.com/formbricks/formbricks/issues/3302 | pr_open | 已提交 | 2026-03-29T10:35:00Z | Survey copy action serverError toast fix, PR#7616, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+
+| BT-0711 | 2026-03-29T10:43:00Z | github | formbricks/formbricks | $60 Opire | https://github.com/formbricks/formbricks/pull/7616 | pr_open | 已提交 | 2026-03-29T10:43:00Z | formbricks PR#7616, survey copy serverError toast fix, $60 |
