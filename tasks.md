@@ -863,8 +863,10 @@
 | BT-0782 | 2026-03-29T21:14:00Z | github | ApexOpsStudio/ai-gitops-test-target | $225 USD | https://github.com/ApexOpsStudio/ai-gitops-test-target/pull/45 | pr_open | 已提交 | 2026-03-29T21:14:00Z | ai-gitops PR#45/46/47, $75+$100+$50 config/validation/json |
 
 | BT-0783 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:14:00Z | New bounty scan EH1 |
-| BT-0784 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:14:00Z | New bounty scan EH2 |
+| BT-0784 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | asyncapi CLI $100+ PR#2091 | 2026-03-29T21:14:00Z | New bounty scan EH2 |
 
 | BT-0785 | 2026-03-29T21:19:00Z | github | Expensify/App | $250 | https://github.com/Expensify/App/pull/85513 | merged | 待打款04-03 | 2026-03-29T21:19:00Z | Expensify #80287 merged, payment 2026-04-03 |
 | BT-0786 | 2026-03-29T21:19:00Z | github | mini_pupper_ros | $100 | https://github.com/mangdangroboticsclub/mini_pupper_ros/issues/125 | opportunity | new ROS2 | 2026-03-29T21:19:00Z | mini_pupper_ros #125, ROS2 upgrade, $100 |
 | BT-0787 | 2026-03-29T21:19:00Z | github | esp-rs/esp-hal | $100 | https://github.com/esp-rs/esp-hal/issues/4163 | opportunity | embedded Rust | 2026-03-29T21:19:00Z | esp-hal #4163, ESP32 embedded Rust, $100 |
+
+| BT-0788 | 2026-03-29T21:33:00Z | github | asyncapi/cli | $100+ USD | https://github.com/asyncapi/cli/pull/2091 | pr_open | 已提交 | 2026-03-29T21:33:00Z | asyncapi CLI PR#2091, fix registry URL hang, $100+ |
