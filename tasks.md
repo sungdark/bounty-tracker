@@ -737,7 +737,11 @@
 | BT-0711 | 2026-03-29T10:43:00Z | github | formbricks/formbricks | $60 Opire | https://github.com/formbricks/formbricks/pull/7616 | pr_open | 已提交 | 2026-03-29T10:43:00Z | formbricks PR#7616, survey copy serverError toast fix, $60 |
 
 | BT-0712 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PR#245 $75 | 2026-03-29T11:10:00Z | New bounty scan DH1 |
-| BT-0713 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:10:00Z | New bounty scan DH2 |
+| BT-0713 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PR#246 $300 (#1+#3+#4) | 2026-03-29T11:10:00Z | New bounty scan DH2 |
 | BT-0714 | 2026-03-29T11:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:10:00Z | New bounty scan DI1 |
 
 | BT-0715 | 2026-03-29T11:16:00Z | github | claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/245 | pr_open | 已提交 | 2026-03-29T11:16:00Z | claude-builders PR#245, CLAUDE.md Next.js template, $75 |
+
+| BT-0716 | 2026-03-29T11:20:00Z | github | claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/246 | pr_open | 已提交 | 2026-03-29T11:20:00Z | claude PR#246, CHANGELOG generator #1, $50 |
+| BT-0717 | 2026-03-29T11:20:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/246 | pr_open | 已提交 | 2026-03-29T11:20:00Z | claude PR#246, Safe Hook #3, $100 |
+| BT-0718 | 2026-03-29T11:20:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/246 | pr_open | 已提交 | 2026-03-29T11:20:00Z | claude PR#246, PR Reviewer #4, $150 |
