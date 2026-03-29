@@ -755,4 +755,4 @@
 | BT-0676 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 23:20 UTC | 2026-03-28T23:17:00Z | New bounty scan CT2 |
 
 | BT-0677 | 2026-03-29T01:42:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T01:42:00Z | New bounty scan CU1 |
-| BT-0678 | 2026-03-29T01:42:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T01:42:00Z | New bounty scan CU2 |
+| BT-0678 | 2026-03-29T01:42:00Z | github | new-bounty-scan | XTR | https://github.com | available | web search only, no new | 2026-03-29T01:42:00Z | New bounty scan CU2 |
