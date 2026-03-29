@@ -705,3 +705,7 @@
 | BT-0694 | 2026-03-29T07:08:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-03-29T07:30:00Z | HOOK: Pre-tool-use safety hook blocking destructive bash, PR #227, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0695 | 2026-03-29T07:08:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-29T07:30:00Z | AGENT: Claude Code PR review sub-agent, CLI+GitHub Action, PR #227, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0696 | 2026-03-29T07:08:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交 | 2026-03-29T07:30:00Z | WORKFLOW: n8n+Claude weekly dev summary workflow, PR #227, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+
+| BT-0693 | 2026-03-29T07:44:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T07:44:00Z | New bounty scan DB1 |
+| BT-0694 | 2026-03-29T07:44:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T07:44:00Z | New bounty scan DB2 |
+| BT-0695 | 2026-03-29T07:44:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T07:44:00Z | New bounty scan DC1 |
