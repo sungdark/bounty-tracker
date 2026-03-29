@@ -861,3 +861,6 @@
 | BT-0781 | 2026-03-29T21:12:00Z | github | claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/292 | pr_mergeable | MERGEABLE | 2026-03-29T21:12:00Z | claude-builders PR#292, CHANGELOG skill, $50, MERGEABLE |
 
 | BT-0782 | 2026-03-29T21:14:00Z | github | ApexOpsStudio/ai-gitops-test-target | $225 USD | https://github.com/ApexOpsStudio/ai-gitops-test-target/pull/45 | pr_open | 已提交 | 2026-03-29T21:14:00Z | ai-gitops PR#45/46/47, $75+$100+$50 config/validation/json |
+
+| BT-0783 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:14:00Z | New bounty scan EH1 |
+| BT-0784 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:14:00Z | New bounty scan EH2 |
