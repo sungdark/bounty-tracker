@@ -788,3 +788,7 @@
 
 | BT-0741 | 2026-03-29T14:00:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T14:00:00Z | New bounty scan DR1 |
 | BT-0742 | 2026-03-29T14:00:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T14:00:00Z | New bounty scan DR2 |
+
+| BT-0742 | 2026-03-29T14:20:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T14:20:00Z | Scan DQ2完成: claude-builders-bounty全部饱和(27+PR/issue); asyncapi赏金被AayushSaini101全认领; illbnm #8($250)被10+人竞争; deno #18147($70)已有PR; esp-hal #4163($100)嵌入式Rust复杂; SPLURT #891 bodymorpher需BYOND/SS3代码技能 |
+| BT-0743 | 2026-03-29T14:20:00Z | github | denoland/deno | $70 USD | https://github.com/denoland/deno/issues/18147 | available | 无实际机会 | 2026-03-29T14:20:00Z | deno #18147: VSCode测试覆盖率显示功能，Opire$70悬赏，已有satvik2131的PR，维护者说不接受新提交 |
+| BT-0744 | 2026-03-29T14:20:00Z | github | esp-rs/esp-hal | $100 USD | https://github.com/esp-rs/esp-hal/issues/4163 | available | 嵌入式Rust复杂 | 2026-03-29T14:20:00Z | esp-hal #4163: ESP32以太网外设支持，Rust嵌入式开发，需要esp-idf/硬件知识 |
