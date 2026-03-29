@@ -777,3 +777,5 @@
 | BT-0735 | 2026-03-29T13:12:00Z | github | FreeCAD | €250 | https://github.com/FreeCAD/FreeCAD/pull/28824 | pr_open | 已提交 | 2026-03-29T13:12:00Z | FreeCAD PR#28824, InputHintWidget modifier fix, €250 |
 
 | BT-0736 | 2026-03-29T13:27:00Z | github | atharvnaik1/GraciasAi | ₹2000 | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/pull/68 | pr_open | 已提交 | 2026-03-29T13:27:00Z | GraciasAi PR#68, PDF report fix using html2pdf.js, ₹2000 |
+
+| BT-0737 | 2026-03-29T13:01:00Z | github | INDIGOAZUL/la-tanda-web | 30 LTD | https://github.com/INDIGOAZUL/la-tanda-web/issues/155 | pr_open | 已提交 | 2026-03-29T13:30:00Z | la-tanda-web PR#222, fix broken placeholder links across 5 HTML pages, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
