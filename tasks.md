@@ -761,3 +761,6 @@
 | BT-0680 | 2026-03-29T02:06:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T02:06:00Z | New bounty scan CV2 |
 
 | BT-0681 | 2026-03-29T03:15:00Z | github | javelin-anticheat/py-workedtask | $100 USD | https://github.com/javelin-anticheat/py-workedtask/issues/4 | pr_open | 已提交 | 2026-03-29T03:15:00Z | javelin PR#12, $100 bounty |
+
+| BT-0682 | 2026-03-29T03:32:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T03:32:00Z | New bounty scan CW1 |
+| BT-0683 | 2026-03-29T03:32:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T03:32:00Z | New bounty scan CW2 |
