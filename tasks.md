@@ -785,3 +785,6 @@
 
 | BT-0739 | 2026-03-29T14:00:00Z | github | deno | $70 | https://github.com/denoland/deno/issues/18147 | opportunity | 0 claims | 2026-03-29T14:00:00Z | deno #18147, test coverage editor, $70, 0 claims |
 | BT-0740 | 2026-03-29T14:00:00Z | github | esp-hal | $100 | https://github.com/esp-rs/esp-hal/issues/4163 | opportunity | 1 claim | 2026-03-29T14:00:00Z | esp-hal #4163, ESP32 ethernet support, $100, 1 claim |
+
+| BT-0741 | 2026-03-29T14:00:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T14:00:00Z | New bounty scan DR1 |
+| BT-0742 | 2026-03-29T14:00:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T14:00:00Z | New bounty scan DR2 |
