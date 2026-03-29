@@ -770,8 +770,10 @@
 
 | BT-0732 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:56:00Z | New bounty scan DO1 |
 | BT-0733 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | available | FreeCAD PR#28824 €250 | 2026-03-29T12:56:00Z | New bounty scan DO2 |
-| BT-0734 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:56:00Z | New bounty scan DP1 |
+| BT-0734 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | available | GraciasAi PR#68 ₹2000 | 2026-03-29T12:56:00Z | New bounty scan DP1 |
 
 | BT-0735 | 2026-03-29T13:06:00Z | github | FreeCAD/FreeCAD | €250 EUR | https://github.com/FreeCAD/FreeCAD/issues/28819 | pr_open | 已提交 | 2026-03-29T13:06:00Z | FreeCAD #28819 InputHint ??? bug fix, PR #28824, €250 per 5 fixes |
 
 | BT-0735 | 2026-03-29T13:12:00Z | github | FreeCAD | €250 | https://github.com/FreeCAD/FreeCAD/pull/28824 | pr_open | 已提交 | 2026-03-29T13:12:00Z | FreeCAD PR#28824, InputHintWidget modifier fix, €250 |
+
+| BT-0736 | 2026-03-29T13:27:00Z | github | atharvnaik1/GraciasAi | ₹2000 | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/pull/68 | pr_open | 已提交 | 2026-03-29T13:27:00Z | GraciasAi PR#68, PDF report fix using html2pdf.js, ₹2000 |
