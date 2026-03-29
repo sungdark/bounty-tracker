@@ -795,3 +795,6 @@
 
 | BT-0745 | 2026-03-29T14:44:00Z | github | new-bounty-scan | XTR | https://github.com | available | all claimed, no new | 2026-03-29T14:44:00Z | New bounty scan DS1 |
 | BT-0746 | 2026-03-29T14:44:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T14:44:00Z | New bounty scan DS2 |
+
+| BT-0747 | 2026-03-29T15:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T15:45:00Z | New bounty scan DT1 |
+| BT-0748 | 2026-03-29T15:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T15:45:00Z | New bounty scan DT2 |
