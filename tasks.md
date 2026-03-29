@@ -880,7 +880,7 @@
 | BT-0792 | 2026-03-29T21:42:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new actionable bounties | 2026-03-29T21:42:00Z | New bounty scan EK2 |
 
 | BT-0794 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | devpool/UbiquityOS $75-$450, SPLURT Bodymorpher found | 2026-03-29T21:55:00Z | New bounty scan EL1 |
-| BT-0795 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:55:00Z | New bounty scan EL2 |
+| BT-0795 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new bounties | 2026-03-29T21:55:00Z | New bounty scan EL2 |
 
 | BT-0796 | 2026-03-29T22:00:00Z | github | ANAVHEOBA/PrivacyLayer | USDC via Drips | https://github.com/ANAVHEOBA/PrivacyLayer/pull/193 | pr_open | 已提交 | 2026-03-29T22:00:00Z | PrivacyLayer PR#193, Freighter Wallet Integration (issue#24), wallet.ts+store.ts+wallet components, USDC bounty via Drips Wave |
 | BT-0797 | 2026-03-29T22:00:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/pull/63 | pr_open | 已提交 | 2026-03-29T22:00:00Z | GraciasAi PR#63, iOS PDF export html2canvas+jsPDF (issue#14), ₹2000 bounty |
