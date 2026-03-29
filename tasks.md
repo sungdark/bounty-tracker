@@ -725,3 +725,6 @@
 | BT-0705 | 2026-03-29T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | available | ISODriveUT PR#21 $50 | 2026-03-29T09:48:00Z | New bounty scan DF2 |
 
 | BT-0706 | 2026-03-29T10:07:00Z | github | fredldotme/ISODriveUT | $50 USD | https://github.com/fredldotme/ISODriveUT/pull/21 | pr_open | 已提交 | 2026-03-29T10:07:00Z | ISODriveUT PR#21, USB mass storage status visualization, $50 |
+
+| BT-0707 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T10:18:00Z | New bounty scan DG1 |
+| BT-0708 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T10:18:00Z | New bounty scan DG2 |
