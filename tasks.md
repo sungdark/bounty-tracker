@@ -756,5 +756,7 @@
 
 | BT-0724 | 2026-03-29T11:31:00Z | github | lnflash/flash | 300k sats | https://github.com/lnflash/flash/pull/309 | pr_open | 已提交 | 2026-03-29T11:31:00Z | lnflash/flash PR#309, JMD currency precision, 300k sats |
 
-| BT-0725 | 2026-03-29T12:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:10:00Z | New bounty scan DM1 |
+| BT-0725 | 2026-03-29T12:10:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #891 $100+ claimed | 2026-03-29T12:10:00Z | New bounty scan DM1 |
 | BT-0726 | 2026-03-29T12:10:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:10:00Z | New bounty scan DM2 |
+
+| BT-0727 | 2026-03-29T12:21:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | opportunity | 已认领待实现 | 2026-03-29T12:21:00Z | SPLURT #891 bodymorpher presets, $100+, 已评论认领 |
