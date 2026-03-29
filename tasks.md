@@ -872,6 +872,6 @@
 | BT-0788 | 2026-03-29T21:33:00Z | github | asyncapi/cli | $100+ USD | https://github.com/asyncapi/cli/pull/2091 | pr_open | 已提交 | 2026-03-29T21:33:00Z | asyncapi CLI PR#2091, fix registry URL hang, $100+ |
 
 | BT-0789 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | covered by main agent | 2026-03-29T21:33:00Z | New bounty scan EJ1 |
-| BT-0790 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:33:00Z | New bounty scan EJ2 |
+| BT-0790 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo PR#8 $500 MERGEABLE | 2026-03-29T21:33:00Z | New bounty scan EJ2 |
 
 | BT-0791 | 2026-03-29T21:20:00Z | github | prasenjeet-symon/shipli-ai | ₹500 INR | https://github.com/prasenjeet-symon/shipli-ai/pull/6 | pr_open | 已提交 | 2026-03-29T21:20:00Z | Add React Native support to Shipli CLI, auto-detects RN/Expo projects, scans JS/TS files, ₹500 INR bounty |
