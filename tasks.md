@@ -879,7 +879,7 @@
 | BT-0793 | 2026-03-29T21:42:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/292 | pr_mergeable | 2 PRs MERGEABLE | 2026-03-29T21:55:00Z | PR#292(CHANGELOG $50)+PR#291(pre-tool-hook $100), wallet:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9; No new fresh USD code bounties found |
 | BT-0792 | 2026-03-29T21:42:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new actionable bounties | 2026-03-29T21:42:00Z | New bounty scan EK2 |
 
-| BT-0794 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:55:00Z | New bounty scan EL1 |
+| BT-0794 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | devpool/UbiquityOS $75-$450, SPLURT Bodymorpher found | 2026-03-29T21:55:00Z | New bounty scan EL1 |
 | BT-0795 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:55:00Z | New bounty scan EL2 |
 
 | BT-0796 | 2026-03-29T22:00:00Z | github | ANAVHEOBA/PrivacyLayer | USDC via Drips | https://github.com/ANAVHEOBA/PrivacyLayer/pull/193 | pr_open | 已提交 | 2026-03-29T22:00:00Z | PrivacyLayer PR#193, Freighter Wallet Integration (issue#24), wallet.ts+store.ts+wallet components, USDC bounty via Drips Wave |
