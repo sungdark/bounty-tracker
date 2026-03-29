@@ -720,3 +720,6 @@
 | BT-0701 | 2026-03-29T09:35:00Z | github | aporthq/aport-integrations | $50 USD | https://github.com/aporthq/aport-integrations/pull/67 | pr_open | 已提交 | 2026-03-29T09:35:00Z | WooCommerce APort插件 PR#67, 7个文件941行 |
 | BT-0702 | 2026-03-29T09:35:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/pull/68 | pr_open | 已提交 | 2026-03-29T09:35:00Z | Discord Bot PR#68, $10 |
 | BT-0703 | 2026-03-29T09:35:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/pull/68 | pr_open | 已提交 | 2026-03-29T09:35:00Z | n8n Node PR#68, $10 |
+
+| BT-0704 | 2026-03-29T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T09:48:00Z | New bounty scan DF1 |
+| BT-0705 | 2026-03-29T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T09:48:00Z | New bounty scan DF2 |
