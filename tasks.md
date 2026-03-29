@@ -763,5 +763,7 @@
 
 | BT-0728 | 2026-03-29T12:31:00Z | github | claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/253 | pr_open | 已提交 | 2026-03-29T12:31:00Z | claude-builders PR#253, CLAUDE.md Next.js template #2, $75 |
 
-| BT-0729 | 2026-03-29T12:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:31:00Z | New bounty scan DN1 |
+| BT-0729 | 2026-03-29T12:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | AncientBeast PR#2868 222 XTR | 2026-03-29T12:31:00Z | New bounty scan DN1 |
 | BT-0730 | 2026-03-29T12:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:31:00Z | New bounty scan DN2 |
+
+| BT-0731 | 2026-03-29T12:42:00Z | github | AncientBeast | 222 XTR | https://github.com/FreezingMoon/AncientBeast/pull/2868 | pr_open | 已提交 | 2026-03-29T12:42:00Z | AncientBeast PR#2868, Undo Move #2704, 222 XTR |
