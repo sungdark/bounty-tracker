@@ -875,3 +875,6 @@
 | BT-0790 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo PR#8 $500 MERGEABLE | 2026-03-29T21:33:00Z | New bounty scan EJ2 |
 
 | BT-0791 | 2026-03-29T21:20:00Z | github | prasenjeet-symon/shipli-ai | ₹500 INR | https://github.com/prasenjeet-symon/shipli-ai/pull/6 | pr_open | 已提交 | 2026-03-29T21:20:00Z | Add React Native support to Shipli CLI, auto-detects RN/Expo projects, scans JS/TS files, ₹500 INR bounty |
+
+| BT-0793 | 2026-03-29T21:42:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:42:00Z | New bounty scan EK1 |
+| BT-0792 | 2026-03-29T21:42:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:42:00Z | New bounty scan EK2 |
