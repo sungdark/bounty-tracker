@@ -698,3 +698,5 @@
 | BT-0690 | 2026-03-29T06:51:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T06:51:00Z | New bounty scan DA2 |
 
 | BT-0691 | 2026-03-29T06:56:00Z | github | BasedHardware/omi | $300-500 USD | https://github.com/BasedHardware/omi/issues | opportunity | Flutter/hardware tasks, $300-$500 each | 2026-03-29T06:56:00Z | BasedHardware/omi: #3919 one-click deploy $300, #3858 perf tests $300, #3810 genui chat $300, #2825 button $500 |
+
+| BT-0692 | 2026-03-29T07:10:00Z | github | atharvnaik1/GraciasAi | bounty USD | https://github.com/atharvnaik1/GraciasAi/issues/14 | developing | 工作中 | 2026-03-29T07:10:00Z | GraciasAi #14 claimed by scan-cz1 |
