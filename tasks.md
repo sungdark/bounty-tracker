@@ -837,3 +837,13 @@
 | BT-0772 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T20:35:00Z | New bounty scan EE2 |
 
 | BT-0773 | 2026-03-29T20:48:00Z | github | LennyMalcolm0/bitcoin | $300 USD | https://github.com/LennyMalcolm0/bitcoin/pull/82 | pr_open | 已提交 | 2026-03-29T20:48:00Z | Bitcoin API docs PR#82, complete API documentation, $300 |
+
+| BT-0783 | 2026-03-29T20:49:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/121 | comment_submitted | 已提交 | 2026-03-29T20:49:00Z | Smart digest weekly financial summary - /attempt commented, PR#522 already open by alexchenai, 收款:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0784 | 2026-03-29T20:49:00Z | github | coollabsio/coolify | $50 USD | https://github.com/coollabsio/coolify/issues/8042 | available | 有2个PR竞争 | 2026-03-29T20:49:00Z | OAUTH only self registering - enhancement, 2 existing PRs |
+| BT-0785 | 2026-03-29T20:49:00Z | github | coollabsio/coolify | $7 USD | https://github.com/coollabsio/coolify/issues/8264 | available | 新机会 | 2026-03-29T20:49:00Z | WordPress + OpenLiteSpeed service template - tiny bounty |
+| BT-0786 | 2026-03-29T20:49:00Z | github | mangdangroboticsclub/mini_pupper_ros | $100 USD | https://github.com/mangdangroboticsclub/mini_pupper_ros/issues/125 | available | 新机会 | 2026-03-29T20:49:00Z | Upgrade ROS2 Humble to Jazzy - robot dog SDK upgrade |
+| BT-0787 | 2026-03-29T20:49:00Z | github | zio/zio-blocks | $4000 USD | https://github.com/zio/zio-blocks/issues/519 | opportunity | 专家级Scala | 2026-03-29T20:49:00Z | ZIO Schema2 migration - expert level Scala, $4000 bounty |
+| BT-0788 | 2026-03-29T20:49:00Z | github | microg/GmsCore | $14999 USD | https://github.com/microg/GmsCore/issues/2994 | opportunity | 极复杂 | 2026-03-29T20:49:00Z | Android RCS support - extremely complex Android, max $14999 |
+| BT-0789 | 2026-03-29T20:49:00Z | github | tscircuit/matchpack | $300 USD | https://github.com/tscircuit/matchpack/issues/15 | available | 专业EDA领域 | 2026-03-29T20:49:00Z | Specialized Layout for Decoupling Capacitors - EDA/PCB |
+| BT-0790 | 2026-03-29T20:49:00Z | github | Expensify/App | $250 USD | https://github.com/Expensify/App/issues/80287 | available | 新机会 | 2026-03-29T20:49:00Z | Expense confirm page 0.00 bug - Bug fix |
+| BT-0791 | 2026-03-29T20:49:00Z | github | claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/289 | pr_open | 已提交 | 2026-03-29T20:49:00Z | CHANGELOG skill PR#289 - 6+ competing PRs, already submitted |
