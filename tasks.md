@@ -654,4 +654,4 @@
 
 | BT-0701 | 2026-03-29T09:18:00Z | github | aporthq/aport-integrations | $50 USD | https://github.com/aporthq/aport-integrations/issues/8 | pr_open | 已提交 | 2026-03-29T09:18:00Z | WooCommerce APort verification plugin, PR #67, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0702 | 2026-03-29T09:18:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/issues/29 | pr_open | 已提交 | 2026-03-29T09:18:00Z | Discord bot for team verification, PR #68, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0703 | 2026-03-29T09:18:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/issues/31 | comment_submitted | 已认领 | 2026-03-29T09:18:00Z | n8n workflow node for APort, commented claim, 待实现 |
+| BT-0703 | 2026-03-29T09:34:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/issues/31 | pr_open | 已提交 | 2026-03-29T09:34:00Z | n8n workflow node for APort, PR #68 (merged with discord bot), 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 | |
