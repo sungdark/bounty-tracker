@@ -806,3 +806,5 @@
 | BT-0752 | 2026-03-29T16:35:00Z | github | microg/GmsCore | $14999 | https://github.com/microg/GmsCore/issues/2994 | opportunity | extremely complex | 2026-03-29T16:35:00Z | microg/GmsCore #2994, Android RCS support, $14999, protocol-level expertise |
 
 | BT-0753 | 2026-03-29T16:55:00Z | github | Scottcjn/rustchain-bounties | 25 RTC | https://github.com/Scottcjn/rustchain-bounties/pull/2745 | pr_open | 已提交 | 2026-03-29T16:55:00Z | rustchain PR#2745, BCOS v2 compare page + badge generator, 25 RTC |
+
+| BT-0754 | 2026-03-29T16:55:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T16:55:00Z | New bounty scan DV1 |
