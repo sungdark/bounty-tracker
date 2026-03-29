@@ -630,137 +630,56 @@
 
 | BT-0599 | 2026-03-28T12:29:00Z | github | labmain/ai-agent-pay-demo | $500 USD | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T12:29:00Z | ai-agent-pay-demo PR#6, BountyPay README branding fix, $500 USD |
 
-| BT-0600 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new high-value opportunities | 2026-03-28T12:15:00Z | New bounty scan BT1 |
-| BT-0601 | 2026-03-28T12:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT Bodymorpher PR#919 $100+ | 2026-03-28T12:15:00Z | New bounty scan BT2 |
-
-| BT-0602 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs #173-176/#180 confirmed | 2026-03-28T12:33:00Z | New bounty scan BU1 |
-| BT-0603 | 2026-03-28T12:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | all CLAUDE claimed, no new | 2026-03-28T12:33:00Z | New bounty scan BU2 |
-
-| BT-0604 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | available | GraciasAi PR#56 confirmed | 2026-03-28T12:43:00Z | New bounty scan BV1 |
-| BT-0605 | 2026-03-28T12:43:00Z | github | new-bounty-scan | XTR | https://github.com | available | cortex-ide PR#72 confirmed | 2026-03-28T12:43:00Z | New bounty scan BV2 |
-
-| BT-0606 | 2026-03-28T12:50:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | pr_open | 已提交 | 2026-03-28T12:50:00Z | SPLURT Bodymorpher Presets PR#919, JSON persistence, 397 lines |
-
-| BT-0607 | 2026-03-28T12:58:00Z | github | CortexLM/cortex-ide | bounty USD | https://github.com/PlatformNetwork/bounty-challenge/issues/39619 | pr_open | 已提交 | 2026-03-28T12:58:00Z | cortex-ide PR#72, 3 fixes: TerminalSettingsPanel + CloneRepositoryDialog + GitSettingsPanel |
-
-| BT-0608 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T12:58:00Z | New bounty scan BW1 |
-| BT-0609 | 2026-03-28T12:58:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new, all CLAUDE claimed | 2026-03-28T12:58:00Z | New bounty scan BW2 |
-
-| BT-0610 | 2026-03-28T13:01:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ~$24 USD | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T13:01:00Z | GraciasAi PDF fix PR#56, html2canvas+jsPDF, iOS Safari fix |
-
-| BT-0611 | 2026-03-28T13:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | Bitcoin.org PR#315 ~$250 confirmed | 2026-03-28T13:15:00Z | New bounty scan BX1 |
-| BT-0612 | 2026-03-28T13:15:00Z | github | new-bounty-scan | XTR | https://github.com | available | FinMind #676/#653 MERGEABLE, 3-20+ PRs competition | 2026-03-28T13:15:00Z | New bounty scan BX2 |
-
-| BT-0613 | 2026-03-28T13:25:00Z | github | bitcoin-dot-org/Bitcoin.org | ~$250 USD | https://github.com/bitcoin-dot-org/Bitcoin.org/issues/1837 | pr_open | 已提交 | 2026-03-28T13:25:00Z | developer.bitcoin.org PR#315, Add error codes section to regtest-mode docs, 25,000 bits bounty, 收款: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-
-| BT-0614 | 2026-03-28T13:31:00Z | github | new-bounty-scan | XTR | https://github.com | merged | 2026-03-28T14:16:23Z | stellar Event Emissions PR#233 | 2026-03-28T13:31:00Z | New bounty scan BY1 |
-| BT-0615 | 2026-03-28T13:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs MERGEABLE $575 | 2026-03-28T13:31:00Z | New bounty scan BY2 |
-| BT-0616 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $100] HOOK: Pre-tool-use hook blocking destructive bash commands, PR#173, 969 additions |
-| BT-0617 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $200] WORKFLOW: n8n + Claude Code weekly dev summary, PR#174, 944 additions |
-| BT-0618 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $75] TEMPLATE: CLAUDE.md for Next.js + SQLite SaaS, PR#175, 823 additions |
-| BT-0619 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $150] AGENT: Claude Code PR reviewer agent, PR#176, 858 additions |
-| BT-0620 | 2026-03-28T13:32:00Z | github | claude-builders-bounty/claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | pr_open | 已提交-MERGEABLE | 2026-03-28T13:32:00Z | [BOUNTY $50] SKILL: Generate CHANGELOG from git history, PR#180, 249 additions |
-| BT-0621 | 2026-03-28T13:32:00Z | web | task.niuma.works | NIUMA token | https://task.niuma.works | opportunity | 新机会-需配置钱包 | 2026-03-28T13:32:00Z | 发现Niuma Bounty Platform (XLayer链上赏金平台)，42+任务，含编程/社交/链上任务；需配置NIUMA_WALLET_SECRET |
-| BT-0622 | 2026-03-28T13:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | 无新机会 | 2026-03-28T13:45:00Z | scan-by2完成: claude-builders-bounty 5 PRs (#173-176/#180) 已提交全部MERGEABLE；Niuma平台需钱包配置；其他平台无新机会 |
 
 
-| BT-0616 | 2026-03-28T13:52:00Z | github | Niuma/task.niuma.works | NIUMA | https://task.niuma.works | available | 新平台! XLayer链上赏金, 需要NIUMA_WALLET_SECRET | 2026-03-28T13:52:00Z | Niuma bounty platform discovered, 42+ tasks, MACD $800 NIUMA, 龙虾deploy $100 NIUMA |
 
-| BT-0623 | 2026-03-28T13:52:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 14:04 UTC | 2026-03-28T13:52:00Z | New bounty scan BZ1 |
-| BT-0624 | 2026-03-28T13:52:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 14:04 UTC | 2026-03-28T13:52:00Z | New bounty scan BZ2 |
 
-| BT-0625 | 2026-03-28T16:03:00Z | github | new-bounty-scan | XTR | https://github.com | available | homelab-stack PR#384 $280 USDT confirmed | 2026-03-28T16:03:00Z | New bounty scan CA1 |
-| BT-0626 | 2026-03-28T16:03:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T16:03:00Z | New bounty scan CA2 |
 
-| BT-0627 | 2026-03-28T16:16:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/14 | pr_open | 已提交 | 2026-03-28T16:16:00Z | homelab-stack PR#384, integration test suite, 20 files |
 
-| BT-0628 | 2026-03-28T16:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs CLEAN/MERGEABLE | 2026-03-28T16:16:00Z | New bounty scan CB1 |
-| BT-0629 | 2026-03-28T16:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-28T16:16:00Z | New bounty scan CB2 |
 
-| BT-0630 | 2026-03-28T16:58:00Z | github | new-bounty-scan | XTR | https://github.com | available | all major bounties already claimed | 2026-03-28T16:58:00Z | New bounty scan CC1 |
-| BT-0631 | 2026-03-28T16:58:00Z | github | new-bounty-scan | XTR | https://github.com | available | market saturated, 20-60+ agents per bounty | 2026-03-28T16:58:00Z | New bounty scan CC2 |
 
-| BT-0632 | 2026-03-28T17:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | no blue ocean, monitor BountyHub/Algora/Opire | 2026-03-28T17:05:00Z | New bounty scan CD1 |
-| BT-0633 | 2026-03-28T17:05:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo #6 MERGEABLE confirmed | 2026-03-28T17:05:00Z | New bounty scan CD2 |
 
-| BT-0634 | 2026-03-28T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | 6 PRs already claimed, no new high-value | 2026-03-28T17:18:00Z | New bounty scan CE1 |
-| BT-0635 | 2026-03-28T17:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo already handled, waiting merge | 2026-03-28T17:18:00Z | New bounty scan CE2 |
 
-| BT-0636 | 2026-03-28T17:26:00Z | github | new-bounty-scan | XTR | https://github.com | available | mergefund PR#71 confirmed | 2026-03-28T17:26:00Z | New bounty scan CF1 |
-| BT-0637 | 2026-03-28T17:26:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs $575 all open | 2026-03-28T17:26:00Z | New bounty scan CF2 |
 
-| BT-0638 | 2026-03-28T17:30:00Z | github | new-bounty-scan | XTR | https://github.com | available | denoland/deno $70无人认领, baozi-openclaw新SOL平台 | 2026-03-28T17:30:00Z | New bounty scan CG1 |
-| BT-0639 | 2026-03-28T17:30:00Z | github | new-bounty-scan | XTR | https://github.com | available | omi=0 open, claude=30+ PRs, no actionable | 2026-03-28T17:30:00Z | New bounty scan CG2 |
 
-| BT-0640 | 2026-03-28T17:32:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/1 | pr_open | 已提交 | 2026-03-28T17:32:00Z | mergefund-hackathon-kit PR#71, BountyCard component, hover effects, brand colors, difficulty icons |
 
-| BT-0641 | 2026-03-28T17:41:00Z | github | new-bounty-scan | XTR | https://github.com | available | all real USD bounties already claimed | 2026-03-28T17:41:00Z | New bounty scan CH1 |
-| BT-0642 | 2026-03-28T17:41:00Z | github | new-bounty-scan | XTR | https://github.com | available | deno $70无人认领, 技术复杂需LSP经验 | 2026-03-28T17:41:00Z | New bounty scan CH2 |
 
-| BT-0643 | 2026-03-28T17:45:00Z | web | denoland/deno | $70 USD | https://github.com/denoland/deno/issues/18147 | opportunity | 无人认领! Rust LSP测试覆盖, Opire API | 2026-03-28T17:45:00Z | denoland/deno $70 Rust LSP test coverage, 0 claims via Opire API |
-| BT-0644 | 2026-03-28T17:45:00Z | web | bolivian-peru/baozi-openclaw | 1-2.5 SOL | https://github.com/bolivian-peru/baozi-openclaw | opportunity | 新平台! OpenClaw技能赏金以SOL计费 | 2026-03-28T17:45:00Z | bolivian-peru/baozi-openclaw OpenClaw skill bounties in SOL |
 
-| BT-0645 | 2026-03-28T18:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #891 already closed, asyncapi/cli 2026-04 program | 2026-03-28T18:16:00Z | New bounty scan CI1 |
-| BT-0646 | 2026-03-28T18:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo PR#8 $500 MERGEABLE confirmed | 2026-03-28T18:16:00Z | New bounty scan CI2 |
 
-| BT-0647 | 2026-03-28T18:20:00Z | github | new-bounty-scan | XTR | https://github.com | available | scan completed | 2026-03-28T18:20:00Z | New bounty scan CJ1 |
-| BT-0648 | 2026-03-28T18:20:00Z | github | new-bounty-scan | XTR | https://github.com | available | market fully saturated, 20-60+ agents per bounty | 2026-03-28T18:20:00Z | New bounty scan CJ2 |
-| BT-0649 | 2026-03-28T18:25:00Z | github | labmain/ai-agent-pay-demo | $500 USD1 | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T18:25:00Z | PR #8: fix README bounty label format from 'bounty:$XXX' to 'bounty:XXX (e.g., bounty:500USD1)' |
 
-| BT-0649 | 2026-03-28T18:31:00Z | github | labmain/ai-agent-pay-demo | $500 USD1 | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T18:31:00Z | ai-agent-pay-demo PR#8, README typo fix, $500 USD1 |
 
-| BT-0650 | 2026-03-28T18:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:31:00Z | New bounty scan CK1 |
-| BT-0651 | 2026-03-28T18:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:31:00Z | New bounty scan CK2 |
 
-| BT-0652 | 2026-03-28T18:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:33:00Z | New bounty scan CL1 |
-| BT-0653 | 2026-03-28T18:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 18:38 UTC | 2026-03-28T18:33:00Z | New bounty scan CL2 |
 
-| BT-0654 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#192 confirmed | 2026-03-28T21:04:00Z | New bounty scan CM1 |
-| BT-0655 | 2026-03-28T21:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | zero merges, maintainers overwhelmed, all AI-competed | 2026-03-28T21:04:00Z | New bounty scan CM2 |
 
-| BT-0656 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | available | grove PR#170 confirmed | 2026-03-28T22:13:00Z | New bounty scan CN1 |
-| BT-0657 | 2026-03-28T22:13:00Z | github | new-bounty-scan | XTR | https://github.com | available | GraciasAi PR#63 confirmed | 2026-03-28T22:13:00Z | New bounty scan CN2 |
 
-| BT-0658 | 2026-03-28T22:27:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#193 confirmed | 2026-03-28T22:27:00Z | New bounty scan CO1 |
-| BT-0659 | 2026-03-28T22:27:00Z | github | new-bounty-scan | XTR | https://github.com | available | all major claimed, waiting for merges | 2026-03-28T22:27:00Z | New bounty scan CO2 |
 
-| BT-0660 | 2026-03-28T22:30:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/15 | pr_open | 已提交 | 2026-03-28T22:30:00Z | PrivacyLayer PR#192, Emergency Pause Mechanism, Soroban合约, 56 tests passed |
 
-| BT-0661 | 2026-03-28T22:35:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ~$24 USD | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | pr_open | 已提交 | 2026-03-28T22:35:00Z | GraciasAi PR#63, PDF export fix, html2canvas+jsPDF, iOS Safari compatible |
 
-| BT-0662 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | available | zero merges, maintainers overwhelmed | 2026-03-28T22:37:00Z | New bounty scan CP1 |
-| BT-0663 | 2026-03-28T22:37:00Z | github | new-bounty-scan | XTR | https://github.com | available | dextonai PR#35 MERGEABLE | 2026-03-28T22:37:00Z | New bounty scan CP2 |
 
-| BT-0664 | 2026-03-28T22:42:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/24 | pr_open | 已提交 | 2026-03-28T22:42:00Z | PrivacyLayer PR#193, Freighter Wallet Integration, Zustand store, 4 UI components |
 
-| BT-0665 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 23:20 UTC | 2026-03-28T22:50:00Z | New bounty scan CQ1 |
-| BT-0666 | 2026-03-28T22:50:00Z | github | new-bounty-scan | XTR | https://github.com | available | mergefund PR#72 confirmed | 2026-03-28T22:50:00Z | New bounty scan CQ2 |
 
-| BT-0667 | 2026-03-28T22:56:00Z | github | windoliver/grove | bounty USD | https://github.com/windoliver/grove/issues/169 | pr_open | 已提交 | 2026-03-28T22:56:00Z | grove PR#170, MCP tools refactoring, 177 tests passed, grove_submit_work/review |
 
-| BT-0668 | 2026-03-28T22:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | storacha $4000 found, extremely complex | 2026-03-28T22:57:00Z | New bounty scan CR1 |
-| BT-0669 | 2026-03-28T22:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | market saturated, all >$50 claimed | 2026-03-28T22:57:00Z | New bounty scan CR2 |
-| BT-0670 | 2026-03-28T23:00:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3 | pr_open | 已提交 | 2026-03-28T23:00:00Z | Discovery Algorithm增强版多因素评分系统，PR #72已创建，收款地址eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
-| BT-0670 | 2026-03-28T23:02:00Z | github | gbabaisaac/mergefund-hackathon-kit | bounty USD | https://github.com/gbabaisaac/mergefund-hackathon-kit/issues/3 | pr_open | 已提交 | 2026-03-28T23:02:00Z | mergefund PR#72, Discovery Algorithm, multi-factor ranking system, 5 scoring dimensions |
 
-| BT-0671 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | available | homelab-stack PR#385 $150 USDT confirmed | 2026-03-28T23:02:00Z | New bounty scan CS1 |
-| BT-0672 | 2026-03-28T23:02:00Z | github | new-bounty-scan | XTR | https://github.com | available | AncientBeast #2850 PR#2922 open, 48 ancient OPEN PRs | 2026-03-28T23:02:00Z | New bounty scan CS2 |
 
-| BT-0673 | 2026-03-28T23:06:00Z | github | storacha/upload-service | $4000 USD | https://github.com/storacha/upload-service/issues/96 | opportunity | 极高价值! Telegram Mini App, 需要去中心化存储集成专业知识 | 2026-03-28T23:06:00Z | storacha/upload-service #96, $4000 USD bounty, Telegram Mini App, extremely complex, decentralized storage |
 
-| BT-0674 | 2026-03-28T23:13:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-28T23:13:00Z | homelab-stack PR#385, Storage Stack, Nextcloud+PostgreSQL+Redis+MinIO+Syncthing, Traefik HTTPS |
 
-| BT-0675 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 23:20 UTC | 2026-03-28T23:17:00Z | New bounty scan CT1 |
-| BT-0676 | 2026-03-28T23:17:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit failed at 23:20 UTC | 2026-03-28T23:17:00Z | New bounty scan CT2 |
 
-| BT-0677 | 2026-03-29T01:42:00Z | github | new-bounty-scan | XTR | https://github.com | available | mergefund #71 MERGED, javelin PR#12 $100 | 2026-03-29T01:42:00Z | New bounty scan CU1 |
-| BT-0678 | 2026-03-29T01:42:00Z | github | new-bounty-scan | XTR | https://github.com | available | web search only, no new | 2026-03-29T01:42:00Z | New bounty scan CU2 |
 
-| BT-0679 | 2026-03-29T02:06:00Z | github | new-bounty-scan | XTR | https://github.com | available | asyncapi PR#2081 MERGEABLE | 2026-03-29T02:06:00Z | New bounty scan CV1 |
-| BT-0680 | 2026-03-29T02:06:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT explored, no new | 2026-03-29T02:06:00Z | New bounty scan CV2 |
 
-| BT-0681 | 2026-03-29T03:15:00Z | github | javelin-anticheat/py-workedtask | $100 USD | https://github.com/javelin-anticheat/py-workedtask/issues/4 | pr_open | 已提交 | 2026-03-29T03:15:00Z | javelin PR#12, $100 bounty |
 
-| BT-0682 | 2026-03-29T03:32:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T03:32:00Z | New bounty scan CW1 |
-| BT-0683 | 2026-03-29T03:32:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T03:32:00Z | New bounty scan CW2 |
+
+
+
+
+
+
+
+
+
+
+
+| BT-0682 | 2026-03-29T03:32:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T04:15:00Z | Scan CW1完成: claude-builders-bounty 5 PRs全部MERGEABLE(75总); SPLURT-S13无明确USD金额; PrivacyLayer无明确USD金额; 无新高价值机会 |
+| BT-0683 | 2026-03-29T03:32:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T04:15:00Z | Scan CW2完成: 扫描20+ bounty repos; 新机会: boligian-peru/marketplace-service-template(X-Intelligence 00,已claim); SPLURT-S13(#299 00pregnancy;#775 50races)需BYOND技能; 主要机会为claude-builders-bounty待merge |
+| BT-0684 | 2026-03-29T04:15:00Z | github | claude-builders-bounty/claude-builders-bounty | 75+ USD | https://github.com/claude-builders-bounty/claude-builders-bounty | pr_open | 已提交-MERGEABLE | 2026-03-29T04:15:00Z | 5个PR全部CLEAN等待merge: #1800,#17650,#1755,#17400,#17300; 收款:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+| BT-0685 | 2026-03-29T04:15:00Z | github | ANAVHEOBA/PrivacyLayer | TBD | https://github.com/ANAVHEOBA/PrivacyLayer/issues/24 | pr_open | 已提交 | 2026-03-29T04:15:00Z | Freighter Wallet集成PR#193, wallet.ts+store.ts+Zustand+UI组件, 收款:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
