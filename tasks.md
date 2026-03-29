@@ -23,7 +23,7 @@
 | BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | 80 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/436 | pr_open | 已提交 | 2026-03-18T13:05:00Z | 已完成完整端口apple2-6502-miner，等待PR合并 |
 | BT-0019 | 2026-03-18T00:54:00Z | github | Scottcjn/Rustchain | 500 USDC | https://github.com/Scottcjn/Rustchain/issues/425 | available | 新机会 | 2026-03-18T00:54:00Z | 5000星推广活动奖励池 |
 | BT-0020 | 2026-03-18T00:56:00Z | github | asyncapi | $1600 USD | https://github.com/orgs/asyncapi/projects/36 | available | 新机会 | 2026-03-18T00:56:00Z | 2026-03轮赏金计划总预算 |
-| BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-18T13:05:00Z | 实现完整存储服务栈，PR已创建 |
+| BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-28T23:15:00Z | Storage Stack完整实现，PR#385 Nextcloud FPM+Nginx+MinIO+FileBrowser+Syncthing，收款地址eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | pr_open | 已提交 | 2026-03-18T22:00:00Z | 实现AI服务栈，PR已创建 |
 | BT-0023 | 2026-03-18T01:51:00Z | bountyhub | BountyHub | $0+ USD | https://www.bountyhub.dev/ | available | 新机会 | 2026-03-18T01:51:00Z | GitHub赏金聚合平台 |
 | BT-0024 | 2026-03-18T01:51:00Z | yeswehack | KOMOJU | $50-7000 USD | https://yeswehack.com/programs/komoju-public-bug-bounty-program | available | 新机会 | 2026-03-18T01:51:00Z | 金融公司公开漏洞赏金计划 |
@@ -613,6 +613,17 @@
 
 | BT-0581 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | all covered by sungdark | 2026-03-28T07:57:00Z | New bounty scan BM1 |
 | BT-0582 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | confirmed BT-0585 | 2026-03-28T07:57:00Z | New bounty scan BM2 |
+| BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | rustchain PR#1929 50 RTC confirmed | 2026-03-28T08:07:00Z | New bounty scan BN1 |
+| BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PR Review Agent PR#162 confirmed | 2026-03-28T08:07:00Z | New bounty scan BN2 |
+
+| BT-0585 | 2026-03-28T08:14:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-28T08:14:00Z | CLAUDE PR Review Agent PR#162, claude-review CLI + GitHub Action |
+
+| BT-0586 | 2026-03-28T08:14:00Z | github | new-bounty-scan | XTR | https://github.com | failed | fast_fail_8s | 2026-03-28T08:14:00Z | New bounty scan BO1 |
+| BT-0587 | 2026-03-28T08:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | confirmed BT-0588 | 2026-03-28T08:14:00Z | New bounty scan BO2 |
+
+| BT-0588 | 2026-03-28T08:28:00Z | github | Scottcjn/rustchain-bounties | 50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2640 | pr_open | 已提交 | 2026-03-28T08:28:00Z | rustchain replay defense fix PR#1929, 14 tests pass, 50 RTC (~$5) |
+
+| BT-0589 | 2026-03-28T08:35:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/121 | pr_open | 已提交 | 2026-03-28T08:35:00Z | Weekly financial summary PR#676, /claim #121, MERGEABLE, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
 | BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | rustchain PR#1929 50 RTC confirmed | 2026-03-28T08:07:00Z | New bounty scan BN1 |
 | BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PR Review Agent PR#162 confirmed | 2026-03-28T08:07:00Z | New bounty scan BN2 |
@@ -630,6 +641,7 @@
 
 | BT-0599 | 2026-03-28T12:29:00Z | github | labmain/ai-agent-pay-demo | $500 USD | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T12:29:00Z | ai-agent-pay-demo PR#6, BountyPay README branding fix, $500 USD |
 
+<<<<<<< HEAD
 
 
 
@@ -781,3 +793,5 @@
 | BT-0737 | 2026-03-29T13:01:00Z | github | INDIGOAZUL/la-tanda-web | 30 LTD | https://github.com/INDIGOAZUL/la-tanda-web/issues/155 | pr_open | 已提交 | 2026-03-29T13:30:00Z | la-tanda-web PR#222, fix broken placeholder links across 5 HTML pages, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
 | BT-0757 | 2026-03-29T17:24:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/288 | pr_open | 已提交 | 2026-03-29T17:24:00Z | Pre-tool-use hook blocking destructive bash commands, PR#288, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+
+| BT-0758 | 2026-03-29T21:30:00Z | github | asyncapi/cli | $100+ USD | https://github.com/asyncapi/cli/issues/2027 | pr_open | 已提交 | 2026-03-29T21:30:00Z | asyncapi/cli#2027 registryValidation超时修复，PR#2091，AbortController+5s timeout，HEAD请求，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
