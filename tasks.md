@@ -746,7 +746,7 @@
 | BT-0717 | 2026-03-29T11:20:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/246 | pr_open | 已提交 | 2026-03-29T11:20:00Z | claude PR#246, Safe Hook #3, $100 |
 | BT-0718 | 2026-03-29T11:20:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/246 | pr_open | 已提交 | 2026-03-29T11:20:00Z | claude PR#246, PR Reviewer #4, $150 |
 
-| BT-0719 | 2026-03-29T11:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:20:00Z | New bounty scan DJ1 |
+| BT-0719 | 2026-03-29T11:20:00Z | github | new-bounty-scan | XTR | https://github.com | available | no result, gh only | 2026-03-29T11:20:00Z | New bounty scan DJ1 |
 | BT-0720 | 2026-03-29T11:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:20:00Z | New bounty scan DJ2 |
 | BT-0721 | 2026-03-29T11:20:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:20:00Z | New bounty scan DK1 |
 
