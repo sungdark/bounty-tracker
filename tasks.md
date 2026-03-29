@@ -810,7 +810,7 @@
 | BT-0754 | 2026-03-29T16:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | no result | 2026-03-29T16:55:00Z | New bounty scan DV1 |
 
 | BT-0755 | 2026-03-29T17:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT PR#922 submitted | 2026-03-29T17:21:00Z | New bounty scan DW1 |
-| BT-0756 | 2026-03-29T17:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | completed | 2026-03-29T17:21:00Z | New bounty scan DW2 |
+| BT-0756 | 2026-03-29T17:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PR#288 $100 | | 2026-03-29T17:21:00Z | New bounty scan DW2 |
 
 | BT-0757 | 2026-03-29T17:45:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/pull/922 | pr_open | 已提交 | 2026-03-29T17:45:00Z | SPLURT PR#922, portal panties direct互联 |
 | BT-0758 | 2026-03-29T17:45:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $10+ PayPal | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/854 | claimed | 已认领 | 2026-03-29T17:45:00Z | SPLURT #854, Borg hypno eyes module |
@@ -820,3 +820,5 @@
 | BT-0761 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T17:45:00Z | New bounty scan DX1 |
 | BT-0762 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T17:45:00Z | New bounty scan DX2 |
 | BT-0763 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T17:45:00Z | New bounty scan DY1 |
+
+| BT-0764 | 2026-03-29T17:51:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/288 | pr_open | 已提交 | 2026-03-29T17:51:00Z | claude-builders PR#288, pre-tool-use hook, $100 |
