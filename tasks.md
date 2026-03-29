@@ -767,3 +767,7 @@
 | BT-0730 | 2026-03-29T12:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new | 2026-03-29T12:31:00Z | New bounty scan DN2 |
 
 | BT-0731 | 2026-03-29T12:42:00Z | github | AncientBeast | 222 XTR | https://github.com/FreezingMoon/AncientBeast/pull/2868 | pr_open | 已提交 | 2026-03-29T12:42:00Z | AncientBeast PR#2868, Undo Move #2704, 222 XTR |
+
+| BT-0732 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:56:00Z | New bounty scan DO1 |
+| BT-0733 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:56:00Z | New bounty scan DO2 |
+| BT-0734 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:56:00Z | New bounty scan DP1 |
