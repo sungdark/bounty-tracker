@@ -834,7 +834,7 @@
 | BT-0770 | 2026-03-29T19:28:00Z | github | new-bounty-scan | XTR | https://github.com | available | timed out killed | 2026-03-29T19:28:00Z | New bounty scan ED1 |
 
 | BT-0771 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | available | Bitcoin API PR#82 $300 | 2026-03-29T20:35:00Z | New bounty scan EE1 |
-| BT-0772 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T20:35:00Z | New bounty scan EE2 |
+| BT-0772 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | available | coolify $50, expensify $250, tscircuit $300 found | 2026-03-29T20:35:00Z | New bounty scan EE2 |
 
 | BT-0773 | 2026-03-29T20:48:00Z | github | LennyMalcolm0/bitcoin | $300 USD | https://github.com/LennyMalcolm0/bitcoin/pull/82 | pr_open | 已提交 | 2026-03-29T20:48:00Z | Bitcoin API docs PR#82, complete API documentation, $300 |
 
@@ -847,3 +847,7 @@
 | BT-0789 | 2026-03-29T20:49:00Z | github | tscircuit/matchpack | $300 USD | https://github.com/tscircuit/matchpack/issues/15 | available | 专业EDA领域 | 2026-03-29T20:49:00Z | Specialized Layout for Decoupling Capacitors - EDA/PCB |
 | BT-0790 | 2026-03-29T20:49:00Z | github | Expensify/App | $250 USD | https://github.com/Expensify/App/issues/80287 | available | 新机会 | 2026-03-29T20:49:00Z | Expense confirm page 0.00 bug - Bug fix |
 | BT-0791 | 2026-03-29T20:49:00Z | github | claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/289 | pr_open | 已提交 | 2026-03-29T20:49:00Z | CHANGELOG skill PR#289 - 6+ competing PRs, already submitted |
+
+| BT-0774 | 2026-03-29T21:01:00Z | github | coollabsio/coolify | $50 | https://github.com/coollabsio/coolify/issues/8042 | opportunity | new | 2026-03-29T21:01:00Z | coolify #8042, OAuth enhancement, $50 |
+| BT-0775 | 2026-03-29T21:01:00Z | github | Expensify/App | $250 | https://github.com/Expensify/App/issues/80287 | opportunity | new | 2026-03-29T21:01:00Z | Expensify #80287, bug fix, $250 |
+| BT-0776 | 2026-03-29T21:01:00Z | github | tscircuit/matchpack | $300 | https://github.com/tscircuit/matchpack/issues/15 | opportunity | new | 2026-03-29T21:01:00Z | tscircuit/matchpack #15, EDA/PCB domain, $300 |
