@@ -899,6 +899,8 @@
 
 | BT-0809 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EM1 |
 | BT-0810 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#197 SEO USDC | 2026-03-29T22:16:00Z | New bounty scan EM2 |
-| BT-0811 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EN1 |
+| BT-0811 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | omi PR#6164 $200 | 2026-03-29T22:16:00Z | New bounty scan EN1 |
 
 | BT-0812 | 2026-03-29T22:24:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/pull/197 | pr_open | 已提交 | 2026-03-29T22:24:00Z | PrivacyLayer PR#197, SEO optimization, meta/OG/Twitter cards |
+
+| BT-0813 | 2026-03-29T22:29:00Z | github | BasedHardware/omi | $200 USD | https://github.com/BasedHardware/omi/pull/6164 | pr_open | 已提交 | 2026-03-29T22:29:00Z | omi PR#6164, private cloud audio sync UI, $200 |
