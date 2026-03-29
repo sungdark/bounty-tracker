@@ -731,3 +731,5 @@
 | BT-0709 | 2026-03-29T10:29:00Z | github | illbnm/homelab-stack | $170 USDT | https://github.com/illbnm/homelab-stack/issues/5 | pr_open | 已提交 | 2026-03-29T10:29:00Z | PR#389 Stirling PDF + Excalidraw productivity stack, $170 USDT |
 
 | BT-0709 | 2026-03-29T10:31:00Z | github | illbnm/homelab-stack | $170 USDT | https://github.com/illbnm/homelab-stack/pull/389 | pr_open | 已提交 | 2026-03-29T10:31:00Z | homelab PR#389, Stirling PDF + Excalidraw, $170 USDT |
+
+| BT-0710 | 2026-03-29T10:35:00Z | github | formbricks/formbricks | $60 USD | https://github.com/formbricks/formbricks/issues/3302 | pr_open | 已提交 | 2026-03-29T10:35:00Z | Survey copy action serverError toast fix, PR#7616, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
