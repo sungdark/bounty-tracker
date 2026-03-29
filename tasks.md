@@ -709,3 +709,6 @@
 | BT-0693 | 2026-03-29T07:44:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T07:44:00Z | New bounty scan DB1 |
 | BT-0694 | 2026-03-29T07:44:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T07:44:00Z | New bounty scan DB2 |
 | BT-0695 | 2026-03-29T07:44:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T07:44:00Z | New bounty scan DC1 |
+
+| BT-0696 | 2026-03-29T08:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T08:48:00Z | New bounty scan DD1 |
+| BT-0697 | 2026-03-29T08:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T08:48:00Z | New bounty scan DD2 |
