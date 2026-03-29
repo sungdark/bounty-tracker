@@ -721,7 +721,7 @@
 | BT-0702 | 2026-03-29T09:35:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/pull/68 | pr_open | 已提交 | 2026-03-29T09:35:00Z | Discord Bot PR#68, $10 |
 | BT-0703 | 2026-03-29T09:35:00Z | github | aporthq/aport-integrations | $10 USD | https://github.com/aporthq/aport-integrations/pull/68 | pr_open | 已提交 | 2026-03-29T09:35:00Z | n8n Node PR#68, $10 |
 
-| BT-0704 | 2026-03-29T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T09:48:00Z | New bounty scan DF1 |
+| BT-0704 | 2026-03-29T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | available | la-tanda PR#220/#221 55 LTD | 2026-03-29T09:48:00Z | New bounty scan DF1 |
 | BT-0705 | 2026-03-29T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | available | ISODriveUT PR#21 $50 | 2026-03-29T09:48:00Z | New bounty scan DF2 |
 
 | BT-0706 | 2026-03-29T10:07:00Z | github | fredldotme/ISODriveUT | $50 USD | https://github.com/fredldotme/ISODriveUT/pull/21 | pr_open | 已提交 | 2026-03-29T10:07:00Z | ISODriveUT PR#21, USB mass storage status visualization, $50 |
