@@ -752,4 +752,6 @@
 
 | BT-0722 | 2026-03-29T11:20:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/pull/684 | pr_open | 已提交 | 2026-03-29T11:20:00Z | FinMind PR#684, weekly financial summary #121, $500 |
 
-| BT-0723 | 2026-03-29T11:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T11:21:00Z | New bounty scan DL1 |
+| BT-0723 | 2026-03-29T11:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude $575 + FinMind $500 covered | 2026-03-29T11:21:00Z | New bounty scan DL1 |
+
+| BT-0724 | 2026-03-29T11:31:00Z | github | lnflash/flash | 300k sats | https://github.com/lnflash/flash/pull/309 | pr_open | 已提交 | 2026-03-29T11:31:00Z | lnflash/flash PR#309, JMD currency precision, 300k sats |
