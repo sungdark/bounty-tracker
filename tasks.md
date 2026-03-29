@@ -896,3 +896,7 @@
 | BT-0806 | 2026-03-29T22:00:00Z | github | devpool-directory | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5926 | available | 新机会 | 2026-03-29T22:00:00Z | Fix Cannot convert undefined or null to object error，$75，<2小时，TypeScript bug fix |
 | BT-0807 | 2026-03-29T22:00:00Z | github | devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | 新机会 | 2026-03-29T22:00:00Z | Plugin health monitor，$450，<4小时，需要理解UbiquityOS插件系统 |
 | BT-0808 | 2026-03-29T22:00:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100 USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | available | 新机会 | 2026-03-29T22:00:00Z | Bodymorpher presets，$100，BYOND/DM代码，Space Station 13功能，Niche语言 |
+
+| BT-0809 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EM1 |
+| BT-0810 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EM2 |
+| BT-0811 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EN1 |
