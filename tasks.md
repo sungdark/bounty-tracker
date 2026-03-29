@@ -824,6 +824,6 @@
 | BT-0764 | 2026-03-29T17:51:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/288 | pr_open | 已提交 | 2026-03-29T17:51:00Z | claude-builders PR#288, pre-tool-use hook, $100 |
 
 | BT-0765 | 2026-03-29T18:29:00Z | github | new-bounty-scan | XTR | https://github.com | available | no USD opportunities | 2026-03-29T18:29:00Z | New bounty scan EB1 |
-| BT-0766 | 2026-03-29T18:29:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T18:29:00Z | New bounty scan EB2 |
+| BT-0766 | 2026-03-29T18:29:00Z | github | new-bounty-scan | XTR | https://github.com | available | saturated, $870+ PRs submitted | 2026-03-29T18:29:00Z | New bounty scan EB2 |
 
 | BT-0767 | 2026-03-29T18:31:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/289 | pr_open | 已提交 | 2026-03-29T18:31:00Z | claude PR#289 CHANGELOG $50 + PR#291 HOOK $100 |
