@@ -686,3 +686,6 @@
 
 | BT-0684 | 2026-03-29T04:31:00Z | github | new-bounty-scan | XTR | https://github.com | available | 5 CLAUDE PRs MERGEABLE $575 confirmed | 2026-03-29T04:31:00Z | New bounty scan CX1 |
 | BT-0685 | 2026-03-29T04:31:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T04:31:00Z | New bounty scan CX2 |
+
+| BT-0686 | 2026-03-29T05:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T05:21:00Z | New bounty scan CY1 |
+| BT-0687 | 2026-03-29T05:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T05:21:00Z | New bounty scan CY2 |
