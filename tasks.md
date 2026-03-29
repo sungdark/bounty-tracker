@@ -795,3 +795,12 @@
 | BT-0757 | 2026-03-29T17:24:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/288 | pr_open | 已提交 | 2026-03-29T17:24:00Z | Pre-tool-use hook blocking destructive bash commands, PR#288, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
 | BT-0758 | 2026-03-29T21:30:00Z | github | asyncapi/cli | $100+ USD | https://github.com/asyncapi/cli/issues/2027 | pr_open | 已提交 | 2026-03-29T21:30:00Z | asyncapi/cli#2027 registryValidation超时修复，PR#2091，AbortController+5s timeout，HEAD请求，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
+
+| BT-0759 | 2026-03-29T22:00:00Z | github | devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5885 | available | 新机会 | 2026-03-29T22:00:00Z | Migrate to Bun: runtime, tests, and CI，$150，<2小时，需要理解UbiquityOS内核 |
+| BT-0760 | 2026-03-29T22:00:00Z | github | devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5887 | available | 新机会 | 2026-03-29T22:00:00Z | Validate reward generation behavior，$150，<2小时，需要理解奖励系统 |
+| BT-0761 | 2026-03-29T22:00:00Z | github | devpool-directory | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5926 | available | 新机会 | 2026-03-29T22:00:00Z | Fix Cannot convert undefined or null to object error，$75，<2小时，TypeScript bug fix |
+| BT-0762 | 2026-03-29T22:00:00Z | github | devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | 新机会 | 2026-03-29T22:00:00Z | Plugin health monitor，$450，<4小时，需要理解UbiquityOS插件系统 |
+| BT-0763 | 2026-03-29T22:00:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100 USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | available | 新机会 | 2026-03-29T22:00:00Z | Bodymorpher presets，$100，BYOND/DM代码，Space Station 13功能，Niche语言 |
+| BT-0764 | 2026-03-29T22:00:00Z | github | claude-builders-bounty | $50-200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues | available | 新机会 | 2026-03-29T22:00:00Z | claude-builders-bounty赏金板，5个赏金($50-$200)，全部已被大量PR认领，#1-#5全部有20+ PR竞争 |
+
+| BT-0765 | 2026-03-29T22:20:00Z | github | BasedHardware/omi | $200 USD | https://github.com/BasedHardware/omi/issues/3215 | pr_open | 已提交 | 2026-03-29T22:28:00Z | BasedHardware/omi#3215 Private Cloud Sync: listing, playing, sharing audio files and delete all option, PR#6164, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
