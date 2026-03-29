@@ -726,6 +726,8 @@
 
 | BT-0706 | 2026-03-29T10:07:00Z | github | fredldotme/ISODriveUT | $50 USD | https://github.com/fredldotme/ISODriveUT/pull/21 | pr_open | 已提交 | 2026-03-29T10:07:00Z | ISODriveUT PR#21, USB mass storage status visualization, $50 |
 
-| BT-0707 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T10:18:00Z | New bounty scan DG1 |
+| BT-0707 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | homelab PR#389 $170 USDT | 2026-03-29T10:18:00Z | New bounty scan DG1 |
 | BT-0708 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T10:18:00Z | New bounty scan DG2 |
 | BT-0709 | 2026-03-29T10:29:00Z | github | illbnm/homelab-stack | $170 USDT | https://github.com/illbnm/homelab-stack/issues/5 | pr_open | 已提交 | 2026-03-29T10:29:00Z | PR#389 Stirling PDF + Excalidraw productivity stack, $170 USDT |
+
+| BT-0709 | 2026-03-29T10:31:00Z | github | illbnm/homelab-stack | $170 USDT | https://github.com/illbnm/homelab-stack/pull/389 | pr_open | 已提交 | 2026-03-29T10:31:00Z | homelab PR#389, Stirling PDF + Excalidraw, $170 USDT |
