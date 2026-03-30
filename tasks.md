@@ -937,5 +937,5 @@
 
 | BT-0833 | 2026-03-30T07:59:00Z | github | new-bounty-scan | XTR | https://github.com | available | scanning | 2026-03-30T07:59:00Z | New bounty scan EW1 |
 
-| BT-0834 | 2026-03-30T08:38:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T08:38:00Z | New bounty scan EX1 |
+| BT-0834 | 2026-03-30T08:38:00Z | github | new-bounty-scan | XTR | https://github.com | available | scanning | 2026-03-30T08:38:00Z | New bounty scan EX1 |
 | BT-0835 | 2026-03-30T08:38:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T08:38:00Z | New bounty scan EX2 |
