@@ -910,3 +910,6 @@
 
 | BT-0816 | 2026-03-30T02:22:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #915/#872/#891 claimed | 2026-03-30T02:22:00Z | New bounty scan EP1 (rate limit recovery) |
 | BT-0817 | 2026-03-30T02:22:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PRs confirmed, AncientBeast XTR found | 2026-03-30T02:22:00Z | New bounty scan EP2 (rate limit recovery) |
+
+| BT-0818 | 2026-03-30T02:38:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T02:38:00Z | New bounty scan EQ1 |
+| BT-0819 | 2026-03-30T02:38:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T02:38:00Z | New bounty scan EQ2 |
