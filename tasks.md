@@ -965,3 +965,6 @@
 | BT-0855 | 2026-03-30T12:45:00Z | github | Opty-Fi/defi-adapters | $5000 USD | https://github.com/Opty-Fi/defi-adapters/issues/7 | available | 新机会-DeFi | 2026-03-30T12:45:00Z | Opty-Fi #7, Convex Finance integration ($5000 USDC), Solidity, 100% test coverage, 需follow CONTRIBUTING.md |
 
 | BT-0856 | 2026-03-30T16:30:00Z | github | HA4扫描器-目标repos | $0 | - | scan_complete | 扫描完成 | 2026-03-30T16:30:00Z | HA4深度扫描完成: (1)transmissions11/solmate-50个issues无bounty标签;(2)safe-fndn/safe-smart-account-8个issues无bounty;(3)gnosis/pm-contracts-已失效(最后更新2020);GitHub API: '$'标题搜索0结果,'bounty+stars>100'0结果;无新高价值机会 |
+
+| BT-0856 | 2026-03-30T16:30:00Z | github | turbo-eth/template-web3-app | 500 OP (~$800-1200) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | 新机会-DeFi | 2026-03-30T16:30:00Z | turbo-eth #29, Web3 App Template for DeFi (Tally/PoolTogether/Uniswap V3/UMA/Superfluid), 500 OP + TurboETH DevPass, Next.js/TypeScript |
+| BT-0857 | 2026-03-30T16:30:00Z | github | ArweaveTeam/Bounties | $250 ETH + $50 AR (~$300-400) | https://github.com/ArweaveTeam/Bounties/issues/1 | available | 新机会-加密/Hackathon | 2026-03-30T16:30:00Z | Arweave hackathon: Build permaweb dApp, $250 ETH + $50 AR, ArweaveJS/ArConnect, open perpetual hackathon up to 500 submissions |
