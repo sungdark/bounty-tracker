@@ -23,7 +23,7 @@
 | BT-0018 | 2026-03-18T00:54:00Z | github | Scottcjn/rustchain-bounties | 80 USDC | https://github.com/Scottcjn/rustchain-bounties/issues/436 | pr_open | 已提交 | 2026-03-18T13:05:00Z | 已完成完整端口apple2-6502-miner，等待PR合并 |
 | BT-0019 | 2026-03-18T00:54:00Z | github | Scottcjn/Rustchain | 500 USDC | https://github.com/Scottcjn/Rustchain/issues/425 | available | 新机会 | 2026-03-18T00:54:00Z | 5000星推广活动奖励池 |
 | BT-0020 | 2026-03-18T00:56:00Z | github | asyncapi | $1600 USD | https://github.com/orgs/asyncapi/projects/36 | available | 新机会 | 2026-03-18T00:56:00Z | 2026-03轮赏金计划总预算 |
-| BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-18T13:05:00Z | 实现完整存储服务栈，PR已创建 |
+| BT-0021 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | pr_open | 已提交 | 2026-03-28T23:15:00Z | Storage Stack完整实现，PR#385 Nextcloud FPM+Nginx+MinIO+FileBrowser+Syncthing，收款地址eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0022 | 2026-03-18T01:44:00Z | github | illbnm/homelab-stack | 220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | pr_open | 已提交 | 2026-03-18T22:00:00Z | 实现AI服务栈，PR已创建 |
 | BT-0023 | 2026-03-18T01:51:00Z | bountyhub | BountyHub | $0+ USD | https://www.bountyhub.dev/ | available | 新机会 | 2026-03-18T01:51:00Z | GitHub赏金聚合平台 |
 | BT-0024 | 2026-03-18T01:51:00Z | yeswehack | KOMOJU | $50-7000 USD | https://yeswehack.com/programs/komoju-public-bug-bounty-program | available | 新机会 | 2026-03-18T01:51:00Z | 金融公司公开漏洞赏金计划 |
@@ -613,6 +613,17 @@
 
 | BT-0581 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | all covered by sungdark | 2026-03-28T07:57:00Z | New bounty scan BM1 |
 | BT-0582 | 2026-03-28T07:57:00Z | github | new-bounty-scan | XTR | https://github.com | available | confirmed BT-0585 | 2026-03-28T07:57:00Z | New bounty scan BM2 |
+| BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | rustchain PR#1929 50 RTC confirmed | 2026-03-28T08:07:00Z | New bounty scan BN1 |
+| BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PR Review Agent PR#162 confirmed | 2026-03-28T08:07:00Z | New bounty scan BN2 |
+
+| BT-0585 | 2026-03-28T08:14:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-03-28T08:14:00Z | CLAUDE PR Review Agent PR#162, claude-review CLI + GitHub Action |
+
+| BT-0586 | 2026-03-28T08:14:00Z | github | new-bounty-scan | XTR | https://github.com | failed | fast_fail_8s | 2026-03-28T08:14:00Z | New bounty scan BO1 |
+| BT-0587 | 2026-03-28T08:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | confirmed BT-0588 | 2026-03-28T08:14:00Z | New bounty scan BO2 |
+
+| BT-0588 | 2026-03-28T08:28:00Z | github | Scottcjn/rustchain-bounties | 50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2640 | pr_open | 已提交 | 2026-03-28T08:28:00Z | rustchain replay defense fix PR#1929, 14 tests pass, 50 RTC (~$5) |
+
+| BT-0589 | 2026-03-28T08:35:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/121 | pr_open | 已提交 | 2026-03-28T08:35:00Z | Weekly financial summary PR#676, /claim #121, MERGEABLE, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
 | BT-0583 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | rustchain PR#1929 50 RTC confirmed | 2026-03-28T08:07:00Z | New bounty scan BN1 |
 | BT-0584 | 2026-03-28T08:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PR Review Agent PR#162 confirmed | 2026-03-28T08:07:00Z | New bounty scan BN2 |
@@ -630,6 +641,7 @@
 
 | BT-0599 | 2026-03-28T12:29:00Z | github | labmain/ai-agent-pay-demo | $500 USD | https://github.com/labmain/ai-agent-pay-demo/issues/4 | pr_open | 已提交 | 2026-03-28T12:29:00Z | ai-agent-pay-demo PR#6, BountyPay README branding fix, $500 USD |
 
+<<<<<<< HEAD
 
 
 
@@ -725,6 +737,7 @@
 | BT-0705 | 2026-03-29T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | available | ISODriveUT PR#21 $50 | 2026-03-29T09:48:00Z | New bounty scan DF2 |
 
 | BT-0706 | 2026-03-29T10:07:00Z | github | fredldotme/ISODriveUT | $50 USD | https://github.com/fredldotme/ISODriveUT/pull/21 | pr_open | 已提交 | 2026-03-29T10:07:00Z | ISODriveUT PR#21, USB mass storage status visualization, $50 |
+| BT-0707 | 2026-03-30T19:19:00Z | github | SharedStake/Contracts | $15,000 USDC | https://github.com/SharedStake/Contracts/issues/7 | available | ❌放弃-复杂度过高 | 2026-03-30T19:23:00Z | Sett风格自动复利LP金库，$15000 USDC高奖励；问题：Goerli测试网已废弃需切换到Sepolia，Vault+Strategy完整实现复杂度极高，5年旧bounty无认领，scanner不擅长复杂DeFi协议实现 |
 
 | BT-0707 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | homelab PR#389 $170 USDT | 2026-03-29T10:18:00Z | New bounty scan DG1 |
 | BT-0708 | 2026-03-29T10:18:00Z | github | new-bounty-scan | XTR | https://github.com | available | formbricks PR#7616 $60 Opire | 2026-03-29T10:18:00Z | New bounty scan DG2 |
@@ -768,7 +781,7 @@
 
 | BT-0731 | 2026-03-29T12:42:00Z | github | AncientBeast | 222 XTR | https://github.com/FreezingMoon/AncientBeast/pull/2868 | pr_open | 已提交 | 2026-03-29T12:42:00Z | AncientBeast PR#2868, Undo Move #2704, 222 XTR |
 
-| BT-0732 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | available | Opire API found, deno $70 esp-hal $100 | 2026-03-29T12:56:00Z | New bounty scan DO1 |
+| BT-0732 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T12:56:00Z | New bounty scan DO1 |
 | BT-0733 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | available | FreeCAD PR#28824 €250 | 2026-03-29T12:56:00Z | New bounty scan DO2 |
 | BT-0734 | 2026-03-29T12:56:00Z | github | new-bounty-scan | XTR | https://github.com | available | GraciasAi PR#68 ₹2000 | 2026-03-29T12:56:00Z | New bounty scan DP1 |
 
@@ -780,212 +793,19 @@
 
 | BT-0737 | 2026-03-29T13:01:00Z | github | INDIGOAZUL/la-tanda-web | 30 LTD | https://github.com/INDIGOAZUL/la-tanda-web/issues/155 | pr_open | 已提交 | 2026-03-29T13:30:00Z | la-tanda-web PR#222, fix broken placeholder links across 5 HTML pages, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
-| BT-0737 | 2026-03-29T13:27:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #891 best opportunity | 2026-03-29T13:27:00Z | New bounty scan DQ1 |
-| BT-0738 | 2026-03-29T13:27:00Z | github | new-bounty-scan | XTR | https://github.com | available | saturated, 7 MERGEABLE PRs | 2026-03-29T13:27:00Z | New bounty scan DQ2 |
+| BT-0757 | 2026-03-29T17:24:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/288 | pr_open | 已提交 | 2026-03-29T17:24:00Z | Pre-tool-use hook blocking destructive bash commands, PR#288, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
-| BT-0739 | 2026-03-29T14:00:00Z | github | deno | $70 | https://github.com/denoland/deno/issues/18147 | opportunity | 0 claims | 2026-03-29T14:00:00Z | deno #18147, test coverage editor, $70, 0 claims |
-| BT-0740 | 2026-03-29T14:00:00Z | github | esp-hal | $100 | https://github.com/esp-rs/esp-hal/issues/4163 | opportunity | 1 claim | 2026-03-29T14:00:00Z | esp-hal #4163, ESP32 ethernet support, $100, 1 claim |
+| BT-0758 | 2026-03-29T21:30:00Z | github | asyncapi/cli | $100+ USD | https://github.com/asyncapi/cli/issues/2027 | pr_open | 已提交 | 2026-03-29T21:30:00Z | asyncapi/cli#2027 registryValidation超时修复，PR#2091，AbortController+5s timeout，HEAD请求，收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
-| BT-0741 | 2026-03-29T14:00:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new bounty | 2026-03-29T14:00:00Z | New bounty scan DR1 |
-| BT-0742 | 2026-03-29T14:00:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T14:00:00Z | New bounty scan DR2 |
+| BT-0759 | 2026-03-29T22:00:00Z | github | devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5885 | available | 新机会 | 2026-03-29T22:00:00Z | Migrate to Bun: runtime, tests, and CI，$150，<2小时，需要理解UbiquityOS内核 |
+| BT-0760 | 2026-03-29T22:00:00Z | github | devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5887 | available | 新机会 | 2026-03-29T22:00:00Z | Validate reward generation behavior，$150，<2小时，需要理解奖励系统 |
+| BT-0761 | 2026-03-29T22:00:00Z | github | devpool-directory | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5926 | available | 新机会 | 2026-03-29T22:00:00Z | Fix Cannot convert undefined or null to object error，$75，<2小时，TypeScript bug fix |
+| BT-0762 | 2026-03-29T22:00:00Z | github | devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | 新机会 | 2026-03-29T22:00:00Z | Plugin health monitor，$450，<4小时，需要理解UbiquityOS插件系统 |
+| BT-0763 | 2026-03-29T22:00:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100 USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | available | 新机会 | 2026-03-29T22:00:00Z | Bodymorpher presets，$100，BYOND/DM代码，Space Station 13功能，Niche语言 |
+| BT-0764 | 2026-03-29T22:00:00Z | github | claude-builders-bounty | $50-200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues | available | 新机会 | 2026-03-29T22:00:00Z | claude-builders-bounty赏金板，5个赏金($50-$200)，全部已被大量PR认领，#1-#5全部有20+ PR竞争 |
 
-| BT-0742 | 2026-03-29T14:20:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T14:20:00Z | Scan DQ2完成: claude-builders-bounty全部饱和(27+PR/issue); asyncapi赏金被AayushSaini101全认领; illbnm #8($250)被10+人竞争; deno #18147($70)已有PR; esp-hal #4163($100)嵌入式Rust复杂; SPLURT #891 bodymorpher需BYOND/SS3代码技能 |
-| BT-0743 | 2026-03-29T14:20:00Z | github | denoland/deno | $70 USD | https://github.com/denoland/deno/issues/18147 | available | 无实际机会 | 2026-03-29T14:20:00Z | deno #18147: VSCode测试覆盖率显示功能，Opire$70悬赏，已有satvik2131的PR，维护者说不接受新提交 |
-| BT-0744 | 2026-03-29T14:20:00Z | github | esp-rs/esp-hal | $100 USD | https://github.com/esp-rs/esp-hal/issues/4163 | available | 嵌入式Rust复杂 | 2026-03-29T14:20:00Z | esp-hal #4163: ESP32以太网外设支持，Rust嵌入式开发，需要esp-idf/硬件知识 |
+| BT-0765 | 2026-03-29T22:20:00Z | github | BasedHardware/omi | $200 USD | https://github.com/BasedHardware/omi/issues/3215 | pr_open | 已提交 | 2026-03-29T22:28:00Z | BasedHardware/omi#3215 Private Cloud Sync: listing, playing, sharing audio files and delete all option, PR#6164, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 
-| BT-0745 | 2026-03-29T14:44:00Z | github | new-bounty-scan | XTR | https://github.com | available | all claimed, no new | 2026-03-29T14:44:00Z | New bounty scan DS1 |
-| BT-0746 | 2026-03-29T14:44:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #915, illbnm #10, all saturated | 2026-03-29T14:44:00Z | New bounty scan DS2 |
-
-| BT-0747 | 2026-03-29T15:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | zio $4000 microg $14999 found | 2026-03-29T15:45:00Z | New bounty scan DT1 |
-| BT-0748 | 2026-03-29T15:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T15:45:00Z | New bounty scan DT2 |
-
-| BT-0749 | 2026-03-29T16:09:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T16:09:00Z | Scan DT1完成: 全量扫描bounty标签，今日新机会已饱和；zio Schema $4000/microg RCS $14999为高价值但需专家级技能 |
-| BT-0750 | 2026-03-29T16:09:00Z | github | new-bounty-scan | XTR | https://github.com | completed | 已完成 | 2026-03-29T16:09:00Z | 无新发现的明确金额机会；opire平台有deno($70)/esp-hal($100)但已有竞争者或复杂嵌入式Rust |
-
-| BT-0751 | 2026-03-29T16:35:00Z | github | zio/zio-blocks | $4000 | https://github.com/zio/zio-blocks/issues/519 | opportunity | expert level | 2026-03-29T16:35:00Z | zio/zio-blocks #519, ZIO Schema2 migration, $4000, Scala/ZIO expert |
-| BT-0752 | 2026-03-29T16:35:00Z | github | microg/GmsCore | $14999 | https://github.com/microg/GmsCore/issues/2994 | opportunity | extremely complex | 2026-03-29T16:35:00Z | microg/GmsCore #2994, Android RCS support, $14999, protocol-level expertise |
-
-| BT-0753 | 2026-03-29T16:55:00Z | github | Scottcjn/rustchain-bounties | 25 RTC | https://github.com/Scottcjn/rustchain-bounties/pull/2745 | pr_open | 已提交 | 2026-03-29T16:55:00Z | rustchain PR#2745, BCOS v2 compare page + badge generator, 25 RTC |
-
-| BT-0754 | 2026-03-29T16:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | no result | 2026-03-29T16:55:00Z | New bounty scan DV1 |
-
-| BT-0755 | 2026-03-29T17:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT PR#922 submitted | 2026-03-29T17:21:00Z | New bounty scan DW1 |
-| BT-0756 | 2026-03-29T17:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PR#288 $100 | | 2026-03-29T17:21:00Z | New bounty scan DW2 |
-
-| BT-0757 | 2026-03-29T17:45:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/pull/922 | pr_open | 已提交 | 2026-03-29T17:45:00Z | SPLURT PR#922, portal panties direct互联 |
-| BT-0758 | 2026-03-29T17:45:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $10+ PayPal | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/854 | claimed | 已认领 | 2026-03-29T17:45:00Z | SPLURT #854, Borg hypno eyes module |
-| BT-0759 | 2026-03-29T17:45:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $10+ | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | claimed | 已认领 | 2026-03-29T17:45:00Z | SPLURT #891, Bodymorpher presets |
-| BT-0760 | 2026-03-29T17:24:00Z | github | INDIGOAZUL/la-tanda-web | 25 LTD | https://github.com/INDIGOAZUL/la-tanda-web/issues/154 | pr_open | 已提交 | 2026-03-29T17:24:00Z | aria-labels icon-only buttons (mobile-drawer-close, lottery-modal-close), PR#223, 收款地址: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-
-| BT-0761 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | CLAUDE PRs done | 2026-03-29T17:45:00Z | New bounty scan DX1 |
-| BT-0762 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | available | done | 2026-03-29T17:45:00Z | New bounty scan DX2 |
-| BT-0763 | 2026-03-29T17:45:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T17:45:00Z | New bounty scan DY1 |
-
-| BT-0764 | 2026-03-29T17:51:00Z | github | claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/288 | pr_open | 已提交 | 2026-03-29T17:51:00Z | claude-builders PR#288, pre-tool-use hook, $100 |
-
-| BT-0765 | 2026-03-29T18:29:00Z | github | new-bounty-scan | XTR | https://github.com | available | no USD opportunities | 2026-03-29T18:29:00Z | New bounty scan EB1 |
-| BT-0766 | 2026-03-29T18:29:00Z | github | new-bounty-scan | XTR | https://github.com | available | saturated, $870+ PRs submitted | 2026-03-29T18:29:00Z | New bounty scan EB2 |
-
-| BT-0767 | 2026-03-29T18:31:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/289 | pr_open | 已提交 | 2026-03-29T18:31:00Z | claude PR#289 CHANGELOG $50 + PR#291 HOOK $100 |
-
-| BT-0768 | 2026-03-29T19:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | timed out killed | 2026-03-29T19:07:00Z | New bounty scan EC1 |
-| BT-0769 | 2026-03-29T19:07:00Z | github | new-bounty-scan | XTR | https://github.com | available | timed out killed | 2026-03-29T19:07:00Z | New bounty scan EC2 |
-
-| BT-0770 | 2026-03-29T19:28:00Z | github | new-bounty-scan | XTR | https://github.com | available | timed out killed | 2026-03-29T19:28:00Z | New bounty scan ED1 |
-
-| BT-0771 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | available | Bitcoin API PR#82 $300 | 2026-03-29T20:35:00Z | New bounty scan EE1 |
-| BT-0772 | 2026-03-29T20:35:00Z | github | new-bounty-scan | XTR | https://github.com | available | coolify $50, expensify $250, tscircuit $300 found | 2026-03-29T20:35:00Z | New bounty scan EE2 |
-
-| BT-0773 | 2026-03-29T20:48:00Z | github | LennyMalcolm0/bitcoin | $300 USD | https://github.com/LennyMalcolm0/bitcoin/pull/82 | pr_open | 已提交 | 2026-03-29T20:48:00Z | Bitcoin API docs PR#82, complete API documentation, $300 |
-
-| BT-0783 | 2026-03-29T20:49:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/issues/121 | comment_submitted | 已提交 | 2026-03-29T20:49:00Z | Smart digest weekly financial summary - /attempt commented, PR#522 already open by alexchenai, 收款:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0784 | 2026-03-29T20:49:00Z | github | coollabsio/coolify | $50 USD | https://github.com/coollabsio/coolify/issues/8042 | available | 有2个PR竞争 | 2026-03-29T20:49:00Z | OAUTH only self registering - enhancement, 2 existing PRs |
-| BT-0785 | 2026-03-29T20:49:00Z | github | coollabsio/coolify | $7 USD | https://github.com/coollabsio/coolify/issues/8264 | available | 新机会 | 2026-03-29T20:49:00Z | WordPress + OpenLiteSpeed service template - tiny bounty |
-| BT-0786 | 2026-03-29T20:49:00Z | github | mangdangroboticsclub/mini_pupper_ros | $100 USD | https://github.com/mangdangroboticsclub/mini_pupper_ros/issues/125 | available | 新机会 | 2026-03-29T20:49:00Z | Upgrade ROS2 Humble to Jazzy - robot dog SDK upgrade |
-| BT-0787 | 2026-03-29T20:49:00Z | github | zio/zio-blocks | $4000 USD | https://github.com/zio/zio-blocks/issues/519 | opportunity | 专家级Scala | 2026-03-29T20:49:00Z | ZIO Schema2 migration - expert level Scala, $4000 bounty |
-| BT-0788 | 2026-03-29T20:49:00Z | github | microg/GmsCore | $14999 USD | https://github.com/microg/GmsCore/issues/2994 | opportunity | 极复杂 | 2026-03-29T20:49:00Z | Android RCS support - extremely complex Android, max $14999 |
-| BT-0789 | 2026-03-29T20:49:00Z | github | tscircuit/matchpack | $300 USD | https://github.com/tscircuit/matchpack/issues/15 | available | 专业EDA领域 | 2026-03-29T20:49:00Z | Specialized Layout for Decoupling Capacitors - EDA/PCB |
-| BT-0790 | 2026-03-29T20:49:00Z | github | Expensify/App | $250 USD | https://github.com/Expensify/App/issues/80287 | available | 新机会 | 2026-03-29T20:49:00Z | Expense confirm page 0.00 bug - Bug fix |
-| BT-0791 | 2026-03-29T20:49:00Z | github | claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/289 | pr_open | 已提交 | 2026-03-29T20:49:00Z | CHANGELOG skill PR#289 - 6+ competing PRs, already submitted |
-
-| BT-0774 | 2026-03-29T21:01:00Z | github | coollabsio/coolify | $50 | https://github.com/coollabsio/coolify/issues/8042 | opportunity | new | 2026-03-29T21:01:00Z | coolify #8042, OAuth enhancement, $50 |
-| BT-0775 | 2026-03-29T21:01:00Z | github | Expensify/App | $250 | https://github.com/Expensify/App/issues/80287 | opportunity | new | 2026-03-29T21:01:00Z | Expensify #80287, bug fix, $250 |
-| BT-0776 | 2026-03-29T21:01:00Z | github | tscircuit/matchpack | $300 | https://github.com/tscircuit/matchpack/issues/15 | opportunity | new | 2026-03-29T21:01:00Z | tscircuit/matchpack #15, EDA/PCB domain, $300 |
-
-| BT-0777 | 2026-03-29T21:01:00Z | github | new-bounty-scan | XTR | https://github.com | available | no result | 2026-03-29T21:01:00Z | New bounty scan EF1 |
-| BT-0778 | 2026-03-29T21:01:00Z | github | new-bounty-scan | XTR | https://github.com | available | Expensify merged pending, ROS2/esp-hal found | 2026-03-29T21:01:00Z | New bounty scan EF2 |
-
-| BT-0779 | 2026-03-29T21:02:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PR#292 $50 MERGEABLE | 2026-03-29T21:02:00Z | New bounty scan EG1 |
-| BT-0780 | 2026-03-29T21:02:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-gitops $225 PRs | 2026-03-29T21:02:00Z | New bounty scan EG2 |
-
-| BT-0781 | 2026-03-29T21:12:00Z | github | claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/292 | pr_mergeable | MERGEABLE | 2026-03-29T21:12:00Z | claude-builders PR#292, CHANGELOG skill, $50, MERGEABLE |
-
-| BT-0782 | 2026-03-29T21:14:00Z | github | ApexOpsStudio/ai-gitops-test-target | $225 USD | https://github.com/ApexOpsStudio/ai-gitops-test-target/pull/45 | pr_open | 已提交 | 2026-03-29T21:14:00Z | ai-gitops PR#45/46/47, $75+$100+$50 config/validation/json |
-
-| BT-0783 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | shipli-ai PR#6 React Native ₹500 | 2026-03-29T21:14:00Z | New bounty scan EH1 |
-| BT-0784 | 2026-03-29T21:14:00Z | github | new-bounty-scan | XTR | https://github.com | available | asyncapi CLI $100+ PR#2091 | 2026-03-29T21:14:00Z | New bounty scan EH2 |
-
-| BT-0785 | 2026-03-29T21:19:00Z | github | Expensify/App | $250 | https://github.com/Expensify/App/pull/85513 | merged | 待打款04-03 | 2026-03-29T21:19:00Z | Expensify #80287 merged, payment 2026-04-03 |
-| BT-0786 | 2026-03-29T21:19:00Z | github | mini_pupper_ros | $100 | https://github.com/mangdangroboticsclub/mini_pupper_ros/issues/125 | opportunity | new ROS2 | 2026-03-29T21:19:00Z | mini_pupper_ros #125, ROS2 upgrade, $100 |
-| BT-0787 | 2026-03-29T21:19:00Z | github | esp-rs/esp-hal | $100 | https://github.com/esp-rs/esp-hal/issues/4163 | opportunity | embedded Rust | 2026-03-29T21:19:00Z | esp-hal #4163, ESP32 embedded Rust, $100 |
-
-| BT-0788 | 2026-03-29T21:33:00Z | github | asyncapi/cli | $100+ USD | https://github.com/asyncapi/cli/pull/2091 | pr_open | 已提交 | 2026-03-29T21:33:00Z | asyncapi CLI PR#2091, fix registry URL hang, $100+ |
-
-| BT-0789 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | covered by main agent | 2026-03-29T21:33:00Z | New bounty scan EJ1 |
-| BT-0790 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | ai-agent-pay-demo PR#8 $500 MERGEABLE | 2026-03-29T21:33:00Z | New bounty scan EJ2 |
-
-| BT-0791 | 2026-03-29T21:20:00Z | github | prasenjeet-symon/shipli-ai | ₹500 INR | https://github.com/prasenjeet-symon/shipli-ai/pull/6 | pr_open | 已提交 | 2026-03-29T21:20:00Z | Add React Native support to Shipli CLI, auto-detects RN/Expo projects, scans JS/TS files, ₹500 INR bounty |
-
-| BT-0793 | 2026-03-29T21:42:00Z | github | claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/292 | pr_mergeable | 2 PRs MERGEABLE | 2026-03-29T21:55:00Z | PR#292(CHANGELOG $50)+PR#291(pre-tool-hook $100), wallet:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9; No new fresh USD code bounties found |
-| BT-0792 | 2026-03-29T21:42:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new actionable bounties | 2026-03-29T21:42:00Z | New bounty scan EK2 |
-
-| BT-0794 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | devpool/UbiquityOS $75-$450, SPLURT Bodymorpher found | 2026-03-29T21:55:00Z | New bounty scan EL1 |
-| BT-0795 | 2026-03-29T21:55:00Z | github | new-bounty-scan | XTR | https://github.com | available | no new bounties | 2026-03-29T21:55:00Z | New bounty scan EL2 |
-
-| BT-0796 | 2026-03-29T22:00:00Z | github | ANAVHEOBA/PrivacyLayer | USDC via Drips | https://github.com/ANAVHEOBA/PrivacyLayer/pull/193 | pr_open | 已提交 | 2026-03-29T22:00:00Z | PrivacyLayer PR#193, Freighter Wallet Integration (issue#24), wallet.ts+store.ts+wallet components, USDC bounty via Drips Wave |
-| BT-0797 | 2026-03-29T22:00:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/pull/63 | pr_open | 已提交 | 2026-03-29T22:00:00Z | GraciasAi PR#63, iOS PDF export html2canvas+jsPDF (issue#14), ₹2000 bounty |
-| BT-0798 | 2026-03-29T22:00:00Z | github | rohitdash08/FinMind | $500 USD | https://github.com/rohitdash08/FinMind/pull/684 | pr_open | 已提交 | 2026-03-29T22:00:00Z | FinMind PR#684, weekly financial summary endpoint (issue#121), $500 bounty, wallet:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0799 | 2026-03-29T22:00:00Z | github | illbnm/homelab-stack | $170 USDT | https://github.com/illbnm/homelab-stack/pull/389 | pr_open | 已提交 | 2026-03-29T22:00:00Z | homelab-stack PR#389, Stirling PDF + Excalidraw productivity stack (issue#5), $170 USDT bounty |
-| BT-0800 | 2026-03-29T22:00:00Z | github | ApexOpsStudio/ai-gitops-test-target | $50 USD | https://github.com/ApexOpsStudio/ai-gitops-test-target/pull/47 | pr_open | 已提交 | 2026-03-29T22:00:00Z | ai-gitops PR#47, --json output flag (issue#1), $50 bounty via Opire |
-| BT-0801 | 2026-03-29T22:00:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $10+ PayPal | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/pull/922 | pr_open | 已提交 | 2026-03-29T22:00:00Z | SPLURT PR#922, portal panties direct connection (issue#721), game feature, PayPal bounty |
-| BT-0802 | 2026-03-29T22:00:00Z | github | claude-builders-bounty | $300 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/288 | pr_open | 已提交 | 2026-03-29T22:00:00Z | claude-builders PR#288, pre-tool-use hook($100)+n8n weekly workflow($200), wallet:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
-| BT-0803 | 2026-03-29T22:00:00Z | github | claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/pull/253 | pr_open | 已提交 | 2026-03-29T22:00:00Z | claude-builders PR#253, CLAUDE.md Next.js+SQLite template (issue#2), $75 bounty via Opire |
-
-| BT-0804 | 2026-03-29T22:00:00Z | github | devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5885 | available | 新机会 | 2026-03-29T22:00:00Z | Migrate to Bun: runtime, tests, and CI，$150，<2小时，需要理解UbiquityOS内核 |
-| BT-0805 | 2026-03-29T22:00:00Z | github | devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5887 | available | 新机会 | 2026-03-29T22:00:00Z | Validate reward generation behavior，$150，<2小时，需要理解奖励系统 |
-| BT-0806 | 2026-03-29T22:00:00Z | github | devpool-directory | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5926 | available | 新机会 | 2026-03-29T22:00:00Z | Fix Cannot convert undefined or null to object error，$75，<2小时，TypeScript bug fix |
-| BT-0807 | 2026-03-29T22:00:00Z | github | devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | 新机会 | 2026-03-29T22:00:00Z | Plugin health monitor，$450，<4小时，需要理解UbiquityOS插件系统 |
-| BT-0808 | 2026-03-29T22:00:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100 USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | available | 新机会 | 2026-03-29T22:00:00Z | Bodymorpher presets，$100，BYOND/DM代码，Space Station 13功能，Niche语言 |
-
-| BT-0809 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit hit | 2026-03-29T22:16:00Z | New bounty scan EM1 |
-| BT-0810 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#197 SEO USDC | 2026-03-29T22:16:00Z | New bounty scan EM2 |
-| BT-0811 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | omi PR#6164 $200 | 2026-03-29T22:16:00Z | New bounty scan EN1 |
-
-| BT-0812 | 2026-03-29T22:24:00Z | github | ANAVHEOBA/PrivacyLayer | USDC | https://github.com/ANAVHEOBA/PrivacyLayer/pull/197 | pr_open | 已提交 | 2026-03-29T22:24:00Z | PrivacyLayer PR#197, SEO optimization, meta/OG/Twitter cards |
-
-| BT-0813 | 2026-03-29T22:29:00Z | github | BasedHardware/omi | $200 USD | https://github.com/BasedHardware/omi/pull/6164 | pr_open | 已提交 | 2026-03-29T22:29:00Z | omi PR#6164, private cloud audio sync UI, $200 |
-
-| BT-0814 | 2026-03-29T22:29:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit hit | 2026-03-29T22:29:00Z | New bounty scan EO1 |
-| BT-0815 | 2026-03-29T22:29:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit hit | 2026-03-29T22:29:00Z | New bounty scan EO2 |
-
-| BT-0816 | 2026-03-30T02:22:00Z | github | new-bounty-scan | XTR | https://github.com | available | SPLURT #915/#872/#891 claimed | 2026-03-30T02:22:00Z | New bounty scan EP1 (rate limit recovery) |
-| BT-0817 | 2026-03-30T02:22:00Z | github | new-bounty-scan | XTR | https://github.com | available | claude PRs confirmed, AncientBeast XTR found | 2026-03-30T02:22:00Z | New bounty scan EP2 (rate limit recovery) |
-
-| BT-0818 | 2026-03-30T02:38:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 30m | 2026-03-30T02:38:00Z | New bounty scan EQ1 |
-| BT-0819 | 2026-03-30T02:38:00Z | github | new-bounty-scan | XTR | https://github.com | available | 3 CLEAN PRs $225 ready | 2026-03-30T02:38:00Z | New bounty scan EQ2 |
-
-| BT-0820 | 2026-03-30T03:22:00Z | github | new-bounty-scan | XTR | https://github.com | available | saturated | 2026-03-30T03:22:00Z | New bounty scan ER1 |
-| BT-0821 | 2026-03-30T03:22:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 57m | 2026-03-30T03:22:00Z | New bounty scan ER2 |
-
-| BT-0822 | 2026-03-30T04:23:00Z | github | new-bounty-scan | XTR | https://github.com | available | branclaw PR#9 $50 | 2026-03-30T04:23:00Z | New bounty scan ES1 |
-| BT-0823 | 2026-03-30T04:23:00Z | github | new-bounty-scan | XTR | https://github.com | available | branclaw PR#8 $50 | 2026-03-30T04:23:00Z | New bounty scan ES2 |
-
-| BT-0824 | 2026-03-30T04:41:00Z | github | branclaw/bounty-hunter-test | $50 USD | https://github.com/branclaw/bounty-hunter-test/pull/8 | pr_open | 已提交 | 2026-03-30T04:41:00Z | branclaw PR#8, formatCurrency bug fix, $50 |
-
-| BT-0825 | 2026-03-30T05:04:00Z | github | branclaw/bounty-hunter-test | $50 USD | https://github.com/branclaw/bounty-hunter-test/pull/9 | pr_open | 已提交 | 2026-03-30T05:04:00Z | branclaw PR#9, formatCurrency $50 (2nd PR same repo) |
-
-| BT-0826 | 2026-03-30T05:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h+ | 2026-03-30T05:04:00Z | New bounty scan ET1 |
-| BT-0827 | 2026-03-30T05:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h+ | 2026-03-30T05:04:00Z | New bounty scan ET2 |
-
-| BT-0828 | 2026-03-30T06:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h+ | 2026-03-30T06:21:00Z | New bounty scan EU1 |
-| BT-0829 | 2026-03-30T06:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | coolwallet NEAR $18000 CLAIMED | 2026-03-30T06:21:00Z | New bounty scan EU2 |
-
-| BT-0830 | 2026-03-30T07:39:00Z | github | CoolBitX-Technology/coolwallet-sdk | $18000 USD | https://github.com/CoolBitX-Technology/coolwallet-sdk/issues/234 | opportunity | claimed | 2026-03-30T07:39:00Z | coolwallet-sdk #234, NEAR Protocol integration, $18000 USD |
-
-| BT-0831 | 2026-03-30T07:39:00Z | github | new-bounty-scan | XTR | https://github.com | available | tracker confirmed | 2026-03-30T07:39:00Z | New bounty scan EV1 |
-| BT-0832 | 2026-03-30T07:39:00Z | github | new-bounty-scan | XTR | https://github.com | available | network stack analysis | 2026-03-30T07:39:00Z | New bounty scan EV2 |
-
-| BT-0833 | 2026-03-30T07:59:00Z | github | new-bounty-scan | XTR | https://github.com | available | scanning | 2026-03-30T07:59:00Z | New bounty scan EW1 |
-
-| BT-0834 | 2026-03-30T08:38:00Z | github | new-bounty-scan | XTR | https://github.com | available | scanning | 2026-03-30T08:38:00Z | New bounty scan EX1 |
-| BT-0835 | 2026-03-30T08:38:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h | 2026-03-30T08:38:00Z | New bounty scan EX2 |
-
-| BT-0836 | 2026-03-30T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | available | Bitcoin.org $250 claimed | 2026-03-30T09:48:00Z | New bounty scan EY1 |
-| BT-0837 | 2026-03-30T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T09:48:00Z | New bounty scan EY2 |
-
-| BT-0838 | 2026-03-30T10:18:00Z | github | Bitcoin.org | $250 USD | https://github.com/bitcoin-dot-org/bitcoin.org/pull/1837 | claimed | 已认领 | 2026-03-30T10:18:00Z | Bitcoin.org #1837, $250 (25,000 bits) |
-| BT-0839 | 2026-03-30T11:30:00Z | github | prasenjeet-symon/shipli-ai | ₹500 INR | https://github.com/prasenjeet-symon/shipli-ai/issues/1 | available | ~ USD, small amount | 2026-03-30T11:30:00Z | shipli-ai #1, Add React Native support |
-| BT-0840 | 2026-03-30T11:30:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | available | ~4 USD, report improvement | 2026-03-30T11:30:00Z | GraciasAi #14, PDF Report Improvements, iOS/Android |
-| BT-0841 | 2026-03-30T11:30:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/12 | available | ~4 USD, Android auditor | 2026-03-30T11:30:00Z | GraciasAi #12, Android Play Store Auditor |
-| BT-0842 | 2026-03-30T11:30:00Z | github | bountydotnew/bounty.new | $20 USD | https://github.com/bountydotnew/bounty.new/issues/231 | available | 新机会 | 2026-03-30T11:30:00Z | bounty.new #231, waitlist submitted state design improvement, $20 funded via Stripe, 0 submissions, created by grim |
-| BT-0843 | 2026-03-30T11:40:00Z | github | Space-Nebula/stellar-nebula-nomad | TBD (Stellar Wave) | https://github.com/Space-Nebula/stellar-nebula-nomad/issues/100 | available | Rust, Stellar smart contracts | 2026-03-30T11:40:00Z | stellar-nebula-nomad #100, Automated Bug Bounty Payout Engine |
-| BT-0844 | 2026-03-30T11:40:00Z | github | boundlessfi/bounties | TBD (Stellar Wave) | https://github.com/boundlessfi/bounties/issues/151 | available | Frontend, Stellar wallet integration | 2026-03-30T11:40:00Z | boundlessfi #151, Wallet Balance/Asset Management |
-| BT-0845 | 2026-03-30T12:10:00Z | github | claudebounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | available | 新机会 | 2026-03-30T12:10:00Z | claude-builders-bounty #5, n8n workflow + Claude API weekly summary, Opire payout on merge |
-| BT-0846 | 2026-03-30T12:10:00Z | github | claudebounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | available | 新机会 | 2026-03-30T12:10:00Z | claude-builders-bounty #3, pre-tool-use hook blocking destructive bash, Opire payout on merge |
-| BT-0847 | 2026-03-30T12:10:00Z | github | claudebounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | available | 新机会 | 2026-03-30T12:10:00Z | claude-builders-bounty #4, Claude Code PR review sub-agent, Opire payout on merge |
-| BT-0848 | 2026-03-30T12:10:00Z | github | claudebounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | available | 新机会 | 2026-03-30T12:10:00Z | claude-builders-bounty #2, CLAUDE.md template Next.js+SQLite SaaS, Opire payout on merge |
-| BT-0849 | 2026-03-30T12:15:00Z | github | SPLURT-Station/S.P.L.U.R.T-Station-13 | $175+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-Station-13/issues/444 | available | 新机会 | 2026-03-30T12:15:00Z | SPLURT #444, Port vore system from CHOMPStation2/VOREStation ($175+ PayPal), BYOND/SS13, 高复杂度 |
-| BT-0850 | 2026-03-30T12:15:00Z | github | SPLURT-Station/S.P.L.U.R.T-Station-13 | $7 USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-Station-13/issues/1248 | available | 新机会 | 2026-03-30T12:15:00Z | SPLURT #1248, 4 eyes marking sprite ($7 PayPal), 简单sprite+代码任务 |
-| BT-0851 | 2026-03-30T12:15:00Z | github | 1712n/dn-institute | $100-500 USD | https://github.com/1712n/dn-institute/issues/408 | pr_open | 有竞争 | 2026-03-30T12:15:00Z | dn-institute #408, Improve QA Bot ($100-$500 BTC/stable), Python/AI, 分配给Kseymur但接受其他PR |
-| BT-0852 | 2026-03-30T12:15:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | claimed | 已认领 | 2026-03-30T12:15:00Z | SPLURT #891, Bodymorpher presets ($100+ PayPal), 用户本人sungdark已认领 |
-| BT-0853 | 2026-03-30T12:15:00Z | github | Scottcjn/rustchain-bounties | 50-75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/747 | claimed | 已被认领 | 2026-03-30T12:15:00Z | rustchain #747, Bounty Verification Bot GitHub Action (~$5-7.5), 已被levdon38-cpu认领 |
-
-| BT-0854 | 2026-03-30T12:45:00Z | github | turbo-eth/template-disco-app | $400+50OP USD | https://github.com/turbo-eth/template-disco-app/issues/5 | available | 新机会-DeFi | 2026-03-30T12:45:00Z | turbo-eth/disco #5, Issue VC via Disco API ($400 USDC + 50 OP + DevPass), Next.js/TypeScript, Disco API, 需Discord申请 |
-
-| BT-0855 | 2026-03-30T12:45:00Z | github | Opty-Fi/defi-adapters | $5000 USDC | https://github.com/Opty-Fi/defi-adapters/issues/7 | ⚠️ALREADY_RESOLVED | ❌无效 | 2026-03-30T18:15:00Z | Opty-Fi #7 Convex Finance integration已合并于PR#14 (Dec 2021, commit 38434b3a)。adapter已存在于contracts/1_ethereum/convex.finance/ConvexFinanceAdapter.sol。PR#25 (ShanaBoo)仅修改文档不实现功能。Issue #7在2021年12月已解决，bounty已过期。 |
-
-| BT-0856 | 2026-03-30T16:30:00Z | github | HA4扫描器-目标repos | $0 | - | scan_complete | 扫描完成 | 2026-03-30T16:30:00Z | HA4深度扫描完成: (1)transmissions11/solmate-50个issues无bounty标签;(2)safe-fndn/safe-smart-account-8个issues无bounty;(3)gnosis/pm-contracts-已失效(最后更新2020);GitHub API: '$'标题搜索0结果,'bounty+stars>100'0结果;无新高价值机会 |
-
-| BT-0858 | 2026-03-30T16:30:00Z | github | turbo-eth/template-web3-app | 500 OP (~$800-1200) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | 新机会-DeFi | 2026-03-30T16:30:00Z | turbo-eth #29, Web3 App Template for DeFi (Tally/PoolTogether/Uniswap V3/UMA/Superfluid), 500 OP + TurboETH DevPass, Next.js/TypeScript |
-| BT-0859 | 2026-03-30T16:30:00Z | github | ArweaveTeam/Bounties | $250 ETH + $50 AR (~$300-400) | https://github.com/ArweaveTeam/Bounties/issues/1 | available | 新机会-加密/Hackathon | 2026-03-30T16:30:00Z | Arweave hackathon: Build permaweb dApp, $250 ETH + $50 AR, ArweaveJS/ArConnect, open perpetual hackathon up to 500 submissions |
-
-| BT-0860 | 2026-03-30T17:35:00Z | github | devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5012 | available | 新机会 | 2026-03-30T17:35:00Z | devpool #5012, Implement Differential Reward Distribution for Reopened Issues, $600, UbiquityOS
-| BT-0861 | 2026-03-30T17:45:00Z | github | turbo-eth/template-web3-app | 325 OP (~$325-650) | https://github.com/turbo-eth/template-web3-app/issues/56 | available | 新机会-DeFi-智能合同 | 2026-03-30T17:45:00Z | turbo-eth #56, Delegatable Integration & Subscription Enforcer (325 OP + TurboETH DevPass), Solidity/EVM EIP712, 需Discord申请 |
-| BT-0862 | 2026-03-30T17:45:00Z | github | SharedStake/Contracts | $15000 USDC | https://github.com/SharedStake/Contracts/issues/7 | available | 新机会-DeFi-智能合同 | 2026-03-30T17:45:00Z | SharedStake #7, Sett-style Auto-Compounding LP Token Vault ($15000 USDC Gitcoin), Solidity/Yearn, SGT/ETH LP, 竞争激烈 |
-
-| BT-0863 | 2026-03-30T17:50:00Z | github | IA3扫描器-高价值repo赏金 | $0 | - | scan_complete | 扫描完成 | 2026-03-30T17:50:00Z | IA3扫描完成: (1)transmissions11/solmate-50个open issues,Bounty相关0个; (2)safe-global/safe-smart-account(→safe-fndn/safe-smart-account)-29个open issues,'pay'关键字出现于'Re-entrancy'等词中无实际bounty; (3)gnosis/pm-contracts-10个open issues无bounty,仓库已失效(最后更新2020); GitHub API '$'搜索0结果,'bounty+stars:>100'因API限制无法执行; 扫描了vegaprotocol/bounties(0 open)、arkadiyt/bounty-targets-data(Rate limit); 无发现新高价值机会 |
-
-| BT-0864 | 2026-03-30T18:30:00Z | github | devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | 新机会 | 2026-03-30T18:30:00Z | devpool #5886, Plugin health monitor ($450 <4h): Cron job每天扫描ubiquity-os-marketplace所有插件，10次连续失败时通知(tag @Men桃花/@gentlementlegen)。不需配置，简单实现即可 |
-| BT-0865 | 2026-03-30T18:30:00Z | github | devpool-directory | $2400 USD | https://github.com/devpool-directory/devpool-directory/issues/5850 | available | 新机会-部分已完成 | 2026-03-30T18:30:00Z | devpool #5850, Add UUSD+UBQ to popular services ($2400 <1 Week Priority:Urgent): 需向各DEX/wallet/bridge提PR/联系客服添加代币。已完成:Curve/Li.fi/Balancer/SushiSwap部分。剩余:CoW Protocol/Gnosis Bridge/1inch/Jumper/ShapeShift/Bungee等 |
-| BT-0866 | 2026-03-30T18:30:00Z | github | devpool-directory | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/5931 | available | 新机会-智能合同 | 2026-03-30T18:30:00Z | devpool #5931, Integrate Liquity V1 Stability Pool for LUSD Collateral Yield ($1200 <1 Day Priority:Urgent): Solidity智能合同集成，通过Diamond代理添加StabilityPoolFacet，需EVM/Foundry/Chainlink/1inch开发经验，复杂 |
-| BT-0867 | 2026-03-30T18:30:00Z | github | devpool-directory | $1800 USD | https://github.com/devpool-directory/devpool-directory/issues/5916 | available | 新机会-大任务 | 2026-03-30T18:30:00Z | devpool #5916, UbiquityOS Sprint Management Dashboard ($1800 <1 Week Priority:High): 需实现后端+落地页+GitHub登录+任务看板UI+数据分析，工程量大 |
-| BT-0868 | 2026-03-30T18:30:00Z | github | devpool-directory | $900 USD | https://github.com/devpool-directory/devpool-directory/issues/5070 | available | 新机会-UI | 2026-03-30T18:30:00Z | devpool #5070, DevPool Directory Matchmaking UI ($900 <1 Day Priority:High): Ubiquity marketplace任务匹配UI，link: devpool-directory-tasks/issues/63 |
-| BT-0869 | 2026-03-30T18:30:00Z | github | devpool-directory | $900 USD | https://github.com/devpool-directory/devpool-directory/issues/5064 | available | 新机会-AI/ML | 2026-03-30T18:30:00Z | devpool #5064, Nomic Embeddings Model for +10% Accuracy ($900 <1 Day Priority:High): text-vector-embeddings仓库集成Nomic模型提升准确率，AI/ML优化任务 |
-| BT-0870 | 2026-03-30T18:30:00Z | github | devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | available | 新机会-市场活动 | 2026-03-30T18:30:00Z | devpool #5925, Launch campaign towards L1s/L2s for managing their GitHubs ($600 <1 Week): 联系L1/L2帮助管理GitHub，适合有crypto/社区资源的人 |
-| BT-0871 | 2026-03-30T18:30:00Z | github | devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5035 | available | 新机会-市场活动 | 2026-03-30T18:30:00Z | devpool #5035, Recruiting: Dragonfly CTF II ($600 <1 Day): Dragonfly CTF II招募，需联系和招募参与者 |
-| BT-0872 | 2026-03-30T18:30:00Z | github | devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5041 | available | 新机会-市场活动 | 2026-03-30T18:30:00Z | devpool #5041, Launch campaign to target pilot partners from large open source projects ($600 <1 Day Priority:High): 市场活动，联系大开源项目寻求试点合作 |
-| BT-0873 | 2026-03-30T18:30:00Z | github | devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5847 | available | 新机会-区块链 | 2026-03-30T18:30:00Z | devpool #5847, Final Pre-Seed/Seed Investor Debt UBQ ($450 <4 Hours Priority:High): 在gitcoindev/uad-contracts更新block number并执行Hardhat脚本，区块链模拟任务 |
-| BT-0874 | 2026-03-30T18:30:00Z | github | devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5017 | available | 新机会 | 2026-03-30T18:30:00Z | devpool #5017, Automatic Transfer ($600 <1 Week): permit-generation仓库自动化转账，UbiquityOS任务 |
-| BT-0875 | 2026-03-30T18:42:00Z | github | claude-builders-bounty/claude-builders-bounty | $0 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues | completed | 无新机会 | 2026-03-30T18:42:00Z | Scan JA4完成: 所有5个bounty(#1-$50,#2-$75,#3-$100,#4-$150,#5-$200)均已被多人认领,各多个PR提交竟争,无新未认领赏金 |
-| BT-0876 | 2026-03-30T18:45:00Z | github | tenstorrent/tt-metal | $1500 USD | https://github.com/tenstorrent/tt-metal/issues/32185 | opportunity | 新机会-需硬件 | 2026-03-30T18:45:00Z | tenstorrent/tt-metal #32185, AudioX model bring-up using TTNN APIs ($1500, 3-stage), requires N150/N300 Tenstorrent hardware, Python/TTNN, complex diffusion model implementation, multi-modal (text/video/image/audio-to-audio), verification via benchmark metrics |
-| BT-0877 | 2026-03-30T18:45:00Z | github | tenstorrent/tt-metal | $1500 USD | https://github.com/tenstorrent/tt-metal/issues/16618 | opportunity | 新机会 | 2026-03-30T18:45:00Z | tenstorrent/tt-metal #16618, Implement ttnn.flip equivalent of torch.flip ($1500), eliminates slow host-side flip for conv_transpose2d weights loading, Python/C++ TTNN op development, moderate complexity, verifiable |
+| BT-0766 | 2026-03-30T19:20:00Z | github | devpool-directory/devpool-directory | $9 USD | https://github.com/devpool-directory/devpool-directory/issues/5924 | available | 新机会 | 2026-03-30T19:20:00Z | Launch Another DoraHacks Bounty Post, $9 USD, <15min, body→ubiquity/business-development#174, open, no assignee, Price:9 USD label confirmed |
+| BT-0767 | 2026-03-30T19:20:00Z | github | devpool-directory/devpool-directory | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5926 | available | 新机会 | 2026-03-30T19:20:00Z | Fix Cannot convert undefined or null to object error, $75 USD, <2hrs, body→ubiquity-os/ubiquity-os-kernel#287, open, no assignee, Price:75 USD label confirmed |
+| BT-0768 | 2026-03-30T19:20:00Z | github | devpool-directory/devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5887 | available | 新机会 | 2026-03-30T19:20:00Z | Validate reward generation behavior, $150 USD, <2hrs, body→ubiquity-os-marketplace/text-conversation-rewards#455, open, no assignee, Price:150 USD label confirmed |
