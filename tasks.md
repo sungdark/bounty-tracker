@@ -959,3 +959,7 @@
 | BT-0851 | 2026-03-30T12:15:00Z | github | 1712n/dn-institute | $100-500 USD | https://github.com/1712n/dn-institute/issues/408 | pr_open | 有竞争 | 2026-03-30T12:15:00Z | dn-institute #408, Improve QA Bot ($100-$500 BTC/stable), Python/AI, 分配给Kseymur但接受其他PR |
 | BT-0852 | 2026-03-30T12:15:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100+ USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | claimed | 已认领 | 2026-03-30T12:15:00Z | SPLURT #891, Bodymorpher presets ($100+ PayPal), 用户本人sungdark已认领 |
 | BT-0853 | 2026-03-30T12:15:00Z | github | Scottcjn/rustchain-bounties | 50-75 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/747 | claimed | 已被认领 | 2026-03-30T12:15:00Z | rustchain #747, Bounty Verification Bot GitHub Action (~$5-7.5), 已被levdon38-cpu认领 |
+
+| BT-0854 | 2026-03-30T12:45:00Z | github | turbo-eth/template-disco-app | $400+50OP USD | https://github.com/turbo-eth/template-disco-app/issues/5 | available | 新机会-DeFi | 2026-03-30T12:45:00Z | turbo-eth/disco #5, Issue VC via Disco API ($400 USDC + 50 OP + DevPass), Next.js/TypeScript, Disco API, 需Discord申请 |
+
+| BT-0855 | 2026-03-30T12:45:00Z | github | Opty-Fi/defi-adapters | $5000 USD | https://github.com/Opty-Fi/defi-adapters/issues/7 | available | 新机会-DeFi | 2026-03-30T12:45:00Z | Opty-Fi #7, Convex Finance integration ($5000 USDC), Solidity, 100% test coverage, 需follow CONTRIBUTING.md |
