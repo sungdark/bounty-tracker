@@ -923,3 +923,6 @@
 | BT-0824 | 2026-03-30T04:41:00Z | github | branclaw/bounty-hunter-test | $50 USD | https://github.com/branclaw/bounty-hunter-test/pull/8 | pr_open | 已提交 | 2026-03-30T04:41:00Z | branclaw PR#8, formatCurrency bug fix, $50 |
 
 | BT-0825 | 2026-03-30T05:04:00Z | github | branclaw/bounty-hunter-test | $50 USD | https://github.com/branclaw/bounty-hunter-test/pull/9 | pr_open | 已提交 | 2026-03-30T05:04:00Z | branclaw PR#9, formatCurrency $50 (2nd PR same repo) |
+
+| BT-0826 | 2026-03-30T05:04:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T05:04:00Z | New bounty scan ET1 |
+| BT-0827 | 2026-03-30T05:04:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T05:04:00Z | New bounty scan ET2 |
