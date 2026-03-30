@@ -940,5 +940,7 @@
 | BT-0834 | 2026-03-30T08:38:00Z | github | new-bounty-scan | XTR | https://github.com | available | scanning | 2026-03-30T08:38:00Z | New bounty scan EX1 |
 | BT-0835 | 2026-03-30T08:38:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h | 2026-03-30T08:38:00Z | New bounty scan EX2 |
 
-| BT-0836 | 2026-03-30T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T09:48:00Z | New bounty scan EY1 |
+| BT-0836 | 2026-03-30T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | available | Bitcoin.org $250 claimed | 2026-03-30T09:48:00Z | New bounty scan EY1 |
 | BT-0837 | 2026-03-30T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T09:48:00Z | New bounty scan EY2 |
+
+| BT-0838 | 2026-03-30T10:18:00Z | github | Bitcoin.org | $250 USD | https://github.com/bitcoin-dot-org/bitcoin.org/pull/1837 | claimed | 已认领 | 2026-03-30T10:18:00Z | Bitcoin.org #1837, $250 (25,000 bits) |
