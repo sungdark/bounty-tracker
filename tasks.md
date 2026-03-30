@@ -924,7 +924,7 @@
 
 | BT-0825 | 2026-03-30T05:04:00Z | github | branclaw/bounty-hunter-test | $50 USD | https://github.com/branclaw/bounty-hunter-test/pull/9 | pr_open | 已提交 | 2026-03-30T05:04:00Z | branclaw PR#9, formatCurrency $50 (2nd PR same repo) |
 
-| BT-0826 | 2026-03-30T05:04:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T05:04:00Z | New bounty scan ET1 |
+| BT-0826 | 2026-03-30T05:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h+ | 2026-03-30T05:04:00Z | New bounty scan ET1 |
 | BT-0827 | 2026-03-30T05:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h+ | 2026-03-30T05:04:00Z | New bounty scan ET2 |
 
 | BT-0828 | 2026-03-30T06:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h+ | 2026-03-30T06:21:00Z | New bounty scan EU1 |
@@ -934,3 +934,5 @@
 
 | BT-0831 | 2026-03-30T07:39:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T07:39:00Z | New bounty scan EV1 |
 | BT-0832 | 2026-03-30T07:39:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T07:39:00Z | New bounty scan EV2 |
+
+| BT-0833 | 2026-03-30T07:59:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T07:59:00Z | New bounty scan EW1 |
