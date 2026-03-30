@@ -897,7 +897,7 @@
 | BT-0807 | 2026-03-29T22:00:00Z | github | devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | 新机会 | 2026-03-29T22:00:00Z | Plugin health monitor，$450，<4小时，需要理解UbiquityOS插件系统 |
 | BT-0808 | 2026-03-29T22:00:00Z | github | SPLURT-Station/S.P.L.U.R.T-tg | $100 USD | https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/891 | available | 新机会 | 2026-03-29T22:00:00Z | Bodymorpher presets，$100，BYOND/DM代码，Space Station 13功能，Niche语言 |
 
-| BT-0809 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:16:00Z | New bounty scan EM1 |
+| BT-0809 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit hit | 2026-03-29T22:16:00Z | New bounty scan EM1 |
 | BT-0810 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | PrivacyLayer PR#197 SEO USDC | 2026-03-29T22:16:00Z | New bounty scan EM2 |
 | BT-0811 | 2026-03-29T22:16:00Z | github | new-bounty-scan | XTR | https://github.com | available | omi PR#6164 $200 | 2026-03-29T22:16:00Z | New bounty scan EN1 |
 
@@ -905,5 +905,8 @@
 
 | BT-0813 | 2026-03-29T22:29:00Z | github | BasedHardware/omi | $200 USD | https://github.com/BasedHardware/omi/pull/6164 | pr_open | 已提交 | 2026-03-29T22:29:00Z | omi PR#6164, private cloud audio sync UI, $200 |
 
-| BT-0814 | 2026-03-29T22:29:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:29:00Z | New bounty scan EO1 |
-| BT-0815 | 2026-03-29T22:29:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T22:29:00Z | New bounty scan EO2 |
+| BT-0814 | 2026-03-29T22:29:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit hit | 2026-03-29T22:29:00Z | New bounty scan EO1 |
+| BT-0815 | 2026-03-29T22:29:00Z | github | new-bounty-scan | XTR | https://github.com | available | rate limit hit | 2026-03-29T22:29:00Z | New bounty scan EO2 |
+
+| BT-0816 | 2026-03-30T02:22:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T02:22:00Z | New bounty scan EP1 (rate limit recovery) |
+| BT-0817 | 2026-03-30T02:22:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T02:22:00Z | New bounty scan EP2 (rate limit recovery) |
