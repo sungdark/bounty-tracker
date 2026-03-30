@@ -962,7 +962,7 @@
 
 | BT-0854 | 2026-03-30T12:45:00Z | github | turbo-eth/template-disco-app | $400+50OP USD | https://github.com/turbo-eth/template-disco-app/issues/5 | available | 新机会-DeFi | 2026-03-30T12:45:00Z | turbo-eth/disco #5, Issue VC via Disco API ($400 USDC + 50 OP + DevPass), Next.js/TypeScript, Disco API, 需Discord申请 |
 
-| BT-0855 | 2026-03-30T12:45:00Z | github | Opty-Fi/defi-adapters | $5000 USD | https://github.com/Opty-Fi/defi-adapters/issues/7 | available | 新机会-DeFi | 2026-03-30T12:45:00Z | Opty-Fi #7, Convex Finance integration ($5000 USDC), Solidity, 100% test coverage, 需follow CONTRIBUTING.md |
+| BT-0855 | 2026-03-30T12:45:00Z | github | Opty-Fi/defi-adapters | $5000 USDC | https://github.com/Opty-Fi/defi-adapters/issues/7 | ⚠️ALREADY_RESOLVED | ❌无效 | 2026-03-30T18:15:00Z | Opty-Fi #7 Convex Finance integration已合并于PR#14 (Dec 2021, commit 38434b3a)。adapter已存在于contracts/1_ethereum/convex.finance/ConvexFinanceAdapter.sol。PR#25 (ShanaBoo)仅修改文档不实现功能。Issue #7在2021年12月已解决，bounty已过期。 |
 
 | BT-0856 | 2026-03-30T16:30:00Z | github | HA4扫描器-目标repos | $0 | - | scan_complete | 扫描完成 | 2026-03-30T16:30:00Z | HA4深度扫描完成: (1)transmissions11/solmate-50个issues无bounty标签;(2)safe-fndn/safe-smart-account-8个issues无bounty;(3)gnosis/pm-contracts-已失效(最后更新2020);GitHub API: '$'标题搜索0结果,'bounty+stars>100'0结果;无新高价值机会 |
 
