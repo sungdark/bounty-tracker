@@ -944,3 +944,7 @@
 | BT-0837 | 2026-03-30T09:48:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T09:48:00Z | New bounty scan EY2 |
 
 | BT-0838 | 2026-03-30T10:18:00Z | github | Bitcoin.org | $250 USD | https://github.com/bitcoin-dot-org/bitcoin.org/pull/1837 | claimed | 已认领 | 2026-03-30T10:18:00Z | Bitcoin.org #1837, $250 (25,000 bits) |
+| BT-0839 | 2026-03-30T11:30:00Z | github | prasenjeet-symon/shipli-ai | ₹500 INR | https://github.com/prasenjeet-symon/shipli-ai/issues/1 | available | ~ USD, small amount | 2026-03-30T11:30:00Z | shipli-ai #1, Add React Native support |
+| BT-0840 | 2026-03-30T11:30:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/14 | available | ~4 USD, report improvement | 2026-03-30T11:30:00Z | GraciasAi #14, PDF Report Improvements, iOS/Android |
+| BT-0841 | 2026-03-30T11:30:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | ₹2000 INR | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/12 | available | ~4 USD, Android auditor | 2026-03-30T11:30:00Z | GraciasAi #12, Android Play Store Auditor |
+| BT-0842 | 2026-03-30T11:30:00Z | github | bountydotnew/bounty.new | bounty.new funded | https://github.com/bountydotnew/bounty.new/issues/231 | available | amount unclear, 0 submissions | 2026-03-30T11:30:00Z | bounty.new #231, waitlist design, zhaog100 /attempt |
