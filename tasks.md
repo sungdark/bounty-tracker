@@ -968,3 +968,5 @@
 
 | BT-0858 | 2026-03-30T16:30:00Z | github | turbo-eth/template-web3-app | 500 OP (~$800-1200) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | 新机会-DeFi | 2026-03-30T16:30:00Z | turbo-eth #29, Web3 App Template for DeFi (Tally/PoolTogether/Uniswap V3/UMA/Superfluid), 500 OP + TurboETH DevPass, Next.js/TypeScript |
 | BT-0859 | 2026-03-30T16:30:00Z | github | ArweaveTeam/Bounties | $250 ETH + $50 AR (~$300-400) | https://github.com/ArweaveTeam/Bounties/issues/1 | available | 新机会-加密/Hackathon | 2026-03-30T16:30:00Z | Arweave hackathon: Build permaweb dApp, $250 ETH + $50 AR, ArweaveJS/ArConnect, open perpetual hackathon up to 500 submissions |
+
+| BT-0860 | 2026-03-30T17:35:00Z | github | devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5012 | available | 新机会 | 2026-03-30T17:35:00Z | devpool #5012, Implement Differential Reward Distribution for Reopened Issues, $600, UbiquityOS
