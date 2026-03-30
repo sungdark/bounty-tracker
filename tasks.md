@@ -928,4 +928,6 @@
 | BT-0827 | 2026-03-30T05:04:00Z | github | new-bounty-scan | XTR | https://github.com | available | killed 1h+ | 2026-03-30T05:04:00Z | New bounty scan ET2 |
 
 | BT-0828 | 2026-03-30T06:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T06:21:00Z | New bounty scan EU1 |
-| BT-0829 | 2026-03-30T06:21:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-30T06:21:00Z | New bounty scan EU2 |
+| BT-0829 | 2026-03-30T06:21:00Z | github | new-bounty-scan | XTR | https://github.com | available | coolwallet NEAR $18000 CLAIMED | 2026-03-30T06:21:00Z | New bounty scan EU2 |
+
+| BT-0830 | 2026-03-30T07:39:00Z | github | CoolBitX-Technology/coolwallet-sdk | $18000 USD | https://github.com/CoolBitX-Technology/coolwallet-sdk/issues/234 | opportunity | claimed | 2026-03-30T07:39:00Z | coolwallet-sdk #234, NEAR Protocol integration, $18000 USD |
