@@ -191,6 +191,7 @@ Last updated: 2026-03-31
 | BT-BP2-001 | 2026-03-31T22:12:00Z | github | Scottcjn/rustchain-bounties | 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1589 | available | Easy bounty, Write unit test for untested function, 2 RTC per test, No assignees |
 | BT-BP2-002 | 2026-03-31T22:12:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1600 | available | Build web dashboard showing RustChain stats, Frontend feature, No assignees |
 | BT-BQ3-001 | 2026-03-31T22:22:00Z | github | ubiquity/ubiquity-dollar | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/5931 | available | Priority 4 Urgent, Integrate Liquity V1 Stability Pool for LUSD yield, complex DeFi task |
+| BT-BR2-001 | 2026-03-31T22:30:00Z | github | Opty-Fi/defi-adapters | 5000 USDC | https://github.com/Opty-Fi/defi-adapters/issues/7 | available | DeFi integration, Convex Finance adapter, 5000 USDC bounty, No assignees |
 | BT-BQ2-001 | 2026-03-31T22:25:00Z | github | turbo-eth/template-web3-app | 500 OP (~$440) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | Web3 template bounty, Create DeFi/Identity template, Discord approval required |
 | BT-BQ2-002 | 2026-03-31T22:25:00Z | github | clanker-devco/clanker-sdk | ~$1000 | https://github.com/clanker-devco/clanker-sdk/issues/126 | available | Bug fix, 80% creator rewards not working, $1000 funds affected |
 
