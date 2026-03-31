@@ -36,9 +36,24 @@ Last updated: 2026-03-31
 - **Issue**: #47 (devpool #5927)
 - **Reward**: $300 USD
 - **URL**: https://github.com/ubiquity-os/plugins-wishlist/issues/47
-- **Status**: AVAILABLE
+- **Status**: CLAIMED (developing)
 - **Details**: Design config schema for generalized GitHub Webhook + Contributor Role -> Rewards plugin
-- **Verify**: Priority 1, no assignees
+
+### BL2-005: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: CLAIMED (developing)
+- **Details**: Scraping L1/L2 lists from Coinmarketcap, enrich with contact data, launch multi-channel campaign
+
+### BL2-006: Use GraphQL consistently for linked pull-request lookups
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #216 (devpool #5940)
+- **Reward**: $375 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/216
+- **Status**: CLAIMED (developing)
+- **Details**: Replace REST API calls with GraphQL for PR lookups in command-start-stop plugin
 
 ## Scanned Repos
 - defi-wikis/defi-tokens-wiki ✓
