@@ -203,7 +203,14 @@ Last updated: 2026-03-31
 | BT-BQ2-001 | 2026-03-31T22:25:00Z | github | turbo-eth/template-web3-app | 500 OP (~$440) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | Web3 template bounty, Create DeFi/Identity template, Discord approval required |
 | BT-BQ2-002 | 2026-03-31T22:25:00Z | github | clanker-devco/clanker-sdk | ~$1000 | https://github.com/clanker-devco/clanker-sdk/issues/126 | available | Bug fix, 80% creator rewards not working, $1000 funds affected |
 
-### BT-BR3-001: General Improvements
+### BT-05925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: CLAIMED (developing)
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS. Research potential chains, create outreach docs.
+- **Verify**: Priority 1, No assignees, $600 USD
 - **Repo**: devpool-directory/devpool-directory
 - **Issue**: #5902
 - **Reward**: $600 USD
