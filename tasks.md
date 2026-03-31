@@ -241,3 +241,7 @@ Last updated: 2026-03-31
 - **Verify**: Priority 1, No assignees, 00 USD
 | BT-BR3-004 | 2026-03-31T22:27:00Z | github | ubiquity-os/permit-generation | 00 USD | https://github.com/devpool-directory/devpool-directory/issues/5017 | claimed | Priority 1, No assignees, Automatic Transfer feature, linked to ubiquity-os/permit-generation#6 |
 | BT-BS3-001 | 2026-03-31T22:35:00Z | github | ubiquity-os/ubiquity-os-kernel | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5946 | available | Priority 1, Fix /help flow - prevent agent-rejected message for bot user, No assignees |
+
+| BT-BP2-005 | 2026-03-31T22:31:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/571 | available | Security, Empty string authentication bypass in pending transfer system, No assignees |
+| BT-BP2-004 | 2026-03-31T22:31:00Z | github | Scottcjn/rustchain-bounties | 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/572 | available | Security, Hardcoded admin key authentication bypass, No assignees |
+| BT-BP2-003 | 2026-03-31T22:31:00Z | github | Scottcjn/rustchain-bounties | 100+ RTC | https://github.com/Scottcjn/rustchain-bounties/issues/573 | available | Security, P2P message forgery via hardcoded HMAC secret, No assignees |
