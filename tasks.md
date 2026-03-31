@@ -229,3 +229,13 @@ Last updated: 2026-03-31
 - **Details**: Create n8n workflow integrated with Claude Code for automated weekly dev summary
 - **Verify**: Bounty $200, No assignees, Opire powered, 95 comments
 | BT-BR1-001 | 2026-03-31T22:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | available | Opire, n8n + Claude Code workflow for weekly dev summary, No assignees |
+
+### BT-BR3-004: Automatic Transfer
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5017
+- **Reward**: 00 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5017
+- **Status**: CLAIMED (developing)
+- **Details**: Automatic Transfer feature - linked to ubiquity-os/permit-generation#6
+- **Verify**: Priority 1, No assignees, 00 USD
+| BT-BR3-004 | 2026-03-31T22:27:00Z | github | ubiquity-os/permit-generation | 00 USD | https://github.com/devpool-directory/devpool-directory/issues/5017 | claimed | Priority 1, No assignees, Automatic Transfer feature, linked to ubiquity-os/permit-generation#6 |
