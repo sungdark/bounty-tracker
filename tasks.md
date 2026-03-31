@@ -36,3 +36,4 @@ Last updated: 2026-03-31
 - mantlenetworkio/mantle ✓
 - harmonylion/ideamarkets ✓
 - icon-community/ice-substrate ✓
+| BT-BL1-001 | 2026-03-31T21:20:00Z | github | turbo-eth/template-web3-app | ~$800 USD (500 OP) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | 新机会 | 2026-03-31T21:20:00Z | TurboETH Template bounty: 500 OP + TurboETH DevPass. Create Web3 app template (DeFi/Digital Identity/Digital Collectibles). Live demo on Vercel required. 0 assignees, 15 comments, open since 2023 but still available. |
