@@ -108,6 +108,24 @@ Last updated: 2026-03-31
 - **Status**: AVAILABLE
 - **Details**: Create Claude Code skill or bash script to generate CHANGELOG.md from git history
 - **Verify**: Bounty $50, no assignees, Opire powered
+
+### BM1-003: HOOK - Pre-tool-use hook that blocks destructive bash commands
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #3
+- **Reward**: $100 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3
+- **Status**: AVAILABLE
+- **Details**: Create Claude Code pre-tool-use hook to block dangerous bash commands (rm -rf, DROP TABLE, git push --force, etc.)
+- **Verify**: Bounty $100, no assignees, Opire powered
+
+### BM1-004: AGENT - Claude Code PR review sub-agent
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #4
+- **Reward**: $150 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4
+- **Status**: AVAILABLE
+- **Details**: Create Claude Code agent that analyzes PR diffs and posts structured review comments
+- **Verify**: Bounty $150, no assignees, Opire powered
 | BT-BL2-004 | 2026-03-31T21:22:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5927 | available | Priority 1, No assignees, Generalized GitHub Webhook + Contributor Role config schema |
 | BT-BL2-005 | 2026-03-31T21:22:00Z | github | ubiquity-os/deno-deploy | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5923 | available | Priority 1, No assignees, Upgrade to newest Deno Deploy |
 | BT-BL2-006 | 2026-03-31T21:22:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | available | Priority 1, No assignees, Launch campaign towards L1s/L2s |
@@ -124,3 +142,5 @@ Last updated: 2026-03-31
 | BT-BN2-008 | 2026-03-31T21:36:00Z | github | daydreamsai/agent-bounties | $1000 USD | https://github.com/daydreamsai/agent-bounties/issues/6 | available | DeFi yield pool watcher, Monitor APY/TVL alerts, No assignees |
 | BT-BN2-009 | 2026-03-31T21:36:00Z | github | ANAVHEOBA/PrivacyLayer | TBD | https://github.com/ANAVHEOBA/PrivacyLayer/issues/13 | available | Crypto SDK, Implement withdrawal flow, No assignees |
 | BT-BN2-010 | 2026-03-31T21:36:00Z | github | ANAVHEOBA/PrivacyLayer | TBD | https://github.com/ANAVHEOBA/PrivacyLayer/issues/101 | available | Crypto, Mainnet launch checklist, No assignees |
+| BT-BM1-003 | 2026-03-31T22:06:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | available | Opire, Claude Code hook to block destructive bash commands, No assignees |
+| BT-BM1-004 | 2026-03-31T22:06:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | available | Opire, Claude Code PR review agent, No assignees |
