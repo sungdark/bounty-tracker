@@ -220,3 +220,12 @@ Last updated: 2026-03-31
 - **Status**: AVAILABLE
 - **Details**: Integrate Wallet Connect via Reown AppKit (Time: <1 Day)
 - **Verify**: Priority 1, No assignees, $300 USD
+### BT-BR1-001: WORKFLOW - n8n + Claude Code weekly dev summary
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #5
+- **Reward**: $200 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5
+- **Status**: AVAILABLE
+- **Details**: Create n8n workflow integrated with Claude Code for automated weekly dev summary
+- **Verify**: Bounty $200, No assignees, Opire powered, 95 comments
+| BT-BR1-001 | 2026-03-31T22:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | available | Opire, n8n + Claude Code workflow for weekly dev summary, No assignees |
