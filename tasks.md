@@ -127,7 +127,7 @@ Last updated: 2026-03-31
 - **Details**: Create Claude Code agent that analyzes PR diffs and posts structured review comments
 - **Verify**: Bounty $150, no assignees, Opire powered
 | BT-BL2-004 | 2026-03-31T21:22:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5927 | available | Priority 1, No assignees, Generalized GitHub Webhook + Contributor Role config schema |
-| BT-BL2-005 | 2026-03-31T21:22:00Z | github | ubiquity-os/deno-deploy | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5923 | available | Priority 1, No assignees, Upgrade to newest Deno Deploy |
+| BT-BL2-005 | 2026-03-31T21:22:00Z | github | ubiquity-os/deno-deploy | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5923 | claimed | Priority 1, No assignees, Upgrade to newest Deno Deploy |
 | BT-BL2-006 | 2026-03-31T21:22:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | available | Priority 1, No assignees, Launch campaign towards L1s/L2s |
 | BT-BM1-001 | 2026-03-31T21:28:30Z | github | labmain/ai-agent-pay-demo | 0 USD | https://github.com/labmain/ai-agent-pay-demo/issues/18 | available | Bounty:$50 label, No assignees, Frontend UI task |
 | BT-BM1-002 | 2026-03-31T21:28:30Z | github | claude-builders-bounty/claude-builders-bounty | 0 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | available | Opire bounty, No assignees, Claude Code SKILL |
