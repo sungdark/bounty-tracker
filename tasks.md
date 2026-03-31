@@ -1266,3 +1266,4 @@
 
 
 
+| BT-1081 | 2026-03-31T14:45:00Z | github | capofficial/client | $200 USD | https://github.com/capofficial/client/issues/29 | pr_open | 已提交 | 2026-03-31T14:45:00Z | CAP #29: Pool transactions should be clearer and have infinite scroll ($200): Added Pool Transactions table to Pools.svelte below the main stats. Columns: Type, Asset, Amount, Market, Pool Balance, Timestamp, User. Color-coded transaction types (Deposit/Withdrawal/Pay In/Pay Out). IntersectionObserver-based infinite scroll loading 50 items per page. Added getPoolTransactions() API and poolTransactions store. PR #99 submitted. |
