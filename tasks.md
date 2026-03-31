@@ -193,3 +193,30 @@ Last updated: 2026-03-31
 | BT-BQ3-001 | 2026-03-31T22:22:00Z | github | ubiquity/ubiquity-dollar | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/5931 | available | Priority 4 Urgent, Integrate Liquity V1 Stability Pool for LUSD yield, complex DeFi task |
 | BT-BQ2-001 | 2026-03-31T22:25:00Z | github | turbo-eth/template-web3-app | 500 OP (~$440) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | Web3 template bounty, Create DeFi/Identity template, Discord approval required |
 | BT-BQ2-002 | 2026-03-31T22:25:00Z | github | clanker-devco/clanker-sdk | ~$1000 | https://github.com/clanker-devco/clanker-sdk/issues/126 | available | Bug fix, 80% creator rewards not working, $1000 funds affected |
+
+### BT-BR3-001: General Improvements
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5902
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5902
+- **Status**: AVAILABLE
+- **Details**: General Improvements for UbiquityOS - linked to ubiquity-os-kernel#300
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-BR3-002: Governance Token emissions to ubq.eth new strategy
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5844
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5844
+- **Status**: AVAILABLE
+- **Details**: Governance Token emissions - linked to ubiquity/ubiquity-dollar#831
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-BR3-003: Integrates Wallet Connect via Reown AppKit
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5874
+- **Reward**: $300 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5874
+- **Status**: AVAILABLE
+- **Details**: Integrate Wallet Connect via Reown AppKit (Time: <1 Day)
+- **Verify**: Priority 1, No assignees, $300 USD
