@@ -39,13 +39,13 @@ Last updated: 2026-03-31
 - **Status**: CLAIMED (developing)
 - **Details**: Design config schema for generalized GitHub Webhook + Contributor Role -> Rewards plugin
 
-### BL2-005: Launch campaign towards L1s/L2s for managing their GitHubs
-- **Repo**: ubiquity/business-development
-- **Issue**: #184 (devpool #5925)
-- **Reward**: $600 USD
-- **URL**: https://github.com/ubiquity/business-development/issues/184
+### BL2-005: Upgrade to newest Deno Deploy
+- **Repo**: ubiquity-os/deno-deploy
+- **Issue**: #17 (devpool #5923)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/deno-deploy/issues/17
 - **Status**: CLAIMED (developing)
-- **Details**: Scraping L1/L2 lists from Coinmarketcap, enrich with contact data, launch multi-channel campaign
+- **Details**: Upgrade from deployctl to Deno Deploy new CLI (console.deno.com), dark mode, better builds, native Node support
 
 ### BL2-006: Use GraphQL consistently for linked pull-request lookups
 - **Repo**: ubiquity-os-marketplace/command-start-stop
