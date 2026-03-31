@@ -306,3 +306,34 @@ Last updated: 2026-03-31
 | BT-BV2-002 | 2026-03-31T23:05:00Z | github | tenstorrent/tt-metal | $10000 USD | https://github.com/tenstorrent/tt-metal/issues/41028 | available | Tenstorrent, Optimize log1p for fp32/bf16, No assignees |
 | BT-BV2-003 | 2026-03-31T23:05:00Z | github | tenstorrent/tt-metal | $3500 USD | https://github.com/tenstorrent/tt-metal/issues/41030 | available | Tenstorrent, Optimize signbit from 8 to 1-4 cycles, No assignees |
 | BT-BV2-004 | 2026-03-31T23:05:00Z | github | KadeshX-Web3/KadeshX | TBD | https://github.com/KadeshX-Web3/KadeshX/issues/1 | available | Solana/Anchor, Security audit vesting, $KX token grants, No assignees |
+
+### BT-BV3-001: UbiquityOS Sprint Management Dashboard
+- **Repo**: ubiquity-os/.github
+- **Issue**: #14 (devpool #5916)
+- **Reward**: $1800 USD
+- **URL**: https://github.com/ubiquity-os/.github/issues/14
+- **Status**: AVAILABLE
+- **Details**: Create UbiquityOS Sprint Management Dashboard - linked from devpool
+- **Verify**: Priority 3, $1800 USD, no assignees
+
+### BT-BV3-002: Add `UUSD` and `UBQ` tokens to popular services
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #984 (devpool #5850)
+- **Reward**: $2400 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/984
+- **Status**: AVAILABLE
+- **Details**: Add UUSD and UBQ tokens to popular services (CEXs, wallets, etc.)
+- **Verify**: Priority 4 Urgent, $2400 USD, no assignees
+
+### BT-BV3-003: New Proposal Router
+- **Repo**: ubiquity/.github
+- **Issue**: #123 (devpool #5840)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity/.github/issues/123
+- **Status**: AVAILABLE
+- **Details**: New Proposal Router implementation
+- **Verify**: Priority 1, $300 USD, no assignees
+
+| BT-BV3-001 | 2026-03-31T23:03:00Z | github | ubiquity-os/.github | $1800 USD | https://github.com/devpool-directory/devpool-directory/issues/5916 | available | Priority 3 High, UbiquityOS Sprint Management Dashboard, No assignees |
+| BT-BV3-002 | 2026-03-31T23:03:00Z | github | ubiquity/ubiquity-dollar | $2400 USD | https://github.com/devpool-directory/devpool-directory/issues/5850 | available | Priority 4 Urgent, Add UUSD and UBQ tokens to popular services, No assignees |
+| BT-BV3-003 | 2026-03-31T23:03:00Z | github | ubiquity/.github | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5840 | available | Priority 1, New Proposal Router, No assignees |
