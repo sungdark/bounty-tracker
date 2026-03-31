@@ -55,6 +55,24 @@ Last updated: 2026-03-31
 - **Status**: CLAIMED (developing)
 - **Details**: Replace REST API calls with GraphQL for PR lookups in command-start-stop plugin
 
+### BP2-001: Easy Unit Test Bounty
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #1589
+- **Reward**: 2 RTC (~$2?) - Easy difficulty
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/1589
+- **Status**: OPEN
+- **Details**: Write pytest unit tests for any untested function, cover 2+ edge cases
+- **Verify**: Bounty label, amount explicit, good first issue
+
+### BP2-002: Web Dashboard for RustChain Stats
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #1600
+- **Reward**: 5 RTC
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/1600
+- **Status**: OPEN
+- **Details**: Build web dashboard showing RustChain stats
+- **Verify**: Bounty label, feature request, frontend task
+
 ## Scanned Repos
 - defi-wikis/defi-tokens-wiki ✓
 - mantlenetworkio/mantle ✓
@@ -63,6 +81,7 @@ Last updated: 2026-03-31
 - ubiquity/ubiquity-dollar ✓
 - ubiquity-os/.github ✓
 - ubiquity-os/ubiquity-os-kernel ✓
+- Scottcjn/rustchain-bounties ✓
 
 ### BL3-001: CI fix check_storage_layout for new contracts
 - **Repo**: ubiquity/ubiquity-dollar
@@ -149,3 +168,7 @@ Last updated: 2026-03-31
 | BT-BO2-003 | 2026-03-31T22:10:00Z | github | daydreamsai/agent-bounties | $1000 USD | https://github.com/daydreamsai/agent-bounties/issues/8 | available | Perps Funding Pulse, Monitor perpetuals funding rates, No assignees |
 | BT-BO2-004 | 2026-03-31T22:10:00Z | github | daydreamsai/agent-bounties | $1000 USD | https://github.com/daydreamsai/agent-bounties/issues/9 | available | Lending Liquidation Sentinel, Monitor health factor alerts, No assignees |
 | BT-BO2-005 | 2026-03-31T22:10:00Z | github | iotaledger/iota-rust-sdk | TBD | https://github.com/iotaledger/iota-rust-sdk/issues/1027 | available | IOTA Move DeFi Starter Kit - Lending Pool, Flash Loans, Oracle, No assignees |
+| BT-BP1-001 | 2026-03-31T22:15:00Z | github | tenstorrent/tt-mlir | $2000 USD | https://github.com/tenstorrent/tt-mlir/issues/4349 | available | Tune VoVNet model to ~1400 FPS, TT-NN C++ optimization, ML/performance engineering |
+| BT-BP1-002 | 2026-03-31T22:15:00Z | github | tenstorrent/tt-metal | $1500 USD | https://github.com/tenstorrent/tt-metal/issues/16618 | available | Add ttnn.flip equivalent of torch.flip, needed for conv_transpose2d weights
+| BT-BP2-001 | 2026-03-31T22:12:00Z | github | Scottcjn/rustchain-bounties | 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1589 | available | Easy bounty, Write unit test for untested function, 2 RTC per test, No assignees |
+| BT-BP2-002 | 2026-03-31T22:12:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1600 | available | Build web dashboard showing RustChain stats, Frontend feature, No assignees |
