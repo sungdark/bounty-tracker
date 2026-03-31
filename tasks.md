@@ -253,3 +253,7 @@ Last updated: 2026-03-31
 | BT-BP2-005 | 2026-03-31T22:31:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/571 | available | Security, Empty string authentication bypass in pending transfer system, No assignees |
 | BT-BP2-004 | 2026-03-31T22:31:00Z | github | Scottcjn/rustchain-bounties | 100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/572 | available | Security, Hardcoded admin key authentication bypass, No assignees |
 | BT-BP2-003 | 2026-03-31T22:31:00Z | github | Scottcjn/rustchain-bounties | 100+ RTC | https://github.com/Scottcjn/rustchain-bounties/issues/573 | available | Security, P2P message forgery via hardcoded HMAC secret, No assignees |
+
+### BT-BS3-002: Bounty system improvements
+| BT-BS3-002 | 2026-03-31T22:54:00Z | github | HellWatcher/honksquad-ss14 | TBD | https://github.com/HellWatcher/honksquad-ss14/issues/131 | available | Feature request, No bounty amount specified, No assignees |
+| BT-BS3-003 | 2026-03-31T22:54:00Z | github | TheJollyLaMa/BigNuten_Vanilla | 1-2 BNUT | https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/269 | available | Visual indicator for treasury BNUT vs bounties, No assignees |
