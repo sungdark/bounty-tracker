@@ -31,9 +31,50 @@ Last updated: 2026-03-31
 - **Details**: DeFi implementation on Mantle
 - **Verify**: Past deadline, no longer valid
 
+### BL2-004: Generalized GitHub Webhook + Contributor Role Config v3
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: #47 (devpool #5927)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/plugins-wishlist/issues/47
+- **Status**: AVAILABLE
+- **Details**: Design config schema for generalized GitHub Webhook + Contributor Role -> Rewards plugin
+- **Verify**: Priority 1, no assignees
+
 ## Scanned Repos
 - defi-wikis/defi-tokens-wiki ✓
 - mantlenetworkio/mantle ✓
 - harmonylion/ideamarkets ✓
 - icon-community/ice-substrate ✓
-| BT-BL1-001 | 2026-03-31T21:20:00Z | github | turbo-eth/template-web3-app | ~$800 USD (500 OP) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | 新机会 | 2026-03-31T21:20:00Z | TurboETH Template bounty: 500 OP + TurboETH DevPass. Create Web3 app template (DeFi/Digital Identity/Digital Collectibles). Live demo on Vercel required. 0 assignees, 15 comments, open since 2023 but still available. |
+- ubiquity/ubiquity-dollar ✓
+- ubiquity-os/.github ✓
+- ubiquity-os/ubiquity-os-kernel ✓
+
+### BL3-001: CI fix check_storage_layout for new contracts
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #972
+- **Reward**: 300 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/972
+- **Status**: OPEN
+- **Details**: Fix core-contracts-storage-check CI workflow that fails when new contracts are added - need to handle new contracts differently since they haven't been updated yet
+- **Verify**: Price label present, clear technical spec
+
+### BL3-002: Plugin health monitor
+- **Repo**: ubiquity-os/.github
+- **Issue**: #12
+- **Reward**: 450 USD
+- **URL**: https://github.com/ubiquity-os/.github/issues/12
+- **Status**: OPEN
+- **Details**: Create cron job to monitor plugins on ubiquity-os-marketplace, notify if 10 consecutive failures detected
+- **Verify**: Price label present, clear requirements
+
+### BL3-003: Fix /help flow agent-rejected message for bot user
+- **Repo**: ubiquity-os/ubiquity-os-kernel
+- **Issue**: #331
+- **Reward**: 75 USD
+- **URL**: https://github.com/ubiquity-os/ubiquity-os-kernel/issues/331
+- **Status**: OPEN
+- **Details**: Fix /help command emitting "Only human users can invoke the agent" rejection for bot users; prevent bot-to-bot reply chains
+- **Verify**: Price label present, detailed acceptance criteria
+| BT-BL2-004 | 2026-03-31T21:22:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5927 | available | Priority 1, No assignees, Generalized GitHub Webhook + Contributor Role config schema |
+| BT-BL2-005 | 2026-03-31T21:22:00Z | github | ubiquity-os/deno-deploy | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5923 | available | Priority 1, No assignees, Upgrade to newest Deno Deploy |
+| BT-BL2-006 | 2026-03-31T21:22:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | available | Priority 1, No assignees, Launch campaign towards L1s/L2s |
