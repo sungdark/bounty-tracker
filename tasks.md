@@ -264,3 +264,45 @@ Last updated: 2026-03-31
 ### BT-BS3-002: Bounty system improvements
 | BT-BS3-002 | 2026-03-31T22:54:00Z | github | HellWatcher/honksquad-ss14 | TBD | https://github.com/HellWatcher/honksquad-ss14/issues/131 | available | Feature request, No bounty amount specified, No assignees |
 | BT-BS3-003 | 2026-03-31T22:54:00Z | github | TheJollyLaMa/BigNuten_Vanilla | 1-2 BNUT | https://github.com/TheJollyLaMa/BigNuten_Vanilla/issues/269 | available | Visual indicator for treasury BNUT vs bounties, No assignees |
+
+### BT-BV2-001: [Bounty $10k] Optimise atan2
+- **Repo**: tenstorrent/tt-metal
+- **Issue**: #41029
+- **Reward**: $10,000 USD
+- **URL**: https://github.com/tenstorrent/tt-metal/issues/41029
+- **Status**: OPEN
+- **Details**: Currently composite op with poor performance. Implement as single device op specialized for fp32 and bf16. Hard bounty.
+- **Verify**: Bounty label $10k, op_cat:eltwise, No assignees
+
+### BT-BV2-002: [Bounty $10k] Optimise log1p
+- **Repo**: tenstorrent/tt-metal
+- **Issue**: #41028
+- **Reward**: $10,000 USD
+- **URL**: https://github.com/tenstorrent/tt-metal/issues/41028
+- **Status**: OPEN
+- **Details**: Optimize log1p operation for fp32 and bf16. Hard bounty.
+- **Verify**: Bounty label $10k, op_cat:eltwise, No assignees
+
+### BT-BV2-003: [Bounty $3.5k] Optimise signbit
+- **Repo**: tenstorrent/tt-metal
+- **Issue**: #41030
+- **Reward**: $3,500 USD
+- **URL**: https://github.com/tenstorrent/tt-metal/issues/41030
+- **Status**: OPEN (claimed)
+- **Details**: Currently 8 cycles per row, target: 1-4 cycles per row. SFPLOADMACRO implementation.
+- **Verify**: Bounty label $3.5k, PR already submitted
+
+### BT-BV2-004: KadeshX Security Audit & Vesting Logic
+- **Repo**: KadeshX-Web3/KadeshX
+- **Issue**: #1
+- **Reward**: $KX Grants (5% total supply)
+- **URL**: https://github.com/KadeshX-Web3/KadeshX/issues/1
+- **Status**: OPEN
+- **Details**: Security audit of vesting smart contract, formal verification, performance optimization. Solana/Anchor.
+- **Verify**: Token rewards from Ecosystem Development fund
+
+
+| BT-BV2-001 | 2026-03-31T23:05:00Z | github | tenstorrent/tt-metal | $10000 USD | https://github.com/tenstorrent/tt-metal/issues/41029 | available | Tenstorrent, Optimize atan2 - composite op to single device op, No assignees |
+| BT-BV2-002 | 2026-03-31T23:05:00Z | github | tenstorrent/tt-metal | $10000 USD | https://github.com/tenstorrent/tt-metal/issues/41028 | available | Tenstorrent, Optimize log1p for fp32/bf16, No assignees |
+| BT-BV2-003 | 2026-03-31T23:05:00Z | github | tenstorrent/tt-metal | $3500 USD | https://github.com/tenstorrent/tt-metal/issues/41030 | available | Tenstorrent, Optimize signbit from 8 to 1-4 cycles, No assignees |
+| BT-BV2-004 | 2026-03-31T23:05:00Z | github | KadeshX-Web3/KadeshX | TBD | https://github.com/KadeshX-Web3/KadeshX/issues/1 | available | Solana/Anchor, Security audit vesting, $KX token grants, No assignees |
