@@ -82,6 +82,14 @@ Last updated: 2026-03-31
 - **Details**: Write pytest unit tests for any untested function, cover 2+ edge cases
 - **Verify**: Bounty label, amount explicit, good first issue
 
+### BL2-009: CI fix check_storage_layout for new contracts
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #972 (devpool #5848)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/972
+- **Status**: CLAIMED (developing)
+- **Details**: Fix core-contracts-storage-check workflow to not fail for newly added contracts (No workflow run found with an artifact error)
+
 ### BP2-002: Web Dashboard for RustChain Stats
 - **Repo**: Scottcjn/rustchain-bounties
 - **Issue**: #1600
