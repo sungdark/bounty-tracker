@@ -55,6 +55,24 @@ Last updated: 2026-03-31
 - **Status**: CLAIMED (developing)
 - **Details**: Replace REST API calls with GraphQL for PR lookups in command-start-stop plugin
 
+### BL2-007: TurboETH Template - 500 OP Reward
+- **Repo**: turbo-eth/template-web3-app
+- **Issue**: #29
+- **Reward**: 500 OP + 50 OP bonus (~$440)
+- **URL**: https://github.com/turbo-eth/template-web3-app/issues/29
+- **Status**: OPEN
+- **Details**: Create Web3 app template integrating DeFi (Uniswap, PoolTogether, Superfluid) or Identity (Disco, Tally, Orbis). Live demo on Vercel required.
+- **Verify**: Clear bounty reward in body, requires Discord approval first
+
+### BL2-008: Clanker Creator Rewards Bug - $1000
+- **Repo**: clanker-devco/clanker-sdk
+- **Issue**: #126
+- **Reward**: ~$1000 affected (bug fix)
+- **URL**: https://github.com/clanker-devco/clanker-sdk/issues/126
+- **Status**: OPEN (unclaimed)
+- **Details**: 80% creator reward split not working - fees go to protocol instead of creator wallet. Two tokens affected: APE42 and SNIPSNIP.
+- **Verify**: Bug report with clear reproduction steps, ~$1000 funds affected
+
 ### BP2-001: Easy Unit Test Bounty
 - **Repo**: Scottcjn/rustchain-bounties
 - **Issue**: #1589
@@ -173,3 +191,5 @@ Last updated: 2026-03-31
 | BT-BP2-001 | 2026-03-31T22:12:00Z | github | Scottcjn/rustchain-bounties | 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1589 | available | Easy bounty, Write unit test for untested function, 2 RTC per test, No assignees |
 | BT-BP2-002 | 2026-03-31T22:12:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1600 | available | Build web dashboard showing RustChain stats, Frontend feature, No assignees |
 | BT-BQ3-001 | 2026-03-31T22:22:00Z | github | ubiquity/ubiquity-dollar | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/5931 | available | Priority 4 Urgent, Integrate Liquity V1 Stability Pool for LUSD yield, complex DeFi task |
+| BT-BQ2-001 | 2026-03-31T22:25:00Z | github | turbo-eth/template-web3-app | 500 OP (~$440) | https://github.com/turbo-eth/template-web3-app/issues/29 | available | Web3 template bounty, Create DeFi/Identity template, Discord approval required |
+| BT-BQ2-002 | 2026-03-31T22:25:00Z | github | clanker-devco/clanker-sdk | ~$1000 | https://github.com/clanker-devco/clanker-sdk/issues/126 | available | Bug fix, 80% creator rewards not working, $1000 funds affected |
