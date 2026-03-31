@@ -75,6 +75,26 @@ Last updated: 2026-03-31
 - **Status**: OPEN
 - **Details**: Fix /help command emitting "Only human users can invoke the agent" rejection for bot users; prevent bot-to-bot reply chains
 - **Verify**: Price label present, detailed acceptance criteria
+
+### BM1-001: Add loading spinner to bounty list page
+- **Repo**: labmain/ai-agent-pay-demo
+- **Issue**: #18
+- **Reward**: $50 USD
+- **URL**: https://github.com/labmain/ai-agent-pay-demo/issues/18
+- **Status**: AVAILABLE
+- **Details**: Add loading spinner/skeleton while data is being fetched
+- **Verify**: Bounty label $50, no assignees
+
+### BM1-002: SKILL - Generate CHANGELOG from git history
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #1
+- **Reward**: $50 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1
+- **Status**: AVAILABLE
+- **Details**: Create Claude Code skill or bash script to generate CHANGELOG.md from git history
+- **Verify**: Bounty $50, no assignees, Opire powered
 | BT-BL2-004 | 2026-03-31T21:22:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5927 | available | Priority 1, No assignees, Generalized GitHub Webhook + Contributor Role config schema |
 | BT-BL2-005 | 2026-03-31T21:22:00Z | github | ubiquity-os/deno-deploy | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5923 | available | Priority 1, No assignees, Upgrade to newest Deno Deploy |
 | BT-BL2-006 | 2026-03-31T21:22:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | available | Priority 1, No assignees, Launch campaign towards L1s/L2s |
+| BT-BM1-001 | 2026-03-31T21:28:30Z | github | labmain/ai-agent-pay-demo | 0 USD | https://github.com/labmain/ai-agent-pay-demo/issues/18 | available | Bounty:$50 label, No assignees, Frontend UI task |
+| BT-BM1-002 | 2026-03-31T21:28:30Z | github | claude-builders-bounty/claude-builders-bounty | 0 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | available | Opire bounty, No assignees, Claude Code SKILL |
