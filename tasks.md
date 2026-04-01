@@ -1,8 +1,8 @@
 # 🦞 Bounty Tracker — Updated 2026-04-01
 
-**Scanner:** CR1 (GitHub API — bounty in:title is:issue state:open)  
-**Devpool Scan:** Priority 1 (Normal) + $200+ only  
-**Scan time:** 2026-04-01 10:37 UTC
+**Scanner:** CU3 (GitHub API — devpool-directory latest updated)  
+**Devpool Scan:** $200+ all priorities  
+**Scan time:** 2026-04-01 11:41 UTC
 
 ---
 
@@ -15,8 +15,9 @@
 |---|--------|-------|--------|---------|
 | **5845** | **$300** | Formal verification — LibUbiquityPool | 🔨 **IN PROGRESS** | [PR: sungdark/bounty-ubiquity-formal](https://github.com/sungdark/bounty-ubiquity-formal) |
 | **5045** | **$300** | Contributor Class v2 — github-webhook-rewards | 🔨 **IN PROGRESS** | [PR: sungdark/ubiquity-rewards](https://github.com/sungdark/ubiquity-rewards) |
-| 5840 | $300 | New Proposal Router — UbiquityOS GitHub routing UI | ✅ Free (no PR in ubiquity/.github) | [devpool#5840](https://github.com/devpool-directory/devpool-directory/issues/5840) |
-| 5902 | $600 | General Improvements — ubiquity-os-kernel | ✅ Free (no PR in kernel) | [devpool#5902](https://github.com/devpool-directory/devpool-directory/issues/5902) |
+| 5886 | $450 | Plugin health monitor — cron job for marketplace plugins | ✅ Free | [devpool#5886](https://github.com/devpool-directory/devpool-directory/issues/5886) |
+| 5840 | $300 | New Proposal Router — UbiquityOS GitHub routing UI | ✅ Free | [devpool#5840](https://github.com/devpool-directory/devpool-directory/issues/5840) |
+| 5902 | $600 | General Improvements — ubiquity-os-kernel | ✅ Free | [devpool#5902](https://github.com/devpool-directory/devpool-directory/issues/5902) |
 | ~~5844~~ | ~~$600~~ | ~~Governance Token emissions~~ | ❌ **TAKEN** (PR #971 exists) | ubiquity-dollar#831 |
 | ~~5848~~ | ~~$300~~ | ~~CI: fix check_storage_layout~~ | ❌ **TAKEN** (PR #1008 exists) | ubiquity-dollar#972 |
 | ~~5927~~ | ~~$300~~ | ~~GitHub Webhook Rewards plugin~~ | ❌ **TAKEN** (PR #82 exists) | ubiquity-os/plugins-wishlist#47 |
@@ -94,7 +95,7 @@
 
 | Category | Count |
 |----------|-------|
-| Devpool Priority 1 $200+ | 3 available (2 in progress, 1 free) |
+| Devpool $200+ | 4 available (2 in progress, 2 free) |
 | CR1 USD ≥$100 | 12 |
 | Quick Wins (USDT/micro/USD) | 18 |
 | Total unclaimed | ~100 |
@@ -102,10 +103,11 @@
 **Top picks for action:**
 1. **$300** — Formal verification #5845 — ✅ **IN PROGRESS** (tests written, PR submitted)
 2. **$300** — Contributor Class v2 #5045 — ✅ **IN PROGRESS** (implementation complete)
-3. **$300** — New Proposal Router #5840 — UbiquityOS routing with ML (high complexity)
-4. **$600** — General Improvements #5902 — kernel wishlist (medium)
-4. **$2,500** — Lifting Wavelet Transform — tenstorrent/tt-metal (ML/hardware)
-5. **$1,500** — CosyVoice bring-up — tenstorrent/tt-metal *(URGENT: due Apr 6!)*
+3. **$450** — Plugin health monitor #5886 — cron job to monitor marketplace plugin failures
+4. **$300** — New Proposal Router #5840 — UbiquityOS routing with ML (high complexity)
+5. **$600** — General Improvements #5902 — kernel wishlist (medium)
+6. **$2,500** — Lifting Wavelet Transform — tenstorrent/tt-metal (ML/hardware)
+7. **$1,500** — CosyVoice bring-up — tenstorrent/tt-metal *(URGENT: due Apr 6!)*
 
 > 🆕 **CT1 new:** +7 entries from 2026-04-01 scan — illbnm USDT x4 ($120-$280), labmain x2 ($50), devpool x1 ($9)
 
