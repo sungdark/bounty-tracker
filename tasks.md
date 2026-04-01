@@ -343,9 +343,9 @@ Last updated: 2026-03-31
 - **Issue**: #926 (devpool #5845)
 - **Reward**: $300 USD
 - **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/926
-- **Status**: AVAILABLE
+- **Status**: CLAIMED (developing)
 - **Details**: Formal verification for ubiquity-dollar smart contracts
-- **Verify**: Priority 1, $300 USD, no assignees
+- **Verify**: Priority 1, $300 USD, claimed by sungdark
 
 ### BT-BX3-002: Recruiting Dragonfly CTF II
 - **Repo**: ubiquity/business-development
