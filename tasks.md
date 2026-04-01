@@ -887,3 +887,7 @@ Last updated: 2026-03-31
 - **Verify**: Priority 1, No assignees, $600 USD, no open PRs
 
 | BT-5925 | 2026-04-01T04:12:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | claimed | Priority 1, Launch campaign L1s/L2s for GitHub management, No open PRs |
+
+| CF2-001 | 2026-04-01T04:16:00Z | github | tonkeeper/w5 | 5000-10000 TON (~$2500-5000) | https://github.com/tonkeeper/w5/issues/17 | available | TON DeFi Security Bounty, Wallet V5 smart contract, No assignees |
+| CF2-002 | 2026-04-01T04:16:00Z | github | gitcoinco/web | $30-$600 USD | https://github.com/gitcoinco/web/issues/9659 | available | Gitcoin Security Bounty, Open source marketplace, No assignees |
+
