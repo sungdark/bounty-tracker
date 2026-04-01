@@ -876,3 +876,14 @@ Last updated: 2026-03-31
 | CE1-003 | 2026-04-01T04:10:00Z | github | tenstorrent/tt-metal | $10000 USD | https://github.com/tenstorrent/tt-metal/issues/41029 | available | Optimize atan2, composite to single device op, No assignees |
 | CE1-004 | 2026-04-01T04:10:00Z | github | tenstorrent/tt-metal | $10000 USD | https://github.com/tenstorrent/tt-metal/issues/41028 | available | Optimize log1p for fp32/bf16, No assignees |
 | CE1-005 | 2026-04-01T04:10:00Z | github | tenstorrent/tt-metal | $3500 USD | https://github.com/tenstorrent/tt-metal/issues/41030 | claimed | Optimize signbit from 8 to 1-4 cycles, PR submitted |
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: CLAIMED (developing)
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS. Research chains, scrape L1/L2 lists, enrich with contacts, launch multi-channel campaign.
+- **Verify**: Priority 1, No assignees, $600 USD, no open PRs
+
+| BT-5925 | 2026-04-01T04:12:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | claimed | Priority 1, Launch campaign L1s/L2s for GitHub management, No open PRs |
