@@ -637,3 +637,10 @@ Last updated: 2026-03-31
 | BZ1-008 | 2026-04-01T02:41:00Z | github | Scottcjn/rustchain-bounties | 1 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | available | Bounty 1 RTC, Add CONTRIBUTING.md |
 
 | CA1-001 | 2026-04-01T03:14:00Z | github | illbnm/homelab-stack | $120 USDT | https://github.com/illbnm/homelab-stack/issues/4 | available | Docker compose for AdGuard+WireGuard+Cloudflare DDNS+Unbound, No assignees |
+
+| CA2-001 | 2026-04-01T03:17:00Z | github | Spectral-Finance/lux | 50 USD | https://github.com/Spectral-Finance/lux/issues/79 | available | DeFi, PancakeSwap Integration and Yield Farming, No assignees |
+| CA2-002 | 2026-04-01T03:17:00Z | github | Scottcjn/Rustchain | 150 RTC (~5) | https://github.com/Scottcjn/Rustchain/issues/32 | available | DeFi, RTC/ERG Trading Pair on Spectrum DEX, No assignees |
+| CA2-003 | 2026-04-01T03:17:00Z | github | Scottcjn/rustchain-bounties | up to 50 RTC (~) | https://github.com/Scottcjn/rustchain-bounties/issues/692 | available | DeFi, Micro Liquidity - Provide Liquidity Get 1.5x Back, No assignees |
+| CA2-004 | 2026-04-01T03:17:00Z | github | Scottcjn/rustchain-bounties | 20 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1616 | available | DeFi, Build mobile wallet app React Native/Flutter, No assignees |
+| CA2-005 | 2026-04-01T03:17:00Z | github | daydreamsai/agent-bounties | 000 USD | https://github.com/daydreamsai/agent-bounties/issues/4 | available | DeFi Infrastructure, GasRoute Oracle, No assignees |
+| CA2-006 | 2026-04-01T03:17:00Z | github | Scottcjn/rustchain-bounties | 750 RTC pool | https://github.com/Scottcjn/rustchain-bounties/issues/71 | available | DeFi/Security, Ongoing Bug Bounty Program - Find Bugs Earn RTC, No assignees |
