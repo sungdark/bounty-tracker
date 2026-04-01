@@ -218,7 +218,7 @@ Last updated: 2026-04-01
 - **Verify**: Bounty $150, no assignees, Opire powered
 | BT-BL2-004 | 2026-03-31T21:22:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5927 | claimed | Priority 1, No assignees, Generalized GitHub Webhook + Contributor Role config schema |
 | BT-BL2-005 | 2026-03-31T21:22:00Z | github | ubiquity-os/deno-deploy | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5923 | claimed | Priority 1, No assignees, Upgrade to newest Deno Deploy |
-| BT-BL2-006 | 2026-03-31T21:22:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | available | Priority 1, No assignees, Launch campaign towards L1s/L2s |
+| BT-BL2-006 | 2026-03-31T21:22:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | claimed | Priority 1, $600 USD, Launch campaign L1s/L2s - Work repo: https://github.com/sungdark/l1-l2-campaign |
 | BT-BM1-001 | 2026-03-31T21:28:30Z | github | labmain/ai-agent-pay-demo | $50 USD | https://github.com/labmain/ai-agent-pay-demo/issues/18 | available | Bounty:$50 label, No assignees, Frontend UI task |
 | BT-BM1-002 | 2026-03-31T21:28:30Z | github | claude-builders-bounty/claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | available | Opire bounty, No assignees, Claude Code SKILL |
 | BT-BL3-001 | 2026-03-31T21:30:00Z | github | ubiquity/ubiquity-dollar | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5848 | claimed | Priority 1, No assignees, Fix storage layout CI for new contracts, PR ready at https://github.com/sungdark/fix-storage-layout-5848 |
@@ -1666,4 +1666,16 @@ Last CP1 scan: 2026-04-01T09:44:00Z
 | CM3-003 | 2026-04-01T09:45:00Z | github | devpool-directory/devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5042 | available | Priority 3 High, Review Incentive Double Check Calculations, No assignees |
 | CM3-004 | 2026-04-01T09:45:00Z | github | devpool-directory/devpool-directory | $400 USD | https://github.com/devpool-directory/devpool-directory/issues/5030 | available | Priority 3 High, Opire bounty, No assignees |
 
-Last updated: 2026-04-01T09:45:00Z
+### CN1-001: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5925
+- **Status**: CLAIMED (developing)
+- **Work Repo**: https://github.com/sungdark/l1-l2-campaign
+- **Details**: DevRel campaign - scrape L1/L2 chains from CoinMarketcap, enrich with contacts, launch multi-channel outreach. Initial work: research data (15 L1s, 13 L2s), Playwright scraper, outreach templates.
+- **Verify**: Priority 1, $600 USD, No open PRs, claimed by sungdark via /start on devpool
+
+| CN1-001 | 2026-04-01T09:52:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | claimed | Priority 1, $600 USD, L1/L2 campaign - Work: https://github.com/sungdark/l1-l2-campaign |
+
+Last updated: 2026-04-01T09:52:00Z
