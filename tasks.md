@@ -189,10 +189,16 @@ Scanner: CX3 subagent — devpool-directory deep scan (re-verified 2026-04-01 12
 - Source: https://github.com/ubiquity-os-marketplace/text-vector-embeddings/issues/55
 - Time: Time: <4 Hours | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
 
-**#5020** [Scraper: Scrape Issue Threads with Time estimates.] - $300 USD - UNCLAIMED
+**#5020** [Scraper: Scrape Issue Threads with Time estimates.] - $300 USD - 🔴 IN_PROGRESS
 - Devpool: https://github.com/devpool-directory/devpool-directory/issues/5020
 - Source: https://github.com/ubiquity-os-marketplace/daemon-pricing/issues/82
 - Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-03-20
+- **Claimed by:** sungdark (commented on devpool issue)
+- **Implementation:** Independent repo https://github.com/sungdark/scraper-time-estimates
+- **Dataset:** 396 examples (277 train + 119 val) scraped from 10 Ubiquity repos
+  - ubiquity/ubiquity-dollar (57), ubiquity/pay.ubq.fi (148), ubiquity-os/ubiquity-os-kernel (55), ubiquity-os/plugin-sdk (19), ubiquity-os/plugins-wishlist (45), ubiquity/ubiquity-os-logger (7), ubiquity-os/configuration-loader (6), ubiquity-os/ubiquity-os-plugin-installer (16), ubiquity-os-marketplace/daemon-pricing (29), ubiquity/uusd.ubq.fi (14)
+- **Format:** OpenAI fine-tuning JSONL with system prompt, issue text, time estimate answer
+- **Branch:** feature/scraper-time-estimates-dataset (ready for PR)
 
 **#5027** [Check dev experience on starting an issue] - $300 USD - UNCLAIMED
 - Devpool: https://github.com/devpool-directory/devpool-directory/issues/5027
