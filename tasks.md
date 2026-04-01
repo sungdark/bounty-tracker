@@ -192,8 +192,8 @@ Last updated: 2026-04-01
 | BT-BL2-004 | 2026-03-31T21:22:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5927 | claimed | Priority 1, No assignees, Generalized GitHub Webhook + Contributor Role config schema |
 | BT-BL2-005 | 2026-03-31T21:22:00Z | github | ubiquity-os/deno-deploy | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5923 | claimed | Priority 1, No assignees, Upgrade to newest Deno Deploy |
 | BT-BL2-006 | 2026-03-31T21:22:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | available | Priority 1, No assignees, Launch campaign towards L1s/L2s |
-| BT-BM1-001 | 2026-03-31T21:28:30Z | github | labmain/ai-agent-pay-demo | 0 USD | https://github.com/labmain/ai-agent-pay-demo/issues/18 | available | Bounty:$50 label, No assignees, Frontend UI task |
-| BT-BM1-002 | 2026-03-31T21:28:30Z | github | claude-builders-bounty/claude-builders-bounty | 0 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | available | Opire bounty, No assignees, Claude Code SKILL |
+| BT-BM1-001 | 2026-03-31T21:28:30Z | github | labmain/ai-agent-pay-demo | $50 USD | https://github.com/labmain/ai-agent-pay-demo/issues/18 | available | Bounty:$50 label, No assignees, Frontend UI task |
+| BT-BM1-002 | 2026-03-31T21:28:30Z | github | claude-builders-bounty/claude-builders-bounty | $50 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | available | Opire bounty, No assignees, Claude Code SKILL |
 | BT-BL3-001 | 2026-03-31T21:30:00Z | github | ubiquity/ubiquity-dollar | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5848 | claimed | Priority 1, No assignees, Fix storage layout CI for new contracts, PR ready at https://github.com/sungdark/fix-storage-layout-5848 |
 | BT-BN2-001 | 2026-03-31T21:36:00Z | github | capofficial/client | $500 USD | https://github.com/capofficial/client/issues/16 | available | DeFi trading platform, Add technical indicators (MA, RSI, MACD), No assignees |
 | BT-BN2-002 | 2026-03-31T21:36:00Z | github | capofficial/client | $500 USD | https://github.com/capofficial/client/issues/13 | available | DeFi trading platform, Welcome modal with bridge instructions, No assignees |
@@ -1163,3 +1163,14 @@ Last updated: 2026-04-01
 | CK1-009 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $100 USDT | https://github.com/illbnm/homelab-stack/issues/11 | available | Docker Compose: PostgreSQL+Redis+MariaDB shared, backup scripts, pgAdmin UIs, No assignees |
 | CK1-010 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/12 | available | 3-2-1 backup: Duplicati+Restic, multi-target, disaster recovery docs, ntfy alerts, No assignees |
 | CK1-011 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $80 USDT | https://github.com/illbnm/homelab-stack/issues/13 | available | Docker Compose: ntfy+Gotify notification servers, notify.sh script, Alertmanager/Gitea integration docs, No assignees |
+
+### CK2-001: Design Logo for Gracias AI App Store Auditor
+- **Repo**: atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource
+- **Issue**: #2
+- **Reward**: INR 500 (~$6 USD)
+- **URL**: https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/2
+- **Status**: AVAILABLE
+- **Details**: Design a modern SVG logo for the Gracias AI App Store Policy Auditor iOS app
+- **Verify**: Bounty label, INR 500, no assignees, SVG format required
+
+| CK2-001 | 2026-04-01T09:23:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | INR 500 (~$6) | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/2 | available | Logo design for AI iOS app store auditor, SVG format, No assignees |
