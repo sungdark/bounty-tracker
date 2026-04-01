@@ -171,7 +171,7 @@ Last updated: 2026-03-31
 - **Status**: AVAILABLE
 - **Details**: Create Claude Code agent that analyzes PR diffs and posts structured review comments
 - **Verify**: Bounty $150, no assignees, Opire powered
-| BT-BL2-004 | 2026-03-31T21:22:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5927 | available | Priority 1, No assignees, Generalized GitHub Webhook + Contributor Role config schema |
+| BT-BL2-004 | 2026-03-31T21:22:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5927 | claimed | Priority 1, No assignees, Generalized GitHub Webhook + Contributor Role config schema |
 | BT-BL2-005 | 2026-03-31T21:22:00Z | github | ubiquity-os/deno-deploy | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5923 | claimed | Priority 1, No assignees, Upgrade to newest Deno Deploy |
 | BT-BL2-006 | 2026-03-31T21:22:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | available | Priority 1, No assignees, Launch campaign towards L1s/L2s |
 | BT-BM1-001 | 2026-03-31T21:28:30Z | github | labmain/ai-agent-pay-demo | 0 USD | https://github.com/labmain/ai-agent-pay-demo/issues/18 | available | Bounty:$50 label, No assignees, Frontend UI task |
@@ -391,6 +391,25 @@ Last updated: 2026-03-31
 | BT-BX3-003 | 2026-04-01T02:35:00Z | github | ubiquity-os/.github | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | Priority 3 High, Plugin health monitor - cron job to check marketplace plugins, No assignees |
 | BT-BX3-004 | 2026-04-01T02:35:00Z | github | devpool-directory/devpool-directory-tasks | $900 USD | https://github.com/devpool-directory/devpool-directory/issues/5070 | available | Priority 3 High, DevPool Directory Matchmaking UI - sorted list based on matchmaking, No assignees |
 
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: AVAILABLE
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-0106: Improve Task Assignment Limit Handling
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #106 (devpool #5085)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/106
+- **Status**: CLAIMED (developing)
+- **Details**: Allow contributors to bypass task limit when waiting on reviewers for 24+ hours
+- **Verify**: Priority 1, No assignees, $75 USD
+
 ### BZ1-001: n8n + Claude Code Weekly Dev Summary
 - **Repo**: claude-builders-bounty/claude-builders-bounty
 - **Issue**: #5
@@ -399,6 +418,25 @@ Last updated: 2026-03-31
 - **Status**: AVAILABLE
 - **Details**: Create n8n workflow that auto-generates weekly GitHub repo activity summary using Claude API
 - **Verify**: Open issue, $200 bounty via Opire, clear acceptance criteria
+
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: AVAILABLE
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-0106: Improve Task Assignment Limit Handling
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #106 (devpool #5085)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/106
+- **Status**: CLAIMED (developing)
+- **Details**: Allow contributors to bypass task limit when waiting on reviewers for 24+ hours
+- **Verify**: Priority 1, No assignees, $75 USD
 
 ### BZ1-002: Pre-tool-use Hook for Claude Code
 - **Repo**: claude-builders-bounty/claude-builders-bounty
@@ -409,6 +447,25 @@ Last updated: 2026-03-31
 - **Details**: Hook that blocks destructive bash commands (rm -rf, DROP TABLE, etc.)
 - **Verify**: Open issue, $100 bounty via Opire
 
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: AVAILABLE
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-0106: Improve Task Assignment Limit Handling
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #106 (devpool #5085)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/106
+- **Status**: CLAIMED (developing)
+- **Details**: Allow contributors to bypass task limit when waiting on reviewers for 24+ hours
+- **Verify**: Priority 1, No assignees, $75 USD
+
 ### BZ1-003: Claude Code PR Review Agent
 - **Repo**: claude-builders-bounty/claude-builders-bounty
 - **Issue**: #4
@@ -417,6 +474,25 @@ Last updated: 2026-03-31
 - **Status**: AVAILABLE
 - **Details**: Sub-agent that reviews PRs and posts structured Markdown comment
 - **Verify**: Open issue, $150 bounty via Opire
+
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: AVAILABLE
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-0106: Improve Task Assignment Limit Handling
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #106 (devpool #5085)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/106
+- **Status**: CLAIMED (developing)
+- **Details**: Allow contributors to bypass task limit when waiting on reviewers for 24+ hours
+- **Verify**: Priority 1, No assignees, $75 USD
 
 ### BZ1-004: CLAUDE.md Template for Next.js + SQLite
 - **Repo**: claude-builders-bounty/claude-builders-bounty
@@ -427,6 +503,25 @@ Last updated: 2026-03-31
 - **Details**: Production-ready CLAUDE.md for Next.js 15 + SQLite SaaS project
 - **Verify**: Open issue, $75 bounty via Opire
 
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: AVAILABLE
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-0106: Improve Task Assignment Limit Handling
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #106 (devpool #5085)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/106
+- **Status**: CLAIMED (developing)
+- **Details**: Allow contributors to bypass task limit when waiting on reviewers for 24+ hours
+- **Verify**: Priority 1, No assignees, $75 USD
+
 ### BZ1-005: CHANGELOG Generator Skill
 - **Repo**: claude-builders-bounty/claude-builders-bounty
 - **Issue**: #1
@@ -435,6 +530,25 @@ Last updated: 2026-03-31
 - **Status**: AVAILABLE
 - **Details**: Claude Code skill that generates CHANGELOG from git history
 - **Verify**: Open issue, $50 bounty via Opire
+
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: AVAILABLE
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-0106: Improve Task Assignment Limit Handling
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #106 (devpool #5085)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/106
+- **Status**: CLAIMED (developing)
+- **Details**: Allow contributors to bypass task limit when waiting on reviewers for 24+ hours
+- **Verify**: Priority 1, No assignees, $75 USD
 
 ### BZ1-006: RustChain Miner Test (Dry Run)
 - **Repo**: Scottcjn/rustchain-bounties
@@ -445,6 +559,25 @@ Last updated: 2026-03-31
 - **Details**: Download and test RustChain miner in dry-run mode
 - **Verify**: Open issue, 3 RTC bounty, clear steps
 
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: AVAILABLE
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-0106: Improve Task Assignment Limit Handling
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #106 (devpool #5085)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/106
+- **Status**: CLAIMED (developing)
+- **Details**: Allow contributors to bypass task limit when waiting on reviewers for 24+ hours
+- **Verify**: Priority 1, No assignees, $75 USD
+
 ### BZ1-007: Fix Typos in Elyan Labs Repos
 - **Repo**: Scottcjn/rustchain-bounties
 - **Issue**: #2178
@@ -453,6 +586,25 @@ Last updated: 2026-03-31
 - **Status**: AVAILABLE
 - **Details**: Easy bounty - fix typo or improve docs in any Elyan Labs repo
 - **Verify**: Open issue, 2 RTC bounty
+
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: AVAILABLE
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS
+- **Verify**: Priority 1, No assignees, $600 USD
+
+### BT-0106: Improve Task Assignment Limit Handling
+- **Repo**: ubiquity-os-marketplace/command-start-stop
+- **Issue**: #106 (devpool #5085)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/command-start-stop/issues/106
+- **Status**: CLAIMED (developing)
+- **Details**: Allow contributors to bypass task limit when waiting on reviewers for 24+ hours
+- **Verify**: Priority 1, No assignees, $75 USD
 
 ### BZ1-008: Add CONTRIBUTING.md
 - **Repo**: Scottcjn/rustchain-bounties
@@ -470,4 +622,7 @@ Last updated: 2026-03-31
 | BZ1-005 | 2026-04-01T02:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $50 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | available | Bounty $50, CHANGELOG generator skill, Opire |
 | BZ1-006 | 2026-04-01T02:41:00Z | github | Scottcjn/rustchain-bounties | 3 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2271 | available | Bounty 3 RTC, Test RustChain miner dry-run |
 | BZ1-007 | 2026-04-01T02:41:00Z | github | Scottcjn/rustchain-bounties | 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2178 | available | Bounty 2 RTC, Fix typos in Elyan Labs repos |
+
+| BT-0106 | 2026-04-01T02:58:00Z | github | ubiquity-os-marketplace/command-start-stop | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5085 | claimed | Priority 1, Improve Task Assignment Limit - allow bypass when waiting on reviewers |
+
 | BZ1-008 | 2026-04-01T02:41:00Z | github | Scottcjn/rustchain-bounties | 1 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | available | Bounty 1 RTC, Add CONTRIBUTING.md |
