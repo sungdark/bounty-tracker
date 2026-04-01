@@ -1726,3 +1726,77 @@ Last updated: 2026-04-01T09:52:00Z
 - **Verify**: bounty label, 2 RTC, no assignees, easy difficulty, ~15 min task
 
 Last CQ1 scan: 2026-04-01T09:58:00Z
+
+### CQ3-001: CowSwap Integration ($1200)
+- **Repo**: ubiquity/uusd.ubq.fi
+- **Issue**: #28 (devpool #5875)
+- **Reward**: $1200 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5875
+- **Status**: AVAILABLE
+- **Details**: Integrate CowSwap for improved trade execution. Work in ubiquity/uusd.ubq.fi repo. Time <1 Week, Priority 2 Medium.
+- **Verify**: Price: $1200 USD label, no assignees, linked to https://github.com/ubiquity/uusd.ubq.fi/issues/28
+
+### CQ3-002: Make Knip and Jest Workflows Reusable ($1200)
+- **Repo**: ubiquity-os/plugin-template
+- **Issue**: #13 (devpool #4999)
+- **Reward**: $1200 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/4999
+- **Status**: AVAILABLE
+- **Details**: Refactor Knip and Jest GitHub workflows to be reusable across ubiquity-os plugins. Time <1 Week, Priority 2 Medium.
+- **Verify**: Price: $1200 USD label, no assignees, linked to https://github.com/ubiquity-os/plugin-template/issues/13
+
+### CQ3-003: GitHub Decoupling ($1200)
+- **Repo**: ubiquity-os-marketplace/text-conversation-rewards
+- **Issue**: #385 (devpool #5019)
+- **Reward**: $1200 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5019
+- **Status**: AVAILABLE
+- **Details**: Decouple GitHub dependencies from text-conversation-rewards plugin. Time <1 Week, Priority 2 Medium.
+- **Verify**: Price: $1200 USD label, no assignees, linked to https://github.com/ubiquity-os-marketplace/text-conversation-rewards/issues/385
+
+### CQ3-004: Nomic Embeddings Model for +10% Accuracy ($900)
+- **Repo**: ubiquity-os/text-conversation-rewards
+- **Issue**: (devpool #5064)
+- **Reward**: $900 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5064
+- **Status**: AVAILABLE
+- **Details**: Integrate Nomic embeddings model to improve accuracy by 10%. Time <1 Day, Priority 3 High.
+- **Verify**: Price: $900 USD label, no assignees, 0 comments
+
+### CQ3-005: Security Monitoring ($600)
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #927 (devpool #5846)
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5846
+- **Status**: AVAILABLE
+- **Details**: Implement security monitoring for ubiquity-dollar protocol. Time <1 Day, Priority 2 Medium.
+- **Verify**: Price: $600 USD label, no assignees, linked to https://github.com/ubiquity/ubiquity-dollar/issues/927
+
+### CQ3-006: Governance Token Emissions to ubq.eth New Strategy ($600)
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #831 (devpool #5844)
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5844
+- **Status**: AVAILABLE
+- **Details**: Design new strategy for governance token emissions to ubq.eth. Time <1 Week, Priority 1 Normal.
+- **Verify**: Price: $600 USD label, no assignees, linked to https://github.com/ubiquity/ubiquity-dollar/issues/831
+
+### CQ3-007: All Branches Supported for Previews ($600)
+- **Repo**: ubiquity/deno-deploy-workflow
+- **Issue**: #7 (devpool #5899)
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5899
+- **Status**: AVAILABLE
+- **Details**: Enable preview deployments for all branches, not just main. Time <1 Day, Priority 2 Medium.
+- **Verify**: Price: $600 USD label, no assignees, linked to https://github.com/ubiquity/deno-deploy-workflow/issues/7
+
+### CQ3-008: command-plan Plugin ($600)
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: #78 (devpool #5877)
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5877
+- **Status**: AVAILABLE
+- **Details**: Create command-plan plugin for ubiquity-os. Time <1 Day, Priority 2 Medium.
+- **Verify**: Price: $600 USD label, no assignees, linked to https://github.com/ubiquity-os/plugins-wishlist/issues/78
+
+Last CQ3 scan: 2026-04-01T09:57:00Z
