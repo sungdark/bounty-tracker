@@ -1800,3 +1800,16 @@ Last CQ1 scan: 2026-04-01T09:58:00Z
 - **Verify**: Price: $600 USD label, no assignees, linked to https://github.com/ubiquity-os/plugins-wishlist/issues/78
 
 Last CQ3 scan: 2026-04-01T09:57:00Z
+
+### BT-5043: Callbacks - event handlers and hybrid plugins
+- **Repo**: ubiquity-os/plugin-sdk
+- **Issue**: #261 (devpool #5043)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/plugin-sdk/issues/261
+- **Status**: CLAIMED (PR open)
+- **PR**: https://github.com/sungdark/plugin-sdk/pull/198
+- **Work Repo**: https://github.com/sungdark/plugin-sdk/tree/feat/5043-hybrid-plugin-event-handlers
+- **Details**: Add .on() event handler registration to createPlugin() - fluent API for registering issue_comment.created/issues.closed handlers, auto-generate ubiquity:listeners in manifest, use fine-grained PLUGIN_GITHUB_TOKEN instead of kernel credentials. SDK feature.
+- **Verify**: Priority 1, $300 USD, claimed by sungdark via /start on devpool
+
+| BT-5043 | 2026-04-01T09:56:00Z | github | ubiquity-os/plugin-sdk | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5043 | claimed | Priority 1, Callbacks event handlers - .on() pattern + fine-grained token, PR #198 at https://github.com/sungdark/plugin-sdk/pull/198 |
