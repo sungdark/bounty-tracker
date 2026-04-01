@@ -1624,3 +1624,46 @@ Last updated: 2026-04-01T09:40:00Z
 - **Verify**: Bounty label $50, no assignees, enhancement label, 6 comments
 
 Last CP1 scan: 2026-04-01T09:44:00Z
+
+### CM3-001: Final Pre-Seed/Seed Investor Debt UBQ
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5847 (devpool #5847)
+- **Reward**: $450 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5847
+- **Status**: AVAILABLE
+- **Details**: Final Pre-Seed/Seed Investor Debt UBQ - linked to ubiquity/ubiquity-dollar#937
+- **Verify**: Priority 3 High, $450 USD, no assignees, <4h
+
+### CM3-002: Automatically set a `Time:` label
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5022 (devpool #5022)
+- **Reward**: $450 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5022
+- **Status**: AVAILABLE
+- **Details**: Automatically set a `Time:` label - linked to ubiquity-os/plugins-wishlist#76
+- **Verify**: Priority 3 High, $450 USD, no assignees, <4h
+
+### CM3-003: Review Incentive Double Check Calculations
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5042 (devpool #5042)
+- **Reward**: $450 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5042
+- **Status**: AVAILABLE
+- **Details**: Review Incentive Double Check Calculations - linked to text-conversation-rewards#260
+- **Verify**: Priority 3 High, $450 USD, no assignees, <4h
+
+### CM3-004: Opire
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5030 (devpool #5030)
+- **Reward**: $400 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5030
+- **Status**: AVAILABLE
+- **Details**: Opire - linked to ubiquity/business-development#89
+- **Verify**: Priority 3 High, $400 USD, no assignees, <1 Day
+
+| CM3-001 | 2026-04-01T09:45:00Z | github | devpool-directory/devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5847 | available | Priority 3 High, Final Pre-Seed/Seed Investor Debt UBQ, No assignees |
+| CM3-002 | 2026-04-01T09:45:00Z | github | devpool-directory/devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5022 | available | Priority 3 High, Automatically set Time label plugin, No assignees |
+| CM3-003 | 2026-04-01T09:45:00Z | github | devpool-directory/devpool-directory | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5042 | available | Priority 3 High, Review Incentive Double Check Calculations, No assignees |
+| CM3-004 | 2026-04-01T09:45:00Z | github | devpool-directory/devpool-directory | $400 USD | https://github.com/devpool-directory/devpool-directory/issues/5030 | available | Priority 3 High, Opire bounty, No assignees |
+
+Last updated: 2026-04-01T09:45:00Z
