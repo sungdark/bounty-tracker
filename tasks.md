@@ -1,4 +1,4 @@
-# Bounty Tracker — Updated 2026-04-01 14:51 UTC
+# Bounty Tracker — Updated 2026-04-01 14:56 UTC
 
 ## Active Bounties with Clear Monetary Value (≥$0, Unclaimed)
 
@@ -8,7 +8,8 @@
 | 2 | claude-builders-bounty | [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary | **$200 USD** | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | Build n8n workflow. ⚠️ 8 competing PRs already open! |
 | 3 | claude-builders-bounty | [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands | **$100 USD** | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | Security hook. ⚠️ 5 competing PRs already open! |
 | 4 | devpool-directory | Launch Another DoraHacks Bounty Post (Price: 9 USD) | **$9 USD** | https://github.com/devpool-directory/devpool-directory/issues/5924 | Directory task linking to DoraHacks bounty. |
-| 5 | devpool-directory | Launch campaign towards L1s/L2s for managing their GitHubs | **$600 USD** | https://github.com/devpool-directory/devpool-directory/issues/5925 | ⚠️ MARKETING ONLY - requires Coinmarketcap scraper + Clay credits + outreach campaigns. Not a code task. |
+| 5 | devpool-directory | DevPool Directory Matchmaking UI | **$900 USD** | https://github.com/devpool-directory/devpool-directory/issues/5070 | NEW! Priority 3 (High). Scrape closed GitHub issues + embeddings to match developers. Linked to devpool-directory-tasks#63. NO competing PRs found. |
+| 6 | devpool-directory | Launch campaign towards L1s/L2s for managing their GitHubs | **$600 USD** | https://github.com/devpool-directory/devpool-directory/issues/5925 | ⚠️ MARKETING ONLY - requires Coinmarketcap scraper + Clay credits + outreach campaigns. Not a code task. |
 
 ---
 
@@ -106,3 +107,84 @@ ubiquity-os/ubiquity-os-kernel#335          — [codex] Fix bot-to-bot comment r
    - 或考虑降低阈值（$100+ Priority 1）寻找机会
 
 *Scanner: DC5 | Run: 2026-04-01T14:51:00Z*
+
+---
+
+## DF1 Scan | 2026-04-01 14:54 UTC — GitHub bounty+in:title Fresh Scan
+
+**GitHub API:** `https://api.github.com/search/issues?q=bounty+in:title+is:issue+state:open&per_page=100&sort=updated`
+
+### Freshly Discovered (since last scan ~14:51 UTC)
+
+**No new Priority 1 + $200+ USD code bounties found in GitHub bounty search.**
+
+The GitHub "bounty in:title" search is dominated entirely by:
+- **Scottcjn/RustChain ecosystem** (~95% of results) — RTC token bounties ($0.01-$7.50 USD equivalent)
+- **Social/shilling tasks** — stars, follows, reviews, social posts (~$0.05-0.50 RTC)
+
+### New Non-RTC / Real Value Bounties Found
+
+| # | Repo | Title | Amount | URL | Notes |
+|---|------|-------|--------|-----|-------|
+| 12 | allknowledge34/UpdateApp | "$0.4 Bounty: Login fails with Invalid Email" | **$0.40 USD** | https://github.com/allknowledge34/UpdateApp/issues/5 | Android Java bug. Login fails after successful OTP signup. Unassigned. |
+| 13 | bolivian-peru/baozi-openclaw | "[BOUNTY] Night Kitchen — Bilingual Market Report Agent" | **0.5 SOL** (~$85 USD) | https://github.com/bolivian-peru/baozi-openclaw/issues/39 | Medium difficulty. Bilingual AI agent using Baozi MCP tools + Chinese proverbs. Requires PR + README + demo. |
+
+### RTC Token Bounties (Non-USD, unclaimed, for reference — newest only)
+
+| # | Repo | Title | Amount | URL | Notes |
+|---|------|-------|--------|-----|-------|
+| NEW | Scottcjn/bottube | "[BOUNTY] YouTube Review Video About BoTTube" | 75 RTC | https://github.com/Scottcjn/bottube/issues/70 | YouTube video 3min+. Pool 150 RTC. |
+| NEW | Scottcjn/bottube | "[BOUNTY] Write a Blog Post About BoTTube" | 50 RTC | https://github.com/Scottcjn/bottube/issues/67 | 500+ word article + dofollow link. Pool 150 RTC. |
+| NEW | Scottcjn/rustchain-bounties | "[BOUNTY: 10-50 RTC] Vintage Hardware Speed Run" | 10-50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1156 | Mine RTC on weird/vintage hardware. |
+| NEW | Scottcjn/bottube | "[BOUNTY] Write a BoTTube integration post (dofollow + code)" | 50 RTC | https://github.com/Scottcjn/bottube/issues/158 | API integration blog post with code sample. |
+| NEW | Scottcjn/Rustchain | "[BOUNTY] Star the repo and share why" | 0.5 RTC | https://github.com/Scottcjn/Rustchain/issues/773 | Star + comment. Pool 25 RTC. |
+| NEW | Scottcjn/rustchain-bounties | "[BOUNTY: 0.5 RTC/repo] Watch Our Repos" | 0.5 RTC/repo | https://github.com/Scottcjn/rustchain-bounties/issues/731 | Watch repos with "All Activity" (up to 10 RTC). |
+
+### Algora Bug Report (No Bounty Amount in Title)
+
+| # | Repo | Title | URL | Notes |
+|---|------|-------|-----|-------|
+| NEW | algora-io/algora | "UI Bug: Org bounty pages show stale bounties" | https://github.com/algora-io/algora/issues/213 | Frontend bug in Algora bounty platform. Lists multiple examples of mismatched states. Could be exploitable if Algora has its own bounty program. |
+
+---
+
+### DF1 Summary
+
+- **Total bounties scanned:** top 100 from `bounty+in:title+is:issue+state:open`
+- **Real USD/Crypto bounties (≥$0):** 2 found (all very small value or SOL-denominated)
+- **Priority 1 + $200+ USD code bounties:** 0 found
+- **Conclusion:** GitHub "bounty in:title" search is saturated by Scottcjn's RTC token farm. No new exploitable USD bounties from this scanner at this time.
+
+*Scanner: DF1 | Run: 2026-04-01T14:54:00Z*
+
+---
+
+### DF3 Scan | devpool-directory | 2026-04-01 14:56 UTC
+
+**Scan:** https://github.com/devpool-directory/devpool-directory/issues (sorted by updated desc)
+
+**NEW implementable opportunity found:**
+
+| Devpool # | Amount | Title | Priority | Linked Issue | Competing PRs | Action |
+|-----------|--------|-------|----------|--------------|---------------|--------|
+| #5070 | **$900** | DevPool Directory Matchmaking UI | Priority 3 (High) | devpool-directory-tasks#63 | **0** ✅ | ✅ Added to Active Bounties above |
+
+**Other $200+ tasks scanned — NOT added (reason):**
+
+| Devpool # | Amount | Reason |
+|-----------|--------|--------|
+| #5916 | $1800 | CelebrityPunks PR #19 already open |
+| #5886 | $450 | zhaog100 PR #5947 already open |
+| #5008 | $400 | 2 competing PRs (abdullahairmail411-blip, lustsazeus-lab) |
+| #5925 | $600 | Marketing only — not implementable as code |
+| #5035 | $600 | Marketing only — recruiting |
+| #5041 | $600 | Marketing only — pilot partners campaign |
+| #5030 | $400 | Marketing only — Opire |
+| #5016 | $600 | Marketing only — sales exec poach |
+| #5931 | $1200 | Priority 4 (Urgent) — likely reserved |
+| #5850 | $2400 | Priority 4 (Urgent) — likely reserved |
+| #5875 | $1200 | Priority 2 Medium — need more info |
+
+**Already claimed by sungdark (from prior scan):** #5927, #5923, #5017, #5043, #5926, #5902, #5949
+
+*Scanner: DF3 | Run: 2026-04-01T14:56:00Z*
