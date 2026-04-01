@@ -873,3 +873,4 @@
 
 | BT-0789 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | covered by main agent | 2026-03-29T21:33:00Z | New bounty scan EJ1 |
 | BT-0790 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:33:00Z | New bounty scan EJ2 |
+| BT-0791 | 2026-04-01T22:04:00Z | github | devpool-directory | $400 USD | https://github.com/devpool-directory/devpool-directory/issues/5030 | developing | 工作中 | 2026-04-01T22:04:00Z | Opire partnership analysis, ubiquity/business-development#89, Fork rate-limited by GitHub API (403), Research complete at sungdark/sungdark-business-development (branch research/opire-partnership-analysis), PR blocked |
