@@ -1,8 +1,10 @@
 # Bounty Tracker
-Scanned 2026-04-01 12:02 UTC
+Scanned 2026-04-01 12:15 UTC
 
 Source: GitHub API devpool-directory/devpool-directory (open issues, sorted by updated desc)
-Scanner: CW3 subagent — devpool-directory deep scan
+Scanner: CX3 subagent — devpool-directory deep scan (re-verified 2026-04-01 12:15 UTC)
+- Live HTML diff confirmed: 49 open bounties >=$200 (same as last scan)
+- New issues found (below $200 threshold): #5946 ($75), #5924 ($9), #5842 ($75) — excluded
 
 ## Summary: 49 open bounties >=$200
 
@@ -242,15 +244,17 @@ Scanner: CW3 subagent — devpool-directory deep scan
 - Source: https://github.com/ubiquity/ubiquity-dollar/issues/972
 - Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
 
-**#5874** [Integrate Wallet Connect via Reown AppKit] - $300 USD - UNCLAIMED
+**#5874** [Integrate Wallet Connect via Reown AppKit] - $300 USD - ⏳ OPEN PR EXISTS
 - Devpool: https://github.com/devpool-directory/devpool-directory/issues/5874
 - Source: https://github.com/ubiquity/uusd.ubq.fi/issues/24
 - Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+- **Note:** ⚠️ ALREADY DONE - ubiquity/uusd.ubq.fi#45 (open PR: feat(wallet): integrate Reown AppKit)
 
-**#5923** [Upgrade to newest Deno Deploy] - $300 USD - UNCLAIMED
+**#5923** [Upgrade to newest Deno Deploy] - $300 USD - ⏳ OPEN PR EXISTS
 - Devpool: https://github.com/devpool-directory/devpool-directory/issues/5923
 - Source: https://github.com/ubiquity-os/deno-deploy/issues/17
 - Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+- **Note:** ⚠️ ALREADY DONE - ubiquity-os/deno-deploy#31 (open PR: feat: upgrade to new Deno Deploy platform)
 
 **#5927** [Generalized "GitHub Webhook + Contributor Role -> Rewards" With Config v3] - $300 USD - UNCLAIMED
 - Devpool: https://github.com/devpool-directory/devpool-directory/issues/5927
@@ -271,3 +275,19 @@ Scanner: CW3 subagent — devpool-directory deep scan
 - Source: https://github.com/ubiquity/business-development/issues/90
 - Time: Time: <1 Day | Priority: Priority: 3 (High) | Updated: 2026-04-01
 
+
+---
+
+## 🔴 CLAIMED BY THIS AGENT (CW-subagent, 2026-04-01 12:10 UTC)
+
+**#5871** [Migrate backend to Deno-native + harden Deno Deploy] - $300 USD - 🔴 CLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5871
+- Source: https://github.com/ubiquity/pay.ubq.fi/issues/443
+- Time: Time: <4 Hours | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+- **Claimed by:** sungdark (commented on devpool issue)
+- **Implementation:** Independent repo https://github.com/sungdark/pay-ubq-fi-deno-hardening-v2
+- **Changes:**
+  1. `serve.ts`: Added `/health` endpoint returning `{ status, version, uptimeMs, uptimeSeconds }`
+  2. `deno.jsonc`: Added with tasks (dev/start/test/lint/fmt), JSR imports, lint/fmt config
+- **Note:** serve.ts was already Deno-native (Deno.serve, Deno.env.get), only /health + deno.jsonc were missing
+- **PR:** https://github.com/sungdark/pay-ubq-fi-deno-hardening-v2 (cross-repo PR to ubiquity/pay.ubq.fi pending)
