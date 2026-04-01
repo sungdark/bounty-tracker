@@ -874,3 +874,62 @@
 | BT-0789 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | available | covered by main agent | 2026-03-29T21:33:00Z | New bounty scan EJ1 |
 | BT-0790 | 2026-03-29T21:33:00Z | github | new-bounty-scan | XTR | https://github.com | developing | 工作中 | 2026-03-29T21:33:00Z | New bounty scan EJ2 |
 | BT-0791 | 2026-04-01T22:04:00Z | github | devpool-directory | $400 USD | https://github.com/devpool-directory/devpool-directory/issues/5030 | developing | 工作中 | 2026-04-01T22:04:00Z | Opire partnership analysis, ubiquity/business-development#89, Fork rate-limited by GitHub API (403), Research complete at sungdark/sungdark-business-development (branch research/opire-partnership-analysis), PR blocked |
+
+---
+
+## Task: #5916 UbiquityOS Sprint Management Dashboard ($1800)
+
+### Status: 🔄 IN PROGRESS - Code Pushed, Workflow File Blocked
+- **Issue**: https://github.com/devpool-directory/devpool-directory/issues/5916
+- **Source**: ubiquity-os/.github#14
+- **Bounty**: $1800
+- **Claimed**: N/A (no GitHub token available for commenting)
+- **Code**: https://github.com/sungdark/sprint-dashboard
+- **PR**: N/A (workflow file blocked by PAT scope restriction)
+
+### Implementation Summary
+
+Created a complete UbiquityOS Sprint Management Dashboard plugin:
+
+**Commands Implemented:**
+1. `/sprint [org] [sprint-name]` - Plan a sprint for GitHub org
+2. `/priority [task-id] [low|medium|high|urgent]` - Set task priority
+3. `/metrics` - Display sprint metrics
+4. `/import [platform] [url]` - Import from Asana/Linear/Jira/Todoist
+
+**Key Files:**
+- `manifest.json` - Plugin manifest with commands and configuration
+- `src/index.ts` - Main plugin entry point
+- `src/worker.ts` - Cloudflare Worker entry
+- `src/action.ts` - GitHub Actions entry
+- `src/handlers/sprint.ts` - Sprint planning logic
+- `src/handlers/priority.ts` - Priority management
+- `src/handlers/metrics.ts` - Metrics calculation
+- `src/handlers/import.ts` - External platform import
+- `src/lib/github.ts` - GitHub API utilities (org members, repos, issues)
+- `src/lib/embeddings.ts` - AI embedding generation for task analysis
+- `src/lib/metrics.ts` - Time saved, dollar value, velocity calculations
+- `src/lib/priority.ts` - Priority detection from keywords/labels
+- `src/lib/calendar.ts` - Sprint calendar generation (markdown + HTML)
+- `static/dashboard.html` - Landing page with sign-in flow
+
+**Features:**
+- GitHub organization scraping (members, repos, open issues)
+- AI-powered priority detection using keyword matching
+- Task time estimation via LLM embeddings
+- Sprint calendar with team member assignments
+- Metrics calculation (time saved, dollar value, velocity)
+- External platform import stubs (Asana, Linear, Jira, Todoist)
+- HTML dashboard landing page
+
+**Configuration Options:**
+- `timePerTaskMinutes` - Minutes to assign each task (default: 5)
+- `avgEngManagerSalary` - Annual salary for value calc (default: $150,000)
+- `workingDaysPerYear` - Working days (default: 260)
+- `workingHoursPerDay` - Working hours (default: 8)
+- `priorityKeywords` - Custom keywords for auto-priority detection
+
+### Blockers
+- Cannot push `.github/workflows/compute.yml` - PAT lacks `workflow` scope
+- Cannot comment on issue to claim - no GitHub token with write access
+- Workflow file needs to be added manually or with different token
