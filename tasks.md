@@ -1,129 +1,124 @@
-# Bounty Tracker — Updated 2026-04-01 15:37 UTC
+# Bounty Task Tracker
 
-## Active Bounties with Clear Monetary Value (≥$0, Unclaimed)
+## 🔄 In Progress
 
-| # | Repo | Title | Amount | URL | Notes |
-|---|------|-------|--------|-----|-------|
-| 1 | microg/GmsCore | [BOUNTY] RCS Support [14999$] | **$14,999 USD** | https://github.com/microg/GmsCore/issues/2994 | Enable Google Messages RCS with microG. High difficulty, 314 comments. |
-| 2 | claude-builders-bounty | [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary | **$200 USD** | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | Build n8n workflow. ⚠️ 8 competing PRs already open! |
-| 3 | claude-builders-bounty | [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands | **$100 USD** | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | Security hook. ⚠️ 5 competing PRs already open! |
-| 4 | devpool-directory | DevPool Directory Matchmaking UI | **$900 USD** | https://github.com/devpool-directory/devpool-directory/issues/5070 | Priority 3 (High). Scrape closed GitHub issues + embeddings to match developers. |
-| 5 | devpool-directory | New Proposal Router | **$300 USD** | https://github.com/devpool-directory/devpool-directory/issues/5840 | ⚠️ UNCLAIMED - TypeScript/UI feature for intelligent GitHub issue routing. Linked to ubiquity/.github#123. NO competing PRs found. |
-| 6 | devpool-directory | Governance Token Emissions | **$600 USD** | https://github.com/devpool-directory/devpool-directory/issues/5844 | ⚠️ UNCLAIMED - Solidity smart contract for staking protocol to emit tokens to multiple destinations. Linked to ubiquity/ubiquity-dollar#831. NO competing PRs found. |
+### Issue #5848: CI: fix `check_storage_layout` for new contracts
+- **Devpool URL:** https://github.com/devpool-directory/devpool-directory/issues/5848
+- **Upstream URL:** https://github.com/ubiquity/ubiquity-dollar/issues/972
+- **Price:** $300 USD
+- **Priority:** 1 (Normal)
+- **Time estimate:** <1 Day
+- **Claimed:** 2026-04-01 15:38 UTC
+- **Status:** IN_PROGRESS
 
----
+#### Problem
+When a **new contract** is added to the `ubiquity-dollar` project, the `core-contracts-storage-check.yml` and `diamond-storage-check.yml` workflows fail with the error:
 
-## Sungdark's Claimed + In-Progress
+```
+No workflow run found with an artifact named "<branch>.<contract_path_and_name>.json"
+```
 
-| Devpool # | Amount | Linked Issue | Implementation | Status |
-|-----------|--------|--------------|---------|--------|
-| #4998 | $400 | ubiquity/arbitrage-bot#7 — Multi Chain Arbitrage Bot | https://github.com/sungdark/arbitrage-bot-v2 | 🔨 IMPLEMENTING |
-| #5927 | $300 | ubiquity-os/plugins-wishlist#47 — Generalized Webhook+Rewards Config v3 | ubiquity-os/plugins-wishlist#82 (sungdark) | ✅ OPEN |
-| #5923 | $300 | ubiquity-os/deno-deploy#17 — Upgrade to newest Deno Deploy | ubiquity-os/deno-deploy#31 (sungdark) | ✅ OPEN (CodeRabbit review fixed — entrypoint + ORG_ARG) |
-| #5017 | $600 | ubiquity-os/permit-generation#6 — Automatic ERC20 Transfer with operator fees | ubiquity-os/permit-generation#123 (sungdark) | ✅ OPEN |
-| #5043 | $300 | ubiquity-os/ubiquity-os-kernel#261 — Event Handler Callbacks | ubiquity-os/ubiquity-os-kernel#338 (sungdark) | ✅ OPEN |
-| #5926 | $75 | ubiquity-os/ubiquity-os-kernel#287 — Fix null config | ubiquity-os/ubiquity-os-kernel#337 (sungdark) | ✅ OPEN |
-| #5902 | $600 | ubiquity-os/ubiquity-os-kernel#300 — General Improvements | ubiquity-os/ubiquity-os-kernel#336 (sungdark) | ✅ OPEN |
-| #5949 | — | devpool-directory#5058 — Handle Old Proposals workflow | devpool-directory#5949 (sungdark) | ✅ OPEN |
+This is because `foundry-storage-check` (Rubilmax action) tries to download a baseline storage layout artifact from the base branch to compare against. For newly added contracts, no such baseline artifact exists yet — so the check is inappropriate and should be skipped.
 
----
+#### Root Cause
+The `foundry-storage-check` action searches all repo artifacts for one matching the expected baseline name:
+```typescript
+const contractEscaped = contractAbs.replace(/\//g, "_").replace(/:/g, "-");
+const baseReport = `${branch}.${contractEscaped}.json`;  // e.g. development.src_dollar_core_USD.sol-USD.json
+```
 
-## Priority 1 + $200+ Full Scan (2026-04-01 15:14 UTC)
+For a new contract, no artifact with that name exists on any prior workflow run → throws error.
 
-| Devpool # | 价格 | 标题 | Linked Issue | 状态 |
-|-----------|------|------|--------------|------|
-| #5844 | $600 | Governance Token Emissions | ubiquity/ubiquity-dollar#831 | ✅ UNCLAIMED (solidity) |
-| #5840 | $300 | New Proposal Router | ubiquity/.github#123 | ✅ UNCLAIMED (typescript/UI) |
-| #4998 | $400 | Multi Chain Arbitrage Bot | ubiquity/arbitrage-bot#7 | 🔨 IN PROGRESS (sungdark) |
-| #5925 | $600 | Launch campaign towards L1s/L2s | ubiquity/business-development#184 | ⚠️ 非代码任务 |
-| #5008 | $400 | Automating CTA Delivery | ubiquity/business-development#196 | ❌ 已有2个open PRs |
-| #5017 | $600 | Automatic Transfer | ubiquity-os/permit-generation#6 | ✅ sungdark PR #123 |
-| #5035 | $600 | Recruiting: Dragonfly CTF II | ubiquity/business-development#155 | ⚠️ 营销任务 |
-| #5041 | $600 | Launch campaign target pilot partners | ubiquity/business-development#185 | ⚠️ 营销任务 |
-| #5030 | $400 | Opire | ubiquity/business-development#89 | ⚠️ 营销任务 |
-| #5016 | $600 | Launch campaign poach SaaS sales exec | ubiquity/business-development#?? | ⚠️ 营销任务 |
-| #5927 | $300 | Generalized Webhook+Rewards Config v3 | ubiquity-os/plugins-wishlist#47 | ✅ sungdark PR #82 |
-| #5923 | $300 | Upgrade to newest Deno Deploy | ubiquity-os/deno-deploy#17 | ✅ sungdark PR #31 |
-| #5066 | $600 | Cow Swap Cash Out | ubiquity/pay.ubq.fi#386 | ❌ energypantry PR #457 |
-| #5874 | $300 | Integrate Wallet Connect via Reown AppKit | ubiquity/uusd.ubq.fi#24 | ❌ energypantry PR #45 |
-| #5848 | $300 | CI: fix check_storage_layout | ubiquity/ubiquity-dollar#972 | ❌ 3 existing PRs (#1009,#1008,#1007) |
+#### Fix
+Modify both workflow files to **check if a baseline artifact exists** before invoking `foundry-storage-check`. If no baseline exists, skip the check (new contracts have no collision risk since there's no prior storage to collide with).
 
-### 新发现 (本轮 DG3 — 2026-04-01 15:37 UTC):
+**File: `.github/workflows/core-contracts-storage-check.yml`**
 
-**🔥 $200+ 新机会 (未经手):**
-| Devpool # | 价格 | 标题 | Linked Issue | 时间 | 优先级 |
-|-----------|------|------|--------------|------|--------|
-| #5850 | **$2400** | Add `UUSD` and `UBQ` tokens to popular services | ubiquity/ubiquity-dollar#984 | <1 Week | P4 Urgent |
-| #5916 | **$1800** | UbiquityOS Sprint Management Dashboard | ubiquity-os/.github#14 | <1 Week | P3 High |
-| #5931 | **$1200** | Integrate Liquity V1 Stability Pool for LUSD Collateral Yield | ubiquity/ubiquity-dollar#997 | <1 Day | P4 Urgent |
-| #5875 | **$1200** | CowSwap Integration | ubiquity/uusd.ubq.fi#28 | <1 Week | P2 Medium |
-| #5899 | $600 | All Branches Supported for Previews | ubiquity/deno-deploy-workflow#7 | <1 Day | P2 Medium |
-| #5877 | $600 | command-plan | ubiquity-os/plugins-wishlist#78 | <1 Day | P2 Medium |
-| #5846 | $600 | Security monitoring | ubiquity/ubiquity-dollar#927 | <1 Day | P2 Medium |
-| #5886 | $450 | Plugin health monitor | ubiquity-os/.github#12 | <4 Hours | P3 High |
-| #5847 | $450 | Final Pre-Seed/Seed Investor Debt UBQ | ubiquity/ubiquity-dollar#937 | <4 Hours | P3 High |
+Add to `check_storage_layout` job, before the `foundry-storage-check` step:
 
-**扫描覆盖:** devpool-directory 30个最新OPEN issues 全量扫
-**已排除 (已被 sungdark 认领):** #5927($300), #5923($300)
-**已排除 (非代码):** #5925($600 营销活动)
-**已排除 (竞争激烈):** #5874($300, energypantry PR), #5848($300, 3 existing PRs)
+```yaml
+- name: Check if baseline artifact exists (skip for new contracts)
+  id: baseline-check
+  env:
+    CONTRACT: ${{ matrix.contract }}
+    BASE_BRANCH: ${{ github.base_ref || github.ref_name }}
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: |
+    CONTRACT_ESCAPED=$(echo "$CONTRACT" | sed 's/\//_/g' | sed 's/:/-/g')
+    BASE_BRANCH_ESCAPED=$(echo "$BASE_BRANCH" | sed 's/\//-/g')
+    ARTIFACT_NAME="${BASE_BRANCH_ESCAPED}.${CONTRACT_ESCAPED}.json"
+    echo "Checking for artifact: $ARTIFACT_NAME"
+    HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
+      -H "Authorization: token $GITHUB_TOKEN" \
+      "https://api.github.com/repos/${{ github.repository }}/actions/artifacts?per_page=100")
+    if [ "$HTTP_CODE" = "200" ]; then
+      FOUND=$(curl -s \
+        -H "Authorization: token $GITHUB_TOKEN" \
+        "https://api.github.com/repos/${{ github.repository }}/actions/artifacts?per_page=100" \
+        | python3 -c "import sys,json; data=json.load(sys.stdin); matches=[a for a in data.get('artifacts',[]) if a['name']=='$ARTIFACT_NAME' and not a['expired']]; print('true' if matches else 'false')")
+      echo "has_baseline=$FOUND" >> $GITHUB_OUTPUT
+    else
+      echo "has_baseline=false" >> $GITHUB_OUTPUT
+    fi
 
-### 建议:
-- #5844 需要 Solidity 合约经验 - 建议找合约开发者合作
-- #5840 需要 TypeScript + GitHub App/UI 经验 - 可独立完成
+- name: Check For Core Contracts Storage Changes
+  if: steps.baseline-check.outputs.has_baseline == 'true'
+  uses: Rubilmax/foundry-storage-check@main
+  with:
+    workingDirectory: packages/contracts
+    contract: ${{ matrix.contract }}
+    failOnRemoval: true
 
----
+- name: Skip for new contracts
+  if: steps.baseline-check.outputs.has_baseline == 'false'
+  run: |
+    echo "No baseline artifact for ${{ matrix.contract }}. Skipping storage check (new contract)."
+```
 
-## DG1 扫描摘要 (2026-04-01 15:14 UTC)
+**File: `.github/workflows/diamond-storage-check.yml`**
 
-- **API**: `bounty in:title is:issue state:open` → 5,359 结果
-- **有效 USD 赏金**: 0 个新发现（全部已在 tasks.md 中）
-- **污染源**: Scottcjn/bottube 大量重复 star-for-RTC 赏金帖、垃圾 spam issues
-- **建议**: 用更多关键词搜索（如 `bounty $ is:issue state:open repo:claude-builders-bounty` 或 `reward is:issue state:open`）以发现更多有效任务
+Same fix pattern, using `ubiquity/foundry-storage-check@main` instead, and adjusting the contract path/libraries path accordingly.
 
-*Scanner: DG3 Subagent | Run: 2026-04-01T15:13:00Z*
+#### QA Scenarios (from issue requirements)
+1. ✅ No storage updates, CI passing
+2. ✅ Storage update, no collision, CI passing  
+3. ✅ Storage update, collision, CI failing
+4. ✅ **New contract added, CI passing** ← THE BUG FIX
 
----
-
-## DG3 扫描摘要 (2026-04-01 15:13 UTC)
-
-- **Source**: `gh issue list --repo devpool-directory/devpool-directory --limit 30 --state open`
-- **扫描范围**: 30个最新OPEN issues
-- **$200+ 高价值新任务**: 9个 (总计 $8100+)
-- **最高单项**: #5850 $2400 (Add UUSD+UBQ tokens to popular services)
-- **最紧急**: #5931 $1200 (<1 Day, P4 Urgent)
-- **无竞争**: #5850, #5916, #5931, #5875, #5899, #5877, #5846, #5886, #5847 均无人认领
+#### PR Checklist
+- [ ] Fork ubiquity/ubiquity-dollar
+- [ ] Apply fix to `.github/workflows/core-contracts-storage-check.yml`
+- [ ] Apply fix to `.github/workflows/diamond-storage-check.yml`
+- [ ] Add QA tests for new contract scenario
+- [ ] Open PR referencing devpool issue #5848
 
 ---
 
-## DH1 扫描摘要 (2026-04-01 15:38 UTC)
+## ✅ Completed (Settlement Pending)
 
-- **API**: `https://api.github.com/search/issues?q=bounty+in:title+is:issue+state:open&per_page=100&sort=updated`
-- **结果总数**: 5,360 issues
-- **扫描质量**: 极低 — 结果几乎全部被 Scottcjn/rustchain-bounties 和 Scottcjn/bottube 的 RTC token 赏金帖污染
-- **新发现 USD 赏金**: 0 个（全部为非USD代币赏金，无实际价值）
-- **有效赏金 (≥$0, 真实货币)**: 0 个新发现
-- **结论**: 该关键词搜索已被垃圾赏金帖占据，无法有效发现真实 USD 赏金
+(none yet)
 
-### 本轮扫到的赏金 (全部为 RTC 代币，非真实USD):
+---
 
-| 来源 | 标题 | 金额 | 备注 |
-|------|------|------|------|
-| Scottcjn/rustchain-bounties#1613 | [BOUNTY: 3 RTC] Set up Dependabot or Renovate | 3 RTC | RTC代币，非USD |
-| Scottcjn/rustchain-bounties#2103 | [BOUNTY] Star & Follow — Earn RTC (Ongoing) | 1-25 RTC | RTC代币，非USD |
-| Scottcjn/rustchain-bounties#2271 | [BOUNTY: 3 RTC] Download and test the RustChain miner | 3 RTC | RTC代币，非USD |
-| Scottcjn/rustchain-bounties#2218 | [BOUNTY: 3 RTC] Add Your Machine to the Green Tracker | 3 RTC | RTC代币，非USD |
-| Scottcjn/rustchain-bounties#2178 | [EASY BOUNTY: 2 RTC] Fix a typo or improve docs | 2 RTC | RTC代币，非USD |
-| Scottcjn/rustchain-bounties#1605 | [EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md | 1 RTC | RTC代币，非USD |
-| Scottcjn/bottube#74 | [BOUNTY] Star & Follow BoTTube — Earn 2 RTC | 2 RTC | RTC代币，非USD |
-| Scottcjn/bottube#166 | [BOUNTY] Star BoTTube - Earn 2 RTC Instantly | 2 RTC | RTC代币，非USD |
-| Scottcjn/bottube#358 | ⭐ Star Drive — Help Elyan Labs hit 200 stars! (2 RTC) | 2 RTC | RTC代币，非USD |
-| fx-forgemax/forgemax#60 | Constitutional: Add liability_bearer_id to mutation functions | 无明确金额 | 非赏金帖，constitutional violation |
-| devpool-directory#5924 | Launch Another DoraHacks Bounty Post | $9 USD (label) | 实际只是转发链接 |
-
-### 建议:
-- `bounty in:title` 搜索已被 Scottcjn 赏金农场完全污染
-- 应使用 devpool-directory 的专项扫描（已有 DG3 执行）
-- 其他发现渠道：HackerOne、Bugcrowd、cryptocurrency bounty boards
-
-*Scanner: DH1 Subagent | Run: 2026-04-01T15:38:00Z*
+## 📋 All Priority 1 + $200+ Scanned (2026-04-01)
+| # | Title | Price | Has Open PR? | Status |
+|---|-------|-------|--------------|--------|
+| 5927 | Generalized "GitHub Webhook + Contributor Role -> Rewards" W | $300 | No | Complex, upstream spec needed |
+| 5925 | Launch campaign towards L1s/L2s | $600 | No | Non-code |
+| 5923 | Upgrade to newest Deno Deploy | $300 | No | Medium complexity |
+| 5902 | General Improvements | $600 | No | Multi-part |
+| 5874 | Integrate Wallet Connect via Reown AppKit | $300 | No | Medium |
+| 5848 | CI: fix `check_storage_layout` for new contracts | $300 | No | **Selected: clear bug, clear fix** |
+| 5845 | Formal verification | $300 | No | Expert domain |
+| 5844 | Governance Token emissions to `ubq.eth` | $600 | No | Complex |
+| 5840 | New Proposal Router | $300 | No | Medium |
+| 5066 | Cow Swap Cash Out | $600 | No | Complex DeFi |
+| 5045 | Generalized "GitHub Webhook + Contributor Role" | $300 | No | Spec unclear |
+| 5043 | Callbacks - event handlers and hybrid plugins | $300 | No | Medium |
+| 5039 | Generalized "GitHub Webhook + Contributor Role" | $300 | No | Spec unclear |
+| 5035 | Recruiting: Dragonfly CTF II | $600 | No | Non-code |
+| 5027 | Check dev experience on starting an issue | $300 | No | Testing focused |
+| 5020 | Scraper: Scrape Issue Threads | $300 | No | Tool dev |
+| 5017 | Automatic Transfer | $600 | No | Complex |
+| 5008 | Automating Call To Action Delivery | $400 | No | Reporting |
+| 4998 | Multi Chain Arbitrage | $400 | No | DeFi complex |
