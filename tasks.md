@@ -1,149 +1,177 @@
-# 🦞 Bounty Tracker — Updated 2026-04-01
+# Bounty Tracker — Scanned 2026-04-01 11:40 UTC
 
-**Scanner:** CU3 (GitHub API — devpool-directory latest updated)  
-**Devpool Scan:** $200+ all priorities  
-**Scan time:** 2026-04-01 11:41 UTC
+Source: GitHub search `bounty in:title is:issue state:open` (per_page=100, sorted by updated)
 
----
+## 🔥 High-Value Real Bounties (USD, worth doing)
 
-## 🚀 Devpool Priority 1 Bounties ($200+) — ACTIONABLE
-
-> Devpool-directory: https://github.com/devpool-directory/devpool-directory/issues  
-> Rule: Priority 1 (Normal), No access restrictions, $200+
-
-| # | Amount | Issue | Status | PR/Link |
-|---|--------|-------|--------|---------|
-| **5845** | **$300** | Formal verification — LibUbiquityPool | 🔨 **IN PROGRESS** | [PR: sungdark/bounty-ubiquity-formal](https://github.com/sungdark/bounty-ubiquity-formal) |
-| **5045** | **$300** | Contributor Class v2 — github-webhook-rewards | 🔨 **IN PROGRESS** | [PR: sungdark/ubiquity-rewards](https://github.com/sungdark/ubiquity-rewards) |
-| 5886 | $450 | Plugin health monitor — cron job for marketplace plugins | ✅ Free | [devpool#5886](https://github.com/devpool-directory/devpool-directory/issues/5886) |
-| 5840 | $300 | New Proposal Router — UbiquityOS GitHub routing UI | ✅ Free | [devpool#5840](https://github.com/devpool-directory/devpool-directory/issues/5840) |
-| 5902 | $600 | General Improvements — ubiquity-os-kernel | ✅ Free | [devpool#5902](https://github.com/devpool-directory/devpool-directory/issues/5902) |
-| ~~5844~~ | ~~$600~~ | ~~Governance Token emissions~~ | ❌ **TAKEN** (PR #971 exists) | ubiquity-dollar#831 |
-| ~~5848~~ | ~~$300~~ | ~~CI: fix check_storage_layout~~ | ❌ **TAKEN** (PR #1008 exists) | ubiquity-dollar#972 |
-| ~~5927~~ | ~~$300~~ | ~~GitHub Webhook Rewards plugin~~ | ❌ **TAKEN** (PR #82 exists) | ubiquity-os/plugins-wishlist#47 |
-| ~~5923~~ | ~~$300~~ | ~~Upgrade Deno Deploy~~ | ❌ **TAKEN** (PR #31, #30 exist) | ubiquity-os/deno-deploy#17 |
-| ~~5874~~ | ~~$300~~ | ~~Integrate Wallet Connect~~ | ❌ **TAKEN** (PR #45 exists) | ubiquity/uusd.ubq.fi#24 |
-
-### #5845 — Formal Verification (MY TASK) 🎯
-- **Amount:** $300 USD
-- **Target:** ubiquity/ubiquity-dollar#926
-- **Repo:** sungdark/bounty-ubiquity-formal (independent push)
-- **What I implemented:**
-  - 10 formal verification tests in `test/certora/UbiquityPoolFacet.formal.t.sol` (ALL PASS ✅)
-  - Harness contract `test/certora/UbiquityPoolFacetHarness.sol`
-  - Updated `.github/workflows/formal-verification.yml` (added Foundry invariant tests + halmos CI)
-- **Key invariants verified:**
-  1. Mint collateral bounded by collateral value (100% ratio)
-  2. Redeem collateral bounded by pool liquidity
-  3. Collateral ratio capped at 100%
-  4. Pool ceiling enforced on mint
-  5. Stale price blocks minting
-  6. Redeem output formula correctness
-  7. Mint with 100% fee → 0 dollar mint (no revert)
-  8. Redeem with 100% fee → 0 collateral redeem (no revert)
-  9. Full mint-redeem round-trip preserves value
-  10. getDollarInCollateral consistency
-
-### #5045 — Contributor Class v2 (MY TASK) 🎯
-- **Amount:** $300 USD
-- **Target:** ubiquity-os/plugins-wishlist#48
-- **Repo:** sungdark/ubiquity-rewards (independent)
-- **What I implemented:**
-  - Added `SPECIFICATION_AUTHOR` role (original task author / issue creator)
-  - Updated `assignRoles()` to assign SPECIFICATION_AUTHOR to issue creators
-  - Added to permissions schema and default settings
-  - Role multiplier: 1.2x
-  - Updated README documentation
-- **PR:** ubiquity-os/plugins-wishlist#82 (commented with extension note)
-- **Status:** ✅ Implementation complete, pushed to main branch
-
-### #5840 — New Proposal Router
-- **Amount:** $300 USD
-- **Target:** ubiquity/.github#123
-- **What it needs:** Full-stack ML UI + Telegram bot for intelligent routing
-- **Complexity:** High (1 day estimate)
-- **Status:** ✅ Available (no PR in ubiquity/.github)
-
-### #5902 — General Improvements (kernel)
-- **Amount:** $600 USD
-- **Target:** ubiquity-os/ubiquity-os-kernel#300
-- **Status:** ✅ Available (no PR in kernel repo)
-- **Complexity:** Medium (wishlist of improvements)
+### [CLAIMED] tenstorrent/tt-metal#32178 — [Bounty $1500] CosyVoice bring up using TTNN APIs
+- **URL:** https://github.com/tenstorrent/tt-metal/issues/32178
+- **Reward:** $1,500 USD
+- **Status:** ❌ CLAIMED (assignee: w1zzx)
+- **Notes:** Very complex multi-stage TTNN port. Already taken.
 
 ---
 
-## 💰 CR1 High-Value USD Bounties (≥$100)
-
-| Amount | Repo | Issue | Labels |
-|--------|------|-------|--------|
-| $2,500 | tenstorrent/tt-metal | [Bounty $2.5k] Implement Lifting Wavelet Transform (LWT) and Inverse LWT (ILWT) | ttnn, hard |
-| $1,500 | tenstorrent/tt-metal | [Bounty $1500] CosyVoice bring up using TTNN APIs *(Due April 6)* | model bringup, medium |
-| $1,500 | tenstorrent/tt-metal | [Bounty $1500] Time Series Transformer Model Bring-Up Using TTNN APIs | model bringup, medium |
-| $1,500 | tenstorrent/tt-metal | [Bounty $1500] Add support for ttnn.flip | TM, medium |
-| $1,500 | tenstorrent/pytorch2.0_ttnn | [Bounty $1500] Add model: Stable Diffusion 1.4 (512x512) *(Due April 6)* | medium |
-| $500 | tenstorrent/tt-metal | [Bounty $500] TTNN EmbeddingOp input rank verification | easy |
-| $500 | Fhavlonir/GoodEnoughReader.js | [BOUNTY] make the app secure [500 good bot points] | help wanted |
-| $200 | lihaoyi/test | requests.RequestTests fails trying to contact httpbin.org (200USD Bounty) | - |
-| $150 | claude-builders-bounty/claude-builders-bounty | [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment | agent |
-| $100 | claude-builders-bounty/claude-builders-bounty | [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands | hook, security |
-| $75 | claude-builders-bounty/claude-builders-bounty | [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project | template |
-| $50 | claude-builders-bounty/claude-builders-bounty | [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history | skill, good first issue |
+### [IN PROGRESS 🚀] devpool-directory/devpool-directory#5043 — [Bounty $300] Callbacks - event handlers and hybrid plugins
+- **Devpool:** https://github.com/devpool-directory/devpool-directory/issues/5043
+- **Source:** https://github.com/ubiquity-os/ubiquity-os-kernel/issues/261
+- **PR:** https://github.com/ubiquity-os/ubiquity-os-kernel/pull/338
+- **Reward:** $300 USD
+- **Difficulty:** Medium-Hard — TypeScript SDK feature for event handler callbacks
+- **Status:** 🚀 IN PROGRESS (PR #338 submitted)
+- **Notes:** Implement .on()/.onAny()/.onError() event handler API for Ubiquity OS kernel. Uses @octokit/webhooks for event management. Fork: sungdark/ubiquity-os-kernel (branch: feat/setup-event-handlers)
 
 ---
 
-## 📊 Summary
+### [REAL] lihaoyi/test#1219 — requests.RequestTests fails trying to contact https://httpbin.org
+- **URL:** https://github.com/lihaoyi/test/issues/1219
+- **Reward:** $200 USD (bank transfer on merged PR)
+- **Difficulty:** Medium — fix a test that's trying to contact httpbin.org
+- **Status:** 🟢 UNCLAIMED, open
+- **Notes:** From maintainer Li Haoyi. Fix the test or the underlying issue. Real money, payable by bank transfer on merged PR.
+
+---
+
+### [REAL] claude-builders-bounty#5 — [BOUNTY $200] n8n + Claude Code workflow
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5
+- **Reward:** $200 USD (via Opire)
+- **Difficulty:** Medium — create an n8n workflow for weekly dev summaries
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** bounty, workflow
+
+---
+
+### [REAL] claude-builders-bounty#4 — [BOUNTY $150] PR review sub-agent
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4
+- **Reward:** $150 USD (via Opire)
+- **Difficulty:** Medium — Claude Code agent that reviews PRs and posts structured comments
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** bounty, agent
+
+---
+
+### [REAL] claude-builders-bounty#2 — [BOUNTY $75] Next.js + SQLite CLAUDE.md template
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2
+- **Reward:** $75 USD (via Opire)
+- **Difficulty:** Easy-Medium — create a CLAUDE.md template for Next.js+SQLite SaaS
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** bounty, template
+
+---
+
+### [REAL] claude-builders-bounty#3 — [BOUNTY $100] Pre-tool-use hook blocking destructive bash
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3
+- **Reward:** $100 USD (via Opire)
+- **Difficulty:** Easy-Medium — hook that intercepts and blocks destructive bash commands
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** bounty, hook, security
+
+---
+
+### [REAL] illbnm/homelab-stack#7 — [BOUNTY $130] Home Assistant + Node-RED + Zigbee2MQTT
+- **URL:** https://github.com/illbnm/homelab-stack/issues/7
+- **Reward:** $130 USD
+- **Difficulty:** Medium — home automation stack setup
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** bounty, medium
+
+---
+
+### [REAL] claude-builders-bounty#1 — [BOUNTY $50] SKILL: Generate CHANGELOG from git history
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1
+- **Reward:** $50 USD (via Opire)
+- **Difficulty:** Easy-Medium — Claude Code skill that generates CHANGELOGs
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** bounty, skill, good first issue
+
+---
+
+### [REAL] CapSoftware/Cap#1540 — Bounty: Deeplinks + Raycast Extension
+- **URL:** https://github.com/CapSoftware/Cap/issues/1540
+- **Reward:** $200 USD
+- **Difficulty:** Medium-Hard — deeplinks support + Raycast extension
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** 💎 Bounty, $0 (label mismatch — body says $200)
+
+---
+
+## 📋 Token/Crypto Bounties (RTC, smaller but real)
+
+### [REAL] Scottcjn/rustchain-bounties#2274 — CVPR 2026 Human Evaluation (50 RTC, ~$5)
+- **URL:** https://github.com/Scottcjn/rustchain-bounties/issues/2274
+- **Reward:** 50 RTC (~$5 USD)
+- **Difficulty:** Easy — watch 14 video pairs, answer questions
+- **Status:** 🟢 UNCLAIMED
+- **Deadline:** April 3, 2026 — first 5 qualified evaluators
+- **Notes:** Cross-post of grail-v-emotional-grounding#1. Needs LLM/AI or video background.
+
+---
+
+### [REAL] Scottcjn/rustchain-bounties#36 — RustChain Python SDK (variable RTC)
+- **URL:** https://github.com/Scottcjn/rustchain-bounties/issues/36
+- **Reward:** Significant RTC (needs verification)
+- **Difficulty:** Hard — pip-installable Python SDK for RustChain
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** help wanted, bounty, needs strong contributor
+
+---
+
+### [REAL] Scottcjn/rustchain-bounties#502 — OpenAPI/Swagger for Node API (30 RTC, ~$3)
+- **URL:** https://github.com/Scottcjn/rustchain-bounties/issues/502
+- **Reward:** 30 RTC (~30 cents)
+- **Difficulty:** Medium — document RustChain node API in OpenAPI/Swagger
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** good first issue, bounty, ecosystem
+
+---
+
+### [REAL] Scottcjn/rustchain-bounties#121 — BoTTube SEO Audit Fix Pack (75 RTC, ~$7.50)
+- **URL:** https://github.com/Scottcjn/rustchain-bounties/issues/121
+- **Reward:** 75 RTC
+- **Difficulty:** Medium — FixMyLanding / Lighthouse SEO fixes
+- **Status:** 🟢 UNCLAIMED
+- **Labels:** enhancement, bounty, ecosystem
+
+---
+
+## ⚠️ Unclear / Verify Before Claiming
+
+### [VERIFY] microg/GmsCore#2994 — [BOUNTY] RCS Support [14999$]
+- **URL:** https://github.com/microg/GmsCore/issues/2994
+- **Reward:** Title says $14,999 but body doesn't confirm — VERIFY FIRST
+- **Difficulty:** Very Hard — full RCS implementation
+- **Status:** 🟢 UNCLAIMED (no assignee)
+- **Notes:** Very old issue (Aug 2025). RCS support is massive. Confirm bounty terms before doing work.
+
+### [VERIFY] paxosglobal/paxos-token-contracts#17 — Bug Bounty Report
+- **URL:** https://github.com/paxosglobal/paxos-token-contracts/issues/17
+- **Reward:** TBD (bug bounty, not a preset amount)
+- **Difficulty:** Security audit
+- **Status:** 🟢 UNCLAIMED
+- **Notes:** Bug report filed — need to verify if there's an active bounty program and reward structure.
+
+---
+
+## 💤 Low Value / Not Worth Doing
+
+- Scottcjn rustchain-bounties (social media tasks, 0.5-10 RTC each, <$1 value)
+- labmain/ai-agent-pay-demo#18 — $50 but trivial loading spinner
+- INDIGOAZUL/la-tanda-web#155/#154 — 25-30 LTD tokens (obscure crypto, unverified value)
+
+---
+
+## 📊 Scan Summary
 
 | Category | Count |
-|----------|-------|
-| Devpool $200+ | 4 available (2 in progress, 2 free) |
-| CR1 USD ≥$100 | 12 |
-| Quick Wins (USDT/micro/USD) | 18 |
-| Total unclaimed | ~100 |
+|---|---|
+| Total matches in GitHub search | 5,355 |
+| Valid unclaimed bounties (first 100) | 77 |
+| High-value USD ≥$50 (unclaimed) | 9 |
+| USD ≥$100 (unclaimed) | 4 |
+| Token/crypto (RTC ≥10, unclaimed) | 6 |
+| Spam/garbage filtered | ~20 |
 
-**Top picks for action:**
-1. **$300** — Formal verification #5845 — ✅ **IN PROGRESS** (tests written, PR submitted)
-2. **$300** — Contributor Class v2 #5045 — ✅ **IN PROGRESS** (implementation complete)
-3. **$450** — Plugin health monitor #5886 — cron job to monitor marketplace plugin failures
-4. **$300** — New Proposal Router #5840 — UbiquityOS routing with ML (high complexity)
-5. **$600** — General Improvements #5902 — kernel wishlist (medium)
-6. **$2,500** — Lifting Wavelet Transform — tenstorrent/tt-metal (ML/hardware)
-7. **$1,500** — CosyVoice bring-up — tenstorrent/tt-metal *(URGENT: due Apr 6!)*
+*Note: Only top 100 results scanned (most recently updated). Full scan would require pagination.*
 
-> 🆕 **CT1 new:** +7 entries from 2026-04-01 scan — illbnm USDT x4 ($120-$280), labmain x2 ($50), devpool x1 ($9)
-
----
-
-## 🛡️ Security Bounties
-
-| Amount | Repo | Issue | Due |
-|--------|------|-------|-----|
-| $1,500 | tenstorrent/tt-metal | CosyVoice bring-up TTNN APIs | Apr 6 |
-| $1,500 | tenstorrent/tt-metal | Time Series Transformer TTNN | - |
-| $1,500 | tenstorrent/pytorch2.0_ttnn | Stable Diffusion 1.4 model | Apr 6 |
-| $500 | Fhavlonir/GoodEnoughReader.js | Make the app secure | - |
-
----
-
-## ⚡ Quick Wins (Social/Micro, non-USD tokens)
-
-| Token | Repo | Issue |
-|-------|------|-------|
-| $280 USDT | illbnm/homelab-stack | Observability Stack — Prometheus + Grafana + Loki + Alerting |
-| $150 USDT | illbnm/homelab-stack | Backup & DR — 自动备份 + 灾难恢复 |
-| $130 USDT | illbnm/homelab-stack | Home Automation Stack — Home Assistant + Node-RED + Zigbee2MQTT |
-| $120 USDT | illbnm/homelab-stack | Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager |
-| $50 USD | labmain/ai-agent-pay-demo | Add loading spinner to bounty list page |
-| $50 USD | labmain/ai-agent-pay-demo | Support dark/light theme toggle |
-| $9 USD | devpool-directory/devpool-directory | Launch Another DoraHacks Bounty Post |
-| 300 RTC | Scottcjn/legend-of-elya-n64 | N64 LLM Speedrun — 5 tok/s on Real Hardware |
-| 200 RTC | Scottcjn/legend-of-elya-n64 | N64 RustChain Mining ROM |
-| 100 RTC Pool | Scottcjn/rustchain-bounties | Code Review Bounty Program |
-| 50 RTC | Scottcjn/rustchain-bounties | Build a BoTTube Chrome Extension |
-| 300 LTD | INDIGOAZUL/la-tanda-web | 🎓 Onboarding Tour / First-Time User Flow |
-| 250 LTD | INDIGOAZUL/la-tanda-web | 📲 Mobile Push Notification UX |
-| 200 LTD | INDIGOAZUL/la-tanda-web | 🔭 Chain Explorer Enhancements |
-| 150 LTD | INDIGOAZUL/la-tanda-web | ⚡ Performance Audit + Lighthouse |
-| 0.5 SOL | bolivian-peru/baozi-openclaw | Night Kitchen — Bilingual Market Report Agent |
-| $15 | databuddy-analytics/Databuddy | Feature Flag Folders for Organization |
-
-> 📅 **CT1 Scan:** 2026-04-01 11:29 UTC — 7 new entries added from `bounty+in:title` API scan
+**Scanned at:** 2026-04-01 11:40 UTC
+**Scanner:** CU1 subagent
