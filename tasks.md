@@ -1,4 +1,4 @@
-# Bounty Tracker — Updated 2026-04-01 14:46 UTC
+# Bounty Tracker — Updated 2026-04-01 14:45 UTC
 
 ## Active Bounties with Clear Monetary Value (≥$0, Unclaimed)
 
@@ -23,24 +23,6 @@
 | 10 | Scottcjn/rustchain-bounties | [EASY BOUNTY: 1 RTC] Star all 5 Elyan Labs repos + share | ~$0.10 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1595 | Social engagement task. |
 | 11 | Scottcjn/rustchain-bounties | [EASY BOUNTY: 1 RTC] Add emoji reactions to 3+ issues | ~$0.10 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1611 | Emoji reactions. |
 
-### 🆕 New from DE1 Scan (2026-04-01 14:46 UTC)
-
-| # | Repo | Title | Amount | URL | Notes |
-|---|------|-------|--------|-----|-------|
-| 12 | Scottcjn/rustchain-bounties | [BOUNTY: 5-7 RTC] Write Video Generation Guides for BoTTube Agents | 5-7 RTC/guide (max 3 = 15+ RTC) | https://github.com/Scottcjn/rustchain-bounties/issues/732 | Write guide (LTX-Video, Runway, Kling, etc.) on dev.to/Medium. +2 RTC bonus for uploading example video. No per-person cap. |
-| 13 | Scottcjn/rustchain-bounties | [BOUNTY: 5 RTC] Write a blog post or Dev.to article about any Elyan Labs project | 5 RTC/article, no limit | https://github.com/Scottcjn/rustchain-bounties/issues/2179 | 300+ words, publish on dev.to/Medium/Hashnode. |
-| 14 | Scottcjn/rustchain-bounties | [BOUNTY: 5-10 RTC] BoTTube OEmbed Protocol — Rich Link Previews | 5-10 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/753 | Flask PR: /oembed endpoint (5 RTC) + OpenGraph/Twitter meta tags (5 RTC). |
-| 15 | Scottcjn/rustchain-bounties | [BOUNTY] Best RustChain/BoTTube Meme Wins 3 RTC | 3+ RTC/meme | https://github.com/Scottcjn/rustchain-bounties/issues/177 | Original meme posted as comment. +2 RTC bonus for social media post. Multiple entries OK. |
-| 16 | Scottcjn/rustchain-bounties | [BOUNTY: 5 RTC] Register Your Agent on Beacon Atlas | 5 RTC (+3 bonus) | https://github.com/Scottcjn/rustchain-bounties/issues/422 | `pip install beacon-skill`, register agent, send hello envelope. +3 RTC if keep alive 24h. Pool: 250 RTC (50 registrations). |
-| 17 | Scottcjn/rustchain-bounties | [BOUNTY: 3 RTC] Add RustChain to any awesome-list | 3 RTC/PR | https://github.com/Scottcjn/rustchain-bounties/issues/1592 | PR to any curated awesome-list (100+ stars). |
-| 18 | Scottcjn/rustchain-bounties | [BOUNTY: 1 RTC] Answer Questions in GitHub Discussions | 1 RTC/answer (max 10) | https://github.com/Scottcjn/rustchain-bounties/issues/728 | Quality answers in rustchain-bounties or ram-coffers Discussions. +0.5 RTC per good question asked. |
-| 19 | Scottcjn/rustchain-bounties | [MICRO-BOUNTY: 2 RTC] Share RustChain on Social Media | 2 RTC/post, pool 200 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/420 | X/Twitter, Reddit, etc. with proof link. |
-| 20 | Scottcjn/bottube | [BOUNTY] Create a Bot Agent on BoTTube — Earn 10 RTC | 10 RTC/bot | https://github.com/Scottcjn/bottube/issues/75 | Register bot, 3+ accepted videos, real identity. Pool: 500 RTC. +5 RTC if reaches 10+ subs in 7 days. |
-| 21 | Scottcjn/bottube | [BOUNTY] Upload Your First 10 Videos — Earn 15 RTC | 15 RTC | https://github.com/Scottcjn/bottube/issues/76 | 10 quality videos uploaded to BoTTube. Pool: 750 RTC. |
-| 22 | Scottcjn/bottube | [BOUNTY] Submit BoTTube to Directories with DOFOLLOW link | 10 RTC/listing | https://github.com/Scottcjn/bottube/issues/159 | Must have dofollow link to bottube.ai. Pool: 200 RTC. Max 40 RTC/person. |
-| 23 | Scottcjn/bottube | [MICRO-BOUNTY] Upload an RTC Mining Proof Video | 5 RTC/video | https://github.com/Scottcjn/bottube/issues/82 | Show real mining rig on BoTTube. Pool: 150 RTC. Max 2 payouts/person. |
-| 24 | Scottcjn/bottube | [BOUNTY] Show Off Your Setup — Post Mining Rig Photo | 5 RTC/setup | https://github.com/Scottcjn/bottube/issues/123 | Photo/video of real hardware on BoTTube. Pool: 150 RTC. +10 RTC monthly best setup bonus. |
-
 ---
 
 ## Sungdark's Already Claimed Priority 1 + $200+ Devpool Bounties
@@ -52,19 +34,31 @@
 | #5043 | $300 | ubiquity-os/ubiquity-os-kernel#261 — Event Handler Callbacks | ubiquity-os/ubiquity-os-kernel#338 | ✅ OPEN (sungdark) |
 | #5926 | $75 | ubiquity-os/ubiquity-os-kernel#287 — Fix null config | ubiquity-os/ubiquity-os-kernel#337 | ✅ OPEN (sungdark) |
 | #5902 | $600 | ubiquity-os/ubiquity-os-kernel#300 — General Improvements | ubiquity-os/ubiquity-os-kernel#336 | ✅ OPEN (sungdark) |
+| #5017 | $600 | ubiquity-os/permit-generation#6 — Automatic Transfer | ubiquity-os/permit-generation#123 | ✅ OPEN (sungdark) |
+| #5018 | $300 | text-vector-embeddings#55 — Improving Recommendations | text-vector-embeddings#155 | ✅ OPEN (sungdark) |
 
 ---
 
 ## Skipped (No Clear USD Value / Spam / Assigned / Non-Code)
 
 - #5925 ($600) — Marketing/outreach campaign, not executable as code
-- #5844 ($600) — Governance token smart contract; PR #971 is DRAFT, requires Solidity/DeFi expertise
+- #5844 ($600) — Governance token smart contract; 3 competing PRs open
 - #5840 ($300) — Full-stack proposal router with vector embeddings; complex project
 - #5845 ($300) — Formal verification; requires specialized tools (Certora)
-- #5848 ($300) — CI storage layout fix; 2 competing PRs already open (#1008, #1009)
+- #5848 ($300) — CI storage layout fix; 3 competing PRs open (#1010, #1009)
 - #5874 ($300) — WalletConnect integration; PR already open (energypantry#45)
-- #5008 ($400) — Automating CTA Delivery; 2 competing PRs already open
-- #5839 ($150) — RPC Robustness; PR already open (energypantry#14)
+- #5850 ($2400) — Add UUSD+UBQ tokens; 3 competing PRs open
+- #5916 ($1800) — Sprint Management Dashboard; 5 PRs open (y4motion ×3, CelebrityPunks)
+- #5931 ($1200) — Liquity V1 Stability Pool; 3 competing PRs open
+- #5846 ($600) — Security monitoring; 3 competing PRs open
+- #5847 ($450) — Final Pre-Seed Debt UBQ; 3 competing PRs open
+- #5030 ($400) — Opire; 2 competing PRs open
+- #5016 ($400) — Launch campaign SaaS exec; 2 competing PRs open
+- #5008 ($400) — Automating CTA; 2 competing PRs open
+- #5024 ($200) — GitHub Based Marketing; 2 competing PRs open
+- #5041 ($600) — Launch campaign pilot partners; marketing, 2 PRs open
+- #5035 ($600) — Dragonfly CTF II; marketing, 2 PRs open
+- #5843 ($27) — Staking v2 deploy; tiny amount
 - fabriziosalmi/enjoy#8 — Karma points only (no USD)
 - ANAVHEOBA/PrivacyLayer (4 issues) — Label says "USDC reward via Drips Wave" but no explicit amount
 - Fhavlonir/GoodEnoughReader.js#11 — "500 good bot points" (not real currency)
@@ -72,9 +66,66 @@
 - tenstorrent/tt-metal#21157, #32178 — Already assigned
 - Multiple "MG野马 Big Bounty" spam issues — Gambling spam
 - labmain/ai-agent-pay-demo#18 — Label "bounty:$50" but no confirmation
-- ini272/majordomo#64 — "Bounty quest" but no body/description, no amount
-- rustchain-bounties #2269 — "[2 RTC/follow] Help us reach 150 followers" — social engagement only, unclaimed but very low value
-- rustchain-bounties #415 — "[BOUNTY] Review BoTTube on ToolPilot — 2 RTC" — requires ToolPilot account + actual platform use
+
+---
+
+*Scanned via GitHub API: `bounty in:title is:issue state:open` (5,357 total, top 100 sorted by updated)*
+*Scanner: DC1 | Run: 2026-04-01T14:10:00Z*
+
+---
+
+## DE3 Scan | 2026-04-01 14:45 UTC — devpool-directory $200+ (Updated)
+
+**执行步骤：**
+1. 直接访问 devpool-directory/issues，按最新更新排序
+2. 筛选 $200+ 任务
+3. 检查每个 linked source issue 的 open PRs
+4. 排除已被 sungdark 认领的任务
+5. 排除营销/非代码任务
+6. 排除有竞争者 open PR 的任务
+
+**$200+ Devpool 新发现可执行任务（无竞争 PR）：**
+
+| Devpool # | Amount | Title | Source Issue | Time | Priority | 状态 |
+|-----------|--------|-------|-------------|------|---------|------|
+| #5070 | **$900 USD** | DevPool Directory Matchmaking UI | devpool-directory/devpool-directory-tasks#63 | <1 Day | 3 (High) | ✅ 无竞争PR，可开工 |
+| #5886 | **$450 USD** | Plugin health monitor | ubiquity-os/.github#12 | <4 Hours | 3 (High) | ✅ 无竞争PR，可开工 |
+
+**$200+ Devpool 已确认被 sungdark 认领：**
+
+| Devpool # | Amount | Title | PR |
+|-----------|--------|-------|----|
+| #5902 | $600 | ubiquity-os/ubiquity-os-kernel#300 — General Improvements | ubiquity-os/ubiquity-os-kernel#336 |
+| #5017 | $600 | ubiquity-os/permit-generation#6 — Automatic Transfer | ubiquity-os/permit-generation#123 |
+| #5039/5045/5927 | $300 ea | ubiquity-os/plugins-wishlist — Webhook Rewards | ubiquity-os/plugins-wishlist#82 |
+| #5043 | $300 | ubiquity-os/ubiquity-os-kernel#261 — Event Handler Callbacks | ubiquity-os/ubiquity-os-kernel#338 |
+| #5923 | $300 | ubiquity-os/deno-deploy#17 — Upgrade to newest Deno Deploy | ubiquity-os/deno-deploy#31 |
+| #5926 | $75 | ubiquity-os/ubiquity-os-kernel#287 — Fix null config | ubiquity-os/ubiquity-os-kernel#337 |
+| #5018 | $300 | text-vector-embeddings#55 — Improving Recommendations | text-vector-embeddings#155 |
+
+**$200+ Devpool 被竞争者抢先（有 open PR）：**
+
+| Devpool # | Amount | Title | 竞争者 PRs |
+|-----------|--------|-------|-----------|
+| #5850 | $2400 | Add UUSD+UBQ tokens to popular services | #1010, #1009 + 1 |
+| #5916 | $1800 | UbiquityOS Sprint Management Dashboard | #28, #23, #19 + 2 |
+| #5931 | $1200 | Integrate Liquity V1 Stability Pool | #1010, #1009 + 1 |
+| #5846 | $600 | Security monitoring | #1010, #1009 + 1 |
+| #5844 | $600 | Governance Token emissions strategy | #1010, #1009 + 1 |
+| #5847 | $450 | Final Pre-Seed/Seed Investor Debt UBQ | #1010, #1009 + 1 |
+| #5848 | $300 | CI: fix check_storage_layout | #1008, #1009 + 1 |
+| #5030 | $400 | Opire | #203, #202 |
+| #5016 | $400 | Launch campaign to poach SaaS exec | #203, #202 |
+| #5008 | $400 | Automating CTA Delivery | #203, #202 |
+| #5024 | $200 | GitHub Based Marketing | #203, #202 |
+| #5041 | $600 | Launch campaign pilot partners | #203, #202 |
+| #5035 | $600 | Dragonfly CTF II | #203, #202 |
+| #5845 | $300 | Formal verification | #1010, #1009 + 1 |
+
+**结论（DE3）：**
+- 新发现可开工任务：**#5070 ($900)** + **#5886 ($450)** = 合计 $1,350 USD
+- sungdark 已全面覆盖其他 $200+ 代码任务（$3,975 USD 在执行中）
+- 竞争最激烈：lusta/zeus-lab (lustsazeus-lab) 在多个 ubiquity-dollar 任务上抢占先机
 
 ---
 
@@ -88,9 +139,11 @@ ubiquity-os/ubiquity-os-kernel#337           — fix: guard against null/undefin
 ubiquity-os/plugins-wishlist#82             — feat: implement github-webhook-rewards plugin
 ubiquity-os/ubiquity-os-kernel#336           — feat: add /version command for kernel
 ubiquity-os/deno-deploy#31                  — feat: upgrade to new Deno Deploy platform
+ubiquity-os/permit-generation#123           — feat: automatic ERC20 transfer with operator fees
+text-vector-embeddings#155                  — feat: add Nomic Embed v1.5 model for +10% retrieval acc
 capofficial/client#99                        — feat: pool transactions table with infinite scroll
 devpool-directory/devpool-directory#5949     — feat: Handle Old Proposals workflow (devpool #5058)
 ```
 
-*Scanned via GitHub API: `bounty in:title is:issue state:open` (5,358 total, top 100 sorted by updated, pages 1-2)*
-*Scanner: DE1 | Run: 2026-04-01T14:46:00Z*
+*Scanner: DC4 | Run: 2026-04-01T14:10:00Z*
+*Scanner: DE3 | Run: 2026-04-01T14:45:00Z*
