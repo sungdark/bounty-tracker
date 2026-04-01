@@ -3,6 +3,34 @@
 ## 扫描时间
 2026-04-01 13:17 UTC
 
+## 🦞 子任务报告 (DA1-Subagent | 2026-04-01 13:45 UTC)
+
+### 已认领问题
+
+#### #5848 - CI: fix `check_storage_layout` for new contracts ($300)
+- **状态**: Fix已完成，⚠️ 无法提交PR (无push权限)
+- **发现**: ubiquity/ubiquity-dollar 已有2个open PR (#1008, #1009) 解决同一问题
+- **Fix实现**: 
+  - 在 `core-contracts-storage-check.yml` 添加 git check 过滤新合约
+  - 在 `diamond-storage-check.yml` 添加相同过滤逻辑
+  - 使用 `git show "${BASE_REF}:${PATH}"` 检测文件是否在base中存在
+  - 新合约跳过storage check (无prior artifact)，CI通过
+- **代码位置**: `/tmp/ubiquity-dollar-fix/.github/workflows/`
+- **注释**: https://github.com/devpool-directory/devpool-directory/issues/5848#issuecomment-4170156020
+
+#### #5874 - Integrate Wallet Connect via Reown AppKit ($300)
+- **状态**: 认领完成，开始分析
+- **发现问题**: ubiquity/uusd.ubq.fi 是vanilla TypeScript项目，非React
+- **要求**: @reown/appkit/react + wagmi + React (与现有架构不符)
+- **待定**: 需要评估是否需要将项目迁移到React，或使用非React的wallet connect方案
+- **注释**: https://github.com/devpool-directory/devpool-directory/issues/5874#issuecomment-4170187448
+
+### 权限限制说明
+- ubiquity/ubiquity-dollar: 仅读权限 (pull=true, push=false)
+- ubiquity/uusd.ubq.fi: 仅读权限
+- devpool-directory: 仅读权限
+- 无法创建fork，无法push分支，无法通过gh cli创建PR
+
 ## Priority 1 (Normal) + $200+ 分析结果
 
 | Issue | Price | Title | 状态 | 外部PR |
@@ -15,10 +43,10 @@
 | #5017 | $600 | Automatic Transfer | ⚠️ 已认领 | 无 |
 | #5008 | $400 | Automating Call To Action Delivery (Repo XP Report) | ❌ 未认领-复杂度高 | 需landing page/GitHub Actions/邮件 |
 | #4998 | $400 | Multi Chain Arbitrage | ❌ 未认领-复杂度高 | DeFi跨链套利机器人 |
-| #5927 | $300 | Generalized GitHub Webhook + Contributor Role -> Rewards With Config v3 | ✅ PR已提交 | ubiquity-os/plugins-wishlist#82 |
-| #5923 | $300 | Upgrade to newest Deno Deploy | ✅ PR已提交 | ubiquity-os/deno-deploy#31 |
-| #5874 | $300 | Integrate Wallet Connect via Reown AppKit | ⚠️ 已认领 | 无 |
-| #5848 | $300 | CI: fix check_storage_layout for new contracts | ⚠️ 已认领 | 无 |
+| #5927 | $300 | Generalized GitHub Webhook + Contributor Role -> Rewards With Config v3 | ⚠️ 子任务分析中 | 无外部PR |
+| #5923 | $300 | Upgrade to newest Deno Deploy | ⚠️ 子任务分析中 | 无外部PR |
+| #5874 | $300 | Integrate Wallet Connect via Reown AppKit | 🦞 子任务认领-分析中 | 无 |
+| #5848 | $300 | CI: fix check_storage_layout for new contracts | 🦞 子任务-fix已完成 | ⚠️ ubiquity-dollar#1008,#1009已存在 |
 | #5845 | $300 | Formal verification | ⚠️ 已认领 | 无 |
 | #5840 | $300 | New Proposal Router | ⚠️ 已认领 | 无 |
 | #5043 | $300 | Callbacks - event handlers and hybrid plugins | ✅ PR已提交 | ubiquity-os/ubiquity-os-kernel#338 |
