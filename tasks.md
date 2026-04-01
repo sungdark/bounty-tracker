@@ -82,6 +82,33 @@ Last updated: 2026-04-01
 - **Details**: Integrate stNEAR into a DeFi project - lending, DEX, stablecoins, synthetics, insurance
 - **Verify**: Clear bounty amount, multiple prize tiers, hackathon context
 
+### BL2-011: Implement DAO-compatible Slashing Module (Nobayprotocol)
+- **Repo**: Nobayprotocol/Nobay-Protocol
+- **Issue**: #1
+- **Reward**: TBD (Nobay token bounty, amount not specified)
+- **URL**: https://github.com/Nobayprotocol/Nobay-Protocol/issues/1
+- **Status**: OPEN (unclaimed)
+- **Details**: Smart contract module for $NOBAY stakers slashing via DAO vote or dispute outcome. Integrates with StakingModule, emits Slashed(address, amount, reason). Bonus: trust decay function. Type: Solidity/DAO extension.
+- **Verify**: Bounty + Solidity labels, clear feature spec, no assignees
+
+### BL2-012: Build Listing Discovery Engine PWA (Nobayprotocol)
+- **Repo**: Nobayprotocol/Nobay-Protocol
+- **Issue**: #2
+- **Reward**: TBD (Nobay token bounty, amount not specified)
+- **URL**: https://github.com/Nobayprotocol/Nobay-Protocol/issues/2
+- **Status**: OPEN (unclaimed)
+- **Details**: Web interface pulling verified listings from ListingRegistry events. Wallet connect (MetaMask, WalletConnect), read ListingVerified events, show seller trust tier, filter by keyword/trust/timestamp. Type: Frontend/UI.
+- **Verify**: Bounty + frontend labels, clear spec, no assignees
+
+### BL2-013: Hardhat Test Suite for ListingRegistry.sol (Nobayprotocol)
+- **Repo**: Nobayprotocol/Nobay-Protocol
+- **Issue**: #3
+- **Reward**: TBD (Nobay token bounty, amount not specified)
+- **URL**: https://github.com/Nobayprotocol/Nobay-Protocol/issues/3
+- **Status**: OPEN (unclaimed)
+- **Details**: Unit tests for ListingRegistry.sol: signature validity, invalid signature rejection, event emission, seller mapping accuracy. Optional: Foundry comparison. Type: DevOps/QA, Solidity.
+- **Verify**: Bounty + Solidity + testing labels, clear test cases, no assignees
+
 ### BP2-001: Easy Unit Test Bounty
 - **Repo**: Scottcjn/rustchain-bounties
 - **Issue**: #1589
