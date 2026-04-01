@@ -1679,3 +1679,50 @@ Last CP1 scan: 2026-04-01T09:44:00Z
 | CN1-001 | 2026-04-01T09:52:00Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5925 | claimed | Priority 1, $600 USD, L1/L2 campaign - Work: https://github.com/sungdark/l1-l2-campaign |
 
 Last updated: 2026-04-01T09:52:00Z
+
+### CQ1-001: YouTube/BoTTube Video Tutorial (5 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #2180
+- **Reward**: 5 RTC (~$0.50)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/2180
+- **Status**: AVAILABLE
+- **Details**: Record 2+ min video about any Elyan Labs project (RustChain miner, BoTTube upload, TrashClaw, rustchain-mcp setup). Upload to YouTube or bottube.ai. Comment with link + wallet.
+- **Verify**: Bounty label, 5 RTC, no assignees, 323 comments (active)
+
+### CQ1-002: Add README Badge Mentioning RustChain (3 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #2177
+- **Reward**: 3 RTC (~$0.30)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/2177
+- **Status**: AVAILABLE
+- **Details**: Add badge or section to GitHub profile README mentioning RustChain or Elyan Labs project. Example badge provided. Comment with profile link + wallet.
+- **Verify**: Bounty label, 3 RTC, no assignees, 357 comments (very active)
+
+### CQ1-003: Add Emoji Reactions to 3+ Issues (1 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #1611
+- **Reward**: 1 RTC (~$0.10)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/1611
+- **Status**: AVAILABLE
+- **Details**: React with thumbs-up/rocket/heart to 3+ open issues. Comment with links. Easiest possible bounty.
+- **Verify**: bounty label, easy label, 1 RTC, no assignees, good first issue label
+
+### CQ1-004: Star 5 Elyan Labs Repos + Social Share (1 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #1595
+- **Reward**: 1 RTC (~$0.10)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/1595
+- **Status**: AVAILABLE
+- **Details**: Star Rustchain, bottube, beacon-skill, grazer-skill, rustchain-mcp. Share on X/LinkedIn. Comment with proof.
+- **Verify**: bounty label, propagation label, 1 RTC, no assignees, easy task
+
+### CQ1-005: Block Explorer Bug Hunt (2 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #517
+- **Reward**: 2 RTC (~$0.20)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/517
+- **Status**: AVAILABLE
+- **Details**: Visit https://50.28.86.131/explorer, navigate 3+ pages, screenshot each, report bugs/broken links/UI issues. Multi-claim.
+- **Verify**: bounty label, 2 RTC, no assignees, easy difficulty, ~15 min task
+
+Last CQ1 scan: 2026-04-01T09:58:00Z
