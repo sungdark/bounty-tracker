@@ -1,63 +1,78 @@
-# 🦞 Bounty Tracker — Updated 2026-04-01 10:35 UTC
+# 🦞 Bounty Tracker — Updated 2026-04-01
 
-**Scanner:** CR3 (devpool-directory direct HTML scan — issues with $200+ labels)  
-**Scan time:** 2026-04-01 10:35 UTC
+**Scanner:** CR1 (GitHub API — bounty in:title is:issue state:open)  
+**Devpool Scan:** Priority 1 (Normal) + $200+ only  
+**Scan time:** 2026-04-01 10:37 UTC
 
 ---
 
-## 💰 High-Value USD Bounties from devpool-directory (≥$200)
+## 🚀 Devpool Priority 1 Bounties ($200+) — ACTIONABLE
 
-> Scanned all open issues in devpool-directory/devpool-directory with Price labels ≥$200 USD.
+> Devpool-directory: https://github.com/devpool-directory/devpool-directory/issues  
+> Rule: Priority 1 (Normal), No access restrictions, $200+
 
-### 🏆 Top Tier ($600-$900)
+| # | Amount | Issue | Status | PR/Link |
+|---|--------|-------|--------|---------|
+| **5845** | **$300** | Formal verification — LibUbiquityPool | 🔨 **IN PROGRESS** | [PR: sungdark/bounty-ubiquity-formal](https://github.com/sungdark/bounty-ubiquity-formal) |
+| 5840 | $300 | New Proposal Router — UbiquityOS GitHub routing UI | ✅ Free (no PR in ubiquity/.github) | [devpool#5840](https://github.com/devpool-directory/devpool-directory/issues/5840) |
+| 5902 | $600 | General Improvements — ubiquity-os-kernel | ✅ Free (no PR in kernel) | [devpool#5902](https://github.com/devpool-directory/devpool-directory/issues/5902) |
+| ~~5844~~ | ~~$600~~ | ~~Governance Token emissions~~ | ❌ **TAKEN** (PR #971 exists) | ubiquity-dollar#831 |
+| ~~5848~~ | ~~$300~~ | ~~CI: fix check_storage_layout~~ | ❌ **TAKEN** (PR #1008 exists) | ubiquity-dollar#972 |
+| ~~5927~~ | ~~$300~~ | ~~GitHub Webhook Rewards plugin~~ | ❌ **TAKEN** (PR #82 exists) | ubiquity-os/plugins-wishlist#47 |
+| ~~5923~~ | ~~$300~~ | ~~Upgrade Deno Deploy~~ | ❌ **TAKEN** (PR #31, #30 exist) | ubiquity-os/deno-deploy#17 |
+| ~~5874~~ | ~~$300~~ | ~~Integrate Wallet Connect~~ | ❌ **TAKEN** (PR #45 exists) | ubiquity/uusd.ubq.fi#24 |
 
-| Amount | Issue | Labels |
-|--------|-------|--------|
-| **$900** | [Nomic Embeddings Model for +10% Accuracy](https://github.com/devpool-directory/devpool-directory/issues/5064) | Priority: ? |
-| **$900** | [DevPool Directory Matchmaking UI](https://github.com/devpool-directory/devpool-directory/issues/5070) | Priority: ? |
-| **$600** | [Launch campaign towards L1s/L2s for managing their GitHubs](https://github.com/devpool-directory/devpool-directory/issues/5925) | Price: 600 USD, Priority: 1 (Normal) |
-| **$600** | [Security monitoring](https://github.com/devpool-directory/devpool-directory/issues/5846) | Price: 600 USD |
-| **$600** | [Unified Authentication](https://github.com/devpool-directory/devpool-directory/issues/5841) | Price: 600 USD |
-| **$600** | [Governance Token emissions to `ubq.eth` new strategy](https://github.com/devpool-directory/devpool-directory/issues/5844) | Price: 600 USD |
-| **$600** | [General Improvements](https://github.com/devpool-directory/devpool-directory/issues/5902) | Price: 600 USD |
-| **$600** | [command-plan](https://github.com/devpool-directory/devpool-directory/issues/5877) | Price: 600 USD |
-| **$600** | [All Branches Supported for Previews](https://github.com/devpool-directory/devpool-directory/issues/5899) | Price: 600 USD |
-| **$600** | [Launch campaign to target pilot partners from large open source projects](https://github.com/devpool-directory/devpool-directory/issues/5041) | Price: 600 USD |
-| **$600** | [Recruiting: Dragonfly CTF II](https://github.com/devpool-directory/devpool-directory/issues/5035) | Price: 600 USD |
-| **$600** | [Cow Swap Cash Out](https://github.com/devpool-directory/devpool-directory/issues/5066) | Price: 600 USD |
-| **$600** | [Implement Differential Reward Distribution for Reopened Issues](https://github.com/devpool-directory/devpool-directory/issues/5012) | Price: 600 USD |
-| **$600** | [Automatic Transfer](https://github.com/devpool-directory/devpool-directory/issues/5017) | Price: 600 USD |
+### #5845 — Formal Verification (MY TASK) 🎯
+- **Amount:** $300 USD
+- **Target:** ubiquity/ubiquity-dollar#926
+- **Repo:** sungdark/bounty-ubiquity-formal (independent push)
+- **What I implemented:**
+  - 10 formal verification tests in `test/certora/UbiquityPoolFacet.formal.t.sol` (ALL PASS ✅)
+  - Harness contract `test/certora/UbiquityPoolFacetHarness.sol`
+  - Updated `.github/workflows/formal-verification.yml` (added Foundry invariant tests + halmos CI)
+- **Key invariants verified:**
+  1. Mint collateral bounded by collateral value (100% ratio)
+  2. Redeem collateral bounded by pool liquidity
+  3. Collateral ratio capped at 100%
+  4. Pool ceiling enforced on mint
+  5. Stale price blocks minting
+  6. Redeem output formula correctness
+  7. Mint with 100% fee → 0 dollar mint (no revert)
+  8. Redeem with 100% fee → 0 collateral redeem (no revert)
+  9. Full mint-redeem round-trip preserves value
+  10. getDollarInCollateral consistency
 
-### 💪 Mid Tier ($300-$499)
+### #5840 — New Proposal Router
+- **Amount:** $300 USD
+- **Target:** ubiquity/.github#123
+- **What it needs:** Full-stack ML UI + Telegram bot for intelligent routing
+- **Complexity:** High (1 day estimate)
+- **Status:** ✅ Available (no PR in ubiquity/.github)
 
-| Amount | Issue | Labels |
-|--------|-------|--------|
-| **$450** | [Final Pre-Seed/Seed Investor Debt UBQ](https://github.com/devpool-directory/devpool-directory/issues/5847) | Price: 450 USD |
-| **$450** | [Plugin health monitor](https://github.com/devpool-directory/devpool-directory/issues/5886) | Price: 450 USD |
-| **$450** | [Review Incentive Double Check Calculations](https://github.com/devpool-directory/devpool-directory/issues/5042) | Price: 450 USD |
-| **$450** | [Automatically set a `Time: ` label](https://github.com/devpool-directory/devpool-directory/issues/5022) | Price: 450 USD |
-| **$400** | [Multi Chain Arbitrage](https://github.com/devpool-directory/devpool-directory/issues/4998) | Price: 400 USD |
-| **$400** | [Automating Call To Action Delivery (Repo XP Report)](https://github.com/devpool-directory/devpool-directory/issues/5008) | Price: 400 USD |
-| **$400** | [Launch campaign to poach an experienced SaaS sales executive](https://github.com/devpool-directory/devpool-directory/issues/5016) | Price: 400 USD |
-| **$400** | [Opire](https://github.com/devpool-directory/devpool-directory/issues/5030) | Price: 400 USD |
-| **$300** | [Generalized "GitHub Webhook + Contributor Role -> Rewards" With Config v3](https://github.com/devpool-directory/devpool-directory/issues/5927) | Price: 300 USD |
-| **$300** | [Upgrade to newest Deno Deploy](https://github.com/devpool-directory/devpool-directory/issues/5923) | Price: 300 USD |
-| **$300** | [CI: fix `check_storage_layout` for new contracts](https://github.com/devpool-directory/devpool-directory/issues/5848) | Price: 300 USD |
-| **$300** | [Formal verification](https://github.com/devpool-directory/devpool-directory/issues/5845) | Price: 300 USD |
-| **$300** | [New Proposal Router](https://github.com/devpool-directory/devpool-directory/issues/5840) | Price: 300 USD |
-| **$300** | [premade configs that are hands-off for partners](https://github.com/devpool-directory/devpool-directory/issues/5837) | Price: 300 USD |
-| **$300** | [Integrate Wallet Connect via Reown AppKit](https://github.com/devpool-directory/devpool-directory/issues/5874) | Price: 300 USD |
-| **$300** | [E2E Smoke (Playwright) – Handoff](https://github.com/devpool-directory/devpool-directory/issues/5081) | Price: 300 USD |
-| **$300** | [Error Handling & Status Toasts – Handoff](https://github.com/devpool-directory/devpool-directory/issues/5079) | Price: 300 USD |
-| **$300** | [Generalized "GitHub Webhook + Contributor Role -> Rewards" Contributor Class v2](https://github.com/devpool-directory/devpool-directory/issues/5045) | Price: 300 USD |
-| **$300** | [Callbacks - event handlers and hybrid plugins](https://github.com/devpool-directory/devpool-directory/issues/5043) | Price: 300 USD |
-| **$300** | [Generalized "GitHub Webhook + Contributor Role -> Rewards" No Config v1](https://github.com/devpool-directory/devpool-directory/issues/5039) | Price: 300 USD |
+### #5902 — General Improvements (kernel)
+- **Amount:** $600 USD
+- **Target:** ubiquity-os/ubiquity-os-kernel#300
+- **Status:** ✅ Available (no PR in kernel repo)
+- **Complexity:** Medium (wishlist of improvements)
 
-### 🎯 Entry Tier ($200)
+---
 
-| Amount | Issue | Labels |
-|--------|-------|--------|
-| **$200** | [GitHub Based Marketing](https://github.com/devpool-directory/devpool-directory/issues/5024) | Price: 200 USD |
+## 💰 CR1 High-Value USD Bounties (≥$100)
+
+| Amount | Repo | Issue | Labels |
+|--------|------|-------|--------|
+| $2,500 | tenstorrent/tt-metal | [Bounty $2.5k] Implement Lifting Wavelet Transform (LWT) and Inverse LWT (ILWT) | ttnn, hard |
+| $1,500 | tenstorrent/tt-metal | [Bounty $1500] CosyVoice bring up using TTNN APIs *(Due April 6)* | model bringup, medium |
+| $1,500 | tenstorrent/tt-metal | [Bounty $1500] Time Series Transformer Model Bring-Up Using TTNN APIs | model bringup, medium |
+| $1,500 | tenstorrent/tt-metal | [Bounty $1500] Add support for ttnn.flip | TM, medium |
+| $1,500 | tenstorrent/pytorch2.0_ttnn | [Bounty $1500] Add model: Stable Diffusion 1.4 (512x512) *(Due April 6)* | medium |
+| $500 | tenstorrent/tt-metal | [Bounty $500] TTNN EmbeddingOp input rank verification | easy |
+| $500 | Fhavlonir/GoodEnoughReader.js | [BOUNTY] make the app secure [500 good bot points] | help wanted |
+| $200 | lihaoyi/test | requests.RequestTests fails trying to contact httpbin.org (200USD Bounty) | - |
+| $150 | claude-builders-bounty/claude-builders-bounty | [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment | agent |
+| $100 | claude-builders-bounty/claude-builders-bounty | [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands | hook, security |
+| $75 | claude-builders-bounty/claude-builders-bounty | [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project | template |
+| $50 | claude-builders-bounty/claude-builders-bounty | [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history | skill, good first issue |
 
 ---
 
@@ -65,54 +80,53 @@
 
 | Category | Count |
 |----------|-------|
-| $900 | 2 |
-| $600 | 13 |
-| $450 | 4 |
-| $400 | 4 |
-| $300 | 12 |
-| $200 | 1 |
-| **Total $200+** | **36** |
+| Devpool Priority 1 $200+ | 3 available (1 in progress, 2 free) |
+| CR1 USD ≥$100 | 12 |
+| Quick Wins (USDT/micro/USD) | 18 |
+| Total unclaimed | ~100 |
 
 **Top picks for action:**
-1. **$900** — Nomic Embeddings Model — devpool-directory (ML/accuracy improvement)
-2. **$900** — DevPool Directory Matchmaking UI — devpool-directory
-3. **$600** — Launch campaign towards L1s/L2s — devpool-directory (business development)
-4. **$600** — Security monitoring — devpool-directory (security)
-5. **$600** — Unified Authentication — devpool-directory (auth/infrastructure)
+1. **$300** — Formal verification #5845 — ✅ **IN PROGRESS** (tests written, PR submitted)
+2. **$300** — New Proposal Router #5840 — UbiquityOS routing with ML (high complexity)
+3. **$600** — General Improvements #5902 — kernel wishlist (medium)
+4. **$2,500** — Lifting Wavelet Transform — tenstorrent/tt-metal (ML/hardware)
+5. **$1,500** — CosyVoice bring-up — tenstorrent/tt-metal *(URGENT: due Apr 6!)*
 
-**All issue URLs:**
-- https://github.com/devpool-directory/devpool-directory/issues/5064
-- https://github.com/devpool-directory/devpool-directory/issues/5070
-- https://github.com/devpool-directory/devpool-directory/issues/5925
-- https://github.com/devpool-directory/devpool-directory/issues/5846
-- https://github.com/devpool-directory/devpool-directory/issues/5841
-- https://github.com/devpool-directory/devpool-directory/issues/5844
-- https://github.com/devpool-directory/devpool-directory/issues/5902
-- https://github.com/devpool-directory/devpool-directory/issues/5877
-- https://github.com/devpool-directory/devpool-directory/issues/5899
-- https://github.com/devpool-directory/devpool-directory/issues/5041
-- https://github.com/devpool-directory/devpool-directory/issues/5035
-- https://github.com/devpool-directory/devpool-directory/issues/5066
-- https://github.com/devpool-directory/devpool-directory/issues/5012
-- https://github.com/devpool-directory/devpool-directory/issues/5017
-- https://github.com/devpool-directory/devpool-directory/issues/5847
-- https://github.com/devpool-directory/devpool-directory/issues/5886
-- https://github.com/devpool-directory/devpool-directory/issues/5042
-- https://github.com/devpool-directory/devpool-directory/issues/5022
-- https://github.com/devpool-directory/devpool-directory/issues/4998
-- https://github.com/devpool-directory/devpool-directory/issues/5008
-- https://github.com/devpool-directory/devpool-directory/issues/5016
-- https://github.com/devpool-directory/devpool-directory/issues/5030
-- https://github.com/devpool-directory/devpool-directory/issues/5927
-- https://github.com/devpool-directory/devpool-directory/issues/5923
-- https://github.com/devpool-directory/devpool-directory/issues/5848
-- https://github.com/devpool-directory/devpool-directory/issues/5845
-- https://github.com/devpool-directory/devpool-directory/issues/5840
-- https://github.com/devpool-directory/devpool-directory/issues/5837
-- https://github.com/devpool-directory/devpool-directory/issues/5874
-- https://github.com/devpool-directory/devpool-directory/issues/5081
-- https://github.com/devpool-directory/devpool-directory/issues/5079
-- https://github.com/devpool-directory/devpool-directory/issues/5045
-- https://github.com/devpool-directory/devpool-directory/issues/5043
-- https://github.com/devpool-directory/devpool-directory/issues/5039
-- https://github.com/devpool-directory/devpool-directory/issues/5024
+> 🆕 **CT1 new:** +7 entries from 2026-04-01 scan — illbnm USDT x4 ($120-$280), labmain x2 ($50), devpool x1 ($9)
+
+---
+
+## 🛡️ Security Bounties
+
+| Amount | Repo | Issue | Due |
+|--------|------|-------|-----|
+| $1,500 | tenstorrent/tt-metal | CosyVoice bring-up TTNN APIs | Apr 6 |
+| $1,500 | tenstorrent/tt-metal | Time Series Transformer TTNN | - |
+| $1,500 | tenstorrent/pytorch2.0_ttnn | Stable Diffusion 1.4 model | Apr 6 |
+| $500 | Fhavlonir/GoodEnoughReader.js | Make the app secure | - |
+
+---
+
+## ⚡ Quick Wins (Social/Micro, non-USD tokens)
+
+| Token | Repo | Issue |
+|-------|------|-------|
+| $280 USDT | illbnm/homelab-stack | Observability Stack — Prometheus + Grafana + Loki + Alerting |
+| $150 USDT | illbnm/homelab-stack | Backup & DR — 自动备份 + 灾难恢复 |
+| $130 USDT | illbnm/homelab-stack | Home Automation Stack — Home Assistant + Node-RED + Zigbee2MQTT |
+| $120 USDT | illbnm/homelab-stack | Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager |
+| $50 USD | labmain/ai-agent-pay-demo | Add loading spinner to bounty list page |
+| $50 USD | labmain/ai-agent-pay-demo | Support dark/light theme toggle |
+| $9 USD | devpool-directory/devpool-directory | Launch Another DoraHacks Bounty Post |
+| 300 RTC | Scottcjn/legend-of-elya-n64 | N64 LLM Speedrun — 5 tok/s on Real Hardware |
+| 200 RTC | Scottcjn/legend-of-elya-n64 | N64 RustChain Mining ROM |
+| 100 RTC Pool | Scottcjn/rustchain-bounties | Code Review Bounty Program |
+| 50 RTC | Scottcjn/rustchain-bounties | Build a BoTTube Chrome Extension |
+| 300 LTD | INDIGOAZUL/la-tanda-web | 🎓 Onboarding Tour / First-Time User Flow |
+| 250 LTD | INDIGOAZUL/la-tanda-web | 📲 Mobile Push Notification UX |
+| 200 LTD | INDIGOAZUL/la-tanda-web | 🔭 Chain Explorer Enhancements |
+| 150 LTD | INDIGOAZUL/la-tanda-web | ⚡ Performance Audit + Lighthouse |
+| 0.5 SOL | bolivian-peru/baozi-openclaw | Night Kitchen — Bilingual Market Report Agent |
+| $15 | databuddy-analytics/Databuddy | Feature Flag Folders for Organization |
+
+> 📅 **CT1 Scan:** 2026-04-01 11:29 UTC — 7 new entries added from `bounty+in:title` API scan
