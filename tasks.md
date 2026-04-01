@@ -186,3 +186,41 @@
 | #5024 | GitHub Based Marketing | [devpool](https://github.com/devpool-directory/devpool-directory/issues/5024) · [source](https://github.com/ubiquity/business-development/issues/90) |
 
 *DA3 Scanner | 2026-04-01 13:32 UTC | 49个赏金 ≥$200*
+
+---
+
+## 🌐 DB1 Scan: GitHub公开赏金任务 (2026-04-01 13:49 UTC)
+
+> 扫描源: github.com/search/issues?q=bounty+in:title+is:issue+state:open
+> 过滤条件: 赏金金额明确(≥$0 USD)、未被认领(assignees=0)
+> 排除: 垃圾信息、积分/Token类非USD赏金(crypto/RTC/LTD等)、已认领任务
+
+### 💰 明确USD赏金 ($150+)
+
+| # | 标题 | 金额 | 链接 | 难度 | 备注 |
+|---|------|------|------|------|------|
+| #2994 | RCS Support (microG/GmsCore) | **$14,999** | [issue](https://github.com/microg/GmsCore/issues/2994) | 🔴 Hard | Android/microG RCS实现，314评论，2025-08创建 |
+| #1173 | Toyota: cancel cruise without chime (commaai/opendbc) | **$200-$300** | [issue](https://github.com/commaai/opendbc/issues/1173) | 🟡 Medium | DBC/CAN总线修改，需实际Toyota测试，2021-12创建 |
+| #12 | Backup & DR (illbnm/homelab-stack) | **$150 USDT** | [issue](https://github.com/illbnm/homelab-stack/issues/12) | 🟡 Medium | Docker栈备份脚本(backup.sh + Restic)，需3-2-1备份策略 |
+| #7 | Home Automation (illbnm/homelab-stack) | **$130 USDT** | [issue](https://github.com/illbnm/homelab-stack/issues/7) | 🟡 Medium | Docker栈Home Assistant/Node-RED/Zigbee2MQTT |
+
+### ❌ 已过滤(不符合标准)
+
+| 原因 | 示例 |
+|------|------|
+| 垃圾信息/Spam | jhardtu/v78w (赌场推广) |
+| 非USD Token赏金 | Scottcjn/rustchain-bounties (RTC token, ~$0.02-$2) |
+| 非USD Token赏金 | INDIGOAZUL/la-tanda-web (LTD token, 值不稳定) |
+| 积分/Points类 | Fhavlonir/GoodEnoughReader.js (500 "good bot points") |
+| 金额不明确 | ANAVHEOBA/PrivacyLayer #47 (USDC via Drips Wave, 无具体数额) |
+| 已认领 | Fhavlonir/GoodEnoughReader.js #11 (assignee: Async777) |
+| 非技术任务 | rustchain-bounties emoji reactions, social media stars等 |
+
+### 🔍 DB1扫描备注
+
+- **microg/GmsCore #2994** 是本轮扫描最大赏金: $14,999，让Google Messages + microG支持RCS
+- **commaai/opendbc #1173** 是长期开放赏金(2021年)，需CAN总线逆向经验
+- homelab-stack两个赏金是Docker/基础设施任务，门槛较低
+- 大部分"bounty"标签的结果是RTC/LTD等小众token，不计入
+
+*DB1 Scanner | 2026-04-01 13:49 UTC | 4个有效USD赏金 ≥$130*
