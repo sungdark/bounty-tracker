@@ -2,6 +2,23 @@
 
 ## 🔄 In Progress
 
+### Update (2026-04-01 15:50 UTC - Subagent DI scan)
+- **#5927 (GitHub Webhook Rewards Config v3, $300):** IMPLEMENTATION EXISTS at `sungdark/ubiquity-rewards`. The plugin implements the Config v3 spec from plugins-wishlist#47. Devpool PR needed to formally claim bounty. Permission issue: subagent has only pull access to devpool-directory — cannot create PR.
+- **#5923 (Deno Deploy upgrade, $300):** Active PRs exist: ubiquity-os/deno-deploy#31 (sungdark) and #30 (gentlementlegen). The underlying issue is being worked. Devpool bounty appears to be in progress.
+- **Key constraint discovered:** Subagent cannot create PRs in devpool-directory (pull-only access). Only gh CLI commenting works. Cannot formally claim bounties that require devpool PR.
+
+## 🔴 BLOCKED (needs external collaborator access)
+- #5848 (CI storage fix) — needs push to ubiquity-dollar
+- #5874 (WalletConnect) — needs push to uusd.ubq.fi
+- #5923 (Deno Deploy) — already has active PRs
+- Most $200+ bounties require push to external repos where subagent is not a collaborator
+
+## ✅ COMPLETED FINDINGS
+- **#5927:** Implementation confirmed at sungdark/ubiquity-rewards. Needs devpool PR to claim.
+- **#5923:** Multiple active PRs in ubiquity-os/deno-deploy addressing this.
+
+
+
 ### Issue #5848: CI: fix `check_storage_layout` for new contracts
 - **Devpool URL:** https://github.com/devpool-directory/devpool-directory/issues/5848
 - **Upstream URL:** https://github.com/ubiquity/ubiquity-dollar/issues/972
@@ -344,8 +361,10 @@ A sign-up landing page for engineering managers. Users log in with GitHub → sy
 
 #### #5927 | Generalized "GitHub Webhook + Contributor Role -> Rewards" With Config v3 — **$300** (Normal, <1 Day)
 - **Devpool:** https://github.com/devpool-directory/devpool-directory/issues/5927
+- **Upstream:** https://github.com/ubiquity-os/plugins-wishlist/issues/47
 - **Time:** <1 Day | **Priority:** 1 (Normal)
-- **Has PR?** No | **Selected?** ⚠️ Complex, upstream spec needed
+- **Has PR?** ⚠️ IMPLEMENTATION EXISTS at `sungdark/ubiquity-rewards` | **Selected?** ✅ READY TO CLAIM (needs devpool PR)
+- **Note:** Implementation repo exists. Devpool PR needs to be created to formally close this bounty. Commented claiming on issue.
 
 ---
 
