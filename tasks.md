@@ -1557,3 +1557,70 @@ Last updated: 2026-04-01
 | CO1-010 | 2026-04-01T09:40:00Z | github | WattCoin-Org/wattcoin | 15000 WATT | https://github.com/WattCoin-Org/wattcoin/issues/17 | available | Raspberry Pi IoT bridge to WattCoin - MQTT/Zigbee, device state relay, command relay |
 
 Last updated: 2026-04-01T09:40:00Z
+
+## CP1 (2026-04-01 Scan - claude-builders-bounty + recent bounty repos)
+
+### CP1-001: [BOUNTY $200] WORKFLOW - n8n + Claude Code weekly dev summary
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #5
+- **Reward**: $200 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5
+- **Status**: AVAILABLE
+- **Details**: Create n8n workflow that auto-generates weekly GitHub repo activity summary using Claude API. Weekly cron, fetches commits/PRs/issues via GitHub API, calls Claude Sonnet 4, delivers via email or Discord/Slack webhook. Configurable variables for repo, channel, language.
+- **Verify**: Bounty $200 in body, no assignees, open issue with 98 comments, Opire powered
+
+### CP1-002: [BOUNTY $100] HOOK - Pre-tool-use hook blocks destructive bash
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #3
+- **Reward**: $100 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3
+- **Status**: AVAILABLE
+- **Details**: Claude Code pre-tool-use hook in Python/bash blocking: rm -rf, DROP TABLE, git push --force, TRUNCATE, DELETE FROM without WHERE. Logs to ~/.claude/hooks/blocked.log with timestamp+command+project. README in 2 commands or fewer.
+- **Verify**: Bounty $100 in body, no assignees, open with 133 comments, Opire powered
+
+### CP1-003: [BOUNTY $150] AGENT - Claude Code PR review sub-agent
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #4
+- **Reward**: $150 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4
+- **Status**: AVAILABLE
+- **Details**: Create Claude Code agent that analyzes PR diffs and posts structured review comments in Markdown. Configurable review criteria, summary of changes, security hotspots, suggestions.
+- **Verify**: Bounty $150 in body, no assignees, open, Opire powered
+
+### CP1-004: [BOUNTY $75] TEMPLATE - CLAUDE.md for Next.js + SQLite SaaS
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #2
+- **Reward**: $75 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2
+- **Status**: AVAILABLE
+- **Details**: Production-ready CLAUDE.md template for Next.js 15 + SQLite SaaS project. Covers project overview, tech stack, architecture, common workflows, coding standards, testing strategy, deployment.
+- **Verify**: Bounty $75 in body, no assignees, open, Opire powered
+
+### CP1-005: [BOUNTY $50] SKILL - CHANGELOG generator from git history
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #1
+- **Reward**: $50 USD (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1
+- **Status**: AVAILABLE
+- **Details**: Claude Code skill or bash script that generates CHANGELOG.md from git commit history. Auto-categorizes changes (feat/fix/docs/refactor/test), generates conventional commit style entries.
+- **Verify**: Bounty $50 in body, no assignees, open, Opire powered
+
+### CP1-006: [BOUNTY $9] Launch DoraHacks Bounty Post
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5924
+- **Reward**: $9 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5924
+- **Status**: AVAILABLE
+- **Details**: Launch another DoraHacks bounty post (links to ubiquity/business-development#174). Very small reward, Priority 1, Time <15 Minutes.
+- **Verify**: Bounty $9 in label, no assignees, open issue, Priority 1
+
+### CP1-007: [BOUNTY $50] Add loading spinner to bounty list page
+- **Repo**: labmain/ai-agent-pay-demo
+- **Issue**: #18
+- **Reward**: $50 USD
+- **URL**: https://github.com/labmain/ai-agent-pay-demo/issues/18
+- **Status**: AVAILABLE
+- **Details**: Add loading spinner/skeleton while data is being fetched. Show spinner during API call, disappear when data loads, handle error state gracefully.
+- **Verify**: Bounty label $50, no assignees, enhancement label, 6 comments
+
+Last CP1 scan: 2026-04-01T09:44:00Z
