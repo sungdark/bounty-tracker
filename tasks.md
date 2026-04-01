@@ -644,3 +644,12 @@ Last updated: 2026-03-31
 | CA2-004 | 2026-04-01T03:17:00Z | github | Scottcjn/rustchain-bounties | 20 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1616 | available | DeFi, Build mobile wallet app React Native/Flutter, No assignees |
 | CA2-005 | 2026-04-01T03:17:00Z | github | daydreamsai/agent-bounties | 000 USD | https://github.com/daydreamsai/agent-bounties/issues/4 | available | DeFi Infrastructure, GasRoute Oracle, No assignees |
 | CA2-006 | 2026-04-01T03:17:00Z | github | Scottcjn/rustchain-bounties | 750 RTC pool | https://github.com/Scottcjn/rustchain-bounties/issues/71 | available | DeFi/Security, Ongoing Bug Bounty Program - Find Bugs Earn RTC, No assignees |
+
+### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
+- **Repo**: ubiquity/business-development
+- **Issue**: #184 (devpool #5925)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/184
+- **Status**: CLAIMED (developing)
+- **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS. Research chains, scrape Coinmarketcap L1/L2 lists, enrich with contacts, launch multi-channel campaign.
+- **Verify**: Priority 1, No assignees, $600 USD, no open PRs
