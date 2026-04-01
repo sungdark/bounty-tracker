@@ -346,3 +346,14 @@ Last updated: 2026-03-31
 - **Status**: AVAILABLE
 - **Details**: Formal verification for ubiquity-dollar smart contracts
 - **Verify**: Priority 1, $300 USD, no assignees
+
+### BT-BX3-002: Recruiting Dragonfly CTF II
+- **Repo**: ubiquity/business-development
+- **Issue**: #155 (devpool #5035)
+- **Reward**: 00 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/155
+- **Status**: CLAIMED (developing)
+- **Details**: Reach out to Solidity developers from Dragonfly CTF leaderboards and invite them to devpool.directory
+- **Verify**: Priority 1, 00 USD
+
+| BT-BX3-002 | 2026-04-01T02:21:34Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5035 | claimed | Priority 1, Recruiting Dragonfly CTF II, Claimed by sungdark |
