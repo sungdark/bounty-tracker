@@ -1,6 +1,6 @@
 # Bounty Tracker
 
-Last updated: 2026-03-31
+Last updated: 2026-04-01
 
 ## Active Tasks
 
@@ -890,4 +890,35 @@ Last updated: 2026-03-31
 
 | CF2-001 | 2026-04-01T04:16:00Z | github | tonkeeper/w5 | 5000-10000 TON (~$2500-5000) | https://github.com/tonkeeper/w5/issues/17 | available | TON DeFi Security Bounty, Wallet V5 smart contract, No assignees |
 | CF2-002 | 2026-04-01T04:16:00Z | github | gitcoinco/web | $30-$600 USD | https://github.com/gitcoinco/web/issues/9659 | available | Gitcoin Security Bounty, Open source marketplace, No assignees |
+
+### CH1-001: httpbin Test Fix
+- **Repo**: lihaoyi/test
+- **Issue**: #1219
+- **Reward**: $200 USD (bank transfer on merged PR)
+- **URL**: https://github.com/lihaoyi/test/issues/1219
+- **Status**: AVAILABLE
+- **Details**: Fix tests failing due to httpbin.org timeouts - download httpbin locally and integrate into test setup (CI + local dev)
+- **Verify**: Bounty by Li Haoyi, clear spec, no assignees, Scala/requestscala project
+
+### CH1-002: Validate Reward Generation Behavior
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5887
+- **Reward**: $150 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5887
+- **Status**: AVAILABLE
+- **Details**: Validate reward generation behavior - linked to ubiquity-os-marketplace/text-conversation-rewards#455
+- **Verify**: Price label $150 USD, Priority 2 Medium, no assignees
+
+### CH1-003: Differential Reward Distribution for Reopened Issues
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5012
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5012
+- **Status**: AVAILABLE
+- **Details**: Implement differential reward distribution for reopened issues - linked to text-conversation-rewards#301
+- **Verify**: Price label $600 USD, Priority 2 Medium, no assignees
+
+| CH1-001 | 2026-04-01T07:17:00Z | github | lihaoyi/test | $200 USD | https://github.com/lihaoyi/test/issues/1219 | available | Li Haoyi bounty, Fix httpbin test setup, Scala requests lib, No assignees |
+| CH1-002 | 2026-04-01T07:17:00Z | github | devpool-directory/devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5887 | available | Priority 2, Validate reward generation, No assignees |
+| CH1-003 | 2026-04-01T07:17:00Z | github | devpool-directory/devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5012 | available | Priority 2, Differential reward for reopened issues, No assignees |
 
