@@ -100,6 +100,113 @@ Same fix pattern, using `ubiquity/foundry-storage-check@main` instead, and adjus
 
 ---
 
+## 🆕 New Opire Dollar Bounties Found (2026-04-01 DI1 Scan)
+
+### Issue #1: [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1
+- **Price:** $50 USD (via Opire)
+- **Difficulty:** Easy
+- **Time estimate:** <1 Day
+- **Claimed:** No
+- **Status:** NEW
+
+#### Description
+Create a Claude Code skill (`SKILL.md`) or a bash script that automatically generates a structured `CHANGELOG.md` from a project's git history.
+
+#### Acceptance Criteria
+- [ ] Works via `/generate-changelog` command or `bash changelog.sh`
+- [ ] Fetches commits since the last git tag
+- [ ] Auto-categorizes into: `Added` / `Fixed` / `Changed` / `Removed`
+- [ ] Outputs a properly formatted `CHANGELOG.md`
+- [ ] Tested on a real GitHub repo (include sample output in the PR)
+- [ ] README with setup instructions in 3 steps or fewer
+
+#### How to Claim
+1. Comment `/opire try` in the issue
+2. Submit a PR with solution
+3. Payment released automatically on merge ✅
+
+---
+
+### Issue #2: [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2
+- **Price:** $75 USD (via Opire)
+- **Difficulty:** Medium
+- **Time estimate:** <1 Day
+- **Claimed:** No
+- **Status:** NEW
+
+#### Description
+Create an opinionated, production-ready `CLAUDE.md` for a typical SaaS project built with Next.js 15 App Router and SQLite (better-sqlite3 or Turso).
+
+#### Acceptance Criteria
+- [ ] Covers: project structure, naming conventions, DB migration rules
+- [ ] Includes: dev commands, patterns to follow, anti-patterns to avoid
+- [ ] Opinionated — not generic. Every rule has a reason.
+- [ ] Usable without modification on a greenfield Next.js + SQLite project
+- [ ] Tested: create a new project, paste the CLAUDE.md, confirm Claude Code understands the context
+
+#### How to Claim
+1. Comment `/opire try` in the issue
+2. Submit a PR with CLAUDE.md
+3. Payment released automatically on merge ✅
+
+---
+
+### Issue #3: [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3
+- **Price:** $100 USD (via Opire)
+- **Difficulty:** Medium
+- **Time estimate:** <1 Day
+- **Claimed:** No
+- **Status:** NEW
+
+#### Description
+Create a Claude Code `pre-tool-use` hook in Python or bash that intercepts dangerous bash commands before they are executed.
+
+#### Acceptance Criteria
+- [ ] Hook follows Claude Code hooks format (`~/.claude/hooks/`)
+- [ ] Blocks: `rm -rf`, `DROP TABLE`, `git push --force`, `TRUNCATE`, `DELETE FROM` without WHERE
+- [ ] Logs every blocked attempt to `~/.claude/hooks/blocked.log` with timestamp + command + project path
+- [ ] Displays clear message to Claude explaining why the command was blocked
+- [ ] Does not interfere with normal bash commands
+- [ ] README with installation in 2 commands or fewer
+
+#### How to Claim
+1. Comment `/opire try` in the issue
+2. Submit a PR with hook + README
+3. Payment released automatically on merge ✅
+
+---
+
+### Issue #4: [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4
+- **Price:** $150 USD (via Opire)
+- **Difficulty:** Medium
+- **Time estimate:** <1 Day
+- **Claimed:** No
+- **Status:** NEW
+
+#### Description
+Create a Claude Code agent that takes a PR diff as input, analyzes it, and returns a structured Markdown review comment.
+
+#### Acceptance Criteria
+- [ ] Works via CLI: `claude-review --pr https://github.com/owner/repo/pull/123` OR GitHub Action
+- [ ] Structured Markdown output with:
+  - Summary of changes (2–3 sentences)
+  - Identified risks (list)
+  - Improvement suggestions (list)
+  - Confidence score: Low / Medium / High
+- [ ] Tested on at least 2 real GitHub PRs (include outputs in the PR)
+- [ ] README with setup and usage instructions
+
+#### How to Claim
+1. Comment `/opire try` in the issue
+2. Submit a PR with the agent + sample outputs
+3. Payment released automatically on merge ✅
+
+---
+
 ## 📋 All Priority 1 + $200+ Scanned (2026-04-01)
 | # | Title | Price | Has Open PR? | Status |
 |---|-------|-------|--------------|--------|
@@ -108,7 +215,7 @@ Same fix pattern, using `ubiquity/foundry-storage-check@main` instead, and adjus
 | 5923 | Upgrade to newest Deno Deploy | $300 | No | Medium complexity |
 | 5902 | General Improvements | $600 | No | Multi-part |
 | 5874 | Integrate Wallet Connect via Reown AppKit | $300 | No | Medium |
-| 5848 | CI: fix `check_storage_layout` for new contracts | $300 | No | **Selected: clear bug, clear fix** |
+| 5848 | CI: fix `check_storage_layout` for new contracts | $300 | No | **IN PROGRESS** |
 | 5845 | Formal verification | $300 | No | Expert domain |
 | 5844 | Governance Token emissions to `ubq.eth` | $600 | No | Complex |
 | 5840 | New Proposal Router | $300 | No | Medium |
@@ -122,3 +229,13 @@ Same fix pattern, using `ubiquity/foundry-storage-check@main` instead, and adjus
 | 5017 | Automatic Transfer | $600 | No | Complex |
 | 5008 | Automating Call To Action Delivery | $400 | No | Reporting |
 | 4998 | Multi Chain Arbitrage | $400 | No | DeFi complex |
+
+---
+
+## 📋 Opire $50-$150 Bounties (2026-04-01 DI1 Scan)
+| # | Title | Price | Difficulty | Status |
+|---|-------|-------|------------|--------|
+| 1 | SKILL: Generate a structured CHANGELOG from git history | $50 | Easy | **NEW** |
+| 2 | TEMPLATE: CLAUDE.md for Next.js + SQLite SaaS project | $75 | Medium | **NEW** |
+| 3 | HOOK: Pre-tool-use hook blocks destructive bash commands | $100 | Medium | **NEW** |
+| 4 | AGENT: Claude Code sub-agent PR reviewer | $150 | Medium | **NEW** |
