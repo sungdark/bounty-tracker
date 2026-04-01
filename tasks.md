@@ -1052,3 +1052,114 @@ Last updated: 2026-04-01
 - **Verify**: Priority 2 Medium, $1200 USD, no assignees on devpool or linked issue, clear spec
 
 | CK3-001 | 2026-04-01T07:56:00Z | github | ubiquity/uusd.ubq.fi | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/5875 | available | Priority 2, CowSwap Integration - deposit any asset/withdraw any asset via CowSwap hooks, No assignees |
+
+### CK1-001: Media Stack — Jellyfin + Sonarr + Radarr + Prowlarr + qBittorrent + Jellyseerr
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #2
+- **Reward**: $200 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/2
+- **Status**: AVAILABLE
+- **Details**: Docker Compose for 6 media services (Jellyfin, Sonarr, Radarr, Prowlarr, qBittorrent, Jellyseerr) with Traefik reverse proxy, hardlinks, health checks, .env management, detailed README
+- **Verify**: Bounty $200 USDT label, no assignees, well-specified acceptance criteria
+
+### CK1-002: Storage Stack — Nextcloud + MinIO + FileBrowser + Syncthing
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #3
+- **Reward**: $150 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/3
+- **Status**: AVAILABLE
+- **Details**: Docker Compose for Nextcloud FPM + Nginx, MinIO S3, FileBrowser, Syncthing with shared PostgreSQL/Redis, Authentik OIDC
+- **Verify**: Bounty $150 USDT label, no assignees
+
+### CK1-003: Productivity Stack — Gitea + Vaultwarden + Outline + Stirling PDF
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #5
+- **Reward**: $160 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/5
+- **Status**: AVAILABLE
+- **Details**: Docker Compose for Gitea, Vaultwarden, Outline, Stirling PDF, Excalidraw with Authentik OIDC, SMTP, shared DB
+- **Verify**: Bounty $160 USDT label, no assignees
+
+### CK1-004: AI Stack — Ollama + Open WebUI + Stable Diffusion + Perplexica
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #6
+- **Reward**: $220 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/6
+- **Status**: AVAILABLE
+- **Details**: Docker Compose for local AI stack - GPU-adaptive (NVIDIA CUDA/AMD ROCm/CPU fallback), Ollama, Open WebUI, Stable Diffusion, Perplexica
+- **Verify**: Bounty $220 USDT label, hard difficulty, no assignees
+
+### CK1-005: Home Automation — Home Assistant + Node-RED + Mosquitto + Zigbee2MQTT
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #7
+- **Reward**: $130 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/7
+- **Status**: AVAILABLE
+- **Details**: Docker Compose for Home Assistant (host network mode), Node-RED, Mosquitto, Zigbee2MQTT, ESPHome with Traefik
+- **Verify**: Bounty $130 USDT label, no assignees
+
+### CK1-006: Robustness — CN Network Adaptation + Mirror Scripts
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #8
+- **Reward**: $250 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/8
+- **Status**: AVAILABLE
+- **Details**: Docker mirror acceleration scripts for CN networks (daemon.json), image localization (gcr.io/ghcr.io → CN mirrors), apt/pip mirror scripts, complete mirror mapping table
+- **Verify**: Bounty $250 USDT label, hard difficulty, no assignees
+
+### CK1-007: SSO Stack — Authentik OIDC/SSO Integration
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #9
+- **Reward**: $300 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/9
+- **Status**: AVAILABLE
+- **Details**: Authentik OIDC/SAML SSO for all services (Grafana, Gitea, Nextcloud, Outline, Open WebUI, Portainer), auto-provisioning scripts for OAuth2 providers
+- **Verify**: Bounty $300 USDT label, hardest task in repo, no assignees
+
+### CK1-008: Observability Stack — Prometheus + Grafana + Loki + Tempo + Alerting
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #10
+- **Reward**: $280 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/10
+- **Status**: AVAILABLE
+- **Details**: Docker Compose for full observability: Prometheus, Grafana, Loki, Promtail, Tempo, Alertmanager, cAdvisor, Node Exporter, Uptime Kuma, Grafana OnCall with auto-provisioned dashboards
+- **Verify**: Bounty $280 USDT label, hard difficulty, no assignees
+
+### CK1-009: Database Layer — PostgreSQL + Redis + MariaDB Shared Instances
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #11
+- **Reward**: $100 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/11
+- **Status**: AVAILABLE
+- **Details**: Shared database stack - multi-tenant PostgreSQL init script, Redis multi-DB isolation, backup scripts (pg_dumpall, redis-cli BGSAVE), pgAdmin + Redis Commander management UIs
+- **Verify**: Bounty $100 USDT label, medium difficulty, no assignees
+
+### CK1-010: Backup & DR — Automated Backup + Disaster Recovery
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #12
+- **Reward**: $150 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/12
+- **Status**: AVAILABLE
+- **Details**: 3-2-1 backup strategy: Duplicati + Restic, backup targets (MinIO/B2/SFTP/local), crontab scheduling, disaster recovery docs, ntfy notifications
+- **Verify**: Bounty $150 USDT label, medium difficulty, no assignees
+
+### CK1-011: Notifications Stack — ntfy + Gotify Unified Notification Hub
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #13
+- **Reward**: $80 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/13
+- **Status**: AVAILABLE
+- **Details**: Docker Compose for ntfy + Gotify notification servers, unified notify.sh script, integration docs for Alertmanager/Watchtower/Gitea/Home Assistant/Uptime Kuma
+- **Verify**: Bounty $80 USDT label, easy difficulty, no assignees
+
+| CK1-001 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $200 USDT | https://github.com/illbnm/homelab-stack/issues/2 | available | Docker Compose: Jellyfin+Sonarr+Radarr+Prowlarr+qBittorrent+Jellyseerr, Traefik, hardlinks, No assignees |
+| CK1-002 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/3 | available | Docker Compose: Nextcloud+MinIO+FileBrowser+Syncthing, shared DB/Redis, OIDC, No assignees |
+| CK1-003 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $160 USDT | https://github.com/illbnm/homelab-stack/issues/5 | available | Docker Compose: Gitea+Vaultwarden+Outline+StirlingPDF+Excalidraw, Authentik OIDC, No assignees |
+| CK1-004 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $220 USDT | https://github.com/illbnm/homelab-stack/issues/6 | available | Docker Compose: Ollama+OpenWebUI+StableDiffusion+Perplexica, GPU-adaptive CUDA/ROCm/CPU, No assignees |
+| CK1-005 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $130 USDT | https://github.com/illbnm/homelab-stack/issues/7 | available | Docker Compose: HomeAssistant+NodeRED+Mosquitto+Zigbee2MQTT+ESPHome, host network mode, No assignees |
+| CK1-006 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $250 USDT | https://github.com/illbnm/homelab-stack/issues/8 | available | Docker mirror scripts, CN network adaptation, gcr.io/ghcr.io mirror mapping, No assignees |
+| CK1-007 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $300 USDT | https://github.com/illbnm/homelab-stack/issues/9 | available | Docker Compose: Authentik OIDC/SSO for all services, auto-provisioning scripts, hardest task, No assignees |
+| CK1-008 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/10 | available | Docker Compose: Prometheus+Grafana+Loki+Tempo+Alertmanager+cAdvisor+UptimeKuma+OnCall, No assignees |
+| CK1-009 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $100 USDT | https://github.com/illbnm/homelab-stack/issues/11 | available | Docker Compose: PostgreSQL+Redis+MariaDB shared, backup scripts, pgAdmin UIs, No assignees |
+| CK1-010 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $150 USDT | https://github.com/illbnm/homelab-stack/issues/12 | available | 3-2-1 backup: Duplicati+Restic, multi-target, disaster recovery docs, ntfy alerts, No assignees |
+| CK1-011 | 2026-04-01T07:55:00Z | github | illbnm/homelab-stack | $80 USDT | https://github.com/illbnm/homelab-stack/issues/13 | available | Docker Compose: ntfy+Gotify notification servers, notify.sh script, Alertmanager/Gitea integration docs, No assignees |
