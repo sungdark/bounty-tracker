@@ -743,3 +743,67 @@ Last updated: 2026-03-31
 - **Status**: CLAIMED (developing)
 - **Details**: Automate XP report delivery for repo URLs - run text-conversation-rewards, send email with dashboard link
 - **Verify**: Priority 1, $400 USD, no assignees
+
+### CC3-001: Import Nonces
+- **Repo**: ubiquity-os/ubiquity-os-kernel
+- **Issue**: devpool-directory#4996
+- **Reward**: 00 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/4996
+- **Status**: OPEN
+- **Details**: Import Nonces - Priority 2, Time <1 Day
+- **Verify**: Issue exists, Price: 00 USD label, Priority 2 (Medium), Opire enabled
+
+### CC3-002: Arbitrage bot
+- **Repo**: ubiquity-os/ubiquity-os-kernel
+- **Issue**: devpool-directory#5002
+- **Reward**: 00 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5002
+- **Status**: OPEN
+- **Details**: Arbitrage bot - Priority 2, Time <1 Day
+- **Verify**: Issue exists, Price: 00 USD label, Priority 2 (Medium), Opire enabled
+
+### CC3-003: Specialized Prompts
+- **Repo**: ubiquity-os/copilot
+- **Issue**: devpool-directory#5007
+- **Reward**: 00 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5007
+- **Status**: OPEN
+- **Details**: Specialized Prompts - Priority 2, Time <1 Day
+- **Verify**: Issue exists, Price: 00 USD label, Priority 2 (Medium), Opire enabled
+
+### CC3-004: Launch campaign to poach an experienced SaaS sales executive
+- **Repo**: ubiquity/business-development
+- **Issue**: devpool-directory#5016
+- **Reward**: 00 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5016
+- **Status**: OPEN
+- **Details**: Poach SaaS sales executive - Priority 2, Time <1 Day
+- **Verify**: Issue exists, Price: 00 USD label, Priority 2 (Medium), Opire enabled
+
+### CC3-005: Generalized GitHub Webhook + Contributor Role - No Config v1
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: devpool-directory#5039
+- **Reward**: 00 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5039
+- **Status**: OPEN
+- **Details**: Generalized GitHub Webhook + Contributor Role - No Config v1 - Priority 1, Time <1 Day
+- **Verify**: Issue exists, Price: 00 USD label, Priority 1 (Normal), Opire enabled
+
+### CC3-006: Launch campaign to target pilot partners from large open source projects
+- **Repo**: ubiquity/business-development
+- **Issue**: devpool-directory#5041
+- **Reward**: 00 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5041
+- **Status**: OPEN
+- **Details**: Target pilot partners from large OSS projects - Priority 3 (High), Time <1 Day
+- **Verify**: Issue exists, Price: 00 USD label, Priority 3 (High), Opire enabled
+
+### CC3-007: Callbacks - event handlers and hybrid plugins
+- **Repo**: ubiquity-os/ubiquity-os-kernel
+- **Issue**: devpool-directory#5043
+- **Reward**: 00 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5043
+- **Status**: OPEN
+- **Details**: Callbacks - event handlers and hybrid plugins - Priority 1, Time <1 Day
+- **Verify**: Issue exists, Price: 00 USD label, Priority 1 (Normal), Opire enabled
+
