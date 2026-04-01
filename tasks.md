@@ -131,6 +131,8 @@ Plain LUSD collateral earns 0% yield. Integrate Liquity Stability Pool (~6.28% A
 
 ## 🔄 In Progress
 
+> **DL4 scan update (2026-04-01 16:22 UTC):** All Priority 1 + $200+ devpool code tasks are either claimed by others or require collaborator access. No actionable code bounty found in this category.
+
 ### Update (2026-04-01 16:07 UTC - Subagent DK3 scan)
 - **#5927 (GitHub Webhook Rewards Config v3, $300):** IMPLEMENTATION EXISTS at `sungdark/ubiquity-rewards`. The plugin implements the Config v3 spec from plugins-wishlist#47. Devpool PR needed to formally claim bounty. Permission issue: subagent has only pull access to devpool-directory — cannot create PR.
 - **#5923 (Deno Deploy upgrade, $300):** Active PRs exist: ubiquity-os/deno-deploy#31 (sungdark) and #30 (gentlementlegen). The underlying issue is being worked. Devpool bounty appears to be in progress.
@@ -602,12 +604,12 @@ A sign-up landing page for engineering managers. Users log in with GitHub → sy
 |--------|-------|
 | Total $200+ tasks scanned | 32 |
 | Total max value | $18,050 |
-| In Progress | 1 ($300) |
+| In Progress | 0 (DL4 scan: all Priority 1 + $200+ claimed or blocked) |
 | Settlement Pending | 0 |
 | New from DI3 scan | 20 tasks |
 | Quick wins (<4h, $300+) | 5 tasks |
-| Top pick | #5850 ($2400 — token list PRs) |
-| Quick pick | #5923 ($300 — Deno Deploy upgrade) |
+| Top pick | #5925 ($600 — BD/marketing, no code needed) |
+| Quick pick | Opire bounties (claude-builders-bounty) — independent PRs |
 
 ---
 
