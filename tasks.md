@@ -1009,3 +1009,24 @@ Last updated: 2026-04-01
 - **Verify**: Priority 1, $300 USD, no assignees, data scraping + dataset creation
 
 | CH1-009 | 2026-04-01T07:33:00Z | github | ubiquity-os-marketplace/daemon-pricing | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5020 | available | Priority 1, Scraper for JSONL dataset - 250-300 training + 100-150 validation examples of issue threads, No assignees |
+
+### CJ3-001: Callbacks - event handlers and hybrid plugins
+- **Repo**: ubiquity-os/ubiquity-os-kernel
+- **Issue**: #261 (devpool #5043)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/ubiquity-os-kernel/issues/261
+- **Status**: AVAILABLE
+- **Details**: Improve event handler and hybrid plugin SDK - add .on("issue_comment.created", "action", handler) pattern, merge createActionsPlugin and createPlugin for seamless experience, use fine-grained GitHub token instead of kernel credentials for Action triggers
+- **Verify**: Priority 1, $300 USD, no assignees, TypeScript/SDK feature
+
+### CJ3-002: CI: fix failing Diamond Storage Check
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #992 (devpool #5842)
+- **Reward**: $75 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/992
+- **Status**: AVAILABLE
+- **Details**: Fix CI failing with artifact name error in Diamond Storage Check workflow - merge latest Rubilmax/foundry-storage-check into ubiquity fork, then re-run workflow on PR#987
+- **Verify**: Priority 1, $75 USD, no assignees, clear CI fix
+
+| CJ3-001 | 2026-04-01T07:42:00Z | github | ubiquity-os/ubiquity-os-kernel | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5043 | available | Priority 1, Callbacks event handlers - improve hybrid plugin SDK with .on() pattern, No assignees |
+| CJ3-002 | 2026-04-01T07:42:00Z | github | ubiquity/ubiquity-dollar | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5842 | available | Priority 1, Fix Diamond Storage Check CI - merge foundry-storage-check updates, No assignees |
