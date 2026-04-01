@@ -1,17 +1,152 @@
 # Bounty Task Tracker
 
+## 🆕 NEW OPPORTUNITIES (DL1 scan - 2026-04-01 16:17 UTC)
+
+### Issue claude-builders-bounty#4: AGENT — Claude Code PR Reviewer
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4
+- **Price:** $150 USD (via Opire)
+- **Priority:** 2 (High)
+- **Time estimate:** <1 Day
+- **Status:** NEW - NOT CLAIMED
+
+#### Summary
+Create a Claude Code agent that takes a PR diff, analyzes it, and returns structured Markdown review.
+- CLI: `claude-review --pr https://github.com/owner/repo/pull/123`
+- OR GitHub Action workflow YAML
+- Output: Summary, risks, suggestions, confidence score
+- Must be tested on 2 real PRs with outputs included
+
+#### Feasibility Assessment
+- Self-contained: just needs a CLAUDE.md skill + test outputs
+- Requires Opire account (/opire try comment to claim)
+- Payment auto-released on merge ✅
+- **ACTIONABLE NOW** - can build independently
+
+### Issue claude-builders-bounty#3: HOOK — Pre-tool-use Destructive Bash Blocker
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3
+- **Price:** $100 USD (via Opire)
+- **Priority:** 2 (High)
+- **Time estimate:** <1 Day
+- **Status:** NEW - NOT CLAIMED
+
+#### Summary
+Claude Code pre-tool-use hook in Python/bash that blocks destructive commands.
+- Hooks path: `~/.claude/hooks/`
+- Blocks: `rm -rf`, `DROP TABLE`, `git push --force`, `TRUNCATE`, `DELETE FROM` without WHERE
+- Logs blocked attempts to `~/.claude/hooks/blocked.log`
+- README with install in 2 commands
+
+#### Feasibility Assessment
+- Pure script: no external dependencies needed
+- Requires Opire account (/opire try to claim)
+- **ACTIONABLE NOW** - straightforward implementation
+
+### Issue claude-builders-bounty#2: TEMPLATE — CLAUDE.md for Next.js + SQLite SaaS
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2
+- **Price:** $75 USD (via Opire)
+- **Priority:** 3 (Medium)
+- **Time estimate:** <1 Day
+- **Status:** NEW - NOT CLAIMED
+
+#### Summary
+Production-ready CLAUDE.md for Next.js 15 App Router + SQLite (better-sqlite3 or Turso).
+- Stack & versions, folder structure, DB migration rules
+- Component patterns, anti-patterns
+- Must be tested on greenfield project
+
+#### Feasibility Assessment
+- Writing task, no code to run
+- Requires Opire account
+- **ACTIONABLE NOW** - pure documentation work
+
+### Issue claude-builders-bounty#1: SKILL — Generate CHANGELOG from git history
+- **URL:** https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1
+- **Price:** $50 USD (via Opire)
+- **Priority:** 4 (Low)
+- **Time estimate:** <1 Day
+- **Status:** NEW - NOT CLAIMED
+
+#### Summary
+Claude Code skill (SKILL.md) or bash script that auto-generates a structured CHANGELOG from git history.
+- Parses commits, groups by type (feat/fix/docs)
+- Outputs conventional changelog format
+- README with usage
+
+#### Feasibility Assessment
+- Writing + scripting task
+- Requires Opire account
+- Low reward but quick to implement
+
+---
+
+## 🆕 NEW OPPORTUNITIES (DK3 scan - 2026-04-01 16:07 UTC)
+
+### Issue #5916: UbiquityOS Sprint Management Dashboard
+- **Devpool URL:** https://github.com/devpool-directory/devpool-directory/issues/5916
+- **Upstream URL:** https://github.com/ubiquity-os/.github/issues/14
+- **Price:** $1800 USD
+- **Priority:** 3 (High)
+- **Time estimate:** <1 Week
+- **Status:** NEW - NOT CLAIMED
+
+#### Summary
+Build a UbiquityOS Sprint Management Dashboard for AI team managers. The vision:
+1. Backend for landing page + GitHub OAuth org scraping
+2. Calendar view of team members and their task assignments (with priority levels)
+3. Quantitative metrics showing time/dollar savings from automated task assignment
+4. Import from Asana, Linear, etc. for larger backlogs
+5. A Tinder-like swipe UI for quickly setting task priority (left=low, right=high, up=urgent)
+
+#### Feasibility Assessment
+- This is a complex full-stack project (landing page + dashboard + GitHub API integration)
+- Requires building a new plugin/repo, not just a PR to existing upstream
+- Can be independently implemented without needing push access to ubiquity-os/.github
+- Recommendation: SKIP for now — too large for single bounty, recommend breaking into smaller tasks
+
+### Issue #5931: Integrate Liquity V1 Stability Pool for LUSD Collateral Yield
+- **Devpool URL:** https://github.com/devpool-directory/devpool-directory/issues/5931
+- **Upstream URL:** https://github.com/ubiquity/ubiquity-dollar/issues/997
+- **Price:** $1200 USD
+- **Priority:** 4 (Urgent)
+- **Time estimate:** <1 Day
+- **Status:** NEW - NOT CLAIMED
+
+#### Summary
+Plain LUSD collateral earns 0% yield. Integrate Liquity Stability Pool (~6.28% APR) to fund governance token buybacks. Add `StabilityPoolFacet` via diamond proxy. Key functions:
+- `depositToPool(uint256 amount)`: Call `provideToSP(amount, address(0))`
+- `withdrawFromPool(uint256 amount)`: Call `withdrawFromSP(amount)`
+- `harvestRewards()`: Claim ETH/LQTY yields, swap 50% to LUSD for compounding, 50% to governance token for buybacks
+
+#### Flows
+- **Mint**: Transfer LUSD → Deposit to pool → Mint uUSD → Update `totalPrincipalInPool += amount`
+- **Redeem**: Burn uUSD → Withdraw principal → Harvest rewards → Update `totalPrincipalInPool -= amount`
+
+#### Feasibility Assessment
+- Solidtiy smart contract work on ubiquity-dollar repo
+- Requires push access to ubiquity/ubiquity-dollar (subagent does not have this)
+- Already has spec defined — implementation is well-scoped
+- Recommendation: BLOCKED — needs collaborator access to ubiquity-dollar. Check if can be done via fork + PR.
+
+---
+
 ## 🔄 In Progress
 
-### Update (2026-04-01 15:50 UTC - Subagent DI scan)
+### Update (2026-04-01 16:07 UTC - Subagent DK3 scan)
 - **#5927 (GitHub Webhook Rewards Config v3, $300):** IMPLEMENTATION EXISTS at `sungdark/ubiquity-rewards`. The plugin implements the Config v3 spec from plugins-wishlist#47. Devpool PR needed to formally claim bounty. Permission issue: subagent has only pull access to devpool-directory — cannot create PR.
 - **#5923 (Deno Deploy upgrade, $300):** Active PRs exist: ubiquity-os/deno-deploy#31 (sungdark) and #30 (gentlementlegen). The underlying issue is being worked. Devpool bounty appears to be in progress.
+- **#5840 (New Proposal Router, $300):** IMPLEMENTATION STARTED at `sungdark/proposal-router`. Plugin uses vector embeddings (nomic-embed-text) to route proposals to correct repos. Commented claiming on devpool issue. Upstream was previously assigned to @shiv810 but now unassigned — fair game.
 - **Key constraint discovered:** Subagent cannot create PRs in devpool-directory (pull-only access). Only gh CLI commenting works. Cannot formally claim bounties that require devpool PR.
 
 ## 🔴 BLOCKED (needs external collaborator access)
 - #5848 (CI storage fix) — needs push to ubiquity-dollar
 - #5874 (WalletConnect) — needs push to uusd.ubq.fi
 - #5923 (Deno Deploy) — already has active PRs
+- #5844 (Governance Token emissions) — needs push to ubiquity-dollar
+- #5931 (Liquity V1 Stability Pool, $1200) — needs push to ubiquity-dollar
 - Most $200+ bounties require push to external repos where subagent is not a collaborator
+
+## 🔄 READY TO WORK ON (independent implementation)
+- #5840 (New Proposal Router) — ✅ IMPLEMENTATION STARTED at `sungdark/proposal-router`
 
 ## ✅ COMPLETED FINDINGS
 - **#5927:** Implementation confirmed at sungdark/ubiquity-rewards. Needs devpool PR to claim.
@@ -25,8 +160,7 @@
 - **Price:** $300 USD
 - **Priority:** 1 (Normal)
 - **Time estimate:** <1 Day
-- **Claimed:** 2026-04-01 15:38 UTC
-- **Status:** IN_PROGRESS
+- **Status:** ❌ CLAIMED BY OTHERS — open PRs #1008 and #1009 already exist in ubiquity/ubiquity-dollar
 
 #### Problem
 When a **new contract** is added to the `ubiquity-dollar` project, the `core-contracts-storage-check.yml` and `diamond-storage-check.yml` workflows fail with the error:
@@ -108,6 +242,54 @@ Same fix pattern, using `ubiquity/foundry-storage-check@main` instead, and adjus
 - [ ] Apply fix to `.github/workflows/diamond-storage-check.yml`
 - [ ] Add QA tests for new contract scenario
 - [ ] Open PR referencing devpool issue #5848
+
+---
+
+## Issue #5840: New Proposal Router
+- **Devpool URL:** https://github.com/devpool-directory/devpool-directory/issues/5840
+- **Upstream URL:** https://github.com/ubiquity/.github/issues/123
+- **Price:** $300 USD
+- **Priority:** 1 (Normal)
+- **Time estimate:** <1 Day
+- **Claimed:** 2026-04-01 16:03 UTC
+- **Status:** IN_PROGRESS
+- **Implementation:** https://github.com/sungdark/proposal-router
+
+#### Problem
+Users don't know which repository to file proposals in. Proposals get misfiled and require transfers.
+
+#### Solution
+A UbiquityOS plugin that:
+1. Accepts natural-language proposal description
+2. Generates vector embedding using nomic-embed-text
+3. Matches against pre-computed repo embeddings
+4. Routes to the most relevant repository
+
+#### Architecture
+```
+User Input → Embedding (nomic-embed-text) → Cosine Similarity → Route
+```
+
+#### Implementation (sungdark/proposal-router)
+- `src/proposal-router.ts` - ProposalRouter class + handler
+- `manifest.json` - UbiquityOS plugin manifest
+- `SPEC.md` - Full specification
+
+#### Supported Repos
+- `ubiquity/ubiquity-dollar`, `.github`, `ubiquity-os`
+- `ubiquity-os/ubiquity-os-kernel`, `plugin-sdk`, `command-start-stop`, `log-parser`
+
+#### TODO
+- [x] Initial plugin skeleton
+- [ ] Integrate with GitHub API to auto-file issues
+- [ ] User feedback mechanism for corrections
+- [ ] Embedding cache with TTL
+- [ ] Telegram interface (DM support)
+
+#### Notes
+- Upstream was claimed by @shiv810 but is now unassigned
+- Plugin needs deployment to UbiquityOS kernel
+- Cannot create PR to ubiquity/.github (pull-only access)
 
 ---
 
@@ -429,11 +611,27 @@ A sign-up landing page for engineering managers. Users log in with GitHub → sy
 
 ---
 
-## 🆕 Opire USD Bounties Found (2026-04-01 DJ1 Scan)
+## 🆕 Opire USD Bounties Found (2026-04-01 DK1 Scan)
 
 > Source: GitHub search `bounty in:title is:issue state:open` → filtered for $ amounts
 > All powered by [Opire](https://opire.dev) — payment auto-releases on PR merge
 > **Claim method:** Comment `/opire try` on the issue, submit PR
+
+### 🌟 $200 — WORKFLOW: n8n + Claude Code Automated Weekly Dev Summary
+- **Repo:** claude-builders-bounty/claude-builders-bounty [#5](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5)
+- **Price:** $200 USD
+- **Difficulty:** Medium | **Time:** <1 Day | **Claimed:** No
+- **What:** Complete n8n workflow that auto-generates weekly narrative summary of GitHub repo activity using Claude API
+- **Acceptance Criteria:**
+  - Exportable n8n workflow (.json file, importable)
+  - Trigger: weekly cron (e.g., Friday 5pm)
+  - Fetches from GitHub API: commits, closed issues, merged PRs for the week
+  - Calls Claude API (claude-sonnet-4-20250514) to generate narrative summary
+  - Delivers via email OR Discord/Slack webhook (configurable)
+  - Configurable: GitHub repo, destination channel, language (EN/FR)
+  - Tested on real n8n instance (include screenshot of successful execution)
+  - README with setup in 5 steps or fewer
+- **Action:** `/opire try` + submit PR with .json workflow + README
 
 ### 🌟 $150 — AGENT: Claude Code PR Reviewer Sub-Agent
 - **Repo:** claude-builders-bounty/claude-builders-bounty [#4](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4)
@@ -496,4 +694,122 @@ A sign-up landing page for engineering managers. Users log in with GitHub → sy
 
 ---
 
-*DJ1 scan 2026-04-01 15:59 UTC*
+*DK1 scan 2026-04-01 16:10 UTC*
+
+---
+
+## 🆕 DK3-SUBAGENT SCAN RESULTS (2026-04-01 16:14 UTC)
+
+### Priority 1 ($200+) Unclaimed Bounties Found:
+- **#5925: "Launch campaign towards L1s/L2s for managing their GitHubs" — $600, Priority 1**
+  - Devpool: https://github.com/devpool-directory/devpool-directory/issues/5925
+  - Upstream: https://github.com/ubiquity/business-development/issues/184
+  - Status: ✅ COMMENTED TO CLAIM (2026-04-01 16:13 UTC)
+  - Existing PRs: NONE found in upstream
+  - **⚠️ Non-code task** — BD/marketing: scrape Coinmarketcap L1/L2, Clay enrichment, campaign outreach
+  - Deliverable: Campaign execution across multiple channels
+
+### Priority 1 ($200+) Already Claimed:
+| Issue | Price | Upstream | Existing PR |
+|-------|-------|----------|-------------|
+| #5840 | $300 | ubiquity/.github#123 | Unclear |
+| #5844 | $600 | ubiquity/ubiquity-dollar#831 | PR #971 (zugdev) |
+| #5845 | $300 | ubiquity/ubiquity-dollar#926 | PR #970 (alexandr-masl) |
+| #5848 | $300 | ubiquity/ubiquity-dollar#972 | PRs #1008,#1009,#973 |
+| #5039 | $300 | ubiquity-os/plugins-wishlist#46 | PR #253 |
+| #5045 | $300 | ubiquity-os/plugins-wishlist#48 | PR #253 |
+| #5927 | $300 | ubiquity-os/plugins-wishlist#47 | PR #82 (sungdark) |
+| #5923 | $300 | ubiquity-os/deno-deploy#17 | PR #31 (sungdark) |
+
+### Key Finding:
+**#5925 is the ONLY unclaimed Priority 1, $200+ bounty.** It's a BD/marketing task, not a code task. The task involves:
+1. Web scraping Coinmarketcap L1/L2 lists (1 hr dev / 4 hrs manual)
+2. Clay data enrichment (3 hrs - credits just unblocked April 1)
+3. Campaign copy preparation (1 hr)
+4. Multi-channel outreach (10+ hrs follow-up)
+
+**Conclusion:** No unclaimed code bounty at Priority 1, $200+. Only #5925 ($600) is available but it's marketing work.
+
+
+---
+
+## 🆕 DL4 SCAN RESULTS (2026-04-01 16:22 UTC) - Subagent work-devpool-dl
+
+### Scan Method
+- Used `gh issue list` with `--label "Priority: 1 (Normal)"` to get all Priority 1 issues
+- Filtered for $200+ price labels
+- Checked each for existing open PRs in upstream repos
+- Attempted to find genuinely unclaimed high-value tasks
+
+### Priority 1 + $200+ Full Status
+
+| Issue | Title | Price | Upstream | Existing PR? | Status |
+|-------|-------|-------|----------|-------------|--------|
+| #5925 | Launch campaign towards L1s/L2s | $600 | business-development#184 | No | ✅ UNCLAIMED (BD/Marketing) |
+| #5902 | General Improvements | $600 | ubiquity-os-kernel#300 | No | ⚠️ Broad, needs breakdown |
+| #5844 | Governance Token emissions | $600 | ubiquity-dollar#831 | PR #971 (zugdev) | ❌ CLAIMED |
+| #5066 | Cow Swap Cash Out | $600 | - | No | ⚠️ Complex DeFi |
+| #5847 | Pre-Seed/Seed Investor Debt UBQ | $450 | - | No | 🔍 Quick win? |
+| #5886 | Plugin health monitor | $450 | - | No | 🔍 Quick win? |
+| #5899 | All Branches Supported for Previews | $600 | - | No | 🔍 CI/Vercel config |
+| #5877 | command-plan | $600 | - | No | 🔍 Investigate |
+| #5841 | Unified Authentication | $600 | - | No | 🔍 Investigate |
+| #5875 | CowSwap Integration | $1200 | uusd.ubq.fi#28 | No | ⚠️ Complex |
+| #5927 | GitHub Webhook + Rewards v3 | $300 | plugins-wishlist#47 | PR #82 (sungdark) | ❌ CLAIMED |
+| #5923 | Upgrade to newest Deno Deploy | $300 | deno-deploy#17 | PR #31 (sungdark) | ❌ CLAIMED |
+| #5874 | Integrate Wallet Connect | $300 | uusd.ubq.fi#24 | PR #45 (energypantry) | ❌ CLAIMED |
+| **#5848** | **CI: fix check_storage_layout** | **$300** | **ubiquity-dollar#972** | **PRs #1008,#1009** | **❌ CLAIMED** |
+| #5845 | Formal verification | $300 | ubiquity-dollar#926 | PR #970 (alexandr-masl) | ❌ CLAIMED |
+| #5840 | New Proposal Router | $300 | ubiquity/.github#123 | Implementation started | ⚠️ Partial |
+| #5039 | GitHub Webhook Rewards No Config v1 | $300 | plugins-wishlist#46 | PR #253 | ❌ CLAIMED |
+| #5045 | GitHub Webhook Rewards Contributor Class v2 | $300 | plugins-wishlist#48 | PR #253 | ❌ CLAIMED |
+| #5043 | Callbacks - event handlers | $300 | ubiquity-os-kernel#261 | PR #338 (sungdark) | ❌ CLAIMED |
+| #5020 | Scraper: Scrape Issue Threads | $300 | daemon-pricing#82 | PR #168 (sungdark) | ❌ CLAIMED |
+
+### KEY FINDING: NO UNCLAIMED Priority 1 + $200+ CODE BOUNTIES
+
+**Conclusion: All Priority 1, $200+ devpool code tasks are either:**
+1. ✅ Claimed by other developers (PRs exist in upstream)
+2. 🔒 Require collaborator push access to upstream repos
+3. 📋 Non-code (BD/Marketing) tasks
+
+**Only genuinely unclaimed task:** #5925 ($600) — BD/marketing campaign for L1s/L2s
+
+### What Was Attempted
+- **#5848 (CI storage fix, $300):** Initially considered as fix was well-documented. **REJECTED after PR check** — open PRs #1008 and #1009 already exist in ubiquity/ubiquity-dollar addressing exactly this issue.
+
+### Recommended Actions for Human
+1. **#5925 ($600):** BD/Marketing — execute campaign for L1/L2 GitHub management. No code needed.
+2. **Opire Bounties:** claude-builders-bounty offers independent $150-$200 tasks (PR Reviewer Agent, n8n workflow, etc.) claimable via `/opire try` comments.
+3. **Priority 3 High-Value:** #5070 ($900 DevPool UI), #5064 ($900 Nomic Embeddings) — lower priority but higher value.
+
+---
+
+## 🆕 DL3 SCAN RESULTS (2026-04-01 16:17 UTC)
+
+### Scan Method
+- Accessed: https://github.com/devpool-directory/devpool-directory/issues (sorted by updated-desc)
+- Checked top 12 newest updated issues for $200+ opportunities
+
+### Findings: NO NEW $200+ Opportunities
+
+Scanned the following recently updated issues:
+
+| Issue | Title | Price | Verdict |
+|-------|-------|-------|---------|
+| #5946 | Fix /help flow: do not emit agent-rejected message for bot user | $75 USD | ❌ Below threshold |
+| #5944 | Explicit /time duration updates time label but leaves price stale | $0 USD | ❌ Regression, no bounty |
+| #5928 | Upgrade to `voyage-4-large` for better performance | $9 USD | ❌ Below threshold |
+| #5926 | Fix Cannot convert undefined or null to object error | TBD | ❌ Likely small |
+| #5922 | Structured Outputs | TBD | ❌ Needs check |
+| #5921 | Set `organization/repository` names in the plugins' configs | TBD | ❌ Config-only |
+| #5924 | Launch Another DoraHacks Bounty Post | TBD | ❌ Non-code BD task |
+| #5925 | Launch campaign towards L1s/L2s for managing their GitHubs | $600 | ✅ Already known (BD/marketing) |
+| #5923 | Upgrade to newest Deno Deploy | $300 | ✅ Already known |
+| #5916 | UbiquityOS Sprint Management Dashboard | $1800 | ✅ Already known |
+| #5931 | Integrate Liquity V1 Stability Pool | $1200 | ✅ Already known |
+| #5927 | GitHub Webhook + Rewards Config v3 | $300 | ✅ Already known (implementation exists) |
+
+### Conclusion
+No new $200+ code bounty opportunities found in the latest updated issues.
+Top unclaimed $200+ remain: #5850 ($2400 token lists), #5916 ($1800 dashboard), #5931 ($1200 DeFi).
