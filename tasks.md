@@ -38,3 +38,24 @@
 
 *Scanned via GitHub API: `bounty in:title is:issue state:open` (5,357 total, top 100 sorted by updated)*
 *Scanner: DC1 | Run: 2026-04-01T13:58:00Z*
+
+---
+
+## DC3 Scan | 2026-04-01 13:59 UTC
+
+**最新排序扫描结果（按最近更新）：**
+
+| Issue | 价格 | 标题 |
+|-------|------|------|
+| #5921 | $37.5 | Set organization/repository names in plugins' configs | 
+| #5922 | $37.5 | Structured Outputs |
+| #5923 | $300 | Upgrade to newest Deno Deploy |
+| #5924 | $9 | Launch Another DoraHacks Bounty Post |
+| #5925 | $600 | Launch campaign towards L1s/L2s for managing their GitHubs |
+| #5926 | $75 | Fix Cannot convert undefined or null |
+| #5927 | $300 | Generalized "GitHub Webhook + Contributor Role -> Rewards" With Config v3 |
+| #5928 | $9 | Upgrade to voyage-4-large |
+| #5916 | $1800 | UbiquityOS Sprint Management Dashboard |
+| #5944 | $0 | Explicit /time duration updates time label but leaves price stale |
+
+**结论：所有最新更新的issues中，无新增 ≥$200 未被覆盖的机会。** DC3扫描完成。
