@@ -267,12 +267,12 @@ Last updated: 2026-04-01
 ### BT-BR3-004: Automatic Transfer
 - **Repo**: devpool-directory/devpool-directory
 - **Issue**: #5017
-- **Reward**: 00 USD
+- **Reward**: $600 USD
 - **URL**: https://github.com/devpool-directory/devpool-directory/issues/5017
-- **Status**: CLAIMED (developing)
-- **Details**: Automatic Transfer feature - linked to ubiquity-os/permit-generation#6
-- **Verify**: Priority 1, No assignees, 00 USD
-| BT-BR3-004 | 2026-03-31T22:27:00Z | github | ubiquity-os/permit-generation | 00 USD | https://github.com/devpool-directory/devpool-directory/issues/5017 | claimed | Priority 1, No assignees, Automatic Transfer feature, linked to ubiquity-os/permit-generation#6 |
+- **Status**: AVAILABLE (previously claimed, now open)
+- **Details**: Add optional automatic transfer to permit generation plugin - estimate gas fees across EVM networks, support `transfer: true` in org/repo config. Linked to ubiquity-os/permit-generation#6
+- **Verify**: Priority 1, $600 USD, no assignees on devpool or linked issue
+| BT-BR3-004 | 2026-03-31T22:27:00Z | github | ubiquity-os/permit-generation | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5017 | available | Priority 1, $600 USD, Automatic Transfer - permit plugin gas estimation, No assignees |
 | BT-BS3-001 | 2026-03-31T22:35:00Z | github | ubiquity-os/ubiquity-os-kernel | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5946 | available | Priority 1, Fix /help flow - prevent agent-rejected message for bot user, No assignees |
 
 | BT-BP2-005 | 2026-03-31T22:31:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/571 | available | Security, Empty string authentication bypass in pending transfer system, No assignees |
@@ -801,11 +801,11 @@ Last updated: 2026-04-01
 ### CC3-005: Generalized GitHub Webhook + Contributor Role - No Config v1
 - **Repo**: ubiquity-os/plugins-wishlist
 - **Issue**: devpool-directory#5039
-- **Reward**: 00 USD
+- **Reward**: $300 USD
 - **URL**: https://github.com/devpool-directory/devpool-directory/issues/5039
 - **Status**: OPEN
-- **Details**: Generalized GitHub Webhook + Contributor Role - No Config v1 - Priority 1, Time <1 Day
-- **Verify**: Issue exists, Price: 00 USD label, Priority 1 (Normal), Opire enabled
+- **Details**: Dynamically map config property name to count matching webhook events in issue/pull timeline and credit accordingly. Linked to plugins-wishlist#46
+- **Verify**: Issue exists, Price: $300 USD label, Priority 1 (Normal), Opire enabled, no assignees
 
 ### CC3-006: Launch campaign to target pilot partners from large open source projects
 - **Repo**: ubiquity/business-development
@@ -921,4 +921,37 @@ Last updated: 2026-04-01
 | CH1-001 | 2026-04-01T07:17:00Z | github | lihaoyi/test | $200 USD | https://github.com/lihaoyi/test/issues/1219 | available | Li Haoyi bounty, Fix httpbin test setup, Scala requests lib, No assignees |
 | CH1-002 | 2026-04-01T07:17:00Z | github | devpool-directory/devpool-directory | $150 USD | https://github.com/devpool-directory/devpool-directory/issues/5887 | available | Priority 2, Validate reward generation, No assignees |
 | CH1-003 | 2026-04-01T07:17:00Z | github | devpool-directory/devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5012 | available | Priority 2, Differential reward for reopened issues, No assignees |
+
+### CH1-004: Multi Chain Arbitrage
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #4998
+- **Reward**: $400 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/4998
+- **Status**: AVAILABLE
+- **Details**: Build arbitrage bot targeting Curve Finance pools on Mainnet and Gnosis. Steps: DAI->bridge->xDAI->WXDAI, buy UUSD at discount, bridge to Mainnet, sell for LUSD. Must estimate gas fees across bridges profitably. Linked to arbitrage-bot#7
+- **Verify**: Priority 1, $400 USD, no assignees, clear multi-step spec
+
+| CH1-004 | 2026-04-01T07:16:00Z | github | ubiquity/arbitrage-bot | $400 USD | https://github.com/devpool-directory/devpool-directory/issues/4998 | available | Priority 1, Multi Chain Arbitrage bot - Curve Finance pools on Mainnet/Gnosis, No assignees |
+
+### CH1-005: Check Dev Experience on Starting an Issue
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5027
+- **Reward**: $300 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5027
+- **Status**: AVAILABLE
+- **Details**: Determine if collaborators are experienced developers before allowing them to /start certain issues. Parse GitHub history or CV via AI to verify Solidity/Ethereum experience. Linked to plugins-wishlist#26
+- **Verify**: Priority 1, $300 USD, no assignees, clear feature spec
+
+| CH1-005 | 2026-04-01T07:16:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5027 | available | Priority 1, Check dev experience on /start - parse GitHub/CV for Solidity experience, No assignees |
+
+### CH1-006: Generalized GitHub Webhook + Contributor Role Contributor Class v2
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5045
+- **Reward**: $300 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5045
+- **Status**: AVAILABLE
+- **Details**: Extend the webhook plugin to identify user "class": specification author, assignee, collaborator, or contributor. Linked to plugins-wishlist#48 (v2 of #46/#5039)
+- **Verify**: Priority 1, $300 USD, no assignees, Opire enabled
+
+| CH1-006 | 2026-04-01T07:16:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5045 | available | Priority 1, Contributor Class v2 - identify spec author/assignee/collaborator/contributor, No assignees |
 
