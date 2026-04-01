@@ -73,6 +73,15 @@ Last updated: 2026-03-31
 - **Details**: 80% creator reward split not working - fees go to protocol instead of creator wallet. Two tokens affected: APE42 and SNIPSNIP.
 - **Verify**: Bug report with clear reproduction steps, ~$1000 funds affected
 
+### BL2-010: NEAR Meta Pool stNEAR Integration Bounty
+- **Repo**: BanyanCo/NEAR-Bounty-Board
+- **Issue**: #4
+- **Reward**: $2,750 (1st: $1500, 2nd: $750, 3rd: $500)
+- **URL**: https://github.com/BanyanCo/NEAR-Bounty-Board/issues/4
+- **Status**: IN PROGRESS (hackathon deadline passed, but bounty valid)
+- **Details**: Integrate stNEAR into a DeFi project - lending, DEX, stablecoins, synthetics, insurance
+- **Verify**: Clear bounty amount, multiple prize tiers, hackathon context
+
 ### BP2-001: Easy Unit Test Bounty
 - **Repo**: Scottcjn/rustchain-bounties
 - **Issue**: #1589
@@ -98,6 +107,15 @@ Last updated: 2026-03-31
 - **Status**: OPEN
 - **Details**: Build web dashboard showing RustChain stats
 - **Verify**: Bounty label, feature request, frontend task
+
+### BP2-003: Red Team x402 Payment Protocol Exploits
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #66
+- **Reward**: 100 RTC (~$10) + bonuses (Critical +100, High +50, Medium +25)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/66
+- **Status**: OPEN
+- **Details**: Security research - find exploits in x402/8004 HTTP Payment Protocol implementation
+- **Verify**: Clear bounty with severity-based payout scale
 
 ## Scanned Repos
 - defi-wikis/defi-tokens-wiki ✓
