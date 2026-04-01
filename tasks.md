@@ -369,3 +369,24 @@ Last updated: 2026-03-31
 - **Work Repo**: https://github.com/sungdark/proposal-router
 
 | BT-5840 | 2026-04-01T02:26:00Z | github | ubiquity/.github | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5840 | claimed | Priority 1, New Proposal Router, Claimed by sungdark |
+
+### BT-BX3-003: Plugin health monitor
+- **Repo**: ubiquity-os/.github
+- **Issue**: #12 (devpool #5886)
+- **Reward**: $450 USD
+- **URL**: https://github.com/ubiquity-os/.github/issues/12
+- **Status**: AVAILABLE
+- **Details**: Create cron job to monitor UbiquityOS marketplace plugins - notify on 10 consecutive failures
+- **Verify**: Priority 3, $450 USD, no assignees
+
+### BT-BX3-004: DevPool Directory Matchmaking UI
+- **Repo**: devpool-directory/devpool-directory-tasks
+- **Issue**: #63 (devpool #5070)
+- **Reward**: $900 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory-tasks/issues/63
+- **Status**: AVAILABLE
+- **Details**: Implement sorted list based on matchmaking when developer signs in to Directory
+- **Verify**: Priority 3, $900 USD, no assignees
+
+| BT-BX3-003 | 2026-04-01T02:35:00Z | github | ubiquity-os/.github | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | Priority 3 High, Plugin health monitor - cron job to check marketplace plugins, No assignees |
+| BT-BX3-004 | 2026-04-01T02:35:00Z | github | devpool-directory/devpool-directory-tasks | $900 USD | https://github.com/devpool-directory/devpool-directory/issues/5070 | available | Priority 3 High, DevPool Directory Matchmaking UI - sorted list based on matchmaking, No assignees |
