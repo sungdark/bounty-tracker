@@ -390,3 +390,84 @@ Last updated: 2026-03-31
 
 | BT-BX3-003 | 2026-04-01T02:35:00Z | github | ubiquity-os/.github | $450 USD | https://github.com/devpool-directory/devpool-directory/issues/5886 | available | Priority 3 High, Plugin health monitor - cron job to check marketplace plugins, No assignees |
 | BT-BX3-004 | 2026-04-01T02:35:00Z | github | devpool-directory/devpool-directory-tasks | $900 USD | https://github.com/devpool-directory/devpool-directory/issues/5070 | available | Priority 3 High, DevPool Directory Matchmaking UI - sorted list based on matchmaking, No assignees |
+
+### BZ1-001: n8n + Claude Code Weekly Dev Summary
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #5
+- **Reward**: $200 (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5
+- **Status**: AVAILABLE
+- **Details**: Create n8n workflow that auto-generates weekly GitHub repo activity summary using Claude API
+- **Verify**: Open issue, $200 bounty via Opire, clear acceptance criteria
+
+### BZ1-002: Pre-tool-use Hook for Claude Code
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #3
+- **Reward**: $100 (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3
+- **Status**: AVAILABLE
+- **Details**: Hook that blocks destructive bash commands (rm -rf, DROP TABLE, etc.)
+- **Verify**: Open issue, $100 bounty via Opire
+
+### BZ1-003: Claude Code PR Review Agent
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #4
+- **Reward**: $150 (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4
+- **Status**: AVAILABLE
+- **Details**: Sub-agent that reviews PRs and posts structured Markdown comment
+- **Verify**: Open issue, $150 bounty via Opire
+
+### BZ1-004: CLAUDE.md Template for Next.js + SQLite
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #2
+- **Reward**: $75 (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2
+- **Status**: AVAILABLE
+- **Details**: Production-ready CLAUDE.md for Next.js 15 + SQLite SaaS project
+- **Verify**: Open issue, $75 bounty via Opire
+
+### BZ1-005: CHANGELOG Generator Skill
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #1
+- **Reward**: $50 (Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1
+- **Status**: AVAILABLE
+- **Details**: Claude Code skill that generates CHANGELOG from git history
+- **Verify**: Open issue, $50 bounty via Opire
+
+### BZ1-006: RustChain Miner Test (Dry Run)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #2271
+- **Reward**: 3 RTC + bonuses
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/2271
+- **Status**: AVAILABLE
+- **Details**: Download and test RustChain miner in dry-run mode
+- **Verify**: Open issue, 3 RTC bounty, clear steps
+
+### BZ1-007: Fix Typos in Elyan Labs Repos
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #2178
+- **Reward**: 2 RTC
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/2178
+- **Status**: AVAILABLE
+- **Details**: Easy bounty - fix typo or improve docs in any Elyan Labs repo
+- **Verify**: Open issue, 2 RTC bounty
+
+### BZ1-008: Add CONTRIBUTING.md
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #1605
+- **Reward**: 1 RTC
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/1605
+- **Status**: AVAILABLE
+- **Details**: Create CONTRIBUTING.md for any repo missing one
+- **Verify**: Open issue, 1 RTC bounty, easy task
+
+| BZ1-001 | 2026-04-01T02:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | available | Bounty $200, n8n + Claude Code workflow, Opire payment |
+| BZ1-002 | 2026-04-01T02:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | available | Bounty $100, Pre-tool-use hook blocks destructive bash, Opire |
+| BZ1-003 | 2026-04-01T02:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | available | Bounty $150, PR review agent for Claude Code, Opire |
+| BZ1-004 | 2026-04-01T02:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | available | Bounty $75, CLAUDE.md template Next.js+SQLite, Opire |
+| BZ1-005 | 2026-04-01T02:41:00Z | github | claude-builders-bounty/claude-builders-bounty | $50 | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1 | available | Bounty $50, CHANGELOG generator skill, Opire |
+| BZ1-006 | 2026-04-01T02:41:00Z | github | Scottcjn/rustchain-bounties | 3 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2271 | available | Bounty 3 RTC, Test RustChain miner dry-run |
+| BZ1-007 | 2026-04-01T02:41:00Z | github | Scottcjn/rustchain-bounties | 2 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2178 | available | Bounty 2 RTC, Fix typos in Elyan Labs repos |
+| BZ1-008 | 2026-04-01T02:41:00Z | github | Scottcjn/rustchain-bounties | 1 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | available | Bounty 1 RTC, Add CONTRIBUTING.md |
