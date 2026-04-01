@@ -551,3 +551,10 @@ Scanner: CY1 subagent — GitHub bounty search (38 bounties >=$1 found in top 10
 
 **tenstorrent/pytorch2.0_ttnn#1041** — Stable Diffusion 1.4 bring-up ($1,500) — Deadline in ~5 days
 
+
+---
+
+## CY3 Scan: devpool-directory API — 2026-04-01 12:51 UTC
+
+Scanner: CY3 subagent — devpool-directory deep scan
+Confirmed: 94 open issues, 49 >=00. No new high-value tasks found. #5020 updated at 12:19 UTC (claimed by sungdark).
