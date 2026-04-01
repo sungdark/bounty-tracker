@@ -1041,3 +1041,14 @@ Last updated: 2026-04-01
 - **Verify**: Open issue, no assignees, bounty label, active program with 200 RTC pool
 
 | CJ1-001 | 2026-04-01T07:42:00Z | github | Scottcjn/rustchain-bounties | 200 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/73 | available | Ongoing code review bounty, 5-25 RTC per PR review, pool 200 RTC, No assignees |
+
+### CK3-001: CowSwap Integration
+- **Repo**: ubiquity/uusd.ubq.fi
+- **Issue**: #28 (devpool #5875)
+- **Reward**: $1200 USD
+- **URL**: https://github.com/ubiquity/uusd.ubq.fi/issues/28
+- **Status**: AVAILABLE
+- **Details**: Integrate CowSwap into deposit/withdraw flows on uusd.ubq.fi - allow users to deposit any asset (swaps via CowSwap to LUSD), withdraw to any asset (UUSD -> swap -> any token). Requires UI changes + CowSwap post-hook smart contract.
+- **Verify**: Priority 2 Medium, $1200 USD, no assignees on devpool or linked issue, clear spec
+
+| CK3-001 | 2026-04-01T07:56:00Z | github | ubiquity/uusd.ubq.fi | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/5875 | available | Priority 2, CowSwap Integration - deposit any asset/withdraw any asset via CowSwap hooks, No assignees |
