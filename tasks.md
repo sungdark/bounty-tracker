@@ -357,3 +357,15 @@ Last updated: 2026-03-31
 - **Verify**: Priority 1, 00 USD
 
 | BT-BX3-002 | 2026-04-01T02:21:34Z | github | ubiquity/business-development | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5035 | claimed | Priority 1, Recruiting Dragonfly CTF II, Claimed by sungdark |
+
+### BT-5840: New Proposal Router
+- **Repo**: ubiquity/.github
+- **Issue**: #123 (devpool #5840)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity/.github/issues/123
+- **Status**: CLAIMED (developing)
+- **Details**: New Proposal Router - UI to create proposals that auto-route to correct repository using vector embeddings. Also supports Telegram interface.
+- **Verify**: Priority 1, $300 USD, claimed by sungdark
+- **Work Repo**: https://github.com/sungdark/proposal-router
+
+| BT-5840 | 2026-04-01T02:26:00Z | github | ubiquity/.github | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5840 | claimed | Priority 1, New Proposal Router, Claimed by sungdark |
