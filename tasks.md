@@ -531,6 +531,15 @@ Last updated: 2026-03-31
 - **Details**: Claude Code skill that generates CHANGELOG from git history
 - **Verify**: Open issue, $50 bounty via Opire
 
+### CA1-001: Network Stack (AdGuard + WireGuard + Cloudflare DDNS)
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #4
+- **Reward**: $120 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/4
+- **Status**: AVAILABLE
+- **Details**: Docker compose for AdGuard Home, WireGuard Easy, Cloudflare DDNS, Unbound. Network stack for homelab.
+- **Verify**: Open issue, $120 USDT bounty, clear requirements
+
 
 ### BT-5925: Launch campaign towards L1s/L2s for managing their GitHubs
 - **Repo**: ubiquity/business-development
@@ -626,3 +635,5 @@ Last updated: 2026-03-31
 | BT-0106 | 2026-04-01T02:58:00Z | github | ubiquity-os-marketplace/command-start-stop | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5085 | claimed | Priority 1, Improve Task Assignment Limit - allow bypass when waiting on reviewers |
 
 | BZ1-008 | 2026-04-01T02:41:00Z | github | Scottcjn/rustchain-bounties | 1 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/1605 | available | Bounty 1 RTC, Add CONTRIBUTING.md |
+
+| CA1-001 | 2026-04-01T03:14:00Z | github | illbnm/homelab-stack | $120 USDT | https://github.com/illbnm/homelab-stack/issues/4 | available | Docker compose for AdGuard+WireGuard+Cloudflare DDNS+Unbound, No assignees |
