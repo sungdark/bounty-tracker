@@ -653,3 +653,39 @@ Last updated: 2026-03-31
 - **Status**: CLAIMED (developing)
 - **Details**: DevRel campaign to partner with L1s/L2s for GitHub management via UbiquityOS. Research chains, scrape Coinmarketcap L1/L2 lists, enrich with contacts, launch multi-channel campaign.
 - **Verify**: Priority 1, No assignees, $600 USD, no open PRs
+
+### CB1-001: Bug Bounty Report - Rounding Desync
+- **Repo**: paxosglobal/paxos-token-contracts
+- **Issue**: #17
+- **Reward**: TBD (Bug Bounty Program)
+- **URL**: https://github.com/paxosglobal/paxos-token-contracts/issues/17
+- **Status**: OPEN
+- **Details**: Security vulnerability - Rounding Desync in Payout-Group Share Accounting allows overclaiming from claimSource. Smart contract exploit.
+- **Verify**: Open issue, no assignees, reported on 2026-03-31
+
+### CB1-002: RCS Support for microG
+- **Repo**: microg/GmsCore
+- **Issue**: #2994
+- **Reward**: $14,999 USD
+- **URL**: https://github.com/microg/GmsCore/issues/2994
+- **Status**: OPEN
+- **Details**: Enable Google Messages RCS functionality with microG. Hard technical challenge - must work on locked bootloader, no root/Magisk.
+- **Verify**: Open issue, no assignees, $14999 bounty, complex Android/microG work
+
+### CB1-003: PancakeSwap Integration and Yield Farming
+- **Repo**: Spectral-Finance/lux
+- **Issue**: #79
+- **Reward**: $750 USD
+- **URL**: https://github.com/Spectral-Finance/lux/issues/79
+- **Status**: OPEN
+- **Details**: Multi-chain pool management, yield farming automation, auto-compounding strategies. DeFi integration.
+- **Verify**: Open issue, no assignees, $750 budget specified
+
+### CB1-004: Design Logo for Gracias AI
+- **Repo**: atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource
+- **Issue**: #2
+- **Reward**: INR 500 (~$6)
+- **URL**: https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/2
+- **Status**: OPEN
+- **Details**: Logo design for AI iOS App Store compliance auditor. SVG format, modern style.
+- **Verify**: Open issue, no assignees, small bounty
