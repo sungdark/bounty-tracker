@@ -1,9 +1,10 @@
 # Bounty Tracker
-Scanned 2026-04-01 12:15 UTC
+Scanned 2026-04-01 12:15 UTC | CY3 re-verified 2026-04-01 12:51 UTC
 
 Source: GitHub API devpool-directory/devpool-directory (open issues, sorted by updated desc)
-Scanner: CX3 subagent — devpool-directory deep scan (re-verified 2026-04-01 12:15 UTC)
-- Live HTML diff confirmed: 49 open bounties >=$200 (same as last scan)
+Scanner: CX3 subagent — devpool-directory deep scan
+- CY3 scan: 94 open issues total, 49 bounties >=$200 — **CONFIRMED same as previous scan**
+- Only change: #5020 updated at 12:19 UTC (already claimed by sungdark, IN_PROGRESS)
 - New issues found (below $200 threshold): #5946 ($75), #5924 ($9), #5842 ($75) — excluded
 
 ## Summary: 49 open bounties >=$200
@@ -403,4 +404,150 @@ Scanner: CX1 subagent — GitHub bounty search (non-devpool)
 - #2246 "cursor state to showcase active unit" — 6 XTR
 - #2171 "redundancy suppression for Toxic Spores ability" — 4 XTR
 - Total: 22 XTR across 4 game enhancement tasks. XTR value unclear.
+
+
+---
+
+## CY1 Scan: GitHub API "bounty in:title" — 2026-04-01 12:50 UTC
+
+Source: https://api.github.com/search/issues?q=bounty+in:title+is:issue+state:open&per_page=100&sort=updated
+Scanner: CY1 subagent — GitHub bounty search (38 bounties >=$1 found in top 100 results)
+
+### $2500 USD (1 task)
+
+**tenstorrent/tt-metal#40494** [[Bounty $2.5k] Implement Lifting Wavelet Transform (LWT) and Inverse LWT (ILWT)] - $2,500 USD - UNCLAIMED
+- URL: https://github.com/tenstorrent/tt-metal/issues/40494
+- Summary: Implement LWT and ILWT using TTNN APIs. Wavelet transforms for signal/image processing.
+- Domain: signal processing, TTNN, deep learning
+
+### $2000 USD (1 task)
+
+**tenstorrent/tt-mlir#4349** [[Bounty $2000] Tune a model - VoVNet] - $2,000 USD - UNCLAIMED
+- URL: https://github.com/tenstorrent/tt-mlir/issues/4349
+- Summary: ML-level model tuning for VoVNet (VoVNet is a CNN architecture used in object detection).
+- Domain: MLIR, model optimization, computer vision
+
+### $1500 USD (5 tasks)
+
+**tenstorrent/tt-metal#32178** [[Bounty $1500] CosyVoice bring up using TTNN APIs] - $1,500 USD - UNCLAIMED
+- URL: https://github.com/tenstorrent/tt-metal/issues/32178
+- Summary: Bring up CosyVoice (text-to-speech) using TTNN APIs on Tenstorrent hardware.
+
+**tenstorrent/pytorch2.0_ttnn#1041** [[Bounty $1500] (Due April 6) Add model: Stable Diffusion 1.4 (512x512)] - $1,500 USD - UNCLAIMED
+- URL: https://github.com/tenstorrent/pytorch2.0_ttnn/issues/1041
+- Summary: Implement Stable Diffusion 1.4 (512x512) on Tenstorrent using pytorch2.0_ttnn. **Deadline: April 6, 2026** — URGENT ⚠️
+
+**tenstorrent/tt-metal#16618** [[Bounty $1500] Add support for ttnn.flip] - $1,500 USD - UNCLAIMED
+- URL: https://github.com/tenstorrent/tt-metal/issues/16618
+- Summary: Implement ttnn.flip operation in TTNN.
+
+**tenstorrent/tt-metal#32140** [[Bounty $1500] Time Series Transformer Model Bring-Up Using TTNN APIs] - $1,500 USD - UNCLAIMED
+- URL: https://github.com/tenstorrent/tt-metal/issues/32140
+- Summary: Bring up a time series transformer model using TTNN APIs.
+
+### $500 USD (1 task)
+
+**tenstorrent/tt-metal#21157** [[Bounty $500] TTNN EmbeddingOp input rank verification] - $500 USD - UNCLAIMED
+- URL: https://github.com/tenstorrent/tt-metal/issues/21157
+- Summary: Verify/correct input rank handling for EmbeddingOp in TTNN.
+
+### $200 USD (2 tasks)
+
+**claude-builders-bounty/claude-builders-bounty#5** [[BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary] - $200 USD - UNCLAIMED
+- URL: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5
+- Summary: Build n8n workflow + Claude Code integration for automated weekly dev summary generation.
+
+**illbnm/homelab-stack#14** [[BOUNTY $200] Testing — 自动化测试套件] - $200 USD - UNCLAIMED
+- URL: https://github.com/illbnm/homelab-stack/issues/14
+- Summary: Automated testing suite for homelab stack (Chinese description).
+
+### $150 USD (2 tasks)
+
+**claude-builders-bounty/claude-builders-bounty#4** [[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment] - $150 USD - UNCLAIMED
+- URL: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4
+- Summary: Claude Code sub-agent for PR review with structured comment posting.
+
+**illbnm/homelab-stack#12** [[BOUNTY $150] Backup & DR — 自动备份 + 灾难恢复] - $150 USD - UNCLAIMED
+- URL: https://github.com/illbnm/homelab-stack/issues/12
+- Summary: Backup and disaster recovery setup for homelab.
+
+### $140 USD (1 task)
+
+**illbnm/homelab-stack#4** [[BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager] - $140 USD - UNCLAIMED
+- URL: https://github.com/illbnm/homelab-stack/issues/4
+- Summary: Homelab network stack: AdGuard Home (DNS), WireGuard (VPN), Nginx Proxy Manager.
+
+### $130 USD (1 task)
+
+**illbnm/homelab-stack#7** [[BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT] - $130 USD - UNCLAIMED
+- URL: https://github.com/illbnm/homelab-stack/issues/7
+- Summary: Home automation stack: Home Assistant + Node-RED + Zigbee2MQTT integration.
+
+### $100 USD (1 task)
+
+**claude-builders-bounty/claude-builders-bounty#3** [[BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands] - $100 USD - UNCLAIMED
+- URL: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3
+- Summary: Claude Code hook that intercepts and blocks destructive bash commands (rm -rf, etc.) before execution.
+
+### $80 USD (1 task)
+
+**illbnm/homelab-stack#13** (already in CX1 scan, confirmed still open) - $80 USDT - UNCLAIMED
+- URL: https://github.com/illbnm/homelab-stack/issues/13
+- Gotify + Apprise notification stack.
+
+### $75 USD (1 task)
+
+**claude-builders-bounty/claude-builders-bounty#2** [[BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project] - $75 USD - UNCLAIMED
+- URL: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2
+- Summary: Write a comprehensive CLAUDE.md template for Next.js + SQLite SaaS project.
+
+### $50 USD (2 tasks)
+
+**claude-builders-bounty/claude-builders-bounty#1** [[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history] - $50 USD - UNCLAIMED
+- URL: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1
+- Summary: Claude Code skill that generates structured CHANGELOG from git history (conventional commits).
+
+**bolivian-peru/marketplace-service-template#54** [[BOUNTY] App Store Intelligence API — $50 paid in $SX token] - $50 SX - UNCLAIMED
+- URL: https://github.com/bolivian-peru/marketplace-service-template/issues/54
+- Summary: App Store Intelligence API integration, paid in $SX token.
+
+### $15 USD (1 task)
+
+**databuddy-analytics/Databuddy#271** [[BOUNTY] Feature Flag Folders for Organization] - $15 USD - UNCLAIMED
+- URL: https://github.com/databuddy-analytics/Databuddy/issues/271
+- Summary: Add folder organization for feature flags in Databuddy analytics platform.
+
+### $10 USD (1 task)
+
+**Scottcjn/rustchain-bounties#1114** [[BOUNTY: 10 RTC] 60-Second RustChain Explainer Video] - 10 RTC - UNCLAIMED
+- URL: https://github.com/Scottcjn/rustchain-bounties/issues/1114
+- Summary: Create a 60-second video explaining RustChain. Social/content bounty.
+
+### $5-$15 USD (3 tasks)
+
+**Scottcjn/rustchain-bounties#2180** [[BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial] - 5 RTC - UNCLAIMED
+- URL: https://github.com/Scottcjn/rustchain-bounties/issues/2180
+
+**Scottcjn/rustchain-bounties#2179** [[EASY BOUNTY: 5 RTC] Write a blog post or Dev.to article] - 5 RTC - UNCLAIMED
+- URL: https://github.com/Scottcjn/rustchain-bounties/issues/2179
+
+**Scottcjn/rustchain-bounties#2176** [[EASY BOUNTY: 2 RTC] Write a tweet or X post] - 2 RTC - UNCLAIMED
+- URL: https://github.com/Scottcjn/rustchain-bounties/issues/2176
+
+### $1-$3 USD (10 tasks, crypto/social media bounties)
+
+- **Scottcjn/rustchain-bounties#2218** [[BOUNTY: 3 RTC] Add Your Machine to the Green Tracker] - 3 RTC - UNCLAIMED
+- **Scottcjn/rustchain-bounties#2177** [[EASY BOUNTY: 3 RTC] Add README badge for RustChain on GitHub profile] - 3 RTC - UNCLAIMED
+- **Scottcjn/rustchain-bounties#2178** [[EASY BOUNTY: 2 RTC] Fix a typo or improve docs] - 2 RTC - UNCLAIMED
+- **Scottcjn/rustchain-bounties#2155** [[EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai] - 2 RTC - UNCLAIMED
+- **Scottcjn/rustchain-bounties#2571** [[BOUNTY: 2 RTC each] Upvote Elyan Labs Skills on ClawHub] - 2 RTC - UNCLAIMED
+- **Scottcjn/rustchain-bounties#2074** [[FUN BOUNTY: 2 RTC] Worst Mining Rig Photo Contest] - 2 RTC - UNCLAIMED
+- **Scottcjn/rustchain-bounties#696** [Meme Bounty: Post RustChain Memes] - 2 RTC each - UNCLAIMED
+- **Scottcjn/rustchain-bounties#2070** [[MEME BOUNTY: 1-3 RTC] Retro Computing Meme Contest] - 1-3 RTC - UNCLAIMED
+- **Scottcjn/rustchain-bounties#177** [[BOUNTY] Best RustChain/BoTTube Meme] - 3 RTC - UNCLAIMED
+- **Scottcjn/beacon-skill#152** [[BOUNTY: 5 RTC] Add pytest test suite] - 5 RTC - UNCLAIMED
+
+### URGENT NOTE: ⏰ Deadline April 6
+
+**tenstorrent/pytorch2.0_ttnn#1041** — Stable Diffusion 1.4 bring-up ($1,500) — Deadline in ~5 days
 
