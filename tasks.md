@@ -1203,3 +1203,256 @@ Last updated: 2026-04-01
 - **Verify**: Bounty label, INR 500, no assignees, SVG format required
 
 | CK2-001 | 2026-04-01T09:23:00Z | github | atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource | INR 500 (~$6) | https://github.com/atharvnaik1/GraciasAi-Appstore-Policy-Auditor-Opensource/issues/2 | available | Logo design for AI iOS app store auditor, SVG format, No assignees |
+
+### CL1-001: UbiquityOS Sprint Management Dashboard
+- **Repo**: ubiquity-os/.github
+- **Issue**: #14 (devpool #5916)
+- **Reward**: $1800 USD
+- **URL**: https://github.com/ubiquity-os/.github/issues/14
+- **Status**: AVAILABLE
+- **Details**: Create UbiquityOS Sprint Management Dashboard
+- **Verify**: Priority 3, $1800 USD, no assignees, no existing PR
+
+### CL1-002: Add `UUSD` and `UBQ` tokens to popular services
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #984 (devpool #5850)
+- **Reward**: $2400 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/984
+- **Status**: AVAILABLE
+- **Details**: Add UUSD and UBQ tokens to popular services (CEXs, wallets, aggregators)
+- **Verify**: Priority 4 Urgent, $2400 USD, no assignees
+
+### CL1-003: Make Knip and Jest workflows reusable
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: devpool #4999
+- **Reward**: $1200 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/4999
+- **Status**: AVAILABLE
+- **Details**: Make Knip and Jest CI workflows reusable across repos - extract to shared workflow with inputs for repo-specific paths/configs
+- **Verify**: Priority 2 Medium, $1200 USD, no assignees, <1 Week
+
+### CL1-004: CowSwap Integration
+- **Repo**: ubiquity/uusd.ubq.fi
+- **Issue**: #28 (devpool #5875)
+- **Reward**: $1200 USD
+- **URL**: https://github.com/ubiquity/uusd.ubq.fi/issues/28
+- **Status**: AVAILABLE
+- **Details**: Integrate CowSwap into deposit/withdraw flows on uusd.ubq.fi - deposit any asset (swaps via CowSwap to LUSD), withdraw to any asset (UUSD -> swap -> any token)
+- **Verify**: Priority 2 Medium, $1200 USD, no assignees, clear spec
+
+### CL1-005: GitHub Decoupling
+- **Repo**: ubiquity/.github
+- **Issue**: devpool #5019
+- **Reward**: $1200 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5019
+- **Status**: AVAILABLE
+- **Details**: Decouple UbiquityOS from GitHub-specific integrations - abstract GitHub API behind generic interfaces for future VCS support
+- **Verify**: Priority 2 Medium, $1200 USD, no assignees, <1 Week
+
+### CL1-006: DevPool Directory Matchmaking UI
+- **Repo**: devpool-directory/devpool-directory-tasks
+- **Issue**: #63 (devpool #5070)
+- **Reward**: $900 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory-tasks/issues/63
+- **Status**: AVAILABLE
+- **Details**: Implement sorted list based on matchmaking when developer signs in to Directory
+- **Verify**: Priority 3 High, $900 USD, no assignees
+
+### CL1-007: Nomic Embeddings Model for +10% Accuracy
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: devpool #5064
+- **Reward**: $900 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5064
+- **Status**: AVAILABLE
+- **Details**: Integrate Nomic embeddings model to improve issue-reward matching accuracy by 10%+ in the matchmaking pipeline
+- **Verify**: Priority 3 High, $900 USD, no assignees, <1 Day
+
+### CL1-008: Security monitoring
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #927 (devpool #5846)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/927
+- **Status**: AVAILABLE
+- **Details**: Security monitoring for Ubiquity Dollar protocol - real-time alerts, anomaly detection
+- **Verify**: Priority 2 Medium, $600 USD, no assignees, <1 Day
+
+### CL1-009: command-plan
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: #78 (devpool #5877)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity-os/plugins-wishlist/issues/78
+- **Status**: AVAILABLE
+- **Details**: Command-plan plugin for Ubiquity OS - creates/plans sprint tasks from conversation
+- **Verify**: Priority 2 Medium, $600 USD, no assignees, <1 Day
+
+### CL1-010: All Branches Supported for Previews
+- **Repo**: ubiquity/.github
+- **Issue**: devpool #5899
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5899
+- **Status**: AVAILABLE
+- **Details**: Support all branches for preview deployments - currently only main/master
+- **Verify**: Priority 2 Medium, $600 USD, no assignees, <1 Day
+
+### CL1-011: Unified Authentication
+- **Repo**: ubiquity/.github
+- **Issue**: #124 (devpool #5841)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/.github/issues/124
+- **Status**: AVAILABLE
+- **Details**: Unified Authentication across Ubiquity services - single sign-on, shared auth context
+- **Verify**: Priority 2 Medium, $600 USD, no assignees, <1 Day
+
+### CL1-012: Governance Token emissions to `ubq.eth` new strategy
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5844
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5844
+- **Status**: AVAILABLE
+- **Details**: Governance Token emissions - linked to ubiquity/ubiquity-dollar#831
+- **Verify**: Priority 1, $600 USD, no assignees, <1 Week
+
+### CL1-013: Differential Reward Distribution for Reopened Issues
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5012
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5012
+- **Status**: AVAILABLE
+- **Details**: Implement differential reward distribution for reopened issues - linked to text-conversation-rewards#301
+- **Verify**: Priority 2 Medium, $600 USD, no assignees, <1 Day
+
+### CL1-014: Cow Swap Cash Out
+- **Repo**: ubiquity/pay.ubq.fi
+- **Issue**: #386 (devpool #5066)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/pay.ubq.fi/issues/386
+- **Status**: AVAILABLE
+- **Details**: Integrate CowSwap SDK into pay.ubq.fi - cash out UUSD in any token, preferred token in localStorage, cowswap quote replacing reward amount
+- **Verify**: Priority 1, $600 USD, no assignees, <1 Week, TypeScript/React
+
+### CL1-015: Integrate Wallet Connect via Reown AppKit
+- **Repo**: ubiquity/uusd.ubq.fi
+- **Issue**: #24 (devpool #5874)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity/uusd.ubq.fi/issues/24
+- **Status**: AVAILABLE
+- **Details**: Integrate Reown AppKit into uusd.ubq.fi - React/Next.js + wagmi + @reown/appkit/react, Ethereum-compatible chains
+- **Verify**: Priority 1, $300 USD, no assignees, <1 Day, well-specified
+
+### CL1-016: Formal verification
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #926 (devpool #5845)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/926
+- **Status**: AVAILABLE
+- **Details**: Formal verification for Ubiquity Dollar smart contracts
+- **Verify**: Priority 1, $300 USD, no assignees, <1 Day
+
+### CL1-017: Scraper: Scrape Issue Threads with Time Estimates
+- **Repo**: ubiquity-os-marketplace/daemon-pricing
+- **Issue**: devpool #5020
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os-marketplace/daemon-pricing/issues/82
+- **Status**: AVAILABLE
+- **Details**: Build scraper to create JSONL dataset for OpenAI fine-tune training - 250-300 training + 100-150 validation examples of issue threads with time estimates
+- **Verify**: Priority 1, $300 USD, no assignees, <1 Day, data scraping + dataset
+
+### CL1-018: Generalized GitHub Webhook + Contributor Role No Config v1
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: #46 (devpool #5039)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/plugins-wishlist/issues/46
+- **Status**: AVAILABLE
+- **Details**: Dynamically map config property name to count matching webhook events in issue/pull timeline and credit accordingly (no config required)
+- **Verify**: Priority 1, $300 USD, no assignees, <1 Day, Opire enabled
+
+### CL1-019: Check Dev Experience on Starting an Issue
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: devpool #5027
+- **Reward**: $300 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5027
+- **Status**: AVAILABLE
+- **Details**: Parse GitHub history or CV via AI to verify Solidity/Ethereum experience before allowing /start on certain issues
+- **Verify**: Priority 1, $300 USD, no assignees, <1 Day, clear feature spec
+
+### CL1-020: Generalized GitHub Webhook Contributor Class v2
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: #48 (devpool #5045)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/plugins-wishlist/issues/48
+- **Status**: AVAILABLE
+- **Details**: Extend webhook plugin to identify user "class": specification author, assignee, collaborator, or contributor
+- **Verify**: Priority 1, $300 USD, no assignees, <1 Day, Opire enabled, v2 of #5039
+
+### CL1-021: premade configs that are hands-off for partners
+- **Repo**: ubiquity-os/ubiquity-os-plugin-installer
+- **Issue**: #43 (devpool #5837)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/ubiquity-os-plugin-installer/issues/43
+- **Status**: AVAILABLE
+- **Details**: Pre-made plugin installer configs that are hands-off for partners
+- **Verify**: Priority 2 Medium, $300 USD, no assignees, <4h
+
+### CL1-022: Improving Recommendations
+- **Repo**: ubiquity/.github
+- **Issue**: devpool #5018
+- **Reward**: $300 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5018
+- **Status**: AVAILABLE
+- **Details**: Improve recommendation algorithm for developer-issue matching in devpool directory
+- **Verify**: Priority 2 Medium, $300 USD, no assignees, <4h
+
+### CL1-023: Callback event handlers and hybrid plugins
+- **Repo**: ubiquity-os/ubiquity-os-kernel
+- **Issue**: #261 (devpool #5043)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/ubiquity-os-kernel/issues/261
+- **Status**: AVAILABLE
+- **Details**: Improve event handler and hybrid plugin SDK - add .on("issue_comment.created", "action", handler) pattern, merge createActionsPlugin and createPlugin
+- **Verify**: Priority 1, $300 USD, no assignees, <1 Day, TypeScript/SDK
+
+### CL1-024: Retry and token limits
+- **Repo**: ubiquity-os/ubiquity-os-kernel
+- **Issue**: devpool #5025
+- **Reward**: $225 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5025
+- **Status**: AVAILABLE
+- **Details**: Implement retry logic with token limit handling for API calls - exponential backoff, rate limit awareness
+- **Verify**: Priority 3 High, $225 USD, no assignees, <2h
+
+### CL1-025: GitHub Based Marketing
+- **Repo**: ubiquity/business-development
+- **Issue**: devpool #5024
+- **Reward**: $200 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5024
+- **Status**: AVAILABLE
+- **Details**: GitHub-based marketing automation for UbiquityOS - track repo stars, contributors, engagement metrics
+- **Verify**: Priority 3 High, $200 USD, no assignees, <1 Day
+
+| CL1-001 | 2026-04-01T09:32:00Z | github | ubiquity-os/.github | $1800 USD | https://github.com/devpool-directory/devpool-directory/issues/5916 | available | Priority 3 High, UbiquityOS Sprint Management Dashboard, No assignees |
+| CL1-002 | 2026-04-01T09:32:00Z | github | ubiquity/ubiquity-dollar | $2400 USD | https://github.com/devpool-directory/devpool-directory/issues/5850 | available | Priority 4 Urgent, Add UUSD and UBQ tokens to popular services, No assignees |
+| CL1-003 | 2026-04-01T09:32:00Z | github | ubiquity/ubiquity-dollar | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/4999 | available | Priority 2 Medium, Make Knip and Jest workflows reusable, No assignees |
+| CL1-004 | 2026-04-01T09:32:00Z | github | ubiquity/uusd.ubq.fi | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/5875 | available | Priority 2 Medium, CowSwap Integration - deposit any asset/withdraw any asset, No assignees |
+| CL1-005 | 2026-04-01T09:32:00Z | github | ubiquity/.github | $1200 USD | https://github.com/devpool-directory/devpool-directory/issues/5019 | available | Priority 2 Medium, GitHub Decoupling - abstract GitHub API for future VCS, No assignees |
+| CL1-006 | 2026-04-01T09:32:00Z | github | devpool-directory/devpool-directory-tasks | $900 USD | https://github.com/devpool-directory/devpool-directory/issues/5070 | available | Priority 3 High, DevPool Directory Matchmaking UI - sorted list by matchmaking, No assignees |
+| CL1-007 | 2026-04-01T09:32:00Z | github | ubiquity-os/plugins-wishlist | $900 USD | https://github.com/devpool-directory/devpool-directory/issues/5064 | available | Priority 3 High, Nomic Embeddings for +10% accuracy in issue-reward matching, No assignees |
+| CL1-008 | 2026-04-01T09:32:00Z | github | ubiquity/ubiquity-dollar | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5846 | available | Priority 2 Medium, Security monitoring for Ubiquity Dollar, No assignees |
+| CL1-009 | 2026-04-01T09:32:00Z | github | ubiquity-os/plugins-wishlist | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5877 | available | Priority 2 Medium, command-plan plugin for Ubiquity OS, No assignees |
+| CL1-010 | 2026-04-01T09:32:00Z | github | ubiquity/.github | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5899 | available | Priority 2 Medium, All Branches Supported for Previews, No assignees |
+| CL1-011 | 2026-04-01T09:32:00Z | github | ubiquity/.github | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5841 | available | Priority 2 Medium, Unified Authentication across Ubiquity services, No assignees |
+| CL1-012 | 2026-04-01T09:32:00Z | github | devpool-directory/devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5844 | available | Priority 1, Governance Token emissions to ubq.eth new strategy, No assignees |
+| CL1-013 | 2026-04-01T09:32:00Z | github | devpool-directory/devpool-directory | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5012 | available | Priority 2 Medium, Differential Reward Distribution for Reopened Issues, No assignees |
+| CL1-014 | 2026-04-01T09:32:00Z | github | ubiquity/pay.ubq.fi | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5066 | available | Priority 1, CowSwap SDK cash out - cash out UUSD in any token, No assignees |
+| CL1-015 | 2026-04-01T09:32:00Z | github | ubiquity/uusd.ubq.fi | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5874 | available | Priority 1, Reown AppKit WalletConnect integration for uusd.ubq.fi, No assignees |
+| CL1-016 | 2026-04-01T09:32:00Z | github | ubiquity/ubiquity-dollar | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5845 | available | Priority 1, Formal verification for Ubiquity Dollar smart contracts, No assignees |
+| CL1-017 | 2026-04-01T09:32:00Z | github | ubiquity-os-marketplace/daemon-pricing | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5020 | available | Priority 1, Scraper JSONL dataset - 250-300 training + 100-150 validation examples, No assignees |
+| CL1-018 | 2026-04-01T09:32:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5039 | available | Priority 1, GitHub Webhook No Config v1 - dynamic webhook event mapping, No assignees |
+| CL1-019 | 2026-04-01T09:32:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5027 | available | Priority 1, Check dev experience on /start - parse GitHub/CV for Solidity experience, No assignees |
+| CL1-020 | 2026-04-01T09:32:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5045 | available | Priority 1, Contributor Class v2 - identify spec author/assignee/collaborator/contributor, No assignees |
+| CL1-021 | 2026-04-01T09:32:00Z | github | ubiquity-os/ubiquity-os-plugin-installer | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5837 | available | Priority 2 Medium, Premade configs hands-off for partners plugin installer, No assignees |
+| CL1-022 | 2026-04-01T09:32:00Z | github | ubiquity/.github | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5018 | available | Priority 2 Medium, Improving Recommendations for developer-issue matching, No assignees |
+| CL1-023 | 2026-04-01T09:32:00Z | github | ubiquity-os/ubiquity-os-kernel | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5043 | available | Priority 1, Callbacks event handlers - hybrid plugin SDK .on() pattern, No assignees |
+| CL1-024 | 2026-04-01T09:32:00Z | github | ubiquity-os/ubiquity-os-kernel | $225 USD | https://github.com/devpool-directory/devpool-directory/issues/5025 | available | Priority 3 High, Retry and token limits - exponential backoff for API calls, No assignees |
+| CL1-025 | 2026-04-01T09:32:00Z | github | ubiquity/business-development | $200 USD | https://github.com/devpool-directory/devpool-directory/issues/5024 | available | Priority 3 High, GitHub Based Marketing automation, No assignees |
+
+Last updated: 2026-04-01T09:32:00Z
