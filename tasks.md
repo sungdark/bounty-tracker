@@ -426,3 +426,74 @@ A sign-up landing page for engineering managers. Users log in with GitHub → sy
 | Quick wins (<4h, $300+) | 5 tasks |
 | Top pick | #5850 ($2400 — token list PRs) |
 | Quick pick | #5923 ($300 — Deno Deploy upgrade) |
+
+---
+
+## 🆕 Opire USD Bounties Found (2026-04-01 DJ1 Scan)
+
+> Source: GitHub search `bounty in:title is:issue state:open` → filtered for $ amounts
+> All powered by [Opire](https://opire.dev) — payment auto-releases on PR merge
+> **Claim method:** Comment `/opire try` on the issue, submit PR
+
+### 🌟 $150 — AGENT: Claude Code PR Reviewer Sub-Agent
+- **Repo:** claude-builders-bounty/claude-builders-bounty [#4](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4)
+- **Price:** $150 USD
+- **Difficulty:** Medium | **Time:** <1 Day | **Claimed:** No
+- **What:** Claude Code agent that takes a PR diff, analyzes it, posts structured Markdown review
+- **Acceptance Criteria:**
+  - CLI: `claude-review --pr https://github.com/owner/repo/pull/123` OR GitHub Action YAML
+  - Output: Summary, risks, suggestions, confidence score (Low/Med/High)
+  - Tested on 2+ real PRs (include outputs in PR)
+  - README with setup + usage
+- **Action:** `/opire try` + submit PR with agent + sample outputs
+
+### 💪 $100 — HOOK: Pre-Tool-Use Destructive Bash Blocker
+- **Repo:** claude-builders-bounty/claude-builders-bounty [#3](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3)
+- **Price:** $100 USD
+- **Difficulty:** Medium | **Time:** <1 Day | **Claimed:** No
+- **What:** Claude Code pre-tool-use hook (Python/bash) that blocks dangerous commands
+- **Acceptance Criteria:**
+  - Blocks: `rm -rf`, `DROP TABLE`, `git push --force`, `TRUNCATE`, `DELETE FROM` without WHERE
+  - Logs blocked attempts to `~/.claude/hooks/blocked.log` with timestamp + project path
+  - Shows clear message to Claude explaining why blocked
+  - README with install in 2 commands or fewer
+- **Action:** `/opire try` + submit PR with hook + README
+
+### 💪 $75 — TEMPLATE: CLAUDE.md for Next.js + SQLite SaaS
+- **Repo:** claude-builders-bounty/claude-builders-bounty [#2](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2)
+- **Price:** $75 USD
+- **Difficulty:** Medium | **Time:** <1 Day | **Claimed:** No
+- **What:** Opinionated, production-ready CLAUDE.md for Next.js 15 App Router + SQLite (better-sqlite3 or Turso)
+- **Acceptance Criteria:**
+  - Stack & versions, folder structure, SQL/migration conventions, component patterns, anti-patterns
+  - Usable without modification on greenfield project
+  - Tested: create new project, paste CLAUDE.md, confirm Claude Code understands context
+- **Action:** `/opire try` + submit PR with CLAUDE.md
+
+### ✅ $50 — SKILL: Generate Structured CHANGELOG from Git History
+- **Repo:** claude-builders-bounty/claude-builders-bounty [#1](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1)
+- **Price:** $50 USD
+- **Difficulty:** Easy | **Time:** <1 Day | **Claimed:** No
+- **What:** Claude Code skill (SKILL.md) or bash script generating CHANGELOG.md from git history
+- **Acceptance Criteria:**
+  - Works via `/generate-changelog` or `bash changelog.sh`
+  - Fetches commits since last git tag
+  - Auto-categorizes: Added / Fixed / Changed / Removed
+  - Outputs properly formatted CHANGELOG.md
+  - Tested on real repo (include sample output in PR)
+  - README with setup in 3 steps or fewer
+- **Action:** `/opire try` + submit PR with skill/script + README
+
+### 🔍 Also Found (Non-USD Crypto/Token Denominated)
+
+| Repo | Issue | Amount | Type |
+|------|-------|--------|------|
+| BarryThePirate/ftl-ext-sdk | [#1](https://github.com/BarryThePirate/ftl-ext-sdk/issues/1) | 1,000 Tokens | Tampermonkey/Greasemonkey userscript support |
+| Scottcjn/rustchain-bounties | #2451 | 5,000 RTC | Founding Antiquity Miners program |
+| Scottcjn/bottube | #159 | 200 RTC | Submit to directories (DOFOLLOW) |
+
+> Note: RTC/token bounties excluded from USD tracker — may revisit if token value is established.
+
+---
+
+*DJ1 scan 2026-04-01 15:59 UTC*
