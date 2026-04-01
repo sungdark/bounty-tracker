@@ -734,3 +734,12 @@ Last updated: 2026-03-31
 - **Status**: OPEN
 - **Details**: Unified Authentication across Ubiquity services
 - **Verify**: Open issue, no assignees, $600 USD, Priority 2, <1d
+
+### BT-5008: Automating Call To Action Delivery (Repo XP Report)
+- **Repo**: ubiquity/business-development
+- **Issue**: #196 (devpool #5008)
+- **Reward**: $400 USD
+- **URL**: https://github.com/ubiquity/business-development/issues/196
+- **Status**: CLAIMED (developing)
+- **Details**: Automate XP report delivery for repo URLs - run text-conversation-rewards, send email with dashboard link
+- **Verify**: Priority 1, $400 USD, no assignees
