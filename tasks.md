@@ -14,6 +14,7 @@
 | # | Amount | Issue | Status | PR/Link |
 |---|--------|-------|--------|---------|
 | **5845** | **$300** | Formal verification — LibUbiquityPool | 🔨 **IN PROGRESS** | [PR: sungdark/bounty-ubiquity-formal](https://github.com/sungdark/bounty-ubiquity-formal) |
+| **5045** | **$300** | Contributor Class v2 — github-webhook-rewards | 🔨 **IN PROGRESS** | [PR: sungdark/ubiquity-rewards](https://github.com/sungdark/ubiquity-rewards) |
 | 5840 | $300 | New Proposal Router — UbiquityOS GitHub routing UI | ✅ Free (no PR in ubiquity/.github) | [devpool#5840](https://github.com/devpool-directory/devpool-directory/issues/5840) |
 | 5902 | $600 | General Improvements — ubiquity-os-kernel | ✅ Free (no PR in kernel) | [devpool#5902](https://github.com/devpool-directory/devpool-directory/issues/5902) |
 | ~~5844~~ | ~~$600~~ | ~~Governance Token emissions~~ | ❌ **TAKEN** (PR #971 exists) | ubiquity-dollar#831 |
@@ -41,6 +42,19 @@
   8. Redeem with 100% fee → 0 collateral redeem (no revert)
   9. Full mint-redeem round-trip preserves value
   10. getDollarInCollateral consistency
+
+### #5045 — Contributor Class v2 (MY TASK) 🎯
+- **Amount:** $300 USD
+- **Target:** ubiquity-os/plugins-wishlist#48
+- **Repo:** sungdark/ubiquity-rewards (independent)
+- **What I implemented:**
+  - Added `SPECIFICATION_AUTHOR` role (original task author / issue creator)
+  - Updated `assignRoles()` to assign SPECIFICATION_AUTHOR to issue creators
+  - Added to permissions schema and default settings
+  - Role multiplier: 1.2x
+  - Updated README documentation
+- **PR:** ubiquity-os/plugins-wishlist#82 (commented with extension note)
+- **Status:** ✅ Implementation complete, pushed to main branch
 
 ### #5840 — New Proposal Router
 - **Amount:** $300 USD
@@ -80,15 +94,16 @@
 
 | Category | Count |
 |----------|-------|
-| Devpool Priority 1 $200+ | 3 available (1 in progress, 2 free) |
+| Devpool Priority 1 $200+ | 3 available (2 in progress, 1 free) |
 | CR1 USD ≥$100 | 12 |
 | Quick Wins (USDT/micro/USD) | 18 |
 | Total unclaimed | ~100 |
 
 **Top picks for action:**
 1. **$300** — Formal verification #5845 — ✅ **IN PROGRESS** (tests written, PR submitted)
-2. **$300** — New Proposal Router #5840 — UbiquityOS routing with ML (high complexity)
-3. **$600** — General Improvements #5902 — kernel wishlist (medium)
+2. **$300** — Contributor Class v2 #5045 — ✅ **IN PROGRESS** (implementation complete)
+3. **$300** — New Proposal Router #5840 — UbiquityOS routing with ML (high complexity)
+4. **$600** — General Improvements #5902 — kernel wishlist (medium)
 4. **$2,500** — Lifting Wavelet Transform — tenstorrent/tt-metal (ML/hardware)
 5. **$1,500** — CosyVoice bring-up — tenstorrent/tt-metal *(URGENT: due Apr 6!)*
 
