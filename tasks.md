@@ -1030,3 +1030,14 @@ Last updated: 2026-04-01
 
 | CJ3-001 | 2026-04-01T07:42:00Z | github | ubiquity-os/ubiquity-os-kernel | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5043 | available | Priority 1, Callbacks event handlers - improve hybrid plugin SDK with .on() pattern, No assignees |
 | CJ3-002 | 2026-04-01T07:42:00Z | github | ubiquity/ubiquity-dollar | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5842 | available | Priority 1, Fix Diamond Storage Check CI - merge foundry-storage-check updates, No assignees |
+
+### CJ1-001: Code Review Bounty Program
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #73
+- **Reward**: 200 RTC Pool (5-25 RTC per PR review, ~$0.50-$2.50 per review)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/73
+- **Status**: AVAILABLE
+- **Details**: Ongoing code review bounty - review PRs on Rustchain/Bottube/rustchain-bounties/ram-coffers repos. Thorough reviews earn 10-15 RTC, standard 5-10 RTC, security-focused 15-25 RTC. Bonus +10 RTC for finding shipped bugs, +25 for security vulns.
+- **Verify**: Open issue, no assignees, bounty label, active program with 200 RTC pool
+
+| CJ1-001 | 2026-04-01T07:42:00Z | github | Scottcjn/rustchain-bounties | 200 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/73 | available | Ongoing code review bounty, 5-25 RTC per PR review, pool 200 RTC, No assignees |
