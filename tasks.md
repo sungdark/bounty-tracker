@@ -955,3 +955,57 @@ Last updated: 2026-04-01
 
 | CH1-006 | 2026-04-01T07:16:00Z | github | ubiquity-os/plugins-wishlist | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5045 | available | Priority 1, Contributor Class v2 - identify spec author/assignee/collaborator/contributor, No assignees |
 
+### CI1-001: Pre-tool-use Hook for Claude Code
+- **Repo**: claude-builders-bounty/claude-builders-bounty
+- **Issue**: #3
+- **Reward**: $100 USD (via Opire)
+- **URL**: https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3
+- **Status**: AVAILABLE
+- **Details**: Create Claude Code pre-tool-use hook in Python/bash that blocks dangerous bash commands (rm -rf, DROP TABLE, git push --force, TRUNCATE, DELETE FROM without WHERE). Logs blocked attempts, clear message to Claude. Follows Claude Code hooks format (~/.claude/hooks/)
+- **Verify**: $100 USD bounty, Opire payment, no assignees, clear acceptance criteria
+
+### CI1-002: HomeLab Stack Integration Testing
+- **Repo**: illbnm/homelab-stack
+- **Issue**: #14
+- **Reward**: $280 USDT
+- **URL**: https://github.com/illbnm/homelab-stack/issues/14
+- **Status**: AVAILABLE
+- **Details**: Implement full integration test suite for HomeLab Stack - container health checks, HTTP endpoint tests, service interop, config validation. Must test Traefik, Portainer, Jellyfin, Grafana, Authentik, AdGuard, Gitea, etc.
+- **Verify**: $280 USDT, no assignees, labeled as bounty
+
+| CI1-001 | 2026-04-01T07:30:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | available | $100 USD via Opire, Pre-tool-use hook to block dangerous bash, No assignees, clear acceptance criteria |
+| CI1-002 | 2026-04-01T07:31:00Z | github | illbnm/homelab-stack | $280 USDT | https://github.com/illbnm/homelab-stack/issues/14 | available | $280 USDT, Integration testing for HomeLab Stack, No assignees, labeled bounty |
+
+
+### CH1-007: Cow Swap Cash Out
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5066
+- **Reward**: $600 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5066
+- **Status**: AVAILABLE
+- **Details**: Integrate CowSwap SDK into pay.ubq.fi to allow users to cash out UUSD in any token. Configure preferred token in localStorage, display cowswap quote replacing reward amount, claim button invalidates permit + initiates cowswap order with beneficiary. Linked to pay.ubq.fi#386
+- **Verify**: Priority 1, $600 USD, no assignees, clear TypeScript/React spec
+
+| CH1-007 | 2026-04-01T07:33:00Z | github | ubiquity/pay.ubq.fi | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5066 | available | Priority 1, CowSwap SDK cash out - cash out UUSD in any token, No assignees |
+
+### CH1-008: Integrate Wallet Connect via Reown AppKit
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5874
+- **Reward**: $300 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5874
+- **Status**: AVAILABLE
+- **Details**: Integrate Reown AppKit into uusd.ubq.fi for seamless wallet connectivity. Use React/Next.js + wagmi + @reown/appkit/react. Support Ethereum-compatible chains (mainnet, arbitrum). Configure via Reown cloud project ID. Linked to uusd.ubq.fi#24
+- **Verify**: Priority 1, $300 USD, no assignees, well-specified React/Next.js integration
+
+| CH1-008 | 2026-04-01T07:33:00Z | github | ubiquity/uusd.ubq.fi | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5874 | available | Priority 1, Reown AppKit WalletConnect integration for uusd.ubq.fi, No assignees |
+
+### CH1-009: Scraper: Scrape Issue Threads with Time Estimates
+- **Repo**: devpool-directory/devpool-directory
+- **Issue**: #5020
+- **Reward**: $300 USD
+- **URL**: https://github.com/devpool-directory/devpool-directory/issues/5020
+- **Status**: AVAILABLE
+- **Details**: Build a scraper to create JSONL dataset following OpenAI fine-tune spec for training. Need 250-300 well-annotated clean examples for training set + 100-150 for validation set. Scrape issue threads with time estimates. Linked to daemon-pricing#82
+- **Verify**: Priority 1, $300 USD, no assignees, data scraping + dataset creation
+
+| CH1-009 | 2026-04-01T07:33:00Z | github | ubiquity-os-marketplace/daemon-pricing | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5020 | available | Priority 1, Scraper for JSONL dataset - 250-300 training + 100-150 validation examples of issue threads, No assignees |
