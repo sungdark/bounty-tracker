@@ -296,10 +296,12 @@ Last updated: 2026-04-01
 - **Issue**: #5017
 - **Reward**: $600 USD
 - **URL**: https://github.com/devpool-directory/devpool-directory/issues/5017
-- **Status**: AVAILABLE (previously claimed, now open)
+- **Status**: CLAIMED (developing) - PR #123 open
+- **PR**: https://github.com/ubiquity-os/permit-generation/pull/123
+- **Work Repo**: https://github.com/sungdark/permit-generation/tree/feature/automatic-transfer
 - **Details**: Add optional automatic transfer to permit generation plugin - estimate gas fees across EVM networks, support `transfer: true` in org/repo config. Linked to ubiquity-os/permit-generation#6
-- **Verify**: Priority 1, $600 USD, no assignees on devpool or linked issue
-| BT-BR3-004 | 2026-03-31T22:27:00Z | github | ubiquity-os/permit-generation | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5017 | available | Priority 1, $600 USD, Automatic Transfer - permit plugin gas estimation, No assignees |
+- **Verify**: Priority 1, $600 USD, claimed by sungdark
+| BT-BR3-004 | 2026-04-01T09:26:00Z | github | ubiquity-os/permit-generation | $600 USD | https://github.com/devpool-directory/devpool-directory/issues/5017 | claimed | Priority 1, $600 USD, Automatic Transfer - PR #123 open at https://github.com/ubiquity-os/permit-generation/pull/123 |
 | BT-BS3-001 | 2026-03-31T22:35:00Z | github | ubiquity-os/ubiquity-os-kernel | $75 USD | https://github.com/devpool-directory/devpool-directory/issues/5946 | available | Priority 1, Fix /help flow - prevent agent-rejected message for bot user, No assignees |
 
 | BT-BP2-005 | 2026-03-31T22:31:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/571 | available | Security, Empty string authentication bypass in pending transfer system, No assignees |
