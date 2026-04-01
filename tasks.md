@@ -337,3 +337,12 @@ Last updated: 2026-03-31
 | BT-BV3-001 | 2026-03-31T23:03:00Z | github | ubiquity-os/.github | $1800 USD | https://github.com/devpool-directory/devpool-directory/issues/5916 | available | Priority 3 High, UbiquityOS Sprint Management Dashboard, No assignees |
 | BT-BV3-002 | 2026-03-31T23:03:00Z | github | ubiquity/ubiquity-dollar | $2400 USD | https://github.com/devpool-directory/devpool-directory/issues/5850 | available | Priority 4 Urgent, Add UUSD and UBQ tokens to popular services, No assignees |
 | BT-BV3-003 | 2026-03-31T23:03:00Z | github | ubiquity/.github | $300 USD | https://github.com/devpool-directory/devpool-directory/issues/5840 | available | Priority 1, New Proposal Router, No assignees |
+
+### BT-BX3-001: Formal verification
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #926 (devpool #5845)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/926
+- **Status**: AVAILABLE
+- **Details**: Formal verification for ubiquity-dollar smart contracts
+- **Verify**: Priority 1, $300 USD, no assignees
