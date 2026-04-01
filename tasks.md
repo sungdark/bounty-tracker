@@ -1,4 +1,4 @@
-# Bounty Tracker — Updated 2026-04-01 15:13 UTC
+# Bounty Tracker — Updated 2026-04-01 15:37 UTC
 
 ## Active Bounties with Clear Monetary Value (≥$0, Unclaimed)
 
@@ -48,7 +48,7 @@
 | #5874 | $300 | Integrate Wallet Connect via Reown AppKit | ubiquity/uusd.ubq.fi#24 | ❌ energypantry PR #45 |
 | #5848 | $300 | CI: fix check_storage_layout | ubiquity/ubiquity-dollar#972 | ❌ 3 existing PRs (#1009,#1008,#1007) |
 
-### 新发现 (本轮 DG3 — 2026-04-01 15:13 UTC):
+### 新发现 (本轮 DG3 — 2026-04-01 15:37 UTC):
 
 **🔥 $200+ 新机会 (未经手):**
 | Devpool # | 价格 | 标题 | Linked Issue | 时间 | 优先级 |
@@ -93,3 +93,37 @@
 - **最高单项**: #5850 $2400 (Add UUSD+UBQ tokens to popular services)
 - **最紧急**: #5931 $1200 (<1 Day, P4 Urgent)
 - **无竞争**: #5850, #5916, #5931, #5875, #5899, #5877, #5846, #5886, #5847 均无人认领
+
+---
+
+## DH1 扫描摘要 (2026-04-01 15:38 UTC)
+
+- **API**: `https://api.github.com/search/issues?q=bounty+in:title+is:issue+state:open&per_page=100&sort=updated`
+- **结果总数**: 5,360 issues
+- **扫描质量**: 极低 — 结果几乎全部被 Scottcjn/rustchain-bounties 和 Scottcjn/bottube 的 RTC token 赏金帖污染
+- **新发现 USD 赏金**: 0 个（全部为非USD代币赏金，无实际价值）
+- **有效赏金 (≥$0, 真实货币)**: 0 个新发现
+- **结论**: 该关键词搜索已被垃圾赏金帖占据，无法有效发现真实 USD 赏金
+
+### 本轮扫到的赏金 (全部为 RTC 代币，非真实USD):
+
+| 来源 | 标题 | 金额 | 备注 |
+|------|------|------|------|
+| Scottcjn/rustchain-bounties#1613 | [BOUNTY: 3 RTC] Set up Dependabot or Renovate | 3 RTC | RTC代币，非USD |
+| Scottcjn/rustchain-bounties#2103 | [BOUNTY] Star & Follow — Earn RTC (Ongoing) | 1-25 RTC | RTC代币，非USD |
+| Scottcjn/rustchain-bounties#2271 | [BOUNTY: 3 RTC] Download and test the RustChain miner | 3 RTC | RTC代币，非USD |
+| Scottcjn/rustchain-bounties#2218 | [BOUNTY: 3 RTC] Add Your Machine to the Green Tracker | 3 RTC | RTC代币，非USD |
+| Scottcjn/rustchain-bounties#2178 | [EASY BOUNTY: 2 RTC] Fix a typo or improve docs | 2 RTC | RTC代币，非USD |
+| Scottcjn/rustchain-bounties#1605 | [EASY BOUNTY: 1 RTC] Add a CONTRIBUTING.md | 1 RTC | RTC代币，非USD |
+| Scottcjn/bottube#74 | [BOUNTY] Star & Follow BoTTube — Earn 2 RTC | 2 RTC | RTC代币，非USD |
+| Scottcjn/bottube#166 | [BOUNTY] Star BoTTube - Earn 2 RTC Instantly | 2 RTC | RTC代币，非USD |
+| Scottcjn/bottube#358 | ⭐ Star Drive — Help Elyan Labs hit 200 stars! (2 RTC) | 2 RTC | RTC代币，非USD |
+| fx-forgemax/forgemax#60 | Constitutional: Add liability_bearer_id to mutation functions | 无明确金额 | 非赏金帖，constitutional violation |
+| devpool-directory#5924 | Launch Another DoraHacks Bounty Post | $9 USD (label) | 实际只是转发链接 |
+
+### 建议:
+- `bounty in:title` 搜索已被 Scottcjn 赏金农场完全污染
+- 应使用 devpool-directory 的专项扫描（已有 DG3 执行）
+- 其他发现渠道：HackerOne、Bugcrowd、cryptocurrency bounty boards
+
+*Scanner: DH1 Subagent | Run: 2026-04-01T15:38:00Z*
