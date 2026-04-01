@@ -1,164 +1,273 @@
-# Bounty Tracker — Scanned 2026-04-01 11:59 UTC
+# Bounty Tracker
+Scanned 2026-04-01 12:02 UTC
 
-Source: GitHub search `bounty in:title is:issue state:open` (per_page=100, sorted by updated)
-Scanner: CW1 subagent — GitHub API primary scan
+Source: GitHub API devpool-directory/devpool-directory (open issues, sorted by updated desc)
+Scanner: CW3 subagent — devpool-directory deep scan
 
----
+## Summary: 49 open bounties >=$200
 
-## 🔥 NEWLY FOUND THIS SCAN (CW1)
+### $2400 USD (1 tasks)
 
-### [NEW] aukilabs/splatter-server#5 — [Bounty | 50 USD] Generate preview images for splatter node
-- **URL:** https://github.com/aukilabs/splatter-server/issues/5
-- **Reward:** $50 USD
-- **Difficulty:** Medium — Rust runner + Python (nerfstudio ns-render) pipeline work
-- **Status:** 🟢 UNCLAIMED (no assignee)
-- **Summary:** After Gaussian Splat training completes, render 2 preview images (top-down + angled ¾-view) and upload as domain artifacts alongside the .splat file. Step 1: read splat.ply bounding box → Step 2: use ns-render for 2 camera poses → Step 3: upload as splat_preview_top / splat_preview_angle → Update runner/src/lib.rs → Update README.
-- **Acceptance:** 2 preview images rendered, saved to job_root_path/refined/splatter/, uploaded to domain, best-effort (warn not fail on error), README updated.
+**#5850** [Add `UUSD` and `UBQ` tokens to popular services] - $2400 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5850
+- Source: https://github.com/ubiquity/ubiquity-dollar/issues/984
+- Time: Time: <1 Week | Priority: Priority: 4 (Urgent) | Updated: 2026-04-01
 
-### [NEW] aukilabs/splatter-server#6 — [Bounty | 50 USD] Generate preview video for splatter node
-- **URL:** https://github.com/aukilabs/splatter-server/issues/6
-- **Reward:** $50 USD
-- **Difficulty:** Medium — Rust runner + Python (nerfstudio ns-render) + ffmpeg pipeline
-- **Status:** 🟢 UNCLAIMED (no assignee)
-- **Summary:** After Gaussian Splat training completes, render a short orbital preview video (5-10s, 30fps, MP4 H.264). Compute bounding box → generate orbital camera path JSON → ns-render frames → ffmpeg encode → upload as splat_preview_video → clean up temp frames → best-effort (warn not fail).
-- **Acceptance:** Orbital video rendered (270°+ at ~45° elevation), 5-10s at 30fps, H.264 MP4, uploaded to domain, frames cleaned up, README updated.
+### $1800 USD (1 tasks)
 
-### [NEW] illbnm/homelab-stack#13 — [BOUNTY $80] Notifications — Gotify + Apprise
-- **URL:** https://github.com/illbnm/homelab-stack/issues/13
-- **Reward:** $80 USDT
-- **Difficulty:** Medium — Docker/homelab stack setup
-- **Status:** 🟢 UNCLAIMED (no assignee, 138 comments)
-- **Summary:** Implement unified notification center with ntfy + Gotify. Configure server.yml, write scripts/notify.sh wrapper, configure Alertmanager webhook, integrate Watchtower/Gitea/HomeAssistant/UptimeKuma. Requires ntfy Web UI + mobile push + notify.sh script + all service integrations + README.
-- **Acceptance:** ntfy UI accessible, mobile push works, notify.sh works, Alertmanager+Watchtower notifications fire, README complete.
+**#5916** [UbiquityOS Sprint Management Dashboard] - $1800 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5916
+- Source: https://github.com/ubiquity-os/.github/issues/14
+- Time: Time: <1 Week | Priority: Priority: 3 (High) | Updated: 2026-04-01
 
-### [NEW] illbnm/homelab-stack#2 — [BOUNTY $160] Media Stack — Jellyfin + Sonarr + Radarr + qBittorrent
-- **URL:** https://github.com/illbnm/homelab-stack/issues/2
-- **Reward:** $160 USD
-- **Difficulty:** Medium-Hard — Docker homelab media stack
-- **Status:** 🟢 UNCLAIMED (no assignee)
-- **Labels:** bounty, medium
-- **Summary:** Full media stack setup with Docker Compose.
+### $1200 USD (5 tasks)
 
-### [NEW] fredldotme/ISODriveUT#12 — [Bounty: $50 USD]
-- **URL:** https://github.com/fredldotme/ISODriveUT/issues/12
-- **Reward:** $50 USD (~49 EUR via PayPal)
-- **Difficulty:** Unknown — mobile app (Ubuntu Touch)
-- **Status:** 🟢 UNCLAIMED (no assignee, 13 comments)
-- **Summary:** Allow custom mount paths (/documents/iso or /documents/flashdrive) and support .img file mounting like a flash drive on Ubuntu Touch. Boot .img files like opnsense.
-- **Note:** Repo is for Ubuntu Touch — requires mobile Linux dev environment.
+**#4999** [Make Knip and Jest workflows reusable] - $1200 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/4999
+- Source: https://github.com/ubiquity-os/plugin-template/issues/13
+- Time: Time: <1 Week | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
 
-### [NEW] microg/GmsCore#2994 — [BOUNTY] RCS Support [14999$]
-- **URL:** https://github.com/microg/GmsCore/issues/2994
-- **Reward:** $14,999 (label confirms bounty)
-- **Difficulty:** Very Hard — Android/RCS/Android framework work
-- **Status:** 🟢 UNCLAIMED (no assignee)
-- **Labels:** bounty (green), enhancement
-- **Summary:** Enable Google Messages + microG to use RCS functionality. Requires implementing missing components in microG for RCS authentication/attestation. No rooting/Magisk allowed, must work on locked bootloader. Compatibility with recent Google Messages versions desired.
-- **Warning:** Very complex (313 comments, massive scope). Only worth attempting if you have deep Android/microG expertise.
+**#5019** [GitHub Decoupling] - $1200 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5019
+- Source: https://github.com/ubiquity-os-marketplace/text-conversation-rewards/issues/385
+- Time: Time: <1 Week | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
 
-### [NEW] Scottcjn/rustchain-bounties#2274 — [Bounty: 50 RTC] CVPR 2026 Human Evaluation
-- **URL:** https://github.com/Scottcjn/rustchain-bounties/issues/2274
-- **Reward:** 50 RTC (~$5 USD)
-- **Difficulty:** Easy — human evaluation, no coding
-- **Status:** 🟢 UNCLAIMED (no assignee)
-- **Deadline:** April 3, 2026 — first 5 qualified evaluators
-- **Requirements:** LLM/AI or computer vision/video generation background OR visual design/animation background.
-- **Summary:** Watch 14 blinded video pairs (~30 min), answer 3 questions per pair (which looks better / more expressive / preference). Apply by commenting on main issue with your qualifications.
-- **Note:** Very small reward but extremely easy task with deadline.
+**#5076** [Integrate Liquity V1 Stability Pool for LUSD Collateral Yield] - $1200 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5076
+- Source: https://github.com/ubiquity/ubiquity-dollar/issues/997
+- Time: Time: <1 Day | Priority: Priority: 4 (Urgent) | Updated: 2026-02-09
 
----
+**#5875** [CowSwap Integration] - $1200 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5875
+- Source: https://github.com/ubiquity/uusd.ubq.fi/issues/28
+- Time: Time: <1 Week | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
 
-## 📋 Existing Tasks (from other scanners)
+**#5931** [Integrate Liquity V1 Stability Pool for LUSD Collateral Yield] - $1200 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5931
+- Source: https://github.com/ubiquity/ubiquity-dollar/issues/997
+- Time: Time: <1 Day | Priority: Priority: 4 (Urgent) | Updated: 2026-04-01
 
-> The following tasks are already tracked — see previous scanner outputs for full details.
+### $900 USD (2 tasks)
 
-### High-Value USD Bounties (≥$200, already in tracker)
+**#5064** [Nomic Embeddings Model for +10% Accuracy] - $900 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5064
+- Source: https://github.com/ubiquity-os-marketplace/text-vector-embeddings/issues/111
+- Time: Time: <1 Day | Priority: Priority: 3 (High) | Updated: 2026-04-01
 
-| # | Repo | Issue | Reward | Status | Notes |
-|---|---|---|---|---|---|
-| 1 | devpool-directory#5850 | UUSD+UBQ token integration | $2,400 | 🟢 UNCLAIMED | DeFi, urgent |
-| 2 | devpool-directory#5916 | UbiquityOS Sprint Dashboard | $1,800 | 🟢 UNCLAIMED | Full-stack |
-| 3 | devpool-directory#5935 | Plugin build artifacts RFC | $1,200 | 🟢 UNCLAIMED | 3-week timeline |
-| 4 | devpool-directory#5931 | Liquity V1 Stability Pool | $1,200 | 🟢 UNCLAIMED | Urgent deadline |
-| 5 | devpool-directory#5875 | CowSwap Integration | $1,200 | 🟢 UNCLAIMED | DeFi |
-| 6 | devpool-directory#4999 | Knip+Jest reusable workflows | $1,200 | 🟢 UNCLAIMED | TypeScript/Node CI |
-| 7 | devpool-directory#5019 | GitHub Decoupling | $1,200 | 🟢 UNCLAIMED | Ubiquity OS core |
-| 8 | devpool-directory#5070 | DevPool Matchmaking UI | $900 | 🟢 UNCLAIMED | Short deadline |
-| 9 | devpool-directory#5064 | Nomic Embeddings | $900 | 🟢 UNCLAIMED | ML embeddings |
-| 10 | devpool-directory#5017 | Automatic Transfer | $600 | 🟢 UNCLAIMED | Permit generation |
-| 11 | devpool-directory#5041 | Launch campaign L1s/L2s | $600 | 🟢 UNCLAIMED | BD/sales |
-| 12 | devpool-directory#5925 | L1/L2 GitHub campaign | $600 | 🟢 UNCLAIMED | BD |
-| 13 | devpool-directory#5002 | Arbitrage bot | $600 | 🟢 UNCLAIMED | Hard |
-| 14 | devpool-directory#5844 | Governance token emissions | $600 | 🟢 UNCLAIMED | Smart contracts |
-| 15 | devpool-directory#5846 | Security monitoring | $600 | 🟢 UNCLAIMED | Security |
-| 16 | devpool-directory#5841 | Unified Authentication | $600 | 🟢 UNCLAIMED | Auth system |
-| 17 | devpool-directory#5012 | Differential Reward Distribution | $600 | 🟢 UNCLAIMED | Reward logic |
-| 18 | devpool-directory#5007 | Specialized Prompts | $600 | 🟢 UNCLAIMED | Prompt engineering |
-| 19 | devpool-directory#5066 | Cow Swap Cash Out | $600 | 🟢 UNCLAIMED | DeFi |
-| 20 | devpool-directory#4996 | Import Nonces | $600 | 🟢 UNCLAIMED | Permit3 |
-| 21 | devpool-directory#5899 | All Branches Previews | $600 | 🟢 UNCLAIMED | Deno deploy |
-| 22 | devpool-directory#5877 | command-plan plugin | $600 | 🟢 UNCLAIMED | Plugin dev |
-| 23 | devpool-directory#5043 | Callbacks/event handlers | $300 | 🚀 IN PROGRESS | PR #338 |
-| 24 | devpool-directory#5886 | Plugin health monitor | $450 | 🟢 UNCLAIMED | 4 hours |
-| 25 | devpool-directory#5022 | Auto Time label | $450 | 🟢 UNCLAIMED | 4 hours |
-| 26 | devpool-directory#5896 | Wrong Config fix | $450 | 🟢 UNCLAIMED | 4 hours |
-| 27 | devpool-directory#5042 | Review Incentive calculations | $450 | 🟢 UNCLAIMED | 4 hours |
-| 28 | devpool-directory#5940 | GraphQL PR lookups | $375 | 🟢 UNCLAIMED | 1 hour |
-| 29 | devpool-directory#5005 | Agent bridge kernel | $225 | 🟢 UNCLAIMED | 2 hours |
-| 30 | devpool-directory#5025 | Retry + token limits | $225 | 🟢 UNCLAIMED | 2 hours |
-| 31 | devpool-directory#5044 | Permit batch claiming | $225 | 🟢 UNCLAIMED | 2 hours |
-| 32 | devpool-directory#5902 | General OS improvements | $600 | 🟢 UNCLAIMED | Medium-Hard |
+**#5070** [DevPool Directory Matchmaking UI] - $900 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5070
+- Source: https://github.com/devpool-directory/devpool-directory-tasks/issues/63
+- Time: Time: <1 Day | Priority: Priority: 3 (High) | Updated: 2026-04-01
 
-### Already In Progress
+### $600 USD (15 tasks)
 
-| # | Repo | Issue | Reward | PR | Status |
-|---|---|---|---|---|---|
-| 1 | devpool-directory#5043 | Callbacks/event handlers | $300 | ubiquity-os/ubiquity-os-kernel#338 | 🚀 IN PROGRESS |
+**#4996** [Import Nonces] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/4996
+- Source: https://github.com/ubiquity/permit3/issues/2
+- Time: Time: <1 Day | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
 
-### Other Valid Bounties
+**#5002** [Arbitrage bot] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5002
+- Source: https://github.com/ubiquity/arbitrage-bot/issues/3
+- Time: Time: <1 Day | Priority: Priority: 3 (High) | Updated: 2026-04-01
 
-| Repo | Issue | Reward | Status |
-|---|---|---|---|
-| lihaoyi/test | #1219 | $200 USD | 🟢 UNCLAIMED |
-| claude-builders-bounty | #5 | $200 (Opire) | 🟢 UNCLAIMED |
-| claude-builders-bounty | #4 | $150 (Opire) | 🟢 UNCLAIMED |
-| claude-builders-bounty | #3 | $100 (Opire) | 🟢 UNCLAIMED |
-| claude-builders-bounty | #2 | $75 (Opire) | 🟢 UNCLAIMED |
-| claude-builders-bounty | #1 | $50 (Opire) | 🟢 UNCLAIMED |
-| illbnm/homelab-stack | #7 | $130 USD | 🟢 UNCLAIMED |
-| CapSoftware/Cap | #1540 | $200 USD | 🟢 UNCLAIMED |
+**#5007** [Specialized Prompts] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5007
+- Source: https://github.com/ubiquity-os-marketplace/text-conversation-rewards/issues/340
+- Time: Time: <1 Day | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
 
----
+**#5012** [Implement Differential Reward Distribution for Reopened Issues] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5012
+- Source: https://github.com/ubiquity-os-marketplace/text-conversation-rewards/issues/301
+- Time: Time: <1 Day | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
 
-## ⚠️ Skipped / Low Value / Not Worth Doing
+**#5017** [Automatic Transfer] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5017
+- Source: https://github.com/ubiquity-os/permit-generation/issues/6
+- Time: Time: <1 Week | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
 
-| Issue | Reason |
-|---|---|
-| tenstorrent/tt-metal#32178 — $1,500 | ALREADY ASSIGNED (w1zzx) |
-| ritik4ever/stellar-bounty-board#5 | ALREADY ASSIGNED (zicaiw625) |
-| ResearchHub/issues#466 | ALREADY ASSIGNED (yattias) — just a UI discussion |
-| evilew/GS13-Outdated#188 — $50 | LOCKED issue |
-| devpool-directory#5924 — $9 | Trivial devpool bot task |
-| bisq-network/growth#290 — $250 | Non-technical (podcast guest) |
-| INDIGOAZUL/la-tanda-web#86 — 150 LTD | Obscure LTD token, unverified value |
-| FreezingMoon/AncientBeast (various) | XTR token, obscure, 2-10 XTR each |
-| privacybydesign/vcmrtd#71 | Has "bounty" in title but NO amount specified |
-| boligian-peru/marketplace-service-template#149 | Someone claiming the bounty, not an active bounty listing |
-| prosavp/oam9#1047 | SPAM — gambling links |
-| JeremyKono/hummingbot#3 | $1k but body is empty template — VERIFY FIRST |
+**#5035** [Recruiting: Dragonfly CTF II] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5035
+- Source: https://github.com/ubiquity/business-development/issues/155
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
 
----
+**#5041** [Launch campaign to target pilot partners from large open source projects] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5041
+- Source: https://github.com/ubiquity/business-development/issues/185
+- Time: Time: <1 Day | Priority: Priority: 3 (High) | Updated: 2026-04-01
 
-## 📊 CW1 Scan Summary
+**#5066** [Cow Swap Cash Out] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5066
+- Source: https://github.com/ubiquity/pay.ubq.fi/issues/386
+- Time: Time: <1 Week | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
 
-| Category | Count |
-|---|---|
-| New bounties found (this scan) | 8 |
-| High-value $200+ unclaimed | 32+ (devpool + others) |
-| Already in progress | 1 |
-| Already claimed/assigned | 4 |
-| Spam/garbage filtered | ~20+ |
-| Total matched (API total_count) | 5,355 |
+**#5841** [Unified Authentication] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5841
+- Source: https://github.com/ubiquity/.github/issues/124
+- Time: Time: <1 Day | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
 
-**Scanned at:** 2026-04-01 11:59 UTC
-**Scanner:** CW1 subagent — GitHub API primary scan
+**#5844** [Governance Token emissions to `ubq.eth` new strategy] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5844
+- Source: https://github.com/ubiquity/ubiquity-dollar/issues/831
+- Time: Time: <1 Week | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5846** [Security monitoring] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5846
+- Source: https://github.com/ubiquity/ubiquity-dollar/issues/927
+- Time: Time: <1 Day | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+
+**#5877** [command-plan] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5877
+- Source: https://github.com/ubiquity-os/plugins-wishlist/issues/78
+- Time: Time: <1 Day | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+
+**#5899** [All Branches Supported for Previews] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5899
+- Source: https://github.com/ubiquity/deno-deploy-workflow/issues/7
+- Time: Time: <1 Day | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+
+**#5902** [General Improvements] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5902
+- Source: https://github.com/ubiquity-os/ubiquity-os-kernel/issues/300
+- Time: Time: <1 Week | Priority: Priority: 1 (Normal) | Updated: 2026-03-31
+
+**#5925** [Launch campaign towards L1s/L2s for managing their GitHubs] - $600 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5925
+- Source: https://github.com/ubiquity/business-development/issues/184
+- Time: Time: <1 Week | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+### $450 USD (4 tasks)
+
+**#5022** [Automatically set a `Time: ` label] - $450 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5022
+- Source: https://github.com/ubiquity-os/plugins-wishlist/issues/76
+- Time: Time: <4 Hours | Priority: Priority: 3 (High) | Updated: 2026-04-01
+
+**#5042** [Review Incentive Double Check Calculations] - $450 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5042
+- Source: https://github.com/ubiquity-os-marketplace/text-conversation-rewards/issues/260
+- Time: Time: <4 Hours | Priority: Priority: 3 (High) | Updated: 2026-04-01
+
+**#5847** [Final Pre-Seed/Seed Investor Debt UBQ] - $450 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5847
+- Source: https://github.com/ubiquity/ubiquity-dollar/issues/937
+- Time: Time: <4 Hours | Priority: Priority: 3 (High) | Updated: 2026-04-01
+
+**#5886** [Plugin health monitor] - $450 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5886
+- Source: https://github.com/ubiquity-os/.github/issues/12
+- Time: Time: <4 Hours | Priority: Priority: 3 (High) | Updated: 2026-04-01
+
+### $400 USD (4 tasks)
+
+**#4998** [Multi Chain Arbitrage] - $400 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/4998
+- Source: https://github.com/ubiquity/arbitrage-bot/issues/7
+- Time: Time: <1 Week | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5008** [Automating Call To Action Delivery (Repo XP Report)] - $400 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5008
+- Source: https://github.com/ubiquity/business-development/issues/196
+- Time: Time: <1 Week | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5016** [Launch campaign to poach an experienced SaaS sales executive] - $400 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5016
+- Source: https://github.com/ubiquity/business-development/issues/183
+- Time: Time: <1 Day | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+
+**#5030** [Opire] - $400 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5030
+- Source: https://github.com/ubiquity/business-development/issues/89
+- Time: Time: <1 Day | Priority: Priority: 3 (High) | Updated: 2026-04-01
+
+### $300 USD (15 tasks)
+
+**#5018** [Improving Recommendations] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5018
+- Source: https://github.com/ubiquity-os-marketplace/text-vector-embeddings/issues/55
+- Time: Time: <4 Hours | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+
+**#5020** [Scraper: Scrape Issue Threads with Time estimates.] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5020
+- Source: https://github.com/ubiquity-os-marketplace/daemon-pricing/issues/82
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-03-20
+
+**#5027** [Check dev experience on starting an issue] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5027
+- Source: https://github.com/ubiquity-os/plugins-wishlist/issues/26
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5039** [Generalized "GitHub Webhook + Contributor Role -> Rewards" No Config v1] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5039
+- Source: https://github.com/ubiquity-os/plugins-wishlist/issues/46
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5043** [Callbacks - event handlers and hybrid plugins] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5043
+- Source: https://github.com/ubiquity-os/ubiquity-os-kernel/issues/261
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5045** [Generalized "GitHub Webhook + Contributor Role -> Rewards" Contributor Class v2] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5045
+- Source: https://github.com/ubiquity-os/plugins-wishlist/issues/48
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5079** [Error Handling & Status Toasts – Handoff] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5079
+- Source: https://github.com/ubiquity/stake.ubq.fi/issues/8
+- Time: Time: <4 Hours | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+
+**#5081** [E2E Smoke (Playwright) – Handoff] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5081
+- Source: https://github.com/ubiquity/stake.ubq.fi/issues/4
+- Time: Time: <4 Hours | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+
+**#5837** [premade configs that are hands-off for partners] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5837
+- Source: https://github.com/ubiquity-os/ubiquity-os-plugin-installer/issues/43
+- Time: Time: <4 Hours | Priority: Priority: 2 (Medium) | Updated: 2026-04-01
+
+**#5840** [New Proposal Router] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5840
+- Source: https://github.com/ubiquity/.github/issues/123
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5845** [Formal verification] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5845
+- Source: https://github.com/ubiquity/ubiquity-dollar/issues/926
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5848** [CI: fix `check_storage_layout` for new contracts] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5848
+- Source: https://github.com/ubiquity/ubiquity-dollar/issues/972
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5874** [Integrate Wallet Connect via Reown AppKit] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5874
+- Source: https://github.com/ubiquity/uusd.ubq.fi/issues/24
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5923** [Upgrade to newest Deno Deploy] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5923
+- Source: https://github.com/ubiquity-os/deno-deploy/issues/17
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+**#5927** [Generalized "GitHub Webhook + Contributor Role -> Rewards" With Config v3] - $300 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5927
+- Source: https://github.com/ubiquity-os/plugins-wishlist/issues/47
+- Time: Time: <1 Day | Priority: Priority: 1 (Normal) | Updated: 2026-04-01
+
+### $225 USD (1 tasks)
+
+**#5025** [Retry and token limits] - $225 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5025
+- Source: https://github.com/ubiquity-os-marketplace/text-conversation-rewards/issues/330
+- Time: Time: <2 Hours | Priority: Priority: 3 (High) | Updated: 2026-04-01
+
+### $200 USD (1 tasks)
+
+**#5024** [GitHub Based Marketing] - $200 USD - UNCLAIMED
+- Devpool: https://github.com/devpool-directory/devpool-directory/issues/5024
+- Source: https://github.com/ubiquity/business-development/issues/90
+- Time: Time: <1 Day | Priority: Priority: 3 (High) | Updated: 2026-04-01
+
