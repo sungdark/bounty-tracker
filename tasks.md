@@ -825,3 +825,54 @@ Last updated: 2026-03-31
 - **Details**: Callbacks - event handlers and hybrid plugins - Priority 1, Time <1 Day
 - **Verify**: Issue exists, Price: 00 USD label, Priority 1 (Normal), Opire enabled
 
+### CE1-001: RCS Support for microG
+- **Repo**: microg/GmsCore
+- **Issue**: #2994
+- **Reward**: $14,999 USD
+- **URL**: https://github.com/microg/GmsCore/issues/2994
+- **Status**: AVAILABLE
+- **Details**: Enable Google Messages RCS functionality with microG - must work on locked bootloader, no root/Magisk
+- **Verify**: Bounty $14999, no assignees, hard technical challenge
+
+### CE1-002: WearOS Support
+- **Repo**: microg/GmsCore
+- **Issue**: #2843
+- **Reward**: $1,340 USD
+- **URL**: https://github.com/microg/GmsCore/issues/2843
+- **Status**: AVAILABLE
+- **Details**: WearOS support for microG
+- **Verify**: Bounty $1340, no assignees
+
+### CE1-003: [Bounty $10k] Optimise atan2
+- **Repo**: tenstorrent/tt-metal
+- **Issue**: #41029
+- **Reward**: $10,000 USD
+- **URL**: https://github.com/tenstorrent/tt-metal/issues/41029
+- **Status**: AVAILABLE
+- **Details**: Optimize atan2 - convert composite op to single device op for fp32/bf16
+- **Verify**: Bounty $10k label, no assignees
+
+### CE1-004: [Bounty $10k] Optimise log1p
+- **Repo**: tenstorrent/tt-metal
+- **Issue**: #41028
+- **Reward**: $10,000 USD
+- **URL**: https://github.com/tenstorrent/tt-metal/issues/41028
+- **Status**: AVAILABLE
+- **Details**: Optimize log1p for fp32 and bf16
+- **Verify**: Bounty $10k label, no assignees
+
+### CE1-005: [Bounty $3.5k] Optimise signbit
+- **Repo**: tenstorrent/tt-metal
+- **Issue**: #41030
+- **Reward**: $3,500 USD
+- **URL**: https://github.com/tenstorrent/tt-metal/issues/41030
+- **Status**: OPEN (claimed)
+- **Details**: Optimize signbit from 8 to 1-4 cycles per row
+- **Verify**: Bounty $3.5k label, PR already submitted
+
+
+| CE1-001 | 2026-04-01T04:10:00Z | github | microg/GmsCore | $14999 USD | https://github.com/microg/GmsCore/issues/2994 | available | RCS Support, Hard technical challenge, No assignees |
+| CE1-002 | 2026-04-01T04:10:00Z | github | microg/GmsCore | $1340 USD | https://github.com/microg/GmsCore/issues/2843 | available | WearOS Support, No assignees |
+| CE1-003 | 2026-04-01T04:10:00Z | github | tenstorrent/tt-metal | $10000 USD | https://github.com/tenstorrent/tt-metal/issues/41029 | available | Optimize atan2, composite to single device op, No assignees |
+| CE1-004 | 2026-04-01T04:10:00Z | github | tenstorrent/tt-metal | $10000 USD | https://github.com/tenstorrent/tt-metal/issues/41028 | available | Optimize log1p for fp32/bf16, No assignees |
+| CE1-005 | 2026-04-01T04:10:00Z | github | tenstorrent/tt-metal | $3500 USD | https://github.com/tenstorrent/tt-metal/issues/41030 | claimed | Optimize signbit from 8 to 1-4 cycles, PR submitted |
