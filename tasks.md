@@ -689,3 +689,48 @@ Last updated: 2026-03-31
 - **Status**: OPEN
 - **Details**: Logo design for AI iOS App Store compliance auditor. SVG format, modern style.
 - **Verify**: Open issue, no assignees, small bounty
+
+### CB3-001: premade configs that are hands-off for partners
+- **Repo**: ubiquity-os/ubiquity-os-plugin-installer
+- **Issue**: #43 (devpool #5837)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity-os/ubiquity-os-plugin-installer/issues/43
+- **Status**: OPEN
+- **Details**: Pre-made configs that are hands-off for partners, related to plugin installer
+- **Verify**: Open issue, no assignees, $300 USD, Priority 2, <4h
+
+### CB3-002: command-plan
+- **Repo**: ubiquity-os/plugins-wishlist
+- **Issue**: #78 (devpool #5877)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity-os/plugins-wishlist/issues/78
+- **Status**: OPEN
+- **Details**: Command-plan plugin for Ubiquity OS
+- **Verify**: Open issue, no assignees, $600 USD, Priority 2, <1d
+
+### CB3-003: Security monitoring
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #927 (devpool #5846)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/927
+- **Status**: OPEN
+- **Details**: Security monitoring for Ubiquity Dollar protocol
+- **Verify**: Open issue, no assignees, $600 USD, Priority 2, <1d
+
+### CB3-004: Formal verification
+- **Repo**: ubiquity/ubiquity-dollar
+- **Issue**: #926 (devpool #5845)
+- **Reward**: $300 USD
+- **URL**: https://github.com/ubiquity/ubiquity-dollar/issues/926
+- **Status**: OPEN
+- **Details**: Formal verification for Ubiquity Dollar smart contracts
+- **Verify**: Open issue, no assignees, $300 USD, Priority 1, <1d
+
+### CB3-005: Unified Authentication
+- **Repo**: ubiquity/.github
+- **Issue**: #124 (devpool #5841)
+- **Reward**: $600 USD
+- **URL**: https://github.com/ubiquity/.github/issues/124
+- **Status**: OPEN
+- **Details**: Unified Authentication across Ubiquity services
+- **Verify**: Open issue, no assignees, $600 USD, Priority 2, <1d
