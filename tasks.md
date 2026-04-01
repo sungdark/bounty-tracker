@@ -1455,4 +1455,105 @@ Last updated: 2026-04-01
 | CL1-024 | 2026-04-01T09:32:00Z | github | ubiquity-os/ubiquity-os-kernel | $225 USD | https://github.com/devpool-directory/devpool-directory/issues/5025 | available | Priority 3 High, Retry and token limits - exponential backoff for API calls, No assignees |
 | CL1-025 | 2026-04-01T09:32:00Z | github | ubiquity/business-development | $200 USD | https://github.com/devpool-directory/devpool-directory/issues/5024 | available | Priority 3 High, GitHub Based Marketing automation, No assignees |
 
-Last updated: 2026-04-01T09:32:00Z
+### CO1-001: RustChain Browser Extension (Chrome + Firefox + MetaMask Snap)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #730
+- **Reward**: 40-100 RTC (~$4-10 USD)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/730
+- **Status**: AVAILABLE
+- **Details**: Build browser-based RTC wallet extension for Chrome/Firefox - BIP39 seed phrases, Ed25519 signing, AES-256-GCM keystore, balance viewing, RTC sending. Bonus: MetaMask Snap integration (+40 RTC) for 30M+ MetaMask users.
+- **Verify**: Bounty label, 40-100 RTC, no assignees, well-specified with crypto module details
+
+### CO1-002: RustChain Documentation Sprint (150 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #72
+- **Reward**: 150 RTC pool (~$15)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/72
+- **Status**: AVAILABLE
+- **Details**: Documentation sprint - API Reference (25 RTC), Miner Setup Guide (20 RTC), Python SDK Tutorial (15 RTC), Node Operator Guide (20 RTC), Wallet User Guide (15 RTC), Architecture Overview (20 RTC), FAQ (15 RTC), Contributing Guide (10 RTC). Bonus +10 RTC for 3+ docs.
+- **Verify**: Bounty label, clear per-document rewards, no assignees
+
+### CO1-003: Fix Beacon Atlas Auto-Registration + Routing (25 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #2127
+- **Reward**: 25 RTC (~$2.50)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/2127
+- **Status**: AVAILABLE
+- **Details**: Fix POST /beacon/join returning 404 on Atlas API; fix rustchain.org/beacon/atlas returning 404 (works via direct IP). Need nginx proxy routes for beacon endpoints.
+- **Verify**: Bounty label, 25 RTC, no assignees, clear acceptance criteria
+
+### CO1-004: BoTTube JS SDK Integration (5 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #2143
+- **Reward**: 5 RTC (~$0.50)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/2143
+- **Status**: AVAILABLE
+- **Details**: Build something with the BoTTube JavaScript SDK - Discord bot, CLI tool, web dashboard, browser extension, Slack integration, or React widget. PR to bottube repo under examples/.
+- **Verify**: Bounty label, 5 RTC, no assignees, SDK on npm
+
+### CO1-005: Fix BoTTube Accessibility Issues (3 RTC each)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #2139
+- **Reward**: 3 RTC per fix (~$0.30 each, up to 12 RTC)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/2139
+- **Status**: AVAILABLE
+- **Details**: Fix 4 BoTTube accessibility bugs: missing aria-labels (#406), missing form labels (#407), missing alt text (#418), low color contrast (#419). WCAG 2.1 AA target.
+- **Verify**: Bounty label, 3 RTC each, no assignees, 4 specific issues listed
+
+### CO1-006: Beacon Tutorial / Blog Post (50 RTC)
+- **Repo**: Scottcjn/rustchain-bounties
+- **Issue**: #160
+- **Reward**: 50 RTC (~$5)
+- **URL**: https://github.com/Scottcjn/rustchain-bounties/issues/160
+- **Status**: AVAILABLE
+- **Details**: Write and publish tutorial/blog about Beacon 2.6 on Dev.to, Medium, Hashnode, or blog. Must include working code examples, ≥500 words, link to beacon-skill repo.
+- **Verify**: Bounty label, 50 RTC, no assignees, multiple platforms allowed
+
+### CO1-007: PrivacyLayer Deposit UI and Flow
+- **Repo**: ANAVHEOBA/PrivacyLayer
+- **Issue**: #25
+- **Reward**: TBD (USDC via Drips Wave)
+- **URL**: https://github.com/ANAVHEOBA/PrivacyLayer/issues/25
+- **Status**: AVAILABLE
+- **Details**: Build deposit interface - denomination selector (10/100/1000/10000 XLM), note backup UI with confirmation, transaction progress, error handling, mobile responsive. React/TypeScript frontend.
+- **Verify**: Bounty label, USDC via Drips Wave, no assignees, frontend task
+
+### CO1-008: Databuddy Alarms System - DB + API + UI ($15)
+- **Repo**: databuddy-analytics/Databuddy
+- **Issue**: #267
+- **Reward**: $15 USD
+- **URL**: https://github.com/databuddy-analytics/Databuddy/issues/267
+- **Status**: AVAILABLE
+- **Details**: Build complete alarms system - Drizzle DB schema, ORPC API endpoints (CRUD + test notifications), React dashboard UI with 7 notification channels (Slack, Discord, Email, Webhook, Teams, Telegram, Google Chat). Bun package manager.
+- **Verify**: Bounty $15 label, $15 USD, no assignees, detailed spec with acceptance criteria
+
+### CO1-009: a-little-world 2FA Implementation
+- **Repo**: a-little-world/little-world-core
+- **Issue**: #9
+- **Reward**: TBD (bounty label present)
+- **URL**: https://github.com/a-little-world/little-world-core/issues/9
+- **Status**: AVAILABLE
+- **Details**: Backend 2FA authentication integration into existing authorization endpoints, plus user-settings frontend.
+- **Verify**: Bounty label present, no assignees, no amount specified
+
+### CO1-010: WattCoin Raspberry Pi IoT Bridge (15,000 WATT)
+- **Repo**: WattCoin-Org/wattcoin
+- **Issue**: #17
+- **Reward**: 15,000 WATT (~$?)
+- **URL**: https://github.com/WattCoin-Org/wattcoin/issues/17
+- **Status**: AVAILABLE
+- **Details**: Build Pi app bridging smart home devices to WattCoin network via MQTT/Zigbee/direct API. Relay device states, command relay (paid in WATT), local config UI, mock mode. Solana wallet for payout.
+- **Verify**: Bounty label, 15000 WATT, no assignees, clear acceptance criteria
+
+| CO1-001 | 2026-04-01T09:40:00Z | github | Scottcjn/rustchain-bounties | 40-100 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/730 | available | Browser Extension Chrome/Firefox - BIP39/Ed25519/AES-256-GCM, MetaMask Snap bonus |
+| CO1-002 | 2026-04-01T09:40:00Z | github | Scottcjn/rustchain-bounties | 150 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/72 | available | Documentation Sprint - API Ref/Miner Guide/SDK Tutorial/Node Guide/Wallet Guide/Arch Doc |
+| CO1-003 | 2026-04-01T09:40:00Z | github | Scottcjn/rustchain-bounties | 25 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2127 | available | Fix Beacon Atlas auto-join 404 + rustchain.org/beacon routing 404, nginx proxy |
+| CO1-004 | 2026-04-01T09:40:00Z | github | Scottcjn/rustchain-bounties | 5 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/2143 | available | Build something with BoTTube JS SDK - Discord bot/CLI/dashboard/extension/Slack/React widget |
+| CO1-005 | 2026-04-01T09:40:00Z | github | Scottcjn/rustchain-bounties | 3 RTC each | https://github.com/Scottcjn/rustchain-bounties/issues/2139 | available | Fix 4 BoTTube accessibility bugs - aria-labels/form labels/alt text/contrast, WCAG 2.1 AA |
+| CO1-006 | 2026-04-01T09:40:00Z | github | Scottcjn/rustchain-bounties | 50 RTC | https://github.com/Scottcjn/rustchain-bounties/issues/160 | available | Write Beacon 2.6 tutorial/blog on Dev.to/Medium/Hashnode with working code examples |
+| CO1-007 | 2026-04-01T09:40:00Z | github | ANAVHEOBA/PrivacyLayer | TBD USDC | https://github.com/ANAVHEOBA/PrivacyLayer/issues/25 | available | PrivacyLayer Deposit UI - denomination selector, note backup, transaction progress |
+| CO1-008 | 2026-04-01T09:40:00Z | github | databuddy-analytics/Databuddy | $15 USD | https://github.com/databuddy-analytics/Databuddy/issues/267 | available | Alarms System - DB schema, API endpoints, Dashboard UI with 7 notification channels |
+| CO1-009 | 2026-04-01T09:40:00Z | github | a-little-world/little-world-core | TBD | https://github.com/a-little-world/little-world-core/issues/9 | available | Backend 2FA auth + user-settings frontend integration |
+| CO1-010 | 2026-04-01T09:40:00Z | github | WattCoin-Org/wattcoin | 15000 WATT | https://github.com/WattCoin-Org/wattcoin/issues/17 | available | Raspberry Pi IoT bridge to WattCoin - MQTT/Zigbee, device state relay, command relay |
+
+Last updated: 2026-04-01T09:40:00Z
