@@ -933,3 +933,5 @@ Created a complete UbiquityOS Sprint Management Dashboard plugin:
 - Cannot push `.github/workflows/compute.yml` - PAT lacks `workflow` scope
 - Cannot comment on issue to claim - no GitHub token with write access
 - Workflow file needs to be added manually or with different token
+
+| BT-0792 | 2026-04-02T08:00:00Z | github | claude-builders-bounty/claude-builders-bounty | $150 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4 | pr_open | 已提交 | 2026-04-02T08:00:00Z | Claude PR Review Agent PR#409, CLI + GitHub Action, structured Markdown output, 2 sample PR reviews included, 收款:eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
