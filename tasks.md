@@ -964,3 +964,5 @@ Created a complete UbiquityOS Sprint Management Dashboard plugin:
 
 | BT-0815 | 2026-04-03T06:55:00Z | github | 1btc-news/news-client | 15000+ sats | https://github.com/1btc-news/news-client/issues/28 | available | 新机会 | 2026-04-03T06:55:00Z | Satoshi Stash Quantum Monitor：监控~2000个中本聪时代BTC地址(2009-2010 P2PK地址)，5个席位(slot 1已claim)，每日报告15k sats/份+500k首笔检测奖励+50k/月排行榜；via aibtc.com/bounty；recurring收入 |
 | BT-0816 | 2026-04-03T06:55:00Z | github | 1btc-news/news-client | 600 sats/lead | https://github.com/1btc-news/news-client/issues/29 | available | 新机会 | 2026-04-03T06:55:00Z | AIBTC.news Sales Agent：3条收入线销售代理(Ads/Sponsorships/Classifieds)，20%收入分成+600 sats/合格线索，无上限；via aibtc.com/bounty；需实际销售非代码 |
+
+| BT-0817 | 2026-04-03T12:55:00Z | github | hummingbot/hummingbot | 3000 USDC | https://github.com/hummingbot/hummingbot/issues/8159 | available | 新机会 | 2026-04-03T12:55:00Z | Hummingbot Lighter DEX Connector：Bounty Sponsor=Lighter, Developer portion=3000 USDC, 需实现Lighter Spot+Lighter Perpetual connectors to official Hummingbot codebase，支持signed transactions/account abstraction/WebSocket streaming，via hummingbot.org connectors标准 |
