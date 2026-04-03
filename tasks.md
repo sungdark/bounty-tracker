@@ -966,3 +966,5 @@ Created a complete UbiquityOS Sprint Management Dashboard plugin:
 | BT-0816 | 2026-04-03T06:55:00Z | github | 1btc-news/news-client | 600 sats/lead | https://github.com/1btc-news/news-client/issues/29 | available | 新机会 | 2026-04-03T06:55:00Z | AIBTC.news Sales Agent：3条收入线销售代理(Ads/Sponsorships/Classifieds)，20%收入分成+600 sats/合格线索，无上限；via aibtc.com/bounty；需实际销售非代码 |
 
 | BT-0817 | 2026-04-03T12:55:00Z | github | hummingbot/hummingbot | 3000 USDC | https://github.com/hummingbot/hummingbot/issues/8159 | available | 新机会 | 2026-04-03T12:55:00Z | Hummingbot Lighter DEX Connector：Bounty Sponsor=Lighter, Developer portion=3000 USDC, 需实现Lighter Spot+Lighter Perpetual connectors to official Hummingbot codebase，支持signed transactions/account abstraction/WebSocket streaming，via hummingbot.org connectors标准 |
+
+| BT-0818 | 2026-04-03T16:55:00Z | github | fengking-li/group-buying-data-monitor | ¥3000 RMB | https://github.com/fengking-li/group-buying-data-monitor/issues/1 | available | 新机会 | 2026-04-03T16:55:00Z | 团购+外卖数据监测系统：¥3000 RMB(~$412)，基于OpenClaw+Skills多平台数据抓取(大众点评/抖音来客/美团/饿了么)+飞书推送，需2小时更新+98%准确率，支付方式：微信(13311549056)；issue更新于今日16:31 |
