@@ -973,3 +973,5 @@ Created a complete UbiquityOS Sprint Management Dashboard plugin:
 
 | BT-0820 | 2026-04-04T01:20:00Z | github | bolivian-peru/marketplace-service-template | $75 SELL | https://github.com/bolivian-peru/marketplace-service-template/issues/72 | available | 新机会 | 2026-04-04T01:20:00Z | Amazon Product & BSR Tracker API：$75 in $SX token，bounty #72 from proxies.sx platform，同平台类似任务，实现Amazon产品ASIN/BSR实时追踪+数据存储+API查询，x402支付集成，付款地址：eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9 |
 | BT-0821 | 2026-04-04T01:40:00Z | github | tscircuit/footprinter | $10 USD | https://github.com/tscircuit/footprinter/issues/180 | pr_open | 已提交 | 2026-04-04T01:40:00Z | SPDIP-28 footprint实现：PR#574, 28-pin Shrink DIP footprint，row spacing=7.62mm, pin pitch=2.54mm；收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
+
+| BT-0822 | 2026-04-04T01:50:00Z | github | tscircuit/footprinter | $10 USD | https://github.com/tscircuit/footprinter/issues/183 | pr_open | 已提交 | 2026-04-04T01:50:00Z | UTDFN-4-EP(1x1) footprint实现：PR#573, 4-pin Ultra-Thin DFN with EP, body=1.0x1.0mm, pitch=0.5mm；注意：与victorjzq PR#532竞争同一issue；收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
