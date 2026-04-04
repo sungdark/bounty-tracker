@@ -975,3 +975,5 @@ Created a complete UbiquityOS Sprint Management Dashboard plugin:
 | BT-0821 | 2026-04-04T01:40:00Z | github | tscircuit/footprinter | $10 USD | https://github.com/tscircuit/footprinter/issues/180 | pr_open | 已提交 | 2026-04-04T01:40:00Z | SPDIP-28 footprint实现：PR#574, 28-pin Shrink DIP footprint，row spacing=7.62mm, pin pitch=2.54mm；收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
 
 | BT-0822 | 2026-04-04T01:50:00Z | github | tscircuit/footprinter | $10 USD | https://github.com/tscircuit/footprinter/issues/183 | pr_open | 已提交 | 2026-04-04T01:50:00Z | UTDFN-4-EP(1x1) footprint实现：PR#573, 4-pin Ultra-Thin DFN with EP, body=1.0x1.0mm, pitch=0.5mm；注意：与victorjzq PR#532竞争同一issue；收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
+
+| BT-0824 | 2026-04-04T01:50:00Z | github | tscircuit/footprinter | $10 USD | https://github.com/tscircuit/footprinter/issues/371 | pr_open | 已提交 | 2026-04-04T01:50:00Z | PDIP-8 footprint实现：PR#575, 8-pin Plastic DIP，row spacing=7.62mm, pin pitch=2.54mm；注意：与mendarb PR#559竞争同一issue；收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
