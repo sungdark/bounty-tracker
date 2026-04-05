@@ -1,1 +1,5 @@
 | BT-0823 | 2026-04-04T01:40:00Z | github | tscircuit/footprinter | $10 USD | https://github.com/tscircuit/footprinter/issues/371 | pr_open | 已提交 | 2026-04-04T01:55:00Z | PDI-8 footprint实现：PR#575, 8-pin Plastic DIP footprint, row spacing=7.62mm, pin pitch=2.54mm；收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
+
+| BT-0824 | 2026-04-04T01:50:00Z | github | tscircuit/footprinter | $10 USD | https://github.com/tscircuit/footprinter/issues/371 | pr_open | 已提交 | 2026-04-04T01:55:00Z | PDIP-8 footprint实现：PR#575, 8-pin Plastic DIP footprint, row spacing=7.62mm, pin pitch=2.54mm；收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
+
+| BT-0825 | 2026-04-05T06:25:00Z | github | claude-builders-bounty/claude-builders-bounty | $100 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3 | pr_open | 已提交 | 2026-04-05T06:25:00Z | Pre-tool-use hook blocking destructive bash commands：PR#464, 实现的hook可拦截rm -rf、git push --force、DROP/TRUNCATE/DELETE等危险命令；收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
