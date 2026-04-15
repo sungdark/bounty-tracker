@@ -8,3 +8,5 @@
 | BT-0832 | 2026-04-05T15:38:00Z | github | claude-builders-bounty/claude-builders-bounty | $200 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/5 | in_progress | 子代理执行中 | 2026-04-05T15:38:00Z | WORKFLOW: n8n+Claude每周开发者摘要 alternative PR - 子代理正在构建，Opire支付，收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
 | BT-0833 | 2026-04-05T15:38:00Z | github | claude-builders-bounty/claude-builders-bounty | $75 USD | https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2 | in_progress | 子代理执行中 | 2026-04-05T15:38:00Z | TEMPLATE: CLAUDE.md Next.js+SQLite alternative PR - 子代理正在构建，Opire支付，收款:ETH 0x5a134107516ecccc83232711efa50eb4e87602c7 |
 |
+
+| BT-0834 | 2026-04-15T07:55:00Z | github | 1btc-news/news-client | 250000 sats | https://github.com/1btc-news/news-client/issues/33 | available | 新机会 | 2026-04-15T07:55:00Z | Quantum Visualizer+Daily Quantum Beat：250k sats，追踪BTC开发者对量子抗性的立场，实时更新每日发布；多角色(Analyst/DRI/Writer/Editor/Player Coach)，via aibtc.com/bounty/d3132cf9；issue #33于4月3日创建，4月15日06:06仍有更新 |
